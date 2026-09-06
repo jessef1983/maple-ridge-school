@@ -1,0 +1,4 @@
+.claude/*
+!.claude/skills/
+!.claude/claims/
+.claude/settings.local.json

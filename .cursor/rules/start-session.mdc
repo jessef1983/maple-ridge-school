@@ -1,0 +1,28 @@
+---
+description: Run the start-session workspace scan at the beginning of every new session
+alwaysApply: true
+---
+
+At the start of a new session in this repo, run the `start-session` skill
+(see `.github/skills/start-session/SKILL.md`) before doing anything else —
+don't wait to be asked.
+
+1. **Last-run check first.** Read `.claude/skills/start-session/.last-run.json`
+   (create if absent; treat missing as "never run"). If `lastRunUtc` is the
+   same calendar day (local time), skip the full scan and note
+   "start-session already ran today at `<time>`" — don't re-scan git. **Still
+   list active ADO PRs targeting `main`** (`create-prs.ps1 -ListActive`).
+   Otherwise run the full scan and write the updated timestamp back at the
+   end. This file is per-repo, per-machine state — never commit it.
+
+2. **Installed-agent drift check.** If a `cp-ai-toolkit` checkout is findable
+   in this workspace (sibling folder, or `C:\devops\cp-ai-toolkit`), run its
+   `scripts/start-session/Compare-InstalledAgents.ps1` (read-only) against
+   this repo. Report any stale/missing shared agent or skill files and
+   suggest re-running `Install-CPAIAgents.ps1` — don't run it automatically.
+   Skip silently if no toolkit checkout is found.
+
+3. Then follow the full behavior in `.github/skills/start-session/SKILL.md`:
+   discovery (git status/log per workspace repo), ADO remote query via
+   `@admin-ado`, and policy-gated PR surfacing (never auto-merge, never push
+   a local-only branch without explicit approval).

@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://kbox.ccistack.com",
+  "organizationName": "Default",
+  "apiVersion": "5",
+  "skipCertificateCheck": false,
+  "username": "",
+  "_comment": "No passwords in this file. Login via Login-KaceInteractive.ps1 / Connect-KaceSession (Get-Credential). Optional username pre-fills the prompt. Session cookies persist under %LOCALAPPDATA%\\cp-identity-ops\\kace until Disconnect-KaceSession. organizationName is Admin Console org (usually Default). Key Vault is not used for KACE login."
+}

@@ -1,0 +1,10 @@
+{
+  "tenantUrl": "https://cpmfgoperations.sharepoint.com",
+  "adminUrl": "https://cpmfgoperations-admin.sharepoint.com",
+  "tenantId": "2e1c62fc-1595-4d12-85d1-8577714f8d1d",
+  "defaultSitePrefix": "/sites/",
+  "contentTypeHubUrl": "https://cpmfgoperations.sharepoint.com/sites/ContentTypeHub",
+  "companyKnowledgeBaseUrl": "https://cpmfgoperations.sharepoint.com/sites/CompanyKnowledgeBase",
+  "siteOwnerUpn": "jessefrase@cpops.cciauth.com",
+  "pnpClientId": ""
+}

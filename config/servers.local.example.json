@@ -1,0 +1,10 @@
+{
+  "profiles": [
+    {
+      "name": "pman_ss",
+      "server": "vs169-241",
+      "database": "pman_ss",
+      "description": "Default read-only mirror"
+    }
+  ]
+}
