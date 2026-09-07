@@ -1,4 +1,5 @@
 .claude/*
 !.claude/skills/
 !.claude/claims/
+!.claude/session-state.json
 .claude/settings.local.json

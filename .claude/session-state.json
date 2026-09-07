@@ -1,0 +1,8 @@
+{
+  "lastWrapUtc": "2026-09-07T00:00:00Z",
+  "mainHeadSha": "29e07c417bc10fac0da94a62cf61ec51193ab262",
+  "confirmedClean": true,
+  "openPRs": [],
+  "knownStaleBranches": [],
+  "summary": "Bootstrapped the repo: committed and pushed the entire previously-untracked working tree (agents, skills, infra scripts, config templates, logo assets) directly to main since origin had zero branches."
+}
