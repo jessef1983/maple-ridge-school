@@ -1,8 +1,8 @@
 {
-  "lastWrapUtc": "2026-09-07T00:00:00Z",
-  "mainHeadSha": "ac28c54e46ecfbf8d33b7dfbdf912e2b60f70068",
-  "confirmedClean": true,
+  "lastWrapUtc": "2026-10-31T01:50:04Z",
+  "mainHeadSha": "b80f6e7acb5b4f8c5a79e172eabc0e6948bc9372",
+  "confirmedClean": false,
   "openPRs": [],
   "knownStaleBranches": [],
-  "summary": "Bootstrapped the repo: committed and pushed the entire previously-untracked working tree (agents, skills, infra scripts, config templates, logo assets) directly to main since origin had zero branches."
+  "summary": "Sugarhouse arch rebuild plan and shopping list recorded in docs/session-notes/2026-10-30.md. Pre-existing uncommitted agent/skill edits left in place, so not clean."
 }
