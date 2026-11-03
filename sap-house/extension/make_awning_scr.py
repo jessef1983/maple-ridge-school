@@ -49,6 +49,15 @@ MAIN_PITCH = (MAIN_PEAK - LONG_BEAM_TOP) / (IN_W / 2)          # ~8.6:12
 EX_RAFTER_D = 6.0                     # 4x6
 BATTEN, SHAKE = 2.0, 1.0
 EX_OVERHANG = 11
+# Cupola and evaporator stack (existing). Cupola size/height ESTIMATED from the 2026-08-22
+# photos: it straddles the ridge over the center bay and the stack rises through it.
+# Stack from field notes: 4 x Selkirk 12UT-36 (12" ID insulated, 12' total), starting at the
+# hood top 75" above the 32.5" pan rim, top about 251.5" off the floor. OD is an estimate.
+CUPOLA_L, CUPOLA_W = 120.0, 48.0      # estimated
+CUPOLA_WALL = 24.0                    # estimated, side wall height above the main ridge surface
+CUPOLA_PITCH, CUPOLA_OH = 8 / 12, 6.0 # estimated
+STACK_OD = 15.0                       # estimated outside diameter of 12UT
+STACK_BOT, STACK_TOP = 32.5 + 75.0, 251.5
 
 # --- New work (Jesse, 2026-11-02/03) ----------------------------------------
 AWNING_SIDE = "east"  # access road is on the west; SE bank limits it to the middle bay
@@ -58,8 +67,8 @@ OVERHANG = 24       # rafter tail past the outside face of the eave beam
 FRONT_OH = 12       # porch gable overhang past the front post line (assumed)
 RAKE = 6            # awning rake at its south end (assumed)
 SKIRT = 3 / 12      # awning and porch skirts
-GABLE = 5 / 12      # porch center gable (assumed; 6:12 leaves only ~4" under the main rafters)
-TIE_Z = 126         # porch rafter ties, lower third of the gable rise (assumed)
+GABLE = SKIRT       # porch is one 3:12 slope eave to ridge (Jesse, 2026-11-03); break beams act as purlins
+TIE_Z = 120         # porch rafter ties, lower third of the purlin-to-ridge rise (assumed)
 POST = 5.5          # 6x6 actual
 PIER = 20           # stone pier, bluestone cap at PIER_TOP
 PIER_TOP = 30
@@ -167,6 +176,14 @@ layer("EXIST-POST", 4)
 for px in (CX - (IN_W / 2 - EX_POST / 2), CX + (IN_W / 2 - EX_POST / 2)):   # flush to the siding
     for py in FRAME_ROWS_Y:
         sq(px, py, EX_POST)
+CUPOLA_Y = (FRAME_ROWS_Y[1] + FRAME_ROWS_Y[2]) / 2             # center of the center bay
+cmd("""(if (setq ss (ssget "_X" '((8 . "EXIST-ROOF")))) (command "_.ERASE" ss ""))""")
+layer("EXIST-ROOF", 8)
+box(CX - CUPOLA_W / 2 - CUPOLA_OH, CUPOLA_Y - CUPOLA_L / 2 - CUPOLA_OH,
+    CX + CUPOLA_W / 2 + CUPOLA_OH, CUPOLA_Y + CUPOLA_L / 2 + CUPOLA_OH)     # cupola roof
+line((CX, CUPOLA_Y - CUPOLA_L / 2 - CUPOLA_OH), (CX, CUPOLA_Y + CUPOLA_L / 2 + CUPOLA_OH))
+cmd("_CIRCLE", pt(CX, CUPOLA_Y), STACK_OD / 2)                  # stack
+text(CX + CUPOLA_W / 2 + CUPOLA_OH + 4, CUPOLA_Y, 3, "CUPOLA + STACK (EXIST., EST. FROM PHOTOS)")
 
 # ===== PLAN ==================================================================
 MIRROR = AWNING_SIDE == "east"
@@ -191,14 +208,17 @@ box(BEX - BREAK_BEAM[0] / 2, N_FACE, BEX + BREAK_BEAM[0] / 2, PF)
 
 layer("EXT-RAFTER", 2)
 heel = W_FACE + WALL_T + EX_POST                               # inside edge of the existing beam
-y = S_WALL - RAKE + RAFTER_W / 2                               # awning (sistered) + skirt
-while y < PF:
-    line((heel if y < N_FACE else W_FACE, y), (WF, y)); y += OC
-y = N_FACE + 1.5 + RAFTER_W / 2                                # porch: other skirt + center gable
-while y < PF:
-    line((E_FACE, y), (EF, y))
-    line((W_FACE, y), (CX, y)); line((E_FACE, y), (CX, y))
-    y += OC
+y = S_WALL - RAKE + RAFTER_W / 2                               # awning rafters (sistered)
+while y < N_FACE:
+    line((heel, y), (WF, y)); y += OC
+# Porch rafters run continuous at 3:12 from tail to ridge, on the awning's 24" grid, plus a
+# pair tight to the north wall and a fly pair at the front edge.
+porch_ys = [N_FACE + 1.5 + RAFTER_W / 2]
+while y < PF - OC / 2:
+    porch_ys.append(y); y += OC
+porch_ys.append(PF - RAFTER_W / 2)
+for y in porch_ys:
+    line((WF, y), (EF, y))
 line((CX, N_FACE), (CX, PF))                                   # ridge
 
 layer("EXT-ROOF", 1)
@@ -347,6 +367,14 @@ for s in (-1, 1):
 bpline([(-HW - EX_OVERHANG, eb(EX_OVERHANG)), (0, MAIN_PEAK), (HW + EX_OVERHANG, eb(EX_OVERHANG))])
 bpline([(-HW - EX_OVERHANG, ex_roof(EX_OVERHANG)), (0, MAIN_PEAK + vdepth(EX_RAFTER_D + BATTEN + SHAKE, MAIN_PITCH)),
         (HW + EX_OVERHANG, ex_roof(EX_OVERHANG))])
+# Cupola and stack beyond, centered on the ridge.
+ridge_top = MAIN_PEAK + vdepth(EX_RAFTER_D + BATTEN + SHAKE, MAIN_PITCH)
+roof_at = lambda a: ridge_top - a * MAIN_PITCH                  # main roof surface, a off center
+cw, ce = CUPOLA_W / 2, ridge_top + CUPOLA_WALL
+cpk = ce + cw * CUPOLA_PITCH
+cmd("_PLINE", *[pt(*B(u, z)) for u, z in [(-cw, roof_at(cw)), (-cw, ce), (cw, ce), (cw, roof_at(cw))]], "")
+bpline([(-cw - CUPOLA_OH, ce - CUPOLA_OH * CUPOLA_PITCH), (0, cpk), (cw + CUPOLA_OH, ce - CUPOLA_OH * CUPOLA_PITCH)])
+bbox(-STACK_OD / 2, roof_at(STACK_OD / 2), STACK_OD / 2, STACK_TOP)   # stack, above the roof only
 
 layer("EXT-SECTION", 2)
 for s in (-1, 1):
@@ -359,26 +387,26 @@ for s in (-1, 1):
     bbox(ob, EAVE_BEAM_BOT, ob - s * EAVE_BEAM[0], EAVE_BEAM_TOP)
     bbox(bu - BREAK_BEAM[0] / 2, BREAK_BEAM_BOT, bu + BREAK_BEAM[0] / 2, BREAK_Z)
     t = s * TAIL_U
-    bpline([(s * BRK_U, BREAK_Z), (t, porch_rb(TAIL_U)), (t, porch_top(TAIL_U)),
-            (s * BRK_U, BREAK_Z + vdepth(RAFTER_D, SKIRT))], True)          # skirt rafter
-    bpline([(0, RIDGE_RB), (s * BRK_U, BREAK_Z), (s * BRK_U, BREAK_Z + vdepth(RAFTER_D, GABLE)),
-            (0, RIDGE_RB + vdepth(RAFTER_D, GABLE))], True)                  # gable rafter
+    bpline([(0, RIDGE_RB), (t, porch_rb(TAIL_U)), (t, porch_top(TAIL_U)),
+            (0, RIDGE_RB + vdepth(RAFTER_D, SKIRT))], True)                  # continuous rafter
 tie_u = (RIDGE_RB - TIE_Z) / GABLE
 bline((-tie_u, TIE_Z), (tie_u, TIE_Z))
 
 layer("EXT-TEXT", 7)
-text(*B(-TAIL_U, 215), TITLE_H, "SECTION B - NORTH PORCH, LOOKING SOUTH")
+text(*B(-TAIL_U, STACK_TOP + 15), TITLE_H, "SECTION B - NORTH PORCH, LOOKING SOUTH")
 callouts(B, [
     (-30, eb(30 - HW), f"EXIST. MAIN GABLE BEYOND, {MAIN_PITCH * 12:.1f}:12"),
+    (-cw, ce - 6, "EXIST. CUPOLA - SIZE ESTIMATED FROM PHOTOS"),
+    (-STACK_OD / 2, STACK_TOP - 4, f'STACK 12in ID INSUL. (4 x 12UT-36), TOP ~{STACK_TOP:g}"'),
     (-62, eb(62 - HW), "TRIM MAIN RAKE WHERE PORCH ROOF MEETS IT"),
-    (-HW - 30, porch_top(HW + 30), "3:12 SKIRT, BIRDSMOUTH AT BEAMS"),
+    (-HW - 30, porch_top(HW + 30), "2x10 CONTINUOUS, BIRDSMOUTH AT EAVE BEAM + PURLIN"),
     (-EAVE_POST_U, 60, "6x6 POST"),
     (-EAVE_POST_U - PIER / 2, PIER_TOP - 2, f'{PIER}" STONE PIER, BLUESTONE CAP AT {PIER_TOP}"'),
 ], -TAIL_U - 15, "L")
 callouts(B, [
-    (25, porch_top(25), f'{GABLE * 12:g}:12 GABLE, ASPHALT SHINGLE'),
+    (25, porch_top(25), '3:12 EAVE TO RIDGE, ASPHALT SHINGLE'),
     (35, TIE_Z, f'2x RAFTER TIES AT {TIE_Z}"'),
-    (HW + BREAK_BEAM[0] / 2, BREAK_BEAM_BOT + 4, "BREAK BEAM DBL 2x12 - BY ENGINEER"),
+    (HW + BREAK_BEAM[0] / 2, BREAK_BEAM_BOT + 4, "PURLIN DBL 2x12 - BY ENGINEER"),
     (HW + EB_OUT, EAVE_BEAM_BOT + 4, 'DBL 2x10 EAVE BEAM, LET INTO POSTS'),
 ], TAIL_U + 50, "R")
 dim(B(-EAVE_POST_U, 0), B(-HW, 0), B(0, -20))
