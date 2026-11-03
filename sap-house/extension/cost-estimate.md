@@ -74,6 +74,26 @@ committing. Excludes labor, sales tax, the engineer's fee and permit fees.
 
 Phase 1 plus drainage on its own: **≈ $4,600–4,700 with contingency.**
 
+## Lean option
+
+| Change | Phase 1 | Phase 2 |
+|---|---|---|
+| Compacted crushed-stone floor now, pavers later (keep the base stone) | −$540 | −$860, −$60 edge restraint |
+| Kick flashing bent from coil stock in-house (≈$100 of coil) | −$150 | |
+| Trimmed pier footings: 24×24×10 pads, 12" cores (≈33 fewer bags; engineer to confirm) | | −$230 |
+| No contingency | | |
+
+| | Full (low–high) | Lean (low–high) |
+|---|---|---|
+| Phase 1 | $2,850 | $2,160 |
+| Drainage | $1,150–1,250 | $1,150–1,250 |
+| Phase 2 | $3,900–4,100 | $2,750–2,950 |
+| Contingency | $1,190–1,230 | — |
+| **Total** | **≈ $9,100–9,450** | **≈ $6,050–6,350** |
+| Phase 1 + drainage | ≈ $4,600–4,700 | ≈ $3,300–3,400 |
+
+Pavers added later run about $1,400 plus sand (both phases).
+
 ## If bought instead of milled
 
 | Item | Qty | Est. cost |
