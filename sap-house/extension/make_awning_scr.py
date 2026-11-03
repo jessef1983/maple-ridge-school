@@ -159,6 +159,14 @@ cmd("""(if (setq ss (ssget "_X" '((8 . "EXT-*")))) (command "_.ERASE" ss ""))"""
 # outline and label on `windows` -- the plan's window blocks on that layer stay).
 cmd("""(if (setq ss (ssget "_X" '((8 . "elev-existing")))) (command "_.ERASE" ss ""))""")
 cmd("""(if (setq ss (ssget "_X" '((8 . "windows") (-4 . "<NOT") (0 . "INSERT") (-4 . "NOT>")))) (command "_.ERASE" ss ""))""")
+# magicplan only offered round posts (blocks F-0-0..F-0-7; F-0-1 was never placed). Replace
+# them with the real 7.5 x 7.5 square posts on EXIST-POST, which re-runs also clear first.
+cmd("""(if (setq ss (ssget "_X" '((0 . "INSERT") (2 . "F-0-0,F-0-1,F-0-2,F-0-3,F-0-4,F-0-5,F-0-6,F-0-7")))) (command "_.ERASE" ss ""))""")
+cmd("""(if (setq ss (ssget "_X" '((8 . "EXIST-POST")))) (command "_.ERASE" ss ""))""")
+layer("EXIST-POST", 4)
+for px in (CX - (IN_W / 2 - EX_POST / 2), CX + (IN_W / 2 - EX_POST / 2)):   # flush to the siding
+    for py in FRAME_ROWS_Y:
+        sq(px, py, EX_POST)
 
 # ===== PLAN ==================================================================
 MIRROR = AWNING_SIDE == "east"
