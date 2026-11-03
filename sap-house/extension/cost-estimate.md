@@ -35,10 +35,10 @@ committing. Excludes labor, sales tax, the engineer's fee and permit fees.
 | 4" perforated pipe | 7 @ 10' | $25 | $175 |
 | 4" solid PVC SDR-35 | 8 @ 10' | $30 | $240 |
 | Fittings, cleanout, CB connection | ≈12 | $10 | $120 |
-| Trench drain, 12" channel × 43", ductile/cast iron grate, end caps, outlet | 1 | | $400–700 |
+| Trench drain, shop-welded: 12" × 43" channel (3/16" plate), flat-bar grate on edge, end plates, 4" outlet stub, high-temp paint | 1 | steel | $150–250 |
 | ¾" clean stone + delivery | 6.5 yd³ | $45/yd³ | $390 |
 | Filter fabric, 6' × 100' | 1 roll | | $60 |
-| **Drainage subtotal** | | | **≈ $1,400–1,700** |
+| **Drainage subtotal** | | | **≈ $1,150–1,250** |
 
 ## Phase 2 — North porch
 
@@ -66,13 +66,13 @@ committing. Excludes labor, sales tax, the engineer's fee and permit fees.
 | | Low | High |
 |---|---|---|
 | Phase 1 | $2,850 | $2,850 |
-| Drainage | $1,400 | $1,700 |
+| Drainage | $1,150 | $1,250 |
 | Phase 2 | $3,900 | $4,100 |
-| Subtotal | $8,150 | $8,650 |
-| Contingency 15% | $1,220 | $1,300 |
-| **Total** | **≈ $9,400** | **≈ $9,950** |
+| Subtotal | $7,900 | $8,200 |
+| Contingency 15% | $1,190 | $1,230 |
+| **Total** | **≈ $9,100** | **≈ $9,450** |
 
-Phase 1 plus drainage on its own: **≈ $4,900–5,250 with contingency.**
+Phase 1 plus drainage on its own: **≈ $4,600–4,700 with contingency.**
 
 ## If bought instead of milled
 

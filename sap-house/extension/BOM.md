@@ -132,7 +132,7 @@ High point at the SE corner; both legs fall to the existing catch basin near the
 | 4" perforated pipe (sock or in fabric) | 7 @ 10' (≈66 LF) | East drip line (49') + south end (17') |
 | 4" solid PVC (SDR-35) | 8 @ 10' (≈76 LF) | Porch front + down to CB (33'), west side (33'), trench drain outlet south to the south leg (10') |
 | Fittings: 45s/90s, wyes, cleanout at the high point, CB connection | ≈12 | |
-| Trench drain: 12" wide channel × 43", heavy-duty cast iron/ductile grate, end caps, 4" bottom outlet at the hydrant end | 1 | On the post line at the south end of the center bay, hydrant west to the arch. Metal grate (arch heat). Lift and re-set pavers around it. |
+| Trench drain, shop-welded: 12" × 43" channel in 3/16" plate, removable flat-bar grate (bars on edge, ~1" gaps, cross-tied), end plates, 4" outlet stub at the hydrant end | 1 | On the post line at the south end of the center bay, hydrant west to the arch. Metal grate (arch heat). Lift and re-set pavers around it. |
 | ¾" clean stone | ≈6.5 yd³ | 12" × 24" trench on perforated runs, bedding on solid |
 | Non-woven filter fabric, 6' wide | 1 roll (100') | Perforated runs |
 
