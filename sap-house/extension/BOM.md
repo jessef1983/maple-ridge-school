@@ -111,7 +111,7 @@ Cut notes:
 | Bluestone caps, 22" × 22" × 2" | 5 | 1" overhang all round, top at 30" |
 | Pier footings, 30" × 30" × 12" at frost | 5 | Plus 16" tube/CMU core to grade |
 | Back break-post footings | 2 | 10" tube + 20" base |
-| Concrete | ≈2.2 yd³ | Ready-mix or ≈100 bags |
+| Concrete, 80 lb Quikrete bags | ≈100 (≈2.2 yd³) | Mixed on site with own mixer |
 | Standoff post bases, 6x6 | 7 | |
 | Hurricane ties (H2.5A) | ≈24 | Each rafter at its eave beam and its purlin |
 | Pavers | 215 sq ft | 25'-3" × 8' |

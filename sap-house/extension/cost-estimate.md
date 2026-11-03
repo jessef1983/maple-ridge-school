@@ -50,7 +50,7 @@ committing. Excludes labor, sales tax, the engineer's fee and permit fees.
 | #4 rebar (4 verticals per pier tied into the footing) + tie wire | 5 @ 20' | $15 | $85 |
 | Anchor bolts for the post bases, set in the core | 5 | $10 | $50 |
 | Bluestone caps 22" × 22" × 2" | 5 | $30–50 (4 @ 2'×2' were $100 a few years ago) | $150–250 |
-| Pier footings: concrete, forms, rebar | ≈2.2 yd³ | | $650 |
+| Pier footings: 80 lb Quikrete bags (own mixer), forms, rebar | ≈100 bags (≈2.2 yd³) | $7 bag | $650 |
 | Standoff post bases | 7 | $35 | $245 |
 | Ice & water membrane | 2 rolls | $110–130 | $240 |
 | Shingles, starter, ridge cap | 10 + 1 + 1 bundles | | $550 |
@@ -85,3 +85,4 @@ Phase 1 plus drainage on its own: **≈ $4,600–4,700 with contingency.**
 
 - Arch rebuild materials (budgeted separately in `docs/session-notes/2026-10-30.md`).
 - Labor (done in-house), tax, engineer and permit fees, equipment rental (excavator/auger).
+- Mixer rental or ready-mix fees: all concrete is bagged Quikrete mixed on site with the owner's mixer.
