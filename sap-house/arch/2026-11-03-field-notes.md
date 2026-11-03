@@ -1,0 +1,114 @@
+# Sap arch: field notes, 2026-11-03
+
+Running notes taken during Jesse's visit to the sap house. Context: arch rebuild plan in
+`docs/session-notes/2026-10-30.md`.
+
+## Open measurements from the 2026-10-30 plan (fill in on site)
+
+- [ ] Fin spans, and channel width 7" below rim at 59, 88, 97; 4" below rim at 105, 113.
+      Test: width at fin height - 4.5 >= fin span + 1.
+- [ ] Plate-level widths at each angle (59, 87.75) and at the rear lip; clear lengths between angles.
+- [ ] Firebox side ledge width (needs ~2.5"; brick must not rest on grate bars).
+- [ ] Log length check against ~24" at the base.
+- [ ] Door size, for the liner and the glass frame.
+- [ ] Stack: joint bands, support (not on the hood), hood top 75" above rim, stub retention,
+      18" from stub to timber and sap line.
+- [ ] Bath: fill-test the riveted hood seam; does the sight tube read bath level?
+
+## Notes
+
+- **Rim opening width: 34¼"** (inside edge to inside edge of the rim angle). The 10-30 plan had 34.5.
+- **Rim construction:** the outside shell sits ~2½" back (outboard) from the rim opening. The rim looks
+  like 3" angle iron cut back to fit this pan width.
+- **Probably not the original pan:** the rim was cut down to fit it.
+- **Full pan width: 36".**
+- **Fin span, outside to outside: 30¾".**
+- **Fin clearance check (Claude):** at rim level there's 1¾" per side between the fins and the rim edge.
+  The 10-30 test (width at fin height - 4.5 >= fin span + 1) needs **>= 36¼" of shell width at 7" below
+  the rim**. If the shell really is ~2½" outboard of the rim (about 39¼" inside), that leaves ~3" spare,
+  so yes, enough for blanket plus splits. Not confirmed until the shell's inside width is measured at
+  7" below rim, at each station where it narrows.
+- **To measure:** shell inside width at 7" below rim (stations 59, 88, 97), and the filtration-pan fin
+  span (4" fins) separately.
+- **Shell width at the bottom of the fins: 38½" ("generous").** Check: 38½ - 4½ = 34 >= 31¾ needed.
+  **Passes**, with 2¼" spare (about 1⅛" per side beyond ½" fin clearance). Measured at the
+  **chimney (rear) end**.
+- **Layout from the front:** the finish pan sits over the firebox and runs 3 ft (stations 1-37, as in
+  the 10-30 plan). The flue pan (fins) starts after it. A cross brace sits under the finish pan;
+  just beyond that brace the width at 7" below rim is **slightly under 38½"**, because the side walls
+  there are heavier steel (higher heat zone). Photo taken looking down into the arch: firebox and
+  fiberboard on one side of the brace, the flue section on the other.
+- **Fin check by zone (Claude):** the fin clearance test only applies from ~37 back (flue pan, then
+  filtration pan); the finish pan has no fins. "Slightly under 38½" still clears the 36¼" minimum
+  **if** that zone gets 1" blanket + 1¼" splits at fin height. The 10-30 plan lines the bay from 37 to
+  59 with **1" blanket + full 2½" brick** up to the first angle (15" below rim). If that full brick
+  rose to fin height (7" below rim) it would need 38¾", which doesn't fit. As planned, the full brick
+  stops 8" below the fins, so it's fine. Keep splits (or just blanket) above 15" below rim in that bay.
+- **Decision (Jesse):** split brick at fin height in the 37-59 bay (above the full brick). The **last two
+  bays (59-87.75 and 87.75-113) get split brick on the bottom and the sides.** Overview photo taken from
+  above showing all three bays behind the firebox.
+  - Sides: 1" insulation + 1¼" splits = 2¼"/side, the same allowance the fin test used. It passes, so
+    the 10-30 option of **rigid board behind the splits** is now go (board instead of blanket on the sides).
+  - Bottom: as planned, splits on the new 3/16" trapezoid plates over the blanket-filled void, still
+    hitting the under-fin targets (6.5 at 59, 2.8 at 87.75, 2.5 at 97, 4.5 at 113).
+  - **Quantity check:** side splits for these bays come to roughly 45-50 extra (two sides about 54" long
+    averaging ~11½" tall, plus the 37-59 band above the full brick). Check whether the 10-30 count of
+    106 splits included sides; if not, add them.
+- **Ash pit (2 photos):** the steel center support under the grates (36½ × 7 × ⅜) is burned through along
+  its top edge mid-length, and the steel ash pit floor is badly warped.
+- **Proposal (Jesse):** cut out the floor steel, lay firebrick wall to wall, and replace the steel center
+  support with a firebrick center wall whose top sits at the height where the cross grates engage
+  (no notches).
+- **Claude's take:** good idea; brick doesn't oxidize like the ⅜" plate, which sits right under the coal
+  bed with primary air washing past it.
+  - Center wall: one flat course (2½" tall, 4½" wide) plus one course on edge (4½" tall, 2½" wide) = 7".
+    The narrow top course shades less of the grate than a 4½"-wide top. About 8 bricks for 36".
+    Side notches still locate the bars.
+  - Floor: about 26 full firebrick flat for 29" × 36". Set tight, refractory mortar, joints flush so the ash rake
+    doesn't catch. Combine with the planned ash pit back wall (10-30 step 1).
+  - **Check before cutting:** does the arch sit on the paver floor or on legs, and is the floor steel
+    tying the side walls together? If it's structural, leave a 2-3" perimeter flange or weld in cross
+    ties. If the arch is on legs, the bricks need a base under them (the floor level would otherwise drop).
+  - Keep the grate-to-floor depth at least 7"; a deeper ash pit is fine.
+- **Front sill (photo):** a heavy steel bar with slotted holes sits on the pavers across the ash pit front.
+  The warped floor plate lifts behind it, leaving an open gap: uncontrolled air into the ash pit that
+  bypasses the intake slides. The floor appears to sit at paver level, so the arch rests on the pavers
+  (no legs). That means a brick floor needs no extra base under it.
+- **Floor height catch (Claude):** firebrick laid flat on top of the pavers is 2½" thick, so the grate-to-floor
+  depth would drop from 7" to 4½". Fix: **lift the pavers inside the arch footprint and bed the firebrick
+  so its top lands at the old floor level** (or lower). Mortar the brick floor tight to the sill to close the gap.
+- **Front / door section (7 photos):**
+  - Fire door is a single steel plate on side hinge pins. The inside has a grid of ~9 liner studs with only
+    scraps of insulation left: **the door liner is gone**, so the plate takes direct fire.
+  - Door frame angle is warped; there's a visible daylight gap along the door edge, and only remnants
+    of rope gasket.
+  - Below the door, the ash pit front is open behind a heavy loose sill bar (slotted holes) on the pavers.
+    No working ash door or damper.
+  - Firebox side walls are the fiberboard panels behind vertical angle cleats.
+- **Decision (Jesse):** rebuild the front section and add a damper below the door (the 10-30 plan's
+  "slides on the two ash openings").
+- **Claude's proposal (to confirm):**
+  - **Ash door / damper:** hinged ash door across the 29" pit front, sealing on a rope gasket, with
+    **two sliding gates, one per ash channel** (either side of the new brick center wall). About
+    4" × 12" each = ~96 sq in fully open, roughly the stack area (108 sq in). Gates on guides that close
+    tight; hinged door for raking out.
+  - **Fire door:** new liner on the existing stud pattern: 1-2" ceramic fiber board or castable on
+    stainless studs. Rope gasket in a channel, cam latch that pulls the door tight. Passive overfire slide
+    and the ceramic glass window per the 10-30 plan.
+  - **Frame:** rebuild from heavier angle (¼"). Bring the firebrick/board lining flush to the opening so
+    no frame steel sees flame. Bolt rather than fully weld, so it can expand without warping.
+  - **Decision (Jesse): shop build.** Idea: cut an opening in the middle of the big steel door and
+    mount a smaller **used wood-stove door with glass** in it. The big door still opens for loading.
+    - Claude: good idea. Use the insert's own air control / airwash as the **overfire air** (controlled,
+      keeps the glass clean) instead of cracking the big door, which leaks unmetered air and heats the
+      door edges unevenly.
+    - Buying used: confirm the glass is **ceramic** (Robax / Neoceram), not tempered; plan to replace the
+      glass and gasket anyway. Cast iron stove doors handle firebox temperatures.
+    - Mounting: frame the cut-out with flat bar or angle to stiffen the plate, bolt the insert frame on
+      over gasket, and cut the big door's new liner back around the opening. The added weight means
+      checking or upsizing the hinge pins.
+    - Loading still uses the big door; the small door is for viewing and quick stoking.
+  - **Measure for the build:** door opening W×H; door plate size and thickness; ash pit front opening
+    W×H; height from floor to the front grate support; existing frame angle size; hinge side; stud
+    spacing on the door.
+

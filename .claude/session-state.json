@@ -1,8 +1,8 @@
 {
-  "lastWrapUtc": "2026-10-31T01:50:04Z",
-  "mainHeadSha": "e83c24c80a4c1a7c230b5548b5a4f8b836f1f237",
+  "lastWrapUtc": "2026-11-03T20:00:00Z",
+  "mainHeadSha": "4eb6183f329eebf29c3414f3643d01b099acb555",
   "confirmedClean": false,
   "openPRs": [],
   "knownStaleBranches": [],
-  "summary": "Sugarhouse arch rebuild plan and shopping list recorded in docs/session-notes/2026-10-30.md. Pre-existing uncommitted agent/skill edits left in place, so not clean."
+  "summary": "2026-11-03: sap house east awning + north porch designed (ARES script, generator, combined cut bill/BOM in sap-house/extension/), and arch field measurements recorded (fin clearance passes; split-brick lining; firebrick ash pit floor and center wall; front section shop rebuild with ash-door damper and a stove-door insert). See docs/session-notes/2026-11-03.md. Shared checkout still has pre-existing uncommitted agent/skill edits and untracked updates/ originals, so not clean."
 }
