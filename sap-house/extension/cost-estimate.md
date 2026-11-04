@@ -4,7 +4,8 @@ Prepared 2026-11-03 from `BOM.md`. Covers everything **not** milled in-house: fr
 siding and battens are assumed milled and are excluded (see "If bought instead" below).
 
 Prices are ballpark retail ranges for the Hudson Valley, not quotes; confirm locally before
-committing. Excludes labor, sales tax, the engineer's fee and permit fees.
+committing. Excludes labor, sales tax, the engineer's fee and permit fees. No delivery fees:
+materials are picked up. Drainage stone is assumed on hand.
 
 ## Phase 1 — East awning, enclosed
 
@@ -24,9 +25,9 @@ committing. Excludes labor, sales tax, the engineer's fee and permit fees.
 | Hurricane ties (H2.5A) | 24 | $2 | $50 |
 | Lags/screws to existing posts, siding nails | | | $50 |
 | Pavers | 135 sq ft | $3–5/sq ft | $540 |
-| Crushed stone base, bedding sand, delivery | 2.5 yd³ + 0.4 yd³ | | $255 |
+| Crushed stone base, bedding sand | 2.5 yd³ + 0.4 yd³ | | $135 |
 | Misc. (caulk, end-wall flashing, fasteners) | | | $150 |
-| **Phase 1 subtotal** | | | **≈ $2,850** |
+| **Phase 1 subtotal** | | | **≈ $2,730** |
 
 ## Site drainage (with Phase 1 footers)
 
@@ -36,9 +37,9 @@ committing. Excludes labor, sales tax, the engineer's fee and permit fees.
 | 4" solid PVC SDR-35 | 8 @ 10' | $30 | $240 |
 | Fittings, cleanout, CB connection | ≈12 | $10 | $120 |
 | Trench drain, shop-welded: 12" × 43" channel (3/16" plate), flat-bar grate on edge, end plates, 4" outlet stub, high-temp paint | 1 | steel | $150–250 |
-| ¾" clean stone + delivery | 6.5 yd³ | $45/yd³ | $390 |
+| ¾" clean stone | 6.5 yd³ | on hand (≈$290 if bought) | $0 |
 | Filter fabric, 6' × 100' | 1 roll | | $60 |
-| **Drainage subtotal** | | | **≈ $1,150–1,250** |
+| **Drainage subtotal** | | | **≈ $750–850** |
 
 ## Phase 2 — North porch
 
@@ -57,40 +58,42 @@ committing. Excludes labor, sales tax, the engineer's fee and permit fees.
 | Drip edge, step/counter flashing, nails | | | $200 |
 | Hurricane ties, bolts, ridge/tie hardware | | | $250 |
 | Pavers | 215 sq ft | $3–5/sq ft | $860 |
-| Base stone, sand, edge restraint, delivery | | | $410 |
+| Base stone, sand, edge restraint | 3.8 + 0.6 yd³, 41 LF | | $260 |
 | Shakes to patch the trimmed main rake | | | $100 |
-| **Phase 2 subtotal** | | | **≈ $3,900–4,100** |
+| **Phase 2 subtotal** | | | **≈ $3,750–3,950** |
 
 ## Totals
 
 | | Low | High |
 |---|---|---|
-| Phase 1 | $2,850 | $2,850 |
-| Drainage | $1,150 | $1,250 |
-| Phase 2 | $3,900 | $4,100 |
-| Subtotal | $7,900 | $8,200 |
-| Contingency 15% | $1,190 | $1,230 |
-| **Total** | **≈ $9,100** | **≈ $9,450** |
+| Phase 1 | $2,730 | $2,730 |
+| Drainage | $750 | $850 |
+| Phase 2 | $3,750 | $3,950 |
+| Subtotal | $7,230 | $7,530 |
+| Contingency 15% | $1,080 | $1,130 |
+| **Total** | **≈ $8,300** | **≈ $8,650** |
 
-Phase 1 plus drainage on its own: **≈ $4,600–4,700 with contingency.**
+Phase 1 plus drainage on its own: **≈ $4,000–4,100 with contingency.**
 
 ## Lean option
 
-| Change | Phase 1 | Phase 2 |
-|---|---|---|
-| Compacted crushed-stone floor now, pavers later (keep the base stone) | −$540 | −$860, −$60 edge restraint |
-| Kick flashing bent from coil stock in-house (≈$100 of coil) | −$150 | |
-| Trimmed pier footings: 24×24×10 pads, 12" cores (≈33 fewer bags; engineer to confirm) | | −$230 |
-| No contingency | | |
+| Change | Phase 1 | Drainage | Phase 2 |
+|---|---|---|---|
+| Compacted crushed-stone floor now, pavers later (keep the base stone) | −$540 | | −$860, −$60 edge restraint |
+| Kick flashing bent from coil stock in-house (≈$100 of coil) | −$150 | | |
+| Daylight the south leg and trench drain outlet on the west slope; drop the 33' west-side run to the CB (check the slope and CB location first) | | −$120 | |
+| Corrugated perforated pipe (100' roll, $80) instead of rigid; D2729 thin-wall solid ($15/10') instead of SDR-35 | | −$170 | |
+| Trimmed pier footings: 24×24×10 pads, 12" cores (≈33 fewer bags; engineer to confirm) | | | −$230 |
+| No contingency | | | |
 
 | | Full (low–high) | Lean (low–high) |
 |---|---|---|
-| Phase 1 | $2,850 | $2,160 |
-| Drainage | $1,150–1,250 | $1,150–1,250 |
-| Phase 2 | $3,900–4,100 | $2,750–2,950 |
-| Contingency | $1,190–1,230 | — |
-| **Total** | **≈ $9,100–9,450** | **≈ $6,050–6,350** |
-| Phase 1 + drainage | ≈ $4,600–4,700 | ≈ $3,300–3,400 |
+| Phase 1 | $2,730 | $2,040 |
+| Drainage | $750–850 | $460–560 |
+| Phase 2 | $3,750–3,950 | $2,600–2,800 |
+| Contingency | $1,080–1,130 | — |
+| **Total** | **≈ $8,300–8,650** | **≈ $5,100–5,400** |
+| Phase 1 + drainage | ≈ $4,000–4,100 | ≈ $2,500–2,600 |
 
 Pavers added later run about $1,400 plus sand (both phases).
 
@@ -106,3 +109,4 @@ Pavers added later run about $1,400 plus sand (both phases).
 - Arch rebuild materials (budgeted separately in `docs/session-notes/2026-10-30.md`).
 - Labor (done in-house), tax, engineer and permit fees, equipment rental (excavator/auger).
 - Mixer rental or ready-mix fees: all concrete is bagged Quikrete mixed on site with the owner's mixer.
+- Delivery fees (materials picked up) and drainage stone (on hand).
