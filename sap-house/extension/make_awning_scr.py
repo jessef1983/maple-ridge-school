@@ -72,7 +72,7 @@ TIE_Z = 120         # porch rafter ties, lower third of the purlin-to-ridge rise
 POST = 5.5          # 6x6 actual
 PIER = 20           # stone pier, bluestone cap at PIER_TOP
 PIER_TOP = 30
-FOOTING_DEPTH = 48  # below grade, frost (confirm with engineer / town)
+FOOTING_DEPTH = 36  # below grade, per engineer 2026-11-04 (12" tube, base flows out below it)
 EAVE_BEAM = (3.0, 9.25)               # double 2x10, let 2" into the outside face of posts, 1" proud
 LET_IN = 2.0
 KICK = (3.0, 9.25)                    # PT kickboard beam, let in the same way (assumed 2x10 double)
@@ -306,8 +306,8 @@ sbox(DEPTH - POST / 2, 0, POST_OUT, EAVE_BEAM_TOP)             # 6x6 post
 sbox(EB_IN, EAVE_BEAM_BOT, EB_OUT, EAVE_BEAM_TOP)              # dbl 2x10 let in 2"
 sbox(EB_IN, 0, EB_OUT, KICK[1])                                # PT kickboard, let in
 sbox(POST_OUT, KICK[1], EB_OUT, EAVE_BEAM_BOT)                 # 1" boards between
-sbox(DEPTH - 9, -FOOTING_DEPTH, DEPTH + 9, -FOOTING_DEPTH + 10)   # footing
-sbox(DEPTH - 5, -FOOTING_DEPTH + 10, DEPTH + 5, 0)             # pier/form tube to grade
+sbox(DEPTH - 11, -FOOTING_DEPTH, DEPTH + 11, -FOOTING_DEPTH + 6)   # base, flowed out under the tube
+sbox(DEPTH - 6, -FOOTING_DEPTH + 4, DEPTH + 6, 0)              # 12" tube, hung 4" off the bottom
 dr = TAIL                                                      # French drain at the drip line
 sbox(dr - 6, -30, dr + 6, -4)
 cmd("_CIRCLE", pt(*S(dr, -26)), 2)
@@ -335,7 +335,7 @@ callouts(S, [
     (EB_OUT, 5, "PT KICKBOARD, LET IN"),
     (40, 0, "PAVERS ON COMPACTED BASE"),
     (dr, -20, "FRENCH DRAIN, 4in PERF IN GRAVEL"),
-    (DEPTH, -FOOTING_DEPTH + 5, "FOOTING BELOW FROST - BY ENGINEER"),
+    (DEPTH, -FOOTING_DEPTH + 5, "12in SONOTUBE ~3ft, BASE FLOWS OUT - BY ENGINEER"),
 ], TAIL + 45, "R")
 dim(S(0, 0), S(DEPTH, 0), S(0, -62))
 dim(S(EB_OUT, 0), S(TAIL, 0), S(0, -62))
