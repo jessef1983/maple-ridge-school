@@ -49,8 +49,9 @@ Running notes taken during Jesse's visit to the sap house. Context: arch rebuild
   above showing all three bays behind the firebox.
   - Sides: 1" insulation + 1¼" splits = 2¼"/side, the same allowance the fin test used. It passes, so
     the 10-30 option of **rigid board behind the splits** is now go (board instead of blanket on the sides).
-  - Bottom: as planned, splits on the new 3/16" trapezoid plates over the blanket-filled void, still
-    hitting the under-fin targets (6.5 at 59, 2.8 at 87.75, 2.5 at 97, 4.5 at 113).
+  - Bottom: ~~splits on new 3/16" trapezoid plates over a blanket-filled void~~. **Superseded:** flat
+    bars plus a cast Portland–perlite fill; see "Back-bay bottom detail" below. Under-fin targets are
+    unchanged (6.5 at 59, 2.8 at 87.75, 2.5 at 97, 4.5 at 113).
   - **Quantity check:** side splits for these bays come to roughly 45-50 extra (two sides about 54" long
     averaging ~11½" tall, plus the 37-59 band above the full brick). Check whether the 10-30 count of
     106 splits included sides; if not, add them.
@@ -111,4 +112,43 @@ Running notes taken during Jesse's visit to the sap house. Context: arch rebuild
   - **Measure for the build:** door opening W×H; door plate size and thickness; ash pit front opening
     W×H; height from floor to the front grate support; existing frame angle size; hinge side; stud
     spacing on the door.
+
+## Back-bay bottom detail (decided 2026-11-03)
+
+Replaces the 10-30 trapezoid plates in the back compartments (from 59 back), where the old sloped
+floor is thin, flimsy plate suspended over a void, with cross angles at 59 (top 15" below rim) and
+87.75 (top 11¼" below rim) and the rear lip.
+
+- **Brick support: 2" × ⅜" flat bar, run lengthwise angle to angle**, in the same plane the plates
+  would have been: 59 → 87.75, and 87.75 → a new ledge about 1.3" below the rear lip. Tack-weld to the
+  angles. Centers about 9 1/16" (4–5 bars per bay across the ~34" width).
+  - ⅜" sags about 1/32" over the 25–29" spans; ¼" would sag nearly ⅛".
+  - About 8–10 bars, roughly 20–25 ft of bar. High-temp paint before setting.
+- **Splits laid crosswise on the bars**, each 9" brick spanning bar to bar with about 1" of bearing per
+  end. Trim the edge bricks to the trapezoid. Fin clearances come out as planned, since the bars sit on
+  the same angles.
+- **Fill: cast Portland–perlite, 1:4 by volume, with fibers** (Perlite Institute mix: one 94 lb bag of
+  Portland to one 4 ft³ bag of perlite, about 5.3 gal water, yields about 4 ft³). Chosen over loose
+  perlite or blanket because it **blocks mice and insects**; loose perlite would be nesting habitat.
+  - The void between the old tray and the bars is only 2–4" deep (≈3.6" at 59, ≈2.3" at 87.75), about
+    3 ft³ total, ≈12 psf wet. The flimsy tray only has to hold it until it cures.
+  - Once cured, the slab spans the bays on its own (a few psi of bending from self-weight), so it stays
+    put even if the old tray rusts out. Cracks don't matter: it carries no brick.
+  - Mix: water and cement first (≈2 min), then all the perlite, only until uniform (2–3 min).
+    Overmixing crushes the perlite.
+- **Sequence:**
+  1. Patch holes in the old tray (scrap sheet or foil tape) so the slurry doesn't drain out. Drill a
+     couple of ¼" weep holes at the low (front) end of each bay.
+  2. Tack the bars onto the angles.
+  3. Pour the fill up to the underside of the bars and strike it off.
+  4. Dry with the bars open so moisture escapes upward (a week or more).
+  5. Lay the splits; slow dry-out fire.
+- **Pest-proofing the shell:** close the burned slots in the ash pit back wall (10-30 step 1) and any
+  other gaps in the shell bottom while working underneath.
+- **Material:** ≈$50 for the fill (1 Portland, 1 perlite, fibers), plus the flat bar. Drops the 3/16"
+  plate for these bays from the 10-30 list.
+- **Sources:** [Perlite Institute, Overview of Perlite Concrete](https://www.perlite.org/wp-content/uploads/2018/03/perlite-concrete-overview-metric.pdf)
+  (mix designs: 1:4 ≈36 pcf dry, ≈420 psi, k 0.12 W/m·K);
+  [Perlite Institute, High Temperature Applications](https://www.perlite.org/wp-content/uploads/2023/12/HighTemp-Applications-Steel-Foundry.pdf)
+  (expanded perlite in service to about 1,100°C).
 
