@@ -109,6 +109,13 @@ Running notes taken during Jesse's visit to the sap house. Context: arch rebuild
       over gasket, and cut the big door's new liner back around the opening. The added weight means
       checking or upsizing the hinge pins.
     - Loading still uses the big door; the small door is for viewing and quick stoking.
+  - **Decision (Jesse): cut out the warped front cross brace at grate level** (behind the door, in
+    line with the grates; not the rim brace). It opens up access for removing the ash pit floor steel.
+    - Claude: fine, it's low and out of the pan zone. Check that nothing rests on it (front ends of
+      the grate bars or the old center support) before cutting.
+    - With it and the floor plate both out, the bottom of the front has no tie except the loose sill
+      bar. Measure the width at grate level first, and give the rebuilt front frame a **cross rail at
+      this line**: it ties the walls low again and doubles as the top of the ash door opening.
   - **Measure for the build:** door opening W×H; door plate size and thickness; ash pit front opening
     W×H; height from floor to the front grate support; existing frame angle size; hinge side; stud
     spacing on the door.
