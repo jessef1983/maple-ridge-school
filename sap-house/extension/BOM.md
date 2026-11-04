@@ -71,8 +71,8 @@ Cut notes:
 | Item | Qty | Notes |
 |---|---|---|
 | Standoff post bases, 6x6 | 4 | e.g. Simpson ABU66Z |
-| 10" sonotube, 4' | 4 | Plus a spread base at the bottom |
-| Footing base: 18" bell or 20x20x8" pad | 3, + 1 @ 24" at the NE corner post | Corner post also carries the porch later |
+| 12" sonotube, 4' (cut to suit) | 4 | Engineer, 2026-11-04: holes about 3' deep; hang the tube a few inches off the hole bottom so the concrete flows out into a wider footing at the base. Brace the tube at grade so it can't float up during the pour. |
+| Footing base | 4 | Belled hole bottom, about 20–24" across × 6", formed by the concrete flowing out under the tube; the NE corner post (which carries the porch later) per engineer |
 | Concrete, 80 lb bags | ≈30 | |
 | ½" through-bolts × 8", washers/nuts | 16 | Beam and kickboard to posts, 2 each per post |
 | ¼" structural screws, 6" | 50 | 2 per rafter to the existing 4x6 + spares (engineer to confirm) |
@@ -110,7 +110,7 @@ Cut notes:
 | Stone piers, 20" × 20" × 28" | 5 | On concrete footing with CMU/concrete core below grade |
 | Bluestone caps, 22" × 22" × 2" | 5 | 1" overhang all round, top at 30" |
 | Pier footings, 30" × 30" × 12" at frost | 5 | Plus 16" tube/CMU core to grade |
-| Back break-post footings | 2 | 10" tube + 20" base |
+| Back break-post footings | 2 | 12" tube, hung off the hole bottom to flow out into a base (same detail as Phase 1) |
 | Concrete, 80 lb Quikrete bags | ≈100 (≈2.2 yd³) | Mixed on site with own mixer |
 | Standoff post bases, 6x6 | 7 | |
 | Hurricane ties (H2.5A) | ≈24 | Each rafter at its eave beam and its purlin |

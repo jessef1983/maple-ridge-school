@@ -18,7 +18,7 @@ materials are picked up. Drainage stone is assumed on hand.
 | Kick flashing, shop-bent heavy gauge | 24 LF | $8–15/LF | $250 |
 | Roofing nails | 1 box | | $40 |
 | Standoff post bases (ABU66Z) | 4 | $35 | $140 |
-| Sonotubes 10" × 4' + footing bells | 4 + 4 | $15 + $35 | $200 |
+| 12" sonotubes (base flows out under the tube, no bells) | 4 | $25 | $100 |
 | Concrete, 80 lb bags | 30 | $7 | $210 |
 | ½" × 8" through-bolts with washers/nuts | 16 | $4 | $65 |
 | ¼" × 6" structural screws | box of 50 | | $80 |
@@ -27,7 +27,7 @@ materials are picked up. Drainage stone is assumed on hand.
 | Pavers | 135 sq ft | $3–5/sq ft | $540 |
 | Crushed stone base, bedding sand | 2.5 yd³ + 0.4 yd³ | | $135 |
 | Misc. (caulk, end-wall flashing, fasteners) | | | $150 |
-| **Phase 1 subtotal** | | | **≈ $2,730** |
+| **Phase 1 subtotal** | | | **≈ $2,630** |
 
 ## Site drainage (with Phase 1 footers)
 
@@ -66,14 +66,14 @@ materials are picked up. Drainage stone is assumed on hand.
 
 | | Low | High |
 |---|---|---|
-| Phase 1 | $2,730 | $2,730 |
+| Phase 1 | $2,630 | $2,630 |
 | Drainage | $750 | $850 |
 | Phase 2 | $3,750 | $3,950 |
-| Subtotal | $7,230 | $7,530 |
-| Contingency 15% | $1,080 | $1,130 |
-| **Total** | **≈ $8,300** | **≈ $8,650** |
+| Subtotal | $7,130 | $7,430 |
+| Contingency 15% | $1,070 | $1,115 |
+| **Total** | **≈ $8,200** | **≈ $8,550** |
 
-Phase 1 plus drainage on its own: **≈ $4,000–4,100 with contingency.**
+Phase 1 plus drainage on its own: **≈ $3,900–4,000 with contingency.**
 
 ## Lean option
 
@@ -88,12 +88,12 @@ Phase 1 plus drainage on its own: **≈ $4,000–4,100 with contingency.**
 
 | | Full (low–high) | Lean (low–high) |
 |---|---|---|
-| Phase 1 | $2,730 | $2,040 |
+| Phase 1 | $2,630 | $1,940 |
 | Drainage | $750–850 | $460–560 |
 | Phase 2 | $3,750–3,950 | $2,600–2,800 |
-| Contingency | $1,080–1,130 | — |
-| **Total** | **≈ $8,300–8,650** | **≈ $5,100–5,400** |
-| Phase 1 + drainage | ≈ $4,000–4,100 | ≈ $2,500–2,600 |
+| Contingency | $1,070–1,115 | — |
+| **Total** | **≈ $8,200–8,550** | **≈ $5,000–5,300** |
+| Phase 1 + drainage | ≈ $3,900–4,000 | ≈ $2,400–2,500 |
 
 Pavers added later run about $1,400 plus sand (both phases).
 

@@ -152,6 +152,10 @@ floor is thin, flimsy plate suspended over a void, with cross angles at 59 (top 
   5. Lay the splits; slow dry-out fire.
 - **Pest-proofing the shell:** close the burned slots in the ash pit back wall (10-30 step 1) and any
   other gaps in the shell bottom while working underneath.
+- **Splits budget (Jesse, 2026-11-04): $500 this year.** At about $3–5 a split that's ≈100–165, enough
+  for the back-bay bottom (≈45–50) and sides (≈45–50) at ≈$3.50 or less each, so no exposed perlite
+  floor or castable top layer is needed. If prices run higher, buy the bottoms first; the sides can
+  wait on their steel and rigid board. Get a local price per split before ordering.
 - **Material:** ≈$50 for the fill (1 Portland, 1 perlite, fibers), plus the flat bar. Drops the 3/16"
   plate for these bays from the 10-30 list.
 - **Sources:** [Perlite Institute, Overview of Perlite Concrete](https://www.perlite.org/wp-content/uploads/2018/03/perlite-concrete-overview-metric.pdf)
