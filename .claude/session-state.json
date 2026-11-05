@@ -1,8 +1,8 @@
 {
-  "lastWrapUtc": "2026-10-31T01:50:04Z",
-  "mainHeadSha": "e83c24c80a4c1a7c230b5548b5a4f8b836f1f237",
+  "lastWrapUtc": "2026-11-05T21:30:00Z",
+  "mainHeadSha": "6336b502a434f227f1e67f2d9ea9844ec7fb603c",
   "confirmedClean": false,
   "openPRs": [],
   "knownStaleBranches": [],
-  "summary": "Sugarhouse arch rebuild plan and shopping list recorded in docs/session-notes/2026-10-30.md. Pre-existing uncommitted agent/skill edits left in place, so not clean."
+  "summary": "Gravely 16-G equipment folder + research merged via PR #2 (docs/session-notes/2026-11-05.md). Pre-existing uncommitted agent/skill edits and untracked 2026-11-03 notes from other sessions left in place, so not clean."
 }
