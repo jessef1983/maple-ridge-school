@@ -89,7 +89,7 @@ Hank's method: buy a 12" bolt, cut off the head, put a 90° bend in it, and dril
 - Or use 1/2" round bar, with a 1/2-20 thread cut on one end with a die.
 
 **Ball size: mismatched.** The socket cavity is considerably larger than the ball ([photo](plow-lift-ball-vs-socket.jpg)), and the top of the ball looks flattened. Either the ball is worn or it's the wrong stud. **Don't reuse it.** It could pop out under load.
-- [ ] Measure the socket's inside diameter (calipers, or the shank of a drill bit that just fits). Common sizes: 10, 13, 16 mm.
+- [x] Socket measured: about **9/16" (≈14.3 mm) diameter, 1/2" deep**. That falls between the common metric sizes (13 and 16 mm), so test-fit before ordering. A 9/16" steel bearing ball (about $1) dropped in should seat snug, and the sleeve should still latch. If it does, the original ball was 9/16". If 9/16 is loose, try a 14 mm ball.
 - [ ] Buy a ball stud of that ball diameter (McMaster or ag linkage suppliers), with a stud thread that fits the lift arm hole.
 - Welding a ball onto a bolt is a fallback only. The ball must match the socket exactly and be centered, and hardened bearing balls weld poorly.
 
