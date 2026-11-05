@@ -1,8 +1,8 @@
 {
   "lastWrapUtc": "2026-11-05T21:30:00Z",
-  "mainHeadSha": "6336b502a434f227f1e67f2d9ea9844ec7fb603c",
+  "mainHeadSha": "1dc5a57c7dc803ccc82d889ef5a8edc029133d37",
   "confirmedClean": false,
   "openPRs": [],
   "knownStaleBranches": [],
-  "summary": "Gravely 16-G equipment folder + research merged via PR #2 (docs/session-notes/2026-11-05.md). Pre-existing uncommitted agent/skill edits and untracked 2026-11-03 notes from other sessions left in place, so not clean."
+  "summary": "Gravely 16-G equipment folder + research merged via PRs #2-#4 (docs/session-notes/2026-11-05.md). Pre-existing uncommitted agent/skill edits and untracked 2026-11-03 notes from other sessions left in place, so not clean."
 }
