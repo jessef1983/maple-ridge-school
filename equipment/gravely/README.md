@@ -76,6 +76,23 @@ Hank's method: buy a 12" bolt, cut off the head, put a 90° bend in it, and dril
 - **Threaded end:** this is why to start from a bolt. The spring slides on, and nuts and washers set the preload and length.
 - Size the bolt to the bracket hole. A plain-steel (grade 2) bolt bends cold in a vise. Heat a grade 5 or 8 bolt before bending it, or it may crack.
 
+**Top fitting (on hand):** a spring-sleeve quick-release ball joint ([assembled](plow-lift-ball-joint-assembled.jpg), [apart](plow-lift-ball-joint-apart.jpg)).
+- The ball stud bolts to the lift arm. To release it, pull the sleeve back against the spring.
+- The socket has a **1/2-20 (fine) female thread**, and the rod screws into it.
+
+**Rod layout:**
+- **Top:** the 1/2-20 threaded end goes into the ball-joint socket, locked with a jam nut.
+- **Bottom:** a 90° bend in the plain shank where the head was cut off. It goes through the plow bracket, held by a cotter pin.
+
+**Rod stock:**
+- 1/2-20 bolts are mostly grade 5 or 8, so heat the shank before bending.
+- Or use 1/2" round bar, with a 1/2-20 thread cut on one end with a die.
+
+**Ball size:** the ball is small but sized to the socket. A bigger welded-on ball won't fit.
+- If the ball is round and tight in the socket, reuse it.
+- If it's worn, buy a matching ball stud, a standard quick-release ball joint part sold by ball diameter (McMaster or ag linkage suppliers).
+- [ ] Measure the ball diameter.
+
 Measure on Brandon's tractor if you can. Otherwise measure your own lift arm and plow:
 - [ ] Rod diameter and overall length
 - [ ] Spring: free length, outside diameter, wire diameter
