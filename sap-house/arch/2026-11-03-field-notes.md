@@ -122,6 +122,10 @@ Running notes taken during Jesse's visit to the sap house. Context: arch rebuild
 
 ## Back-bay bottom detail (decided 2026-11-03)
 
+> **Superseded 2026-11-05** by "Final plan: zero splits, sloped frame" below. Splits are dropped and
+> the flat bars become a continuous-slope frame. The fill mix, pest-proofing and sources here still
+> apply.
+
 Replaces the 10-30 trapezoid plates in the back compartments (from 59 back), where the old sloped
 floor is thin, flimsy plate suspended over a void, with cross angles at 59 (top 15" below rim) and
 87.75 (top 11¼" below rim) and the rear lip.
@@ -163,3 +167,60 @@ floor is thin, flimsy plate suspended over a void, with cross angles at 59 (top 
   [Perlite Institute, High Temperature Applications](https://www.perlite.org/wp-content/uploads/2023/12/HighTemp-Applications-Steel-Foundry.pdf)
   (expanded perlite in service to about 1,100°C).
 
+
+## Final plan: zero splits, sloped frame (decided 2026-11-05)
+
+Jesse: no splits. Full 2½" high-duty firebrick everywhere, from the Vermont lot, because it's cheaper
+per brick than splits. "This is our one chance to improve the boiler." More fabrication is fine.
+
+### Floor under the flue pan and filter: continuous slope
+
+- **Gas-path principle:** one continuous slope, no bridge wall. The cross-section tapers as the gas
+  cools, from about 2.6× stack area at the front to about 1.3–1.4× at the end of the flue pan.
+  Between-fin area counts: 16 fins, ~0.9" thick, ~1" gaps, about 114 sq in open (stack is 108 sq in).
+  Soot under the pan is never cleaned mid-season and has never been an issue.
+- **Gap from brick top to fin bottom:**
+
+  | Station | Gap | Under |
+  |---|---|---|
+  | 59 | 5" | flue fins (7") |
+  | 97 | ¾" | end of flue fins; straight line from 59 |
+  | 97 → 113 | ramps up to meet the old floor: ≈3¾" at 97, ≈2¼" at 113 | filter fins (4") |
+
+  Hold at least ½" everywhere so the pan seats and can expand. A flat run from 97 to 113 would hit the
+  old floor by about 1.5" near the rear, hence the ramp.
+- **Frame:** a shop-built steel frame at that slope. Lengthwise 2" × ⅜" flat bars at 9 1/16" centers
+  on cross members at 59 and 87.75 (sitting on the existing angles), 97 and the rear. Clears both
+  angles. It replaces the flat bars in the 11-03 detail above.
+- **Fill:** 1:4 Portland–perlite with fiber (mix as in the 11-03 detail), poured between and up to the
+  underside of the bars. About 2 ft³: ≈3¾" deep at 59, ≈1⅞" at 87.75, ≈1¼" at 97, tapering to 0 by
+  about 104–113. **A half batch**; one bag of Portland and one of perlite covers it with room to spare.
+  About 2½ oz of the Anti-Crak fiber goes in; the rest of the bag goes to the sonotubes.
+- **Brick:** full 2½" dense brick laid crosswise on the bars.
+- **Check before mortaring:** dry-lay, set clay pats on the brick, seat the pan, lift it and read the
+  clearances.
+
+### Sides, 37 to 113
+
+- At fin height: full 2½" brick on edge plus about ⅞" compressed blanket. Lining per side =
+  (shell width − 30¾ − 1) / 2, so 3⅜" at the chimney end (38½" shell) and less just past the brace.
+  **Measure the shell at fin height at 59, 88 and 97** and thin the blanket where it's tight.
+- Below the fins, the new floor leaves only 1–5" of side wall to line.
+
+### Firebox draw-off side (melted buckets, burned stool)
+
+- IR-check the shell under a full fire.
+- Add a ventilated steel heat shield: 24–26 ga, stood 1" off the shell, open top and bottom.
+- IFB behind the dense brick only if the old fiberboard comes out. IFB alone insulates less than the
+  board.
+- Keep buckets and the stool back from that side.
+
+### Brick order (settled 2026-11-05)
+
+- **Todd, Whitingham VT (Facebook Marketplace): 210 high-duty firebrick for $525, plus 10 extra thrown
+  in against breakage = 220 (≈$2.39 each).** He has broken down the skids. Pickup on the school's
+  truck run.
+- Need: ≈106 firebox, ≈50 floor 59–113, ≈33 sides 37–113 = ≈189, plus ≈21 spare (≈31 with his 10).
+- About 1,700 lb. Confirm 9 × 4½ × 2½ straights (the lot also has tapered #1 arch brick). Get a written
+  receipt for school records.
+- Replaces the $500 splits budget above.
