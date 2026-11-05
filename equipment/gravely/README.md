@@ -88,10 +88,10 @@ Hank's method: buy a 12" bolt, cut off the head, put a 90° bend in it, and dril
 - 1/2-20 bolts are mostly grade 5 or 8, so heat the shank before bending.
 - Or use 1/2" round bar, with a 1/2-20 thread cut on one end with a die.
 
-**Ball size:** the ball is small but sized to the socket. A bigger welded-on ball won't fit.
-- If the ball is round and tight in the socket, reuse it.
-- If it's worn, buy a matching ball stud, a standard quick-release ball joint part sold by ball diameter (McMaster or ag linkage suppliers).
-- [ ] Measure the ball diameter.
+**Ball size: mismatched.** The socket cavity is considerably larger than the ball ([photo](plow-lift-ball-vs-socket.jpg)), and the top of the ball looks flattened. Either the ball is worn or it's the wrong stud. **Don't reuse it.** It could pop out under load.
+- [ ] Measure the socket's inside diameter (calipers, or the shank of a drill bit that just fits). Common sizes: 10, 13, 16 mm.
+- [ ] Buy a ball stud of that ball diameter (McMaster or ag linkage suppliers), with a stud thread that fits the lift arm hole.
+- Welding a ball onto a bolt is a fallback only. The ball must match the socket exactly and be centered, and hardened bearing balls weld poorly.
 
 Measure on Brandon's tractor if you can. Otherwise measure your own lift arm and plow:
 - [ ] Rod diameter and overall length
