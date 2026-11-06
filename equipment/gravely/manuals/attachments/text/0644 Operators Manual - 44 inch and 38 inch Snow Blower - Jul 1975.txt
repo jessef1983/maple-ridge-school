@@ -1,0 +1,449 @@
+# 0644 Operators Manual - 44 inch and 38 inch Snow Blower - Jul 1975
+# Source: 0644 Operators Manual - 44 inch and 38 inch Snow Blower - Jul 1975.pdf (8 pages; OCR: Windows.Media.Ocr @200dpi)
+
+===== Page 1 =====
+          e GRAVELY OPERATOR'S
+                                                              MANUAL
+       NAME: 44" & 38" SNOWBLOWER                PART NUMBER(S): 20982 - 44"
+                                                                    20981 - 38"
+       READ THIS MANUAL AND TRACTOR
+       OWNERS MANUAL BEFORE ATTEMP-
+       TING TO OPERATE THE EQUIPMENT.
+       The Owners Manual includes set up, safety, opera- Features: 2 stage operation (reel and fan), direc-
+       tor and maintenance instructions. Item numbers tional discharge controlled from operators
+       used in this manual are in reference to the Illus- position, replaceable wearstrip and skids
+       trated Parts List, fig 1. Contact The Gravely Purpose: general snow removal
+       Dealer for further information.
+                                                 Requires: Front Drive Kit
+       SPECIFICATIONS
+                                                 Recommended Accessories for Manual Lift Tractors
+       Path Width: 38 inches or 44 inches            Lift Assist Kit
+       Extends Tractor Length: 33 inches             Auxiliary Lift Assist
+       Weight: 250 pounds or 280 pounds              Front Wheel Weights
+                                                     Rear Wheel Weights
+       38 inch Snowblowers, recommended for single   Tire Chains
+       cylinder Riding tractors of 10 hp and greater with
+       manual lift.                              Recommended Accessories for Hydraulic Lift
+       44 inch Snowblowers, recommended for tractors Tractors
+       with hydraulic lift.                          Tire Chains
+                                                    Wheel Weights
+       Drive: steel shafts, universal joints, needle bearings,
+           cast iron housings, overload reel clutch Special Use Accessories for all Tractors
+       Construction: heavy gage steel tubing and stamping Wheel Brakes
+           weldments                                Weight Rack
+       TO Continue its program Of qulity nd design improvement. the manufacturer the right change specifications.
+       design. nd prices without notice without incurring abUgeion FORM NO. 21140 (7-75) Printed in U.S.A.
+
+===== Page 2 =====
+                                         44                                84
+                                     15
+                                                       53
+                                    \ 15
+                                  9 96                54
+                      72
+                                                 J 49
+                                                     58
+                                           55
+                     44        37 15 44
+                    38            45               90          82
+                  35
+                                    49                         83
+                                       51
+   32                     2                           81
+                                                                      75
+          29                4                                            74
+                     50  47  45                      1 37             60
+             23
+    2017         39          15            as        39       99
+       19 10 14        41     4 6        38                          79
+            24                        y. 33
+ ITEM NO. PART NO. DESCRIPTION               ITEM NO. PART NO. DESCRIPT ICN
+    1     20696P1  Shaft , Snowblower Worm            20928P1 Spacer , Tube Guard
+    2      9659P1  Washer, Thrust                     126348  Bolt, 1/4-20 x 2-1/4 RD
+    3     IOS73P1  Housing, Snowblower, Gear   56     Z1008AI Support Weldment
+    4      6339P1  Gasket, Bearing Cap                19740P1 Support
+           6341P1  Cap, Front Pinion Bearing          19741P1 Bearing, Ball 1.000 x 1.850 x .472
+    6      9660P1  Bearing, Torrington B-128   59     20859P1 Ring, Retainin
+    7      9661P1  Bearing, Torrington NTC-14Z7 60    180021  Bolt, Hex x 7/8
+    8      9662P1  Bearing, Needle Thrust Race 61     180175  Bolt, Hex 1/2-13 x 1-1/4
+    9     12403P1  Key                         62     455307  Nut, LOCk 1/2-13 washer Insert Hex
+   10     12402P1  Tube, Reel Gear             63     20984P1 Bracket, Support
+   11      9667P1  Seal, Oil Garlock 94 x 6120 64     2099SP1 Support
+   12     12401P1  Gear, Worn                         180124  Bolt, Hex 3/8-16 x 1-1/4
+   13     1032SP1  Spacer                      66     21022P1 Crank
+                                               67     21005A1 Crank Support Weldment
+   14     12404P1  Bearing, Thrust Race Torr. TRD -2840 ?404A1 Chute Weldment
+   15      120392  Washer, Flat 9/32 x 5/8 x .06S 69  63S2P1  Baffle, Deflector
+   16      180020  Bolt, Hex 1/4-20 x 3/4      70     10496P1 Retainer, Baffle
+   17     12400Pi  Ca , Gear Hous ing          71     6399M   Chute, Deflector Weldment
+   18      9668P1  O- ing 1-3/4 x 2-1/8 x 3/16 72     19479P1 Decal, Caution
+   19      9669P1  O-Ring 3 x 3-1/4 x 1/8      73             Decal, Snowb lower Discharge
+   20      120423  Washer, Lock 1/4 INT Tooth  74     20727P1 Joint, U, Male End
+   21     IOS79P1  Bracket , Gear BOX Support         20728P1 Joint. U, Fenale End
+   22      181666  BOIt, Hex 7/16-20 x 1       76     9411027 Lube Fitting, 1/4-28
+   23      2746S5  Nut, Lock 7/16-20 Type N Hex 77    12134P1 Kit, Repair Universal Joint Rockvell Std.
+   24      103880  Piu , Pipe 1/2 in. Shatt, Reel 38 in. SQ HD Steel 20573P1 Kit. Repair Universal Joint NEAPCO 160sv
+          11796P1                              78     20989P1 Shaft
+          19794P1  Shaft, Reel 44 in.          79     11809A1 Rod, Push Weldment
+   26     12399P1  Plate, Drive                80     6381P1  Rope, Wire
+   27      9657P1  Disc, Friction                     20997P1 Cable Assembly
+   28     11802A1  Reel Weldment L.H. 38 in.   82     9630P1  Clamp, Hose SAE Type F
+          19799A1  Reel Weldment L. El. 44 in. 83     961 ZPI Connector
+   29     11797A1                              84     454563  Pin, Spring 3/16 x 7/8 cad.
+                   Reel Weldment R.H. 38 in.          456542  Pin, Spring 3/16 x 1-1/2
+          1979SA1  Reel Weldment R.H. 44 in.   86     1021 IPl Grip, Handle
+   30      6493P1  Washer, Belleville Spr in g 1-1/4 2-1/2 87 10210P1 cap. Stud
+   31      64*4P1  Washer, Pilot               88     6496PI  C I anp
+   32      426767  Nut, Hex 7/8-14                            Screw, Mach. 8-32 X 3/8 Pan HD
+   33     12409P1  Bearing, Flange             90     10580P1 Glide
+   34     20726A1  Body Weldment, 38 in.       91     180130  Bolt, Hex 3/8-16 x 2
+          20732A1  Body Weldment, 44 in.       92     445339  Nut, Spring, Shape 8032 Type A-J
+           180080  Bolt, Hex 5/16-18 x 1-1/8   93     155886  Screw, Mach. 8-32 x 1/2 Fiat HD C-kecess
+   36     9419455  Nut, Lock 5/16-18 Washer Insert Hex 94 120622 Hut, Mach. 8-32 Hex
+   37      180122  Bolt, Hex 3/8-16 x 1               446354  Washer, Flat 5/16 x 7/8 x .065
+   38      120394  Washer, Flat 13/32 x 13/16 x .06S 96 120380 Washer, Lock 1/4 SP
+   39      456004  Nut, Lock 3/8-16 Washer Insert hex 97 6464P1 Nuti Deflector Wing
+   40     11788P1  Strip, Wear 38 in.          98     131017  Washer, Flat 13/16 x 1-15/32 x . 134
+          19791P1  Strip, Wear 44 in.          99     1040SP1 Pin, Hair Cotter
+   41      18007S  Bolt, Hex 5/16-18 x 5/8    100     17261P1 Sh oe - Sk i d
+   42     9413447  Nut, Lock 5/16-18 Type N Hex 101   180075  Bolt, Ilex 5/16-18 x 5/8
+   43     11789P1  Guard 3S in.               102     9413447 Nut, Lock 5/16-18 Type N Hex
+          19792P1  Guard 44 in.               103     19340P1 Bearing, Thrust Race Torr. TRA-162S
+   44     9419454                             104     20999P1 Spring, Compression
+                   Nut, Lock 1/4-20 Washer Insert Hex IOS 180016 Bolt Hex 1/4-20 x 1/2
+           6477P2  Ring, Bearing              106     21144P1 Eye, Single
+   46      120518  Boat, 1/4-20. 3/4 RD
+   47     20992A1  Drive Shaft Weldment
+   48      180044  Bolt, Hex 1/4-20 x 2
+   49     14987P1  Ring, Retaining Eaton 329-1
+   so      124553  Key, Woodruff 1/4, x 1 Hard no. 15
+   51     19731A1  Fan Weldment
+   52     20994A1  Fan Housin Weldment
+   53      637011  Guide, Cab}e Weldment
+                                fig 1 ILLUSTRATED PARTS LIST
+                                             2
+
+===== Page 3 =====
+          ASSEMBLY INSTRUCTIONS
+          38" AND 44" SNOWBLOWER                      Building IJp The Chute Deflector
+                                                      1. Fasten rubber baffel onto chute with retainer
+          1. Open carton, remove snowblower and miscel- strap, nuts and bolts, items 69, 70, 93 and 94.
+          laneous pieces.
+                                                      2. Dab inside of deflector (about the holes and
+                                                      slot) with general purpose grease, item 71.
+                                                      3. Slide a washer on each mounting stud of
+                                 CLAMP OVER           chute, item 15; do not use a washer on adjusting
+                                 SERRATIONS
+                                 ON SHAFT             stud that goes in sloted hole of the deflector.
+                                                      4. Put deflector on chute and fasten it with
+                                                      washers and locknuts, items 15, 44 and 71.
+                                                      Tighten nuts enough to be secure and then back
+                                                      off until deflector can be pivoted.
+                               COWECTOR HOSE                          DEFLECTOR
+                                                                  BAFFLE
+                                                              RETAINER
+                          fig 2
+          2.  Position rubber connector, item 83, over        CHUTE
+          small end of control shaft and secure with hose
+          clamp, item 82. See fig 2.
+          3. Assemble crank support, item 67, to snow-
+          blower with two bolts and nuts, items 91 and 39.
+                                                                                 WIRE ROPE
+                                                           TUBE
+                        HANDLE                            GUIDES
+                                                                        fig 4
+        END CAP                                       5. Put a flat washer, lockwasher, and wingnut on
+                                                      the adjusting stud, items 15, 96 and 97. Make the
+                                                      wingnut finger tight. See fig 4.
+                      CRANK                           6. Crank fan housing to maximum left position;
+                                                      discharge chute will rest on frame. Chute/deflector
+                                      SPRING
+                                      PIN             assembly should point to the exact left. If adjust-
+                                                      ments need to be made, loosen cable hold-down
+                                                      bolt, item 105, to make adjustment. Retighten,
+                          fig 3                       making sure retaining clamp, item 88, under bolt
+                                                      is in place.
+          4. Insert spring pin, item 84, into crank, item
+          66. Assemble handle grip and stud cap, items 86
+          and 87. See fig 3.
+          5. Position second hose clamp, item 82, over Final Assembly
+          rubber connector. Position crank into both holes
+          of crank support and into connector. Secure with 7. Bolt skids onto reel housing, items 95, 100,
+          hose clamp.                                 101 and 102.
+                                                3
+
+===== Page 4 =====
+                                              TESTING
+                                              1. Remove check plug, item 24, from gear box,
+                                              item 3. Add SAE gow EP gear lubricant (if
+                                              necessary) to bring level up to plug. Replace plug.
+                                              2. Turn drive shaft by hand. Reel and fan should
+                                              turn free and smooth.
+                                 BOLT         3. Turn crank. Discharge port of fan housing
+                                              should move from side to top to side and as this
+                               " u  JOINT    happens discharge chute should rotate on port
+                                FEMALE        flange and point from side to front to side.
+                   fig 5
+                                               CONNECTING TO THE TRACTOR
+  8. Bolt female ' U" joint of drive shaft to fan
+  shaft, items 75, 47, 44 and 48. See fig 5.   1. STOP engine, disengage PTO and put direc-
+                                               tion control in NEUTRAL.
+                                               2. Install Front Drive Kit on the tractor. Coat
+                                               R'TO shaft of transaxle and PTO of front axle
+                                               with general purpose grease.
+                                               3. Remove hairpin cotters and open equip-
+                                               ment latches on front of the tractor.
+                                               4. Guide the tractor up to snowblower. Join
+                                               support weldment crossbar to latches. Close latches
+                                  JOINT
+                                  MALE         and secure with hairpin cotters.
+                                               5. Connect drive shaft collar to PTO shaft. Be
+                                               sure collar "clicks" in position.
+                                               A. Twist Type Collar: Rotate collar ring (in
+                   fig 6                       direction of arrow on ring) and hold. Slide collar
+  9. Coat rectangular male "U" joint shaft with half way on shaft. Release ring and continue
+  general purpose grease and slide it into female sliding on shaft until collar "clicks" and locks in
+  shaft, items 74 and 75. See fig 6.           position.
+                                               B. Slide Type Collar: Slide collar ring towards
+  10. Connect push rod to frame with washer and "U" joint and hold. Slide collar half way on shaft.
+  hairpin cotter, items 79, 56, 98 and. 99. See fig 1. Release ring and continue sliding on shaft until
+                                               collar "clicks" and locks in position.
+  LUBRICATION
+                                               6. Slide male pushrod of Front Drive Kit into
+  1. Oil wire rope, item 80, where it goes through female pushrod of snowblower, item 79, and
+  tube guides, item 53.                        install in top hole of the lift lever weldment of the
+                                               tractor as shown in fig 1.
+  2. Lubricate drive shaft through grease fitting
+  with general purpose grease, items 74, 75 and 76.
+  Add grease until it comes out about rectangular
+  shaft. Remove excess grease.
+                                            4
+
+===== Page 5 =====
+          SAFETY OPERATING PRACTICES
+                                                       3. After striking a foreign object, disengage
+         TRAINING                                      power take off, lower attachment, stop the engine,
+                                                       set the parking brake, then thoroughly inspect the
+         1. Read the tractor owner's guide instruction snowblower for. any damage, repair the damage
+         manual carefully. Be thoroughly familiar with the before restarting and operating the snowblower.
+         controls and proper use of the equipment. Know
+         how to stop the unit and disengage the controls 4. If the unit should start to vibrate abnormally,
+         quickly.                                      stop the engine, disengage the power take off, set
+                                                       parking brake and check for the cause. Abnormal
+         2. Never allow children to operate the equip- vibration is generally a warning of trouble. If
+         ment. Never allow adults to operate equipment unable to locate cause, call your service dealer.
+         without proper instruction.
+                                                       5. Before cleaning, repairing, inspecting or un-
+         3. Keep the area of operation clear of all    clogging the collector/impeller housing or discharge
+         persons, especially small children and pets.  guide, or making any repair adjustments or in-
+ 1                                                     spections, stop engine (motor) lower attachment,
+         4. Exercise caution, especially when operating disengage power take off and set parking brake.
+         in reverse.
+                                                       6. Take all possible precautions when leaving the
+                                                       equipment unattended. Stop the engine (motor),
+         PREPARATION                                   disengage the power take off, lower the attach-
+                                                       ment, set the parking brake and remove the key.
+         1. Thoroughly inspect the area where the equip-
+         ment is to be used and remove all door mats,  7. Do not run engine indoors, except when
+         sleds, boards, wires and other foreign objects. starting engine and for transporting equipment in
+                                                       or out of building. Open outside doors as exhaust
+         2. Disengage all clutches and shift into neutral fumes are dangerous.
+         before starting engine or motor.
+                                                       8. Do not clear snow across the face of slopes.
+         3. Do not operate equipment without wearing   When clearing slopes, operate equipment going up
+         adequate winter outer garments. Wear footwear and down the slope. Exercise extreme caution
+         which will improve footing on slippery surfaces. when changing directions on slopes. Do not
+                                                       attempt to clear steep slopes.
+         4. Handle fuel with care, it is highly flammable.
+         (A) Use approved fuel container.              9. Never operate snowblower without guards,
+         (B) Never add fuel to a running engine or hot plates, or other safety protection devices in place.
+         engine.
+         (C) Fill fuel tank outdoors with extreme care. IO. Never operate snowblower near glass en-
+         Never fill fuel tank indoors.                 closures, automobiles, window wells, drop offs, etc.
+         (D) Replace gasoline cap securely and wipe up without proper adjusting of the snow discharge
+         spilled fuel.                                 angle.
+                                                       11. Do not overload machine capacity by at-
+         5. Adjust collector housing height to clear gravel tempting to clear snow at too fast a rate.
+         or crushed rock surfaces.
+         6. Never attempt to make any adjustments      12. Never operate machine at high transport
+         while engine is running.                      speeds on slippery surfaces. Use care when backing.
+                                                       13. Keep area of operation clear of all persons,
+         7. Let engine and machine adjust to outdoor   especially small children and pets. Never direct the
+         temperature before starting to clear snow.    discharge toward bystanders or allow anyone in
+         OPERATION                                     front of the unit.
+          1. Do not put hands or feet near rotating parts. 14. Disengage the tractor power take off when
+          Keep clear of discharge opening at all times. transporting or not in use.
+          2. Exercise extreme caution when operating on 15. Use only attachments and accessories ap-
+                                                       proved by the manufacturer of the snowblower
+          or crossing a gravel drive, walks or roads. Stay alert
+         for hidden hazards or traffic. Do not carry   (such as wheel weights, counter weights, cabs, etc.).
+          passengers.
+                                                5
+
+===== Page 6 =====
+  16. Never operate the snowblower without good 3. GROUND CLEARANCE: Adjusted by the
+  visibility and light.                        positioning of the skids, item 100, on the sides of
+                                               the reel housing, item 34. Generally, the snow-
+  17. Never store machine with fuel in fuel tank blower can be fully lowered when removing snow
+  inside a building where open flames or sparks are from pavement. When using shoblower on crushed
+  present. Allow the engine to cool before storing rock or gravel surfaces, adjust the skids so the
+  in any enclosure.                            snowblower will not pickuup and throw stones.
+                                               Procedure:
+  18. Run machine a few minutes after throwing A. Raise the snowblower to the transport posi-
+  snow to prevent freeze up of collector [impeller. tion allowing the skids to be above the ground.
+                                               B. STOP engine, disengage PTO.
+ ROUTINE MAINTENANCE                           C. Loosen nuts and bolts fastening skids to reel
+                                               housing.
+ 1. Check oil level in gearbox before first use and D. Adjust each skid the same amount.
+ then once a season, item 3. Check more often if E. Tighten fasteners.
+ signs of leakage are present. Visually inspect for
+                                               4. REEL OVERLOAD CLUTCH: Needs adjust-
+ leaks before each use. A repair should be made if
+ leakage is substantial. Level must be up to check ment when reel stalls under moderate load while
+                                               fan still turns.
+ plug, item 24, use SAE 90W EP gear oil.
+                                               Procedure:
+ Procedure for checking oil level.             A. STOP engine, disengage PTO.
+ A. Have snowblower level.                     B. Block fan with piece of wood or facsimile to
+ B. Unscrew plug, item 24.                     keep it from turning when adjusting reel clutch.
+ C. Add gear oil (if necessary) to bring level up C. Tighten reel nut, item 32, to approximately
+     to hole.                                  85 ft. lbs. of torque. Similar tightness can be
+ D. Replace plug.                              reached with an 18" handle wrench when used by
+                                               an average man.
+  2. Adjust reel overload clutch as necessary, see D. Remove "block" from fan.
+  ADJUSTMENTS.
+                                              OPERATION
+  3. After each use inspect reel, fan, skids and
+  wearstrip for wear or damage. Repair or replace as 1. Read the tractor Owners Manual. Know how
+  necessary. Periodically check all fasteners for to operate and stop the tractor quickly in an emer-
+  tightness. Maintain snowblower in safe operating gency.
+  condition.
+                                               2. Before starting the engine adjust the skids for
+                                               adequate ground clearance.
+  4. Periodic oiling of the tube guide, item 53,
+                                               A. On smooth, paved surfaces the snowblower
+  and areas where the fan housing meets the reel
+  housing will aid operation, items 52 and 34. may be lowered to where the wearstrip is flush
+                                               with the pavement.
+                                               B. On loose or gravel surfaces, adjust the snow-
+                                               blower high enough to clear the gravel so it will not
+  ADJUSTMENTS                                  pick up and throw stones.
+                                                  ADJUSTMENTS section for procedure.
+  1. DISCHARGE DIRECTION CONTROL: Push
+  in and turn the crank to direct-blown snow left, 3. On hydraulic tractors, lower snowblower to
+  forward or right. Since this adjustment is made the "float" position. Adjust discharge chute and
+  from the operators position, it can be done any deflector to desired position: see ADJUSTMENTS
+  time during normal operation of the unit.    section for procedure.
+  2. CHUTE DEFLECTOR: used in conjunction      4. Start engine; allow it to warm up a few
+  with the discharge chute. Because the operator minutes.
+  must leave the operator's position to adjust it.
+  STOP the tractor and put the PTO in the OUT  5. To begin, select the tractors slowest ground
+  position before adjusting the deflector. Normally, speed. Engage P TO, move throttle to FULL
+  the deflector is used to limit the distance the TH ROTTLE and start forward.
+  snow is blown. Procedure: Loosen wingnut, adjust
+  deflector, tighten wingnut finger tight.
+                                             6
+
+===== Page 7 =====
+                                                      REMOVAL FROM THE TRACTOR
+         6. Generally, on the first pass, a full width
+         swath must be made.                          1. STOP engine, disengage P TO, lower snow-
+         A. In snow that is deep and/or wet (most     blower, and put direction control in NEUTRAL
+         difficult for the snowblower to handle) stop
+         forward motion as necessary until the unit clears 2. Disconnect snowblower driveshaft from front
+         itself. Keep the engine at full throttle.    axle PTO.
+         B. In light snow that moves freely (dry and not
+         very deep), change to a higher gear. Keep the 3. Disconnect pushrod lift weldment and remove
+         engine at full throttle.                     from snowblower pushrod.
+         7. During the second and remaining passes, take
+                                                      4. Open equipment latches on the tractor.
+         the widest possible cut the snowblower can handle
+         without having to stop and wait for it to clear.
+                                                      5. Separate the tractor from snowblower.
+         Keep the engine at full throttle.
+                                                      6.  Replace hairpin cotters in latches.
+         8. Some trials may be necessary to find an
+         optimum ground speed and width of cut. Keep the
+         engine at full throttle.
+         9. Disengage PTO (OUT position) when trans- EXTENDED STORAGE
+         porting.
+                                                     1. Remove snowblower from tractor.
+         OPERATING TIPS                              2. Check oil level in gearbox, item 3. Add oil if
+                                                     necessary (see LUBRICATION).
+         l. Clear the work area of foreign objects and
+         debris before snow falls to assure safe operation. 3. Thoroughly dry snowblower.
+         2. Direct discharge over snow yet to be moved to 4. Inspect reel and fan for wear or damage.
+            d blowing snow on cleared areas.         Replace any worn out parts such as skids or wear-
+                                                     strip.
+         3. Winterize the tractor: Maintain battery at
+         full charge, use proper viscosity oil in engine. Keep 5. Paint or grease any exposed metal surfaces
+         fuel tank full to prevent condensation of water that might rust.
+         vapor inside the tank.
+         4. Use accessories (listed on cover page) to in-
+          crease control and safety of operation.
+          5. Operate the engine at FULL THROTTLE
+          when running the snowblower.
+                                                7
+
+===== Page 8 =====
+                                 OGRAVELY
+                                ATTACHMENT LIMITED WARRANTY
+            This Limited Warranty is issued by Clarke-Gravely 6. This Warranty does not cover the following:
+            Corporation, Gravely Division, and consists of the
+            following terms:                         (a) Transportation between owner's home
+                                                        or place of business and the dealership.
+               Only the original purchaser of new Gravely If the dealer provides the transportation
+               manufactured attachments is covered by this of the attachment, he will charge the
+               Warranty.                                owner his usual rate for such service.
+            2. This Warranty covers repair or replacement of (b) Normal maintenance services and nor-
+               parts manufactured by Gravely which are de- mal replacement of items such as belts
+               fective in material or workmansh ip. Gravely lubricants, mower, plow or cultivator
+               will pay for parts and labor only.       blades.
+            3. The Warranty starts the date of purchase and 7. GRAVELY MAKES NO OTHER EXPRESS
+                lasts for NINETY (90) DAYS for attachments WARRANTIES. ANY IMPLIED WARRAN-
+                used in Roofer applications, and TWELVE TIES. INCLUDING WARRANTIES AS TO
+                (12) MONTHS for products used in all other MERCHANTABILITY OR FITNESS FOR
+               applications.                         A PARTICULAR PURPOSE, ARE LIMI-
+                                                     TED IN DURATION TO THE PERIOD SET
+            4.  Some components of Gravely attachments are OUT IN PARAGRAPH 3 ABOVE. SOME
+                not covered by the Gravely Warranty. These STATES DO NOT ALLOW LIMITATIONS
+                components are covered by the original ON HOW LONG AN IMPLIED WARRAN-
+                manufacturer's warranty. They are:   TY LASTS, SO THE ABOVE STATEMENT
+                                                     MAY NOT APPLY TO YOU.
+                (a) Tires - Goodyear. Goodrich ,
+                   Armstrong, General and Firestone 8. GRAVELY SHALL HAVE NO RESPONSI-
+                                                     BILITY FOR INCIDENTAL OR CONSE-
+            5.  To obtain warranty service on Gravely attach- QUENTIAL DAMAGES RESULTING FROM
+                ments including components not manufac- THE BREACH OF ANY WARRANTY, IN-
+                tured by Gravely, use this procedure: CLUDING, BUT NOT LIMITED TO, IN-
+                                                     CONVENIENCE, RENTAL OR PURCHASE
+                (a) Notify the Gravely dealer from whom OF REPLACEMENT EQUIPMENT, LOSS OF
+                   you purchased the attachment.     PROFITS OR COMMERCIAL LOSS. SOME
+                                                     STATES DO NOT ALLOW THE EXCLU-
+                (b) If you have moved and it is not con- SION OR LIMITATION OF INCIDENTAL
+                   venient to notify the selling dealer, OR CONSEQUENTIAL DAMAGES, SO THE
+                   notify the nearest Gravely dealer. You ABOVE LIMITATION OR EXCLUSION
+                   should supply this dealer with a copy MAY NOT APPLY TO YOU.
+                   of the bill of sale as proof of the date
+                   of purchase.                  9.  This Warranty gives you specific legal rights,
+                                                     and you may have other rights which vary
+                (c) Make arrangements to have the attach- from state to state.
+                   ment delivered to the dealer (refer to
+                   paragraph 6(a) below).        IO. A Gravely registration card is supplied with
+                                                     each Gravely attachment. Please complete the
+                (d) If you have any questions concerning card and return it to Gravely at the address
+                   the Gravely Warranty, they should be listed on the card. The registration card will
+                   referred to:                      be used by Gravely for:
+                                                     (a) Record ing date of purchase.
+                   Gravely                           (b) Notification Of owners in compliance
+                   Clarke-Gravely Corporation            with the Consumer Product Safety Act,
+                   A Studebaker-Worthington Company      should any notification be necessary.
+                   One Gravely Lane                  The return of registration card is not required
+                   Clemmons, N. C. 27012             in order to take advantage of this Warranty.
+                   Attn: Manager of Customer Services
+                                                 II. This Warranty is not subject to change or
+                (e) Warranty service on Gravely attach- modification by anyone, includ ing Gravely
+                   ments must be performed by an author- dealers and no Gravely dealer is authorized
+                    ized Gravely dealer or Gravely factory to make any representations or promises on
+                   branch.                           Gravely's behalf.
+                                  e GRAVELY

@@ -1,0 +1,5082 @@
+---
+title: "Parts Catalog — Professional G Series — May 2001"
+oldgravelys_no: "0528"
+series: "Professional G Series"
+doc_type: "Parts Catalog"
+date: "May 2001"
+pages: 48
+source_pdf: "../0528 Parts Catalog - G Series Rider - May 2001.pdf"
+text_source: "PDF text layer"
+---
+# Parts Catalog — Professional G Series — May 2001
+
+Source: [0528 Parts Catalog - G Series Rider - May 2001.pdf](../0528%20Parts%20Catalog%20-%20G%20Series%20Rider%20-%20May%202001.pdf). Text is machine-extracted; confirm part numbers against the PDF page before ordering.
+
+## Page 1
+
+```text
+Parts Manual
+ 
+Models
+ 
+987070 - G Series 
+987071 - G Series
+987072 - G Series
+ 
+08471600E  5/01
+Supercedes 08471600, A, B,C, D
+Printed in USA
+ 
+Professional G Series
+```
+
+## Page 2 — Unauthorized Replacement Parts
+
+```text
+2
+ 
+T
+ 
+HE
+ 
+ M
+ 
+ANUAL
+ 
+Before you operate your unit, carefully and completely 
+read manuals supplied with the unit. The contents will 
+provide you with an understanding of safety instructions 
+and controls during normal operation and maintenance.
+For your safety and the safety of others always read, 
+understand, and follow all DANGER, WARNING, and 
+CAUTION messages found in manuals and on safety 
+decals.
+Hardware descriptions are given in decimals.
+ 
+S
+ 
+ERVICE
+ 
+ 
+ 
+AND
+ 
+ R
+ 
+EPLACEMENT
+ 
+ P
+ 
+ARTS
+ 
+When ordering replacement parts or making service 
+inquiries, know the Model and Serial numbers of your unit 
+and engine.
+Numbers are located on the product registration card in 
+the unit literature package. They are printed on a serial 
+number label, located on the frame of your unit. 
+• Record Unit Model and Serial numbers here:
+• Record Engine Model and Serial numbers here:
+ 
+UNAUTHORIZED REPLACEMENT PARTS
+ 
+Use only Gravely replacement parts. The replacement of 
+any part on this vehicle with anything other than a 
+Gravely authorized replacement part may adversely 
+affect the performance, durability, or safety of this unit 
+and may void the warranty. Gravely disclaims liability for 
+any claims or damages, whether warranty, property 
+damage, personal injury or death arising out of the use of 
+unauthorized replacement parts.
+ 
+Decimals to Fractions
+ 
+.063
+1/16
+.563
+9/16
+.125
+1/8
+.625
+5/8
+.188
+3/16
+.688
+11/16
+.250
+1/4
+.750
+3/4
+.313
+5/16
+.813
+13/16
+.375
+3/8
+.875
+7/8
+.438
+7/16
+.938
+15/16
+.500
+1/2
+1.00
+1
+ 
+P
+ 
+RODUCT
+ 
+ R
+ 
+EGISTRATION
+ 
+A warranty registration card must be ﬁlled out, signed, 
+and returned at time of purchase.  This card activates the 
+warranty. Claims meeting requirements during limited 
+warranty period will be honored.
+ 
+Y
+ 
+OUR
+ 
+ S
+ 
+ATISFACTION
+ 
+ I
+ 
+S
+ 
+ I
+ 
+MPORTANT
+ 
+Questions? Please follow these helpful steps:
+ 
+1.
+Refer to the manuals supplied with your unit.
+They will guide you through safe and proper 
+operation and maintenance.
+They contain speciﬁcations on your unit.
+If your questions are not answered in these manuals, 
+go to step number two.
+2.
+Contact Your Dealer.
+Our dealers will be happy to supply any service or 
+advice required to keep your unit operating at peak 
+efﬁciency.
+A factory trained staff is available to support your 
+equipment needs. They stock genuine Gravely parts 
+and lubricants manufactured with the same precision 
+and skill as the original.
+If your questions are not resolved by the support 
+staff, ask for the manager or owner.
+When contacting your Dealer supply your model and 
+serial numbers.
+ 
+TO SPEED PARTS ORDERING:
+ 
+1.
+Know the model and serial numbers of your unit.
+2.
+Know the part number required.
+3.
+Know the quantity required.
+4.
+Know the part description.
+```
+
+## Page 3 — Ransmission
+
+```text
+3
+ 
+M
+ 
+ODELS
+ 
+Model 987070
+ 
+16 H.P. Briggs & Stratton with Hydraulic Lift
+Serial No. 000101 and up
+ 
+Model 987071
+ 
+13.5 HP Robin Engine with Hydraulic Lift
+Serial No. 000101 and up
+ 
+Model 987072
+ 
+20.5 H.P. Robin with Hydraulic Lift
+Serial No. 000101 and up
+ 
+T
+ 
+ABLE
+ 
+ O
+ 
+F
+ 
+ C
+ 
+ONTENTS
+ 
+D
+ 
+ECALS
+ 
+Decals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4
+ 
+T
+ 
+RANSMISSION
+ 
+Transmission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  6
+Number One Shaft - Forward Clutch . . . . . . . . . . . . .  7
+Number Two Shaft - Reverse Clutch . . . . . . . . . . . . .  8
+Number Three Shaft - 3rd and 4th Gear . . . . . . . . . .  9
+Number Four Shaft - Idler . . . . . . . . . . . . . . . . . . . . .  9
+Number Five Shaft - 1st and 2nd Gear . . . . . . . . . . .  9
+Number Six Shaft - Brake/Sliding Gear . . . . . . . . . .  10
+Number Seven Shaft - Pinion/Final Drive. . . . . . . . .  11
+Number Eight Shaft - Differential Assembly. . . . . . .  11
+Number Nine Shaft - PTO Clutch. . . . . . . . . . . . . . .  12
+Number Ten Shaft - PTO Drive Assembly . . . . . . . .  13
+Number Eleven - Fwd-Rev Clutch Assembly . . . . . .  13
+Number Twelve - Transmission Case Assembly. . . .  14
+Number Thirteen Transmission Cover . . . . . . . . . . .  15
+ 
+F
+ 
+RAME
+ 
+, D
+ 
+ECK
+ 
+, S
+ 
+EAT
+ 
+ 
+ 
+AND
+ 
+ W
+ 
+HEELS
+ 
+Frame. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16
+Hood and Grille . . . . . . . . . . . . . . . . . . . . . . . . . . . .  18
+Rear Deck and Seat. . . . . . . . . . . . . . . . . . . . . . . . .  20
+Rear Hitch . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  22
+Front and Rear Wheels . . . . . . . . . . . . . . . . . . . . . .  23
+ 
+H
+ 
+YDRAULICS
+ 
+Manual Lift . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  24
+Hydraulic System . . . . . . . . . . . . . . . . . . . . . . . . . . .  25
+ 
+S
+ 
+TEERING
+ 
+Steering - 13.5 & 16 HP Units . . . . . . . . . . . . . . . . .  26
+Steering - 20.5 HP Units . . . . . . . . . . . . . . . . . . . . .  28 
+Direction Control . . . . . . . . . . . . . . . . . . . . . . . . . . .  30
+Transmission Controls . . . . . . . . . . . . . . . . . . . . . . .  32
+Brake Linkage . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  34
+ 
+E
+ 
+NGINE
+ 
+, F
+ 
+UEL
+ 
+ 
+ 
+AND
+ 
+ E
+ 
+XHAUST
+ 
+ 
+ 
+Robin -13.5 HP Units . . . . . . . . . . . . . . . . . . . . . . . .  36
+Briggs and Stratton - 16 HP Units . . . . . . . . . . . . . .  38
+Robin - 20.5 HP Units . . . . . . . . . . . . . . . . . . . . . . .  40
+ 
+E
+ 
+LECTRICAL
+ 
+ 
+ 
+Electrical System . . . . . . . . . . . . . . . . . . . . . . . . . . .  42
+Continuity Diagrams. . . . . . . . . . . . . . . . . . . . . . . . .  44
+Wiring Diagrams. . . . . . . . . . . . . . . . . . . . . . . . . . . .  45
+© Copyright 2000, 2001 Ariens Company
+```
+
+## Page 4
+
+```text
+4
+ 
+D
+ 
+ECALS
+ 
+Model 987070, 071, 072
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+```
+
+## Page 5
+
+```text
+5
+ 
+D
+ 
+ECALS
+ 
+Model 987070, 071, 072
+ 
+Item Part No.
+Qty.
+Description
+ 
+1
+011989
+1
+Decal-E-System Warning
+2
+07725300
+1
+Decal-G Series Cover Plate (071)
+07725400
+1
+Decal-G Series Cover Plate (070, 072)
+3
+07741000
+1
+Decal-Model 14-G (071)
+07741100
+1
+Decal-Model 16-G (070)
+07741200
+1
+Decal-Model 20-G (072)
+4
+053131
+1
+Decal-Caution
+5
+07716800
+1
+Decal-G-Series Maintenance
+6
+07740900
+1
+Decal-Hood, G-Series (L.H.)
+07740800
+1
+Decal-Hood, G-Series (R.H.)
+7
+07741300
+1
+Decal-Rear Deck
+```
+
+## Page 6 — Ransmission
+
+```text
+6
+ 
+T
+ 
+RANSMISSION
+ 
+Model 987070, 071, 072 
+ 
+Item
+Part No.
+Qty.
+Description
+ 
+1
+Page 7
+No. 1 Shaft-Forward Clutch
+2
+Page 8
+No. 2 Shaft-Reverse Clutch
+3
+Page 9
+No. 3 Shaft-3rd and 4th Gear
+4
+Page 9
+No. 4 Shaft-Idler
+5
+Page 9
+No. 5 Shaft-1st and 2nd Gear
+6
+Page 10
+No. 6 Shaft-Brake-Sliding Gear
+7
+Page 11
+No. 7 Shaft-Pinion-Final Drive
+8
+Page 11
+No. 8 Shaft-Differential Assembly
+9
+Page 12
+No. 9 Shaft-PTO Clutch
+10
+Page 13
+No. 10 Shaft-PTO Drive Assembly
+11
+Page 13
+No. 11 Fwd-Rev Clutch Assembly
+12
+Page 14
+No. 12 Transmission Case Assembly
+13
+Page 15
+No. 13 Transmission Cover Assembly
+PJ0061
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 11
+ 12
+ 13
+```
+
+## Page 7
+
+```text
+7
+ 
+N
+ 
+UMBER
+ 
+ O
+ 
+NE
+ 
+ S
+ 
+HAFT
+ 
+ - F
+ 
+ORWARD
+ 
+ C
+ 
+LUTCH
+ 
+Model 987070, 071, 072
+ 
+Item
+Part No.
+Qty.
+Description
+ 
+1
+046371
+1
+Shaft, Forward Clutch
+2
+117989
+1
+Key, Woodruff .19 x 1.25
+3
+431787
+1
+Key, Woodruff .19 x .63
+4
+017949
+4
+Bearing, Roller .75 x 1.00 x .50
+5
+018025
+1
+Assembly, Gear and Bearing
+6
+036407
+5
+Washer, Hardened-Thrust .76 x 1.23 x .031
+7
+006741
+3
+Bearing, Needle Thrust .75 x 1.24 x .078
+8
+017926
+1
+Weldment, Shifter
+9
+020755
+1
+Weldment, Shift Rail
+10
+018011
+1
+Gear, Spur 2SP 10 Diametral Pitch 36 Teeth
+11
+018007
+1
+Assembly, Gear and Bearing
+12
+006742
+1
+Washer, Thrust Hardened .75 x 1.24 x .062
+13
+011135
+3
+Ring, Retaining-Internal .75 x .042
+14
+051320
+1
+Gear, Bevel
+15
+018003
+1
+Gear, 10 Diametral Pitch 16 Teeth  x .75
+16
+06413300
+1
+Washer, Hardened-Thrust .76 x 1.25 x .094
+17
+020444
+1
+Spring-Compression .085 x .80 x 1.00
+18
+421202
+1
+Pin-Roll .19 x 1.00
+19
+017929
+1
+Arm, Shifter
+20
+021141
+1
+Washer-Felt .44 x 1.00 x .031
+21
+017925
+1
+Bushing, Flange-Bronze .63 x .50 x 1.00
+22
+018035
+1
+Seal .75 x 1.63 x .25
+23
+050604
+1
+Hub,Clutch
+24
+046323
+1
+Seal 2.25 x 3.25 x .38
+25
+046321
+1
+Bearing-Ball 1.97 x 3.54 x .80
+26
+046322
+1
+Ring-Retaining-Internal 3.54 x .11
+27
+017919
+1
+Ring-Retaining-External 1.82 x .062
+28
+017913
+1
+Bearing-Needle .75 x 1.00 x .75
+PJ0071
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 12
+ 4
+ 6
+ 7
+ 13
+ 14
+ 15
+ 16
+ 6
+ 7
+ 17
+ 6
+ 13
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 28
+ 26
+ 27
+ 25
+```
+
+## Page 8
+
+```text
+8
+ 
+N
+ 
+UMBER
+ 
+ T
+ 
+WO
+ 
+ S
+ 
+HAFT
+ 
+ - R
+ 
+EVERSE
+ 
+ C
+ 
+LUTCH
+ 
+Model 987070, 071, 072 
+ 
+Item
+Part No.
+Qty.
+Description
+ 
+1
+431787
+2
+Key-Woodruff .19 x .63
+2
+034730
+1
+Shaft, Splined Reverse Clutch
+3
+036407
+6
+Washer-Hardened-Thrust .76 x 1.23 x .031
+4
+006741
+3
+Bearing-Needle Thrust .75 x 1.24 x .078
+5
+018020
+1
+Gear,Idler Assembly
+6
+017949
+4
+Bearing-Roller .75 x 1.0 x .50
+7
+018003
+1
+Gear,10 Diametral Pitch 16 Teeth x .75
+8
+011135
+3
+Ring-Retaining-Internal .75 x .042
+9
+006742
+1
+Washer-Thrust-Hardened .75 x 1.24 x .062
+10
+017947
+1
+Assembly, Reverse Gear and Bearing
+11
+020444
+1
+Spring-Compression .09 x .80 x 1.00
+12
+017919
+1
+Ring-Retaining-External 1.82 x .062
+13
+018872
+1
+Ring-Retaining-Internal 3.52 x .11
+14
+017915
+1
+Bearing-Ball 1.97 x 3.14 x .63
+15
+017917
+1
+Seal 2.25 x 3.00 x .38
+16
+051555
+1
+Hub,Clutch
+17
+018035
+1
+Seal .75 x 1.63 x .25
+18
+011063
+1
+Bearing-Needle .75 x 1.00 x .75
+PJ0081
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 1
+ 6
+ 10
+ 3
+ 4
+ 7
+ 8
+ 9
+ 3
+ 4
+ 11
+ 3
+ 8
+ 14
+ 15
+ 16
+ 17
+ 12
+ 13
+ 18
+```
+
+## Page 9 — Number Three - 3Rd And 4Th Gear
+
+```text
+9
+ 
+N
+ 
+UMBER
+ 
+ T
+ 
+HREE
+ 
+,  F
+ 
+OUR
+ 
+ AND FIVE SHAFTS
+Model 987070, 071, 072
+Item
+Part No.
+Qty.
+Description
+1
+018000
+1
+Washer-Thrust .06 x 1.15 x .093
+2
+017999
+1
+Bushing-Sleeve Steel 1.03 x 1.13 x .46
+3
+019535
+1
+Gear
+4
+017997
+1
+Shaft, Splined
+5
+017992
+2
+Gear, 10 Diametral Pitch 16 Teeth x .75
+6
+015118
+3
+Gear, 10 Diametral Pitch 20 Teeth x .60
+7
+017914
+1
+Bearing-Needle .63 x .81 x .75
+8
+017995
+1
+Shaft, Splined
+9
+015115
+2
+Gear, 10 Diametral Pitch 30 Teeth x .50
+10
+017993
+1
+Bushing-Sleeve Steel 1.03 x 1.13 x 1.13
+11
+017989
+1
+Shaft, Splined
+12
+017913
+4
+Bearing-Needle .75 x 1.00 x .75
+PJ0091
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+NUMBER THREE - 3RD AND 4TH GEAR
+NUMBER FOUR - IDLER
+ 6
+ 8
+ 9
+PJ0101
+NUMBER FIVE - 1ST AND 2ND GEAR
+ 9
+ 10
+ 5
+ 11
+ 6
+PJ0111
+ 7
+ 7
+ 12
+ 12
+ 12
+ 12
+```
+
+## Page 10 — Number Six Shaft - Brake / Sliding Gear
+
+```text
+10
+NUMBER SIX SHAFT - BRAKE / SLIDING GEAR
+Model 987070, 071, 072 
+Item
+Part No.
+Qty.
+Description
+1
+05965500
+1
+Bolt-Hex .50-13 x 2.75 Grade 5
+2
+06441900
+1
+Washer-Flat-Steel .53 x 1.06 x .095
+3
+018165
+1
+Bushing-Sleeve Steel .55 x .75 x 2.06
+4
+06535300
+1
+Nut-Locking-Center .62-11
+5
+040732
+1
+Assembly, Brake Band
+6
+021371
+1
+Drum-Brake
+7
+421202
+1
+Pin-Roll .19 x 1.00
+8
+017945
+1
+Arm, Shifter
+9
+021141
+1
+Washer-Felt .44 x 1.00 x .031
+10
+017944
+1
+Arm, Shifter
+11
+271089
+1
+Key-Woodruff Hard .13 x .38 Hard
+12
+017943
+1
+Bushing-Flange Bronze .76 x 1.13 x .75
+13
+015137
+1
+Seal .75 x 1.25 x .136
+14
+018018
+1
+O-Ring .625 x .75 x .062
+15
+017940
+1
+Weldment, 1st and 3rd Shifter
+16
+017937
+1
+Weldment, 2nd and 4th Shifter
+17
+014988
+1
+Gear, 8 Diametral Pitch 16 Teeth x .85
+18
+014987
+1
+Ring-Retaining External .92 x .125
+19
+021370
+1
+Shaft, Slide Gear
+20
+014989
+1
+Gear, Sliding 10 Diametral Pitch 36 Teeth x .59
+21
+014995
+1
+Gear, Sliding 10 Diametral Pitch 30 Teeth x .59
+22
+06413300
+1
+Washer-Hardened-Thrust .76 x 1.25 x .094
+23
+020761
+1
+Weldment, Rail Shift Fork 1 and 3
+24
+456384
+2
+Pin-Roll .25 x .75
+25
+020762
+1
+Weldment, Rail Shift Fork 2 and 4
+26
+017913
+2
+Bearing-Needle .75 x 1.00 x .75
+PJ0121
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 26
+ 26
+```
+
+## Page 11 — Number Eight - Differential Assembly
+
+```text
+11
+NUMBER SEVEN AND EIGHT SHAFTS
+Model 987070, 071, 072
+Item
+Part No.
+Qty.
+Description
+1
+019340
+2
+Washer-Hardened-Thrust 1.00 x 1.55 x .03
+2
+017987
+1
+Gear, 8 Diametral Pitch 30 Teeth x .75
+3
+017986
+1
+Pinion / Final Drive
+4
+017912
+1
+Bearing-Needle 1.00 x 1.25 x .75
+5
+06529800
+4
+Nut-Locking-Center .31-18
+6
+020514
+4
+Nut-Hex .31-18 Grade 8
+7
+023712
+4
+Bolt-Hex .31-18 x 2.75 Grade 8
+8
+050116
+2
+Axle, Bevel Gear Differential
+9
+046014
+2
+Bearing-Ball 1.57 x 2.68 x .59
+10
+046013
+2
+Cap, Differential End
+11
+021608
+2
+Ring-Retaining-External 1.15 x .093
+12
+019952
+2
+Pinion Bevel
+13
+046376
+2
+Block, Drive
+14
+023531
+1
+Gear, Final Drive
+15
+046012
+2
+Gear, Bevel
+16
+019954
+1
+Pin, Spider Pinion
+17
+431787
+2
+Key-Woodruff .19 x .63
+PJ0131
+ 1
+ 2
+ 3
+ 1
+NUMBER SEVEN -PINION / FINAL DRIVE
+NUMBER EIGHT - DIFFERENTIAL ASSEMBLY
+ 5
+ 6
+ 7
+ 8
+ 9 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 11
+ 15
+ 9
+ 10
+ 8
+ 12 13
+PJ0141
+ 17
+ 17
+ 4
+ 4
+```
+
+## Page 12 — Number Nine Shaft - Pto Clutch
+
+```text
+12
+NUMBER NINE SHAFT - PTO CLUTCH
+Model 987070, 071, 072 
+Item
+Part No.
+Qty.
+Description
+1
+011270
+2
+Ring-Retaining-External .57 x .05
+2
+018019
+1
+Lever,PTO
+3
+124549
+5
+Key-Woodruff .19 x .75
+4
+017966
+1
+Ring-Retaining-External 1.38 x 1.30
+5
+017967
+1
+Bearing-Ball 1.38 x 2.44 x .55
+6
+017952
+1
+Cup, Clutch
+7
+017953
+1
+Assembly, Clutch Cone Bearing
+8
+017957
+1
+Cup, Clutch
+9
+017949
+2
+Bearing-Roller .75 x 1.00 x .50
+10
+017958
+1
+Bushing-Sleeve Steel .891 x 1.00 x 1.21
+11
+018017
+1
+Shaft, PTO Yoke
+12
+018018
+2
+O-Ring .63 x .75 x .062
+13
+018016
+1
+Yoke, PTO
+14
+06413300
+1
+Washer-Hardened-Thrust .76 x 1.25 x .094
+15
+017962
+1
+Bushing-Sleeve 1.00 x 1.12 x 1.00
+16
+017960
+1
+Assembly, Shifting Collar
+17
+017959
+2
+Washer-Thrust 1.55 x 1.00 x .093
+18
+011225
+1
+Bearing-Needle-Thrust 1.00 x 1.55 x .078
+19
+034194
+1
+Sleeve, PTO Throw-Out
+20
+034193
+1
+Spring-Compression .19 x 5.50
+21
+017965
+1
+Gear, Spur PTO 10 Diametral Pitch 22 Teeth
+22
+015733
+2
+Ring-Retaining .70 x .93
+23
+017951
+1
+Shaft, PTO Clutch
+24
+58701400
+AR
+Kit, Sleeve and Spring
+PJ0151
+ 1
+ 2
+ 4
+ 5
+ 6
+ 3
+ 3
+ 7
+ 8
+ 9
+ 23
+ 24
+ 10
+ 11
+ 3
+ 12
+ 13 12
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 22
+ 1
+```
+
+## Page 13 — Number Eleven - Forward / Reverse Clutch Assembly
+
+```text
+13
+NUMBER TEN AND ELEVEN SHAFTS
+Model 987070, 071, 072
+Item
+Part No.
+Qty.
+Description
+1
+05968600
+1
+Bolt-Hex .50-20 x 1.50
+2
+06442800
+1
+Washer-Flat-Steel .66 x 1.31 x .095
+3
+017922
+1
+Gear, Spur PTO 10 Diametral Pitch 56 Teeth
+4
+017924
+1
+Bushing-Sleeve Steel 1.06 x 1.38 x 1.38
+5
+014640
+1
+Bearing-Assembly 1.00 x 1.98 x 1.24
+6
+04902800
+1
+Shaft, PTO
+7
+017923
+1
+Seal 1.38 x 2.13 x .32
+8
+044141
+1
+Rivet (Bag of 50 - 041608)
+9
+040692
+2
+Lining, Clutch
+10
+042481
+2
+Ring, Clutch
+11
+042482
+2
+Assembly, Clutch and Ring
+12
+035330
+2
+Bearing-Ball 1.57 x 3.15 x .71
+13
+035681
+2
+Pin, Clutch Spring
+14
+034734
+2
+Trunion, Forward-Reverse Clutch
+15
+06707500
+2
+Pin-Cotter .06 x .75
+16
+042482
+2
+Disc,Clutch
+PJ0162
+ 1
+ 2
+ 3
+ 4
+ 6
+ 7
+NUMBER TEN SHAFT - PTO DRIVE ASSEMBLY
+NUMBER ELEVEN - FORWARD / REVERSE CLUTCH ASSEMBLY
+ 8
+ 9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+PJ0170
+ 5
+ 16
+```
+
+## Page 14 — Number Twelve - Transmission Case Assembly
+
+```text
+14
+NUMBER TWELVE - TRANSMISSION CASE ASSEMBLY
+Model 987070, 071, 072 
+Item
+Part No.
+Qty.
+Description
+1
+06308600
+2
+Washer-Locking .31 x .078
+2
+05946900
+2
+Bolt-Hex .31-18 x 1.00 Grade 5
+3
+009660
+1
+Bearing-Needle .75 x 1.00 x .50
+4
+046302
+1
+Cap, Front PTO
+5
+015137
+1
+Seal .75 x 1.25 x .136
+6
+07704100
+1
+Plug, Cup .50
+7
+274301
+5
+Ball .31
+8
+017936
+4
+Spring-Compression .045 x .30 x 1.50
+9
+103877
+3
+Plug-Pipe .12 Square Head Unﬁnished Steel
+10
+018200
+1
+Pin, Interlock
+11
+421743
+1
+Plug, Cup .38
+12
+050115
+1
+Assembly, Transmission Case
+13
+019472
+1
+Cap, Pipe .50 NPT
+14
+024772
+1
+Spring-Compression .045 x .30 x .94
+15
+07024300
+1
+Nipple, Pipe .50 x 2.50 Unﬁnished Steel
+16
+018421
+1
+Plate, Cover
+17
+06436200
+2
+Washer-Flat-Steel .41 x .81 x .065
+18
+05959400
+2
+Bolt-Hex .38-16 x .75 Grade 5
+19
+07023900
+1
+Plug-Pipe .50 Square Head Unﬁnished Steel
+20
+07024000
+1
+Elbow .50 x 90 Straight Unﬁnished
+21
+018030
+1
+Gasket
+22
+042976
+1
+Retainer, Axle Bearing
+23
+050743
+1
+Bearing Ball 1.25 x 2.25 x .50
+24
+018812
+1
+Ring-Retaining-External 2.49 x .078
+25
+05960000
+4
+Bolt-Hex .50-13 x 3.25 Grade 5
+26
+051096
+1
+Seal 1.25 x 2.25 x .50
+27
+08702700
+1
+Gasket, Cover Plate
+28
+06529600
+6
+Nut-Locking-Center .38-16
+29
+018027
+1
+Gasket-Transmission Cover
+PJ0181
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 7
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 9
+ 27
+ 28
+ 29
+```
+
+## Page 15 — Number Thirteen - Transmission Cover Assembly
+
+```text
+15
+NUMBER THIRTEEN - TRANSMISSION COVER ASSEMBLY
+Model 987070, 071, 072
+Item
+Part No.
+Qty.
+Description
+1
+05960000
+4
+Bolt-Hex .50-13X3.25 Grade 5
+2
+051096
+1
+Seal 1.25 x 2.25 x .50
+3
+018812
+1
+Ring-Retaining-External 2.49 x .078
+4
+050473
+1
+Bearing-Ball 1.25 x 2.25 x .50 Sealed
+5
+046061
+1
+Axle Bearing Retainer
+6
+018030
+1
+Gasket
+7
+050117
+1
+Assembly, Transmission Cover
+8
+070238
+1
+Plug-Pipe .38 Suare Head Unﬁnished Steel
+9
+05963300
+2
+Bolt-Hex .38-16 x 2.00 Grade 5
+10
+018089
+2
+Pin-Dowel .38 x .63
+11
+05962900
+2
+Bolt-Hex .38-16 x 2.25 Grade 5
+12
+05957900
+4
+Bolt-Hex .38-16 x 1.50 Grade 5
+PJ0190
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 12
+```
+
+## Page 16
+
+```text
+16
+FRAME
+Model 987070, 071, 072 
+PJ0200
+ 1
+ 2
+ 3
+ 4
+ 3
+ 5
+ 5
+ 3
+ 5
+ 6
+ 7
+ 8
+ 37
+ 5
+ 3
+ 9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 3
+ 27
+ 28
+ 29
+ 30
+ 30
+ 31
+ 32
+ 33
+ 34
+ 14
+ 35
+ 38
+ 39
+ 40
+ 3
+ 36
+```
+
+## Page 17
+
+```text
+17
+FRAME
+Model 987070, 071, 072
+Item
+Part No.
+Qty.
+Description
+1
+087815
+2
+Tank Support
+2
+090378
+2
+Rod, Tank
+3
+06529700
+26
+Nut-Locking-Center .25-20
+4
+06114400
+2
+Screw-Machine .25-20 x .75
+5
+05946800
+18
+Bolt-Hex .25-20 x .75 Grade 5
+6
+08759401
+1
+Instrument Panel
+077255
+1
+Decal, G Series Instructions Panel
+7
+06117900
+2
+Screw-Machine 6-32 x .75 Hex Washer Head
+8
+018183
+2
+Bumper
+9
+040548
+1
+Bracket, Instrument Panel
+10
+040449
+1
+Bracket, Instrument Panel Left Hand
+040450
+1
+Bracket, Instrument Panel Right Hand
+11
+041240
+1
+Support Instrument
+12
+07414200
+4
+Screw-Tapping .25-20 x .75 Hex Washer Head
+13
+039875
+1
+Plate, Control Cover
+077254
+1
+Decal, G-Series Cover Plate (071)
+077253
+1
+Decal, G-Series Cover Plate (070, 072)
+14
+05958000
+2
+Bolt-Hex .38-16 x 1.25 Grade 5
+15
+046305
+1
+Bracket, Interlock Switch
+16
+05947000
+4
+Bolt-Hex .31-18 x .75 Grade 5
+17
+040822
+2
+Bracket, Bushing Lock
+18
+06537300
+4
+Nut-Hex .50-13
+19
+010174
+2
+Bushing-Flange Nylon .76 x 1.00 x .58 x 1.48
+20
+05962000
+4
+Bolt-Hex .50-13 x 1.50 Grade 5
+21
+05947400
+2
+Bolt-Hex .25-20 x 1.25 Grade 5
+22
+06435800
+2
+Washer-Flat-Steel .31 x .73 x .065
+23
+034723
+2
+Bushing-Sleeve Steel .27 x .38 x.25
+24
+024357
+2
+Bumper, Seat
+25
+045594
+2
+Bracket, Rear Hitch
+26
+06536300
+2
+Nut-Locking-Center .50-13
+27
+052662
+2
+Plate, Forward-Reverse Mounting
+28
+06529800
+4
+Nut-Locking-Center .31-18
+29
+06714000
+4
+Pin-Hair-Internal .15 x 2.94
+30
+06529600
+2
+Nut-Locking-Center .38-16
+31
+05968600
+4
+Bolt-Hex .50-20 x 1.50
+32
+06535000
+4
+Nut-Lug .50-20
+33
+040207
+1
+Rod, Frame External Brace
+34
+046306
+1
+Bracket,Fender Hold-Up
+35
+045235
+1
+Weldment, Frame
+36
+021087
+AR
+Weldment, Mower Bracket Right Hand
+021088
+AR
+Weldment, Mower Bracket Left Hand
+37
+06538900
+2
+Nut-Locking-Nylon 6-32 with Insert
+38
+ 451953
+2
+Rivet-Solid .50 x .81
+39
+ 08584200
+2
+Latch, Attachment
+40
+ 08722100
+2
+Plate,Mower Bracket
+```
+
+## Page 18 — Hood And Grille
+
+```text
+18
+HOOD AND GRILLE
+Model 987070, 071, 072 
+PJ0040
+W
+I
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 22
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 19
+ 21
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30
+ 20
+ 26
+ 7
+```
+
+## Page 19 — Hood And Grille
+
+```text
+19
+HOOD AND GRILLE
+Model 987070, 071, 072
+Item
+Part No.
+Qty.
+Description
+1
+038674
+1
+Hood, Tractor
+2
+06114400
+3
+Screw-Machine .25-20 x .75
+3
+035294
+2
+Latch, Flexible
+4
+011884
+6
+Rivet-Pop .125 x .23
+5
+039828
+2
+Bracket, Hood Latch Mounting
+6
+07415600
+4
+Screw-Tapping 8-32 x .50 Hex Washer Head
+7
+06529700
+11
+Nut-Locking-Center .25-20
+8
+06437300
+4
+Washer-Flat-Steel .28 x .62 x .065
+9
+06219900
+4
+Bolt-Round Head Square Neck .25-20 x .75 Grade 5
+10
+039070
+2
+Ring, Head Light Retainer
+11
+05947700
+4
+Bolt-Hex .25-20 x 1.00 Grade 5
+12
+038672
+1
+Panel, Headlight Reﬂector
+13
+038673
+1
+Bezel, Headlight
+14
+038671
+1
+Panel, Headlight Lense
+15
+06536000
+4
+Nut-Locking-Nylon 10-24 with Insert
+16
+06116900
+4
+Screw-Machine 10-24 x .75 Hex Washer Head
+17
+039831
+1
+Grill
+18
+07412000
+2
+Screw-Tapping .25-20 x .50 Hex Washer Head
+19
+06535500
+8
+Nut-Locking-Center .38-16
+20
+06435900
+6
+Washer-Flat-Steel .44 x 1.00 x .083
+21
+035518
+2
+Grommet
+22
+039047
+1
+Hinge, Hood-Left Hand
+039049
+1
+Hinge, Hood-Right Hand
+23
+036849
+2
+Spacer- Flanged .39 x .50 x .78 x .88
+24
+06529800
+2
+Nut-Locking-Center .31-18
+25
+010908
+2
+Bushing-Sleeve Steel .41 x 1.00 x 1.00
+26
+05948700
+6
+Bolt-Hex .38-16 x 1.00 Grade 5
+27
+06437200
+2
+Washer-Flat-Steel .344X.688X.065
+28
+05957400
+2
+Bolt-Hex .31-18 x 1.75 Grade 5
+29
+039836
+1
+Panel, Side Left Hand
+039835
+1
+Panel, Side Right Hand
+30
+05963300
+2
+Bolt-Hex .38-16 x 2.00 Grade 5
+```
+
+## Page 20 — Rear Deck And Seat
+
+```text
+20
+REAR DECK AND SEAT
+Model 987070, 071, 072 
+PJ0014
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 18
+ 23
+ 24
+ 25
+```
+
+## Page 21 — Rear Deck And Seat
+
+```text
+21
+REAR DECK AND SEAT
+Model 987070, 071, 072
+Item
+Part No.
+Qty.
+Description
+1
+051329
+2
+Reﬂector
+2
+06116700
+4
+Screw-Machine 10-24 x .50 Hex Washer Head
+3
+06539200
+4
+Nut-Locking 10-32 Nylon
+4
+051601
+1
+Bracket, Seat Support
+5
+040453
+1
+Weldment, Seat Pan Head Notched
+6
+024996
+1
+Strap, Fender Hold-Up
+7
+06707500
+1
+Pin-Cotter .06 x .75
+8
+018420
+1
+Pin-Clevis .25 x .406
+9
+05948700
+2
+Bolt-Hex .38-16 x 1.00 Grade 5
+10
+06436200
+2
+Washer-Flat-Steel .41 x .81 x .065
+11
+024815
+2
+Bushing-Flange .41 x .88 x .27 x .14
+12
+051278
+1
+Bracket, Seat
+13
+08798800
+1
+Heat Shield 30.5 x 14 (070, 072)
+14
+08798900
+1
+Heat Shield 12 x 9 (071)
+15
+09112400
+1
+Seat,  V-560 High Back
+16
+05947000
+4
+Bolt-Hex .31-18 x .75 Grade 5
+17
+06308600
+8
+Washer-Locking .31 x .078 Regular
+18
+06437200
+4
+Washer-Flat-Steel .34 x .69 x .065
+19
+047528
+2
+Spring, Seat
+20
+06216100
+4
+Bolt-Round Head Square Neck .31-18 x 1.00 Grade 5
+21
+035670
+4
+Spacer, Seat Slider
+22
+06529800
+8
+Nut-Locking-Center .31-18
+23
+03600800
+1
+Slides, Seat
+24
+039059
+4
+Screw-Cap .31-18 x .875 Grade 5
+25
+06529200
+4
+Nut-Hex .31-18
+```
+
+## Page 22 — Rear Hitch
+
+```text
+22
+REAR HITCH
+Model 987070, 071, 072 
+Item
+Part No.
+Qty.
+Description
+1
+04902700
+1
+Weldment, Engine Guard  (071)
+047561
+1
+Guard, Engine  (070, 072)
+2
+019517
+1
+Plate, Hitch
+3
+05946000
+8
+Bolt-Hex .50-13 x 1.75 Grade 8
+4
+06536300
+8
+Nut-Locking-Center .50-13
+5
+047529
+2
+Arm, Rear Hitch
+PJ0210
+ 1
+ 2
+ 3
+ 4
+ 5
+ 4
+ 3
+ 5
+```
+
+## Page 23 — Front And Rear Wheels
+
+```text
+23
+FRONT AND REAR WHEELS
+Model 987070, 071, 072
+Item
+Part No.
+Qty.
+Description
+1
+187184
+2
+Key-Woodruff .25 x 1.38 x .41 SAE 127
+2
+040304
+2
+Hub, Tapered 4-Wheel  (070)
+040304
+1
+Hub, Tapered 4-Wheel  (072)
+04903553
+2
+Hub  (071)
+04903553
+1
+Hub  (072)
+3
+06439800
+2
+Washer-Flat-Steel.81 x 2.00 x .148
+4
+06535400
+2
+Nut-Locking-Center .75-10
+5
+052994
+2
+Tire/Wheel Assembly 23 x 8.5-12  (070, 071)
+052995
+2
+Tire/Wheel Assembly 23 x 10.50-12  (072)
+6
+048920
+AR
+Tire, Rear 23 x 8.50-12  (070, 071)
+048921
+AR
+Tire, 23 x 10.50-12  (072)
+7
+048922
+AR
+Weldment, Rim
+8
+07051400
+10
+Bolt, Lug .44-20 x 1.00
+9
+011191
+4
+Valve Stem Assembly
+10
+06439000
+4
+Washer-Flat-Steel .81 x 1.50 x .135
+11
+018448
+2
+Spacer .75 x 1.00 x .50
+12
+018447
+1
+Seal 1.21 x 1.79 x .47
+13
+018446
+2
+Bearing-Cone .75 x .61
+14
+018445
+2
+Bearing-Cup 1.78 x .48
+15
+018923
+AR
+Tire,Front 16 x 6.50-8  (070, 071)
+046063
+AR
+Tire, 16 x 7.50-8  (072)
+16
+048925
+AR
+Weldment, Rim
+17
+048542
+2
+Tire/Wheel Assembly 16 x 6.50-8  (070, 071)
+048538
+2
+Tire/Wheel Assembly 16 x 7.50-8  (072)
+18
+06442800
+2
+Washer-Flat-Steel .67 x 1.31 x .095
+19
+06535300
+2
+Nut-Locking-Center .62-11
+20
+018449
+2
+Dust Cap
+PJ0220
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 9
+ 14
+ 13
+ 11
+ 18
+ 19
+ 20
+```
+
+## Page 24 — Manual Lift
+
+```text
+24
+MANUAL LIFT
+Model 987071 
+Item
+Part No.
+Qty.
+Description
+1
+07518700
+1
+Handle Grip
+2
+011117
+1
+Guide, Push Rod
+3
+011113
+1
+Assembly, Lever Lift
+4
+019367
+1
+Tip, Push Rod
+5
+011118
+1
+Rod, Lever Push
+6
+011112
+1
+Ring-Retaining-External .84 x .056
+7
+018355
+2
+Bushing-Flange 1.02 x 1.39 x .75 x 1.75 Nylon
+8
+018404
+1
+Shaft, Lift Lever Weldment
+9
+010670
+1
+Knob-Control .44-20 x .50
+10
+011105
+1
+Spring, Stop
+11
+011106
+1
+Stop, Lever
+12
+011103
+1
+Casting, Locator
+13
+187184
+1
+Key-Woodruff .25 x 1.38 x .41 SAE 127
+14
+06529600
+2
+Nut-Locking-Center .38-16
+15
+018732
+1
+Rod, Lever Stop
+16
+05958000
+2
+Bolt-Hex .38-16 x 1.25 Grade 5
+17
+102593
+1
+Screw-Set .38-16 x .50
+18
+011116
+1
+Pawl, Lever
+19
+010682
+1
+Spring-Compression .07 x .72 x 2.00
+20
+06435900
+1
+Washer-Flat-Steel .44 x 1.00 x .083
+PJ0230
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 7
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+```
+
+## Page 25 — Hydraulic System
+
+```text
+25
+HYDRAULIC SYSTEM
+Model 987070, 072
+Item
+Part No.
+Qty.
+Description
+1
+05948700
+2
+Bolt-Hex .38-16 x 1.00 Grade 5
+2
+038842
+4
+Washer-Flat-Steel .39 x .88 x .18
+3
+21509800
+1
+Assembly, Motor
+4
+092214
+2
+Assembly, Hose Pump To Cylinder
+5
+05959700
+1
+Bolt-Hex .50-13 x 2.00 Grade 5
+6
+018826
+2
+Adapter
+7
+011112
+4
+Ring-Retaining-External .84 x .056
+8
+031284
+1
+Cylinder, Hydraulic
+9
+018830
+1
+Shaft, Hydraulic Cylinder
+10
+018355
+2
+Bushing-Flange 1.02 x 1.39 x .75 x 1.75 Nylon
+11
+06536300
+1
+Nut-Locking-Center .50-13
+12
+087576
+1
+Weldment, Mower Lift
+13
+200018
+1
+Reservior Cap-Electric/Hydraulic Pump
+14
+214191
+1
+Reservior Tank
+15
+200014
+1
+Reservior Seal, O-Ring
+16
+21510000
+1
+O-Ring
+17
+21509900
+1
+Adapter Assembly
+18
+21510100
+1
+Screw, O-Ring and Spacer Assembly
+19
+08725000
+AR
+Pump, Electric Hydraulic
+20
+21526300
+1
+Coupler
+21
+21510200
+1
+Seal/O-Ring Kit, Electric/Hydraulic Pump
+PJ0031
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 6
+ 7
+ 7
+ 7
+ 8
+ 9
+ 7
+ 10
+ 11
+ 10
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+```
+
+## Page 26 — Steering - 13.5 And 16 H.P. Units
+
+```text
+26
+STEERING - 13.5 AND 16 H.P. UNITS
+Model 987070, 071 
+PJ0240
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 26
+ 27
+ 28
+ 29
+ 30
+ 30
+ 31
+ 26
+ 32
+ 33
+ 34
+ 35
+ 36
+ 47
+ 31
+ 37
+ 38
+ 39
+ 40
+ 41
+ 42
+ 43
+ 44
+ 45
+ 46
+ 29
+```
+
+## Page 27 — Steering - 13.5 And 16 H.P. Units
+
+```text
+27
+STEERING - 13.5 AND 16 H.P. UNITS
+Model 987070, 071
+Item
+Part No.
+Qty.
+Description
+1
+031426
+1
+Cap, Steering Wheel
+2
+06539300
+1
+Nut-Jam .63-11
+3
+06442800
+1
+Washer-Flat-Steel .67 x 1.31 x .095
+4
+031281
+1
+Steering Wheel
+5
+047311
+1
+Boot, Steering Column
+6
+010174
+1
+Bushing-Flange .77 x 1.00 x .58 x 1.48 Nylon
+7
+040984
+1
+Tube, Plastic 1.00 I.D.
+8
+047530
+1
+Weldment, Steering Shaft
+9
+06435700
+2
+Washer-Flat-Steel .38 x .88 x 75 x .083
+10
+021246
+1
+Strap, Rack and Pinion
+11
+06529600
+2
+Nut-Locking-Center .38-16
+12
+040130
+2
+Weldment, Steering
+13
+021077
+2
+Bushing-Flange .63 x .88 x .47 x 1.12
+14
+021076
+2
+Bushing, Steel .39 x .62 x .68
+15
+051851
+1
+Grade, Rack
+16
+05963300
+2
+Bolt-Hex .38-16 x 2.00 Grade 5
+17
+06529200
+2
+Nut-Hex .31-18
+18
+06529800
+2
+Nut-Locking-Center .31-18
+19
+05961800
+2
+Bolt-Hex .50-13 x 6.00 Grade 5
+20
+021078
+2
+Sleeve,Pivot
+21
+05962800
+2
+Bolt-Hex .44-14 x 1.50 Grade 5
+22
+035344
+1
+Washer-Thrust .51 x .92 x .031
+23
+035064
+1
+Support, Steering Shaft
+24
+06536400
+2
+Nut-Locking-Center .44-14
+25
+06707000
+1
+Pin-Cotter .09 x 1.00
+26
+411027
+5
+Fitting-Lube .25-28 x .26
+27
+06539100
+1
+Nut-Hex-Slotted .50-13
+28
+06413300
+2
+Washer-Hardened-Thrust .76 x 1.25 x .094
+29
+06538800
+4
+Nut-Locking-Nylon .38-24
+30
+02917100
+4
+Joint, Ball
+31
+018785
+2
+Cap, Front Axle
+32
+021079
+1
+Plate, Adjustment
+33
+06222800
+2
+Bolt-Round Head Square Neck .31-18 x 5.50 Grade 5
+34
+06536300
+2
+Nut-Locking-Center .50-13
+35
+06534700
+4
+Nut-Jam .38-24
+36
+040630
+2
+Rod, Steering
+37
+05968800
+1
+Bolt-Hex .75-10 x 4.50 Grade 5
+38
+023237
+1
+Tube, Axle Pivot
+39
+411031
+1
+Fitting-Lube 45 Degree
+40
+06535400
+1
+Nut-Locking-Center .75-10
+41
+021543
+2
+Bearing-Thrust .88 x 1.43 x .078
+42
+06535600
+2
+Nut-Hex .62-11
+43
+040126
+2
+Arm, Tie Rod Axle
+44
+043359
+4
+Bushing-Sleeve .87 x 1.00 x 1.00
+45
+045400
+1
+Axle, Steering
+46
+021541
+4
+Washer-Thrust .88 x 1.43 x .032
+47
+018463
+2
+Weldment, King Pin
+```
+
+## Page 28 — Steering - 20.5 H.P. Units
+
+```text
+28
+STEERING - 20.5 H.P. UNITS
+Model 987072 
+PJ0250
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 26
+ 26
+ 22
+ 26
+ 23
+ 24
+ 25
+ 27
+ 28
+ 29
+ 30
+ 31
+ 32
+ 33
+ 34
+ 35
+ 36
+ 35
+ 30
+ 29
+ 37
+ 38
+ 39
+ 40
+ 41
+ 42
+ 43
+ 44
+ 45
+ 46
+ 47
+ 48
+ 49
+ 50
+ 51
+ 32
+```
+
+## Page 29 — Steering - 20.5 H.P. Units
+
+```text
+29
+STEERING - 20.5 H.P. UNITS
+Model 987072
+Item
+Part No.
+Qty.
+Description
+1
+031426
+1
+Cap, Steering Wheel
+2
+06539300
+1
+Nut-Jam .625-11
+3
+06442800
+1
+Washer-Flat-Steel .66 x 1.31 x .095
+4
+031281
+1
+Steering Wheel
+5
+047311
+1
+Boot, Steering Column
+6
+010174
+1
+Bushing-Flange .76 x 1.00 x .58 x 1.48 Nylon
+7
+040984
+1
+Tube, Plastic 1.00 I.D.
+8
+047530
+1
+Weldment, Steering Shaft
+9
+06435700
+2
+Washer-Flat-Steel .38 x .88 x .083
+10
+021246
+1
+Strap, Rack and Pinion
+11
+06529600
+2
+Nut-Locking-Center .38-16
+12
+045643
+2
+Weldment, Steering Arm
+13
+021077
+2
+Bushing-Flange .63 x .88 x .47 x 1.12
+14
+021076
+2
+Bushing,Steel .39 x .62 x .68 Steel
+15
+051851
+1
+Grade, Rack
+16
+05963300
+2
+Bolt-Hex .38-16 x 2.00 Grade 5
+17
+06529200
+2
+Nut-Hex .31-18
+18
+06529800
+2
+Nut-Locking-Center .31-18
+19
+05961800
+2
+Bolt-Hex .50-13 x 6.00 Grade 5
+20
+021078
+2
+Sleeve, Pivot
+21
+05962800
+2
+Bolt-Hex .44-14 x 1.50 Grade 5
+22
+035344
+1
+Washer-Thrust .51 x .92 x .031
+23
+035064
+1
+Support, Steering Shaft
+24
+06536400
+2
+Nut-Locking-Center .44-14
+25
+06707000
+1
+Pin-Cotter .09 x 1.00
+26
+411027
+5
+Fitting-Lube .25-28 x .26
+27
+06539100
+1
+Nut-Hex-Slotted .50-13
+28
+06413300
+2
+Washer-Hardened-Thrust .76 x 1.25 x .094
+29
+06536300
+6
+Nut-Locking-Center .50-13
+30
+06307300
+4
+Washer-Locking .50 x .125
+31
+05968800
+1
+Bolt-Hex .75-10 x 4.50 Grade 5
+32
+018785
+2
+Cap, Front Axle
+33
+021079
+1
+Plate, Adjustment
+34
+06222800
+2
+Bolt-Round Head Square Neck .31-18 x 5.50 Grade 5
+35
+05961000
+4
+Bolt-Hex .50-13 x 2.25 Grade 5
+36
+044941
+2
+Rod End, Steering Right Hand
+37
+044940
+2
+Tie Rod, Steering
+38
+06539500
+2
+Nut-Jam .50-20 Grade 2
+39
+044942
+2
+Rod End, Steering Left Hand
+40
+044939
+2
+Arm, Tie Rod Axle
+41
+06537000
+2
+Nut-Center-Lock .31-24
+42
+023237
+1
+Tube, Axle Pivot
+43
+411031
+1
+Fitting-Lube 45 Degree
+44
+06535400
+1
+Nut-Locking-Center .75-10
+45
+021543
+2
+Bearing-Thrust .88 x .43 x .078
+46
+06535600
+2
+Nut-Hex .62-11
+47
+05968000
+2
+Bolt-Hex .31-24 x 1.75 Gear 5
+48
+043359
+4
+Bushing-Sleeve .87 x 1.00 x 1.00
+49
+045400
+1
+Axle, Steering
+50
+021541
+4
+Washer-Thrust .88 x 1.43 x .032
+51
+018463
+2
+Weldment, King Pin
+```
+
+## Page 30 — Direction Control
+
+```text
+30
+DIRECTION CONTROL
+Model 987070, 071, 072 
+PJ0260
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 5
+ 7
+ 4
+ 8
+ 8
+ 9
+ 10
+ 11
+ 3
+ 12
+ 13
+ 6
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30
+ 19
+ 30
+ 31
+ 32
+ 28
+ 33
+ 34
+ 35
+ 36
+ 37
+ 38
+ 8
+```
+
+## Page 31 — Direction Control
+
+```text
+31
+DIRECTION CONTROL
+Model 987070, 071, 072
+Item
+Part No.
+Qty.
+Description
+1
+05946900
+2
+Bolt-Hex .31-18 x 1.00 Grade 5
+2
+046309
+1
+Weldment, Forward-Reverse Actuating
+3
+06529800
+2
+Nut-Locking-Center .31-18
+4
+040305
+2
+Bushing-Flange .50 x .88 x .70 Steel
+5
+05943100
+2
+Bolt-Hex .38-16 x 2.50
+6
+06529400
+3
+Nut-Hex .38-16
+7
+043789
+1
+Spring, Reverse Clutch
+8
+06529300
+2
+Nut-Jam .50-13
+9
+06537300
+1
+Nut-Hex .50-13
+10
+06306600
+1
+Washer-Locking .50 x .151
+11
+06435700
+1
+Washer-Flat-Steel .38 x .88 x .083
+12
+05957800
+1
+Bolt-Hex .38-16 x 3.00 Grade 5
+13
+039843
+1
+Strap, Neutral Detent
+14
+040360
+1
+Bushing, Sleeve .33 x .50 x .50l Steel
+15
+06533400
+1
+Nut-Locking-Center .25-28
+16
+06437300
+1
+Washer-Flat-Steel .28 x .62 x .065
+17
+039842
+1
+Roller-Clutch Cam .25 x .75 x .56
+18
+05968500
+1
+Bolt-Hex .25-28 x 1.38
+19
+06529600
+2
+Nut-Locking-Center .38-16
+20
+039844
+1
+Spring-Tension .06 x .50 x 3.10
+21
+039841
+1
+Arm, Forward-Reverse Clutch Roll
+22
+039840
+1
+Rod, Forward-Reverse Slide
+23
+06219200
+1
+Bolt-Round Head Square Neck .31-18 x 1.25 Grade 5
+24
+034715
+1
+Spring, Forward-Reverse Clutch
+25
+051423
+1
+Weldment,Forward-Reverse Rod
+26
+045090
+1
+Pedal, Foot Clutch
+27
+046043
+1
+Pad, Foot Clutch Pedal
+28
+06536300
+1
+Nut-Locking-Center .50-13
+29
+05964400
+1
+Bolt-Hex .50-13 x 6.50 Grade 5
+30
+010174
+2
+Bushing-Flange .76 x 1.00 x .58 x 1.48 Nylon
+31
+045094
+1
+Bracket, Clutch Pedal Pivot
+32
+06442000
+2
+Washer-Flat-Steel .56 x 1.38 x .11
+33
+034738
+2
+Bushing-Flange .52 x .75 x .75 x 1.00
+34
+05958900
+2
+Bolt-Hex .50-13 x 1.25 Grade 5
+35
+045789
+1
+Bushing-Flange .32 x .62 x .312
+36
+06534700
+1
+Nut-Jam .38-24
+37
+05958000
+1
+Bolt-Hex .38-16 x 1.25 Grade 5
+38
+051425
+1
+Rod End, .38 Right Hand
+```
+
+## Page 32 — Transmission Control
+
+```text
+32
+TRANSMISSION CONTROL
+Model 987070, 071, 072 
+PJ0270
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 3
+ 9
+ 10
+ 11
+ 11
+ 12
+ 8
+ 13
+ 14
+ 15
+ 6
+ 1
+ 16
+ 17
+ 18
+ 19
+ 20 21
+ 6
+ 22
+ 23
+ 24
+ 25
+ 26
+ 24
+ 27
+ 9
+ 28
+```
+
+## Page 33 — Transmission Control
+
+```text
+33
+TRANSMISSION CONTROL
+Model 987070, 071, 072
+Item
+Part No.
+Qty.
+Description
+1
+05947000
+2
+Bolt-Hex .31-18 x .75 Grade 5
+2
+06713100
+1
+Pin-Cotter .25 x 2.00
+3
+06529800
+2
+Nut-Locking-Center .31-18
+4
+05710200
+4
+Ring-Retaining-External .50 x .042
+5
+08764200
+1
+Shaft, Cross
+6
+06441900
+5
+Washer-Flat-Steel .53 x 1.06 x .095
+7
+06529600
+2
+Nut-Locking-Center .38-16
+8
+06435900
+4
+Washer-Flat-Steel .44 x 1.00 x .083
+9
+010670
+2
+Knob-Control .44-20 x .50
+10
+018371
+1
+Lever, Shift
+11
+033994
+2
+Rod, Shift
+12
+06535900
+4
+Nut-Hex-Jam .38-16
+13
+033986
+2
+Bushing-Sleeve .40 x .49 x 1.63 Steel
+14
+033988
+2
+Arm, Shifter Right
+15
+033989
+2
+Arm, Shifter Left
+16
+018372
+1
+Spring-Compression .085 x .50 x 2.75
+17
+033990
+1
+Lever, High-Low Shift
+18
+034067
+1
+Grip, Handle
+19
+06811900
+1
+Pin-Clevis .38 x .95
+20
+018380
+1
+Clevis,.38-24 Adjustable
+21
+06707300
+1
+Pin-Cotter .12 x .75
+22
+040143
+1
+Rod, 2-Speed
+23
+06713500
+3
+Pin-Hair Internal .08 x .18 x 1.18
+24
+06707100
+4
+Pin-Cotter .12 x 1.00
+25
+018386
+1
+Rod, PTO
+26
+018387
+1
+Yoke, .50-20 x 3.00
+27
+06812100
+1
+Pin-Clevis .50 x 1.21
+28
+034065
+1
+Assembly, PTO Control
+```
+
+## Page 34 — Brake Linkage
+
+```text
+34
+BRAKE LINKAGE
+Model 987070, 071, 072 
+PJ0280
+ 1
+ 2
+ 3
+ 4
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 11
+ 20
+ 21
+ 22
+ 22
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30
+ 31
+ 32
+ 33
+ 34
+ 35
+ 36
+ 37
+ 38
+ 39
+ 40
+ 41
+ 31
+ 39
+ 39
+ 39
+```
+
+## Page 35 — Brake Linkage
+
+```text
+35
+BRAKE LINKAGE
+Model 987070, 071, 072
+Item
+Part No.
+Qty.
+Description
+1
+06814000
+1
+Pin-Clevis .31 x .94
+2
+00513800
+1
+Yoke, .31-24 x 2.25
+3
+06536700
+1
+Nut- Jam .31-24
+4
+06706900
+2
+Pin-Cotter .09 x .75
+5
+045109
+1
+Rod, Parking Brake
+6
+124549
+1
+Key-Woodruff .19 x .75
+7
+045104
+1
+Weldment, Brake Cross Shaft
+8
+010174
+2
+Bushing-Flange .76 x 1.00 x .58 x 1.48
+9
+011270
+1
+Ring-Retaining-External .57 x .05
+10
+018019
+1
+Lever, PTO
+11
+06707300
+2
+Pin-Cotter .12 x .75
+12
+06811900
+1
+Pin-Clevis .38 x .95
+13
+018380
+1
+Clevis,.38-24 Adjustable
+14
+06534700
+1
+Nut-Jam .38-24
+15
+045102
+1
+Rod,Brake Right Hand
+16
+011329
+1
+Clip, Spring
+17
+011263
+1
+Spring-Tension .095 x .50 x 5.5
+18
+020772
+1
+Arm, Parking Brake Lock
+19
+05958000
+1
+Bolt-Hex .38-16 x 1.25 Grade 5
+20
+06436200
+3
+Washer-Flat-Steel .41 x .81 x .065
+21
+06535900
+1
+Nut-Hex-Jam .38-16
+22
+020775
+2
+Washer-Flat-Nylon .38 x .75 x .060
+23
+06308800
+1
+Washer-Locking .38 x .094
+24
+06529600
+1
+Nut-Locking-Center .38-16
+25
+041944
+1
+Pad, Pedal
+26
+046064
+1
+Rod
+27
+06707500
+1
+Pin-Cotter .06 x .75
+28
+06437300
+1
+Washer-Flat-Steel .28 x .62 x .065
+29
+06219700
+2
+Bolt-Round Head Square Neck .25-20 x 1.25 Grade 5
+30
+06529700
+2
+Nut-Locking-Center .25-20
+31
+018053
+2
+Ring-Retaining-External .63 x .042
+32
+045518
+1
+Pedal, Brake
+33
+041921
+1
+Plate, Brake
+34
+045918
+1
+Pin-Clevis .25 x 1.13
+35
+045215
+1
+Weldment, Brake Pedal
+36
+441027
+1
+Fitting, Lube .25-28 x .26
+37
+06219600
+2
+Bolt-Round Head Square Neck .38-16 x .75 Grade 2
+38
+045222
+1
+Bracket, Brake Pedal
+39
+045787
+4
+Bushing-Flange .63 x 1.00 x .63 Nylon
+40
+06535500
+2
+Nut-Locking-Center .38-16
+41
+045221
+1
+Shaft, Brake Pedal Mounting
+```
+
+## Page 36 — Engine, Fuel And Exhaust System - Robin - 13.5 Hp
+
+```text
+36
+ENGINE, FUEL AND EXHAUST SYSTEM - ROBIN - 13.5 HP
+Model 987071 
+E
+F
+PJ0411
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 9
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30
+ 31
+ 32
+ 33
+ 34
+ 35
+ 23
+```
+
+## Page 37 — Engine, Fuel And Exhaust System - Robin - 13.5 Hp
+
+```text
+37
+ENGINE, FUEL AND EXHAUST SYSTEM - ROBIN - 13.5 HP
+Model 987071
+Item
+Part No.
+Qty.
+Description
+1
+06942700
+1
+Cable, Throttle Control
+2
+06116700
+2
+Screw-Machine 10-24 x .50 Hex Washer Head
+3
+06536000
+2
+Nut-Locking-Nylon 10-24 with Insert
+4
+07521500
+1
+Grip
+5
+047615
+1
+Gauge, Fuel
+6
+047612
+1
+Tank, Fuel
+7
+050246
+1
+Bushing
+8
+047614
+1
+Fitting, Tank
+9
+032045
+2
+Clamp, Hose
+10
+021134
+72”
+Gas Line-Bulk 1/4" I.D.
+11
+036313
+6
+Cable Tie
+12
+06529800
+1
+Nut-Locking-Center .31-18
+13
+06437200
+2
+Washer-Flat-Steel .34 x .69 x .065
+14
+05946900
+1
+Bolt-Hex .31-18 x 1.00 Grade 5
+15
+03334000
+1
+Cable Clamp
+16
+06942600
+1
+Cable, Choke Control
+17
+06534700
+1
+Nut-Jam .38-24
+18
+018344
+1
+Ring-Retaining 1.25 x .05
+19
+08790200
+1
+Gear, Spur and Bevel (Input)
+20
+06434200
+2
+Washer-Thrust 1.13 x 1.75 x .12
+21
+05421000
+1
+Bearing-Needle-Thrust 1.84 x 1.13 x .078
+22
+04900900
+1
+Adapter, Engine
+23
+05948700
+3
+Bolt-Hex .38-16 x 1.00 Grade 5
+24
+05933000
+1
+Screw-Socket Head .44-14 x 1.00
+25
+05963600
+1
+Bolt Hex .31-24 x 1.00 Grade 5
+26
+05613000
+3
+Seal 1.989 x 1.38 x .31
+27
+018345
+1
+Key-Square .25 x 1.25 x .25
+28
+08255900
+1
+Engine, Robin
+29
+08578700
+1
+Panel, Linkage Cover
+30
+08594400
+1
+Bracket, Cable
+31
+06928000
+1
+Clip
+32
+06116400
+1
+Screw-Machine 6-32 x 1.00
+33
+06536000
+1
+Nut-Locking-Nylon 10-24 with Insert
+34
+05956300
+2
+Bolt-Hex M8 x 1.25 x 16
+35
+04902600
+1
+Stop, Throttle Cable
+```
+
+## Page 38 — Engine, Fuel And Exhaust System - Briggs & Stratton - 16 Hp
+
+```text
+38
+ENGINE, FUEL AND EXHAUST SYSTEM - BRIGGS & STRATTON - 16 HP
+Model 987070 
+PJ0291
+E
+F
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 9
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 28
+ 27
+ 29
+ 30
+ 31
+ 26
+```
+
+## Page 39 — Engine, Fuel And Exhaust System - Briggs & Stratton - 16 Hp
+
+```text
+39
+ENGINE, FUEL AND EXHAUST SYSTEM - BRIGGS & STRATTON - 16 HP
+Model 987070
+Item
+Part No.
+Qty.
+Description
+1
+06941300
+1
+Cable, Throttle
+2
+06116700
+2
+Screw-Machine 10-24 x .50 Hex Washer Head
+3
+06536000
+2
+Nut-Locking-Nylon 10-24 with Insert
+4
+07521500
+1
+Grip
+5
+047615
+1
+Gauge, Fuel
+6
+047612
+1
+Tank, Fuel
+7
+050246
+1
+Bushing
+8
+047614
+1
+Fitting, Tank
+9
+032045
+2
+Hose Clamp
+10
+021134
+72”
+Gas Line-Bulk 1/4" I.D.
+11
+036313
+6
+Cable Tie
+12
+06529800
+1
+Nut-Locking-Center .31-18
+13
+06437200
+2
+Washer-Flat-Steel .34 x .689 x .065
+14
+05946900
+1
+Bolt-Hex .31-18 x 1.00 Grade 5
+15
+03334000
+1
+Cable Clamp
+16
+040133
+1
+Control, Choke
+17
+06534700
+1
+Nut-Jam .38-24
+18
+05717200
+1
+Ring-Retaining-Internal 1.11 x .042
+19
+08796400
+1
+Gear, Spur and Bevel (Input)
+20
+06434800
+2
+Washer-Thrust
+21
+011225
+1
+Bearing-Needle-Thrust 1.00 x 1.55 x .078
+22
+421648
+4
+Screw-Socket Head .44-14 x 1.00
+23
+05958900
+4
+Bolt-Hex .50-13 x 1.25 Grade 5
+24
+06307300
+4
+Washer-Locking .50 x .125 Regular
+25
+180146
+3
+Bolt-Hex .44-14 x 1.13
+26
+06310700
+3
+Washer-Locking .438X.133 Heavy
+27
+087974
+1
+Adapter, Engine
+28
+018517
+1
+Seal 1.13 x 1.63 x .25
+29
+018345
+1
+Key-Square .25 x 1.25 x .25
+30
+08240600
+1
+Engine, 16HP Briggs & Stratton Vanguard
+31
+087977
+1
+Spacer-Special Engine
+```
+
+## Page 40 — Engine, Fuel And Exhaust System - Robin - 20.5 Hp
+
+```text
+40
+ENGINE, FUEL AND EXHAUST SYSTEM - ROBIN - 20.5 HP
+Model 987072 
+PJ0421
+E
+F
+ 1
+ 2
+ 3
+ 4
+ 29
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 24
+ 24
+ 26
+ 27
+ 28
+ 8
+```
+
+## Page 41 — Engine, Fuel And Exhaust System - Robin - 20.5 Hp
+
+```text
+41
+ENGINE, FUEL AND EXHAUST SYSTEM - ROBIN - 20.5 HP
+Model 987072
+Item
+Part No.
+Qty.
+Description
+1
+06941600
+1
+Cable, Throttle Control
+2
+06116700
+2
+Screw-Machine 10-24 x .50 Hex Washer Head
+3
+06536000
+2
+Nut-Locking-Nylon 10-24 with Insert
+4
+047615
+1
+Gauge,Fuel
+5
+047612
+1
+Tank, Fuel
+6
+050246
+1
+Bushing
+7
+047614
+1
+Fitting, Tank
+8
+032045
+2
+Hose Clamp
+9
+021134
+72”
+Gas Line-Bulk 1/4" I.D.
+10
+036313
+6
+Cable Tie
+11
+06529800
+1
+Nut-Locking-Center .31-18
+12
+06437200
+2
+Washer-Flat-Steel .34 x .69 x .065
+13
+03334000
+1
+Cable Clamp
+14
+05946900
+1
+Bolt-Hex .31-18 x 1.00 Grade 5
+15
+040448
+1
+Bracket,Throttle and Choke
+16
+06941500
+1
+Cable, Choke Control
+17
+06534700
+1
+Nut-Jam .38-24
+18
+04901500
+1
+Mufﬂer
+19
+08256000
+1
+Engine, Robin
+20
+018344
+1
+Ring-Retaining 1.25 x .05
+21
+051321
+1
+Gear, Spur and Bevel (Input)
+22
+040758
+2
+Washer-Thrust 1.13 x 1.75 x .12
+23
+018341
+1
+Bearing-Needle-Thrust 1.84 x 1.13 x .078
+24
+05933000
+4
+Screw-Socket Head .44-14 x 1.00
+25
+018345
+1
+Key-Square .25 x 1.25 x .25
+26
+05613000
+1
+Seal 1.99 x 1.38 x .31
+27
+08799900
+1
+Adapter, Engine
+28
+04902600
+1
+Stop, Throttle Cable
+29
+07521500
+1
+Grip
+```
+
+## Page 42 — Electrical System
+
+```text
+42
+ELECTRICAL SYSTEM
+Model 987070, 071, 072 
+Item
+Part No.
+Qty.
+Description
+1
+03654200
+1
+Switch, Seat
+2
+03437900
+1
+Assembly, Switch
+3
+045601
+1
+Harness, Wiring Seat Switch
+4
+038059
+16
+Terminal
+5
+020916
+2
+Switch-Neutral Start (N.O.)
+6
+107354
+1
+Nut-Stamped .56-18
+7
+042176
+2
+Connector, 2-Wire Switch
+8
+020660
+1
+Bracket, Switch
+0 0 0 0
+PJ0023
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 4
+ 5
+ 10
+ 11
+ 12
+ 13
+ 4
+ 14
+ 15
+ 16
+ 10
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30
+ 31
+ 32
+ 33 34
+ 35
+ 36
+ 37
+ 38
+ 39
+ 40
+ 41
+ 52
+ 42
+ 43
+ 44
+ 45
+ 46
+ 47
+ 48
+ 49
+ 50
+ 51
+ 51
+ 11
+ 9
+```
+
+## Page 43 — Electrical System
+
+```text
+43
+ELECTRICAL SYSTEM
+Model 987070, 071, 072
+Item
+Part No.
+Qty.
+Description
+9
+06529700
+5
+Nut-Locking-Center .25-20
+10
+05946800
+5
+Bolt-Hex .25-20 x .75 Grade 5
+11
+027122
+2/1
+Clamp
+12
+06529600
+1
+Nut-Locking-Center .38-16
+13
+042289
+1
+Connector
+14
+039862
+1
+Cable, Starter (071, 072) (S/N Range 000101 - 000214)
+049032
+1
+Cable, Starter (071, 072) (S/N Range 000215 and up)
+040135
+1
+Cable, Starter (070)
+15
+06535500
+1
+Nut-Locking-Center .38-16
+16
+011676
+2
+Nut-Speed .25-20
+17
+044766
+1
+Solenoid
+18
+033847
+3
+Boot, Insulator
+19
+045920
+1
+Assembly, Connector Weather Tight
+20
+045922
+2
+Terminal For 14-16 Gauge Wire
+21
+045037
+1
+Fuse, 25 AMP
+22
+045921
+1
+Cover
+23
+050673
+1
+Light, Indicator
+24
+021848
+1
+Gauge, Ammeter
+25
+046060
+1
+Switch, Light
+26
+045842
+1
+Key Chain
+27
+02460700
+1
+Key With Cap
+28
+045490
+1
+Cap, Ignition Switch
+29
+045489
+1
+Nut-Panel .56-24 (071, 072)
+045497
+1
+Nut-Panel .625-32 (070)
+30
+06310900
+1
+Washer-Locking-Internal .56 x .040 (071, 072)
+06301900
+1
+Washer-Locking-Internal .63 x .045 (070)
+31
+039871
+1
+Cable, Negative Battery (070)
+04901600
+1
+Cable, Negative Battery (071, 072)
+32
+05946900
+3
+Bolt-Hex .31-18 x 1.00 Grade 5
+33
+06437200
+6
+Washer-Flat-Steel .34 x .69 x .065
+34
+06529800
+3
+Nut-Locking-Center .31-18
+35
+050395
+1
+Clamp-Steel 1.00
+36
+038256
+1
+Hour Meter
+37
+03602300
+1
+Switch, Key (071, 072)
+08883300
+1
+Switch,Key (070)
+38
+038058
+2
+Connector
+39
+04901800
+1
+Harness, Wiring (071, 072)
+08789200
+1
+Harness, Wiring (070)
+40
+09044200
+1
+Module, Interlock Delay
+41
+03042800
+1
+Relay
+42
+06437300
+5
+Washer-Flat-Steel 28 x .62 x .065
+43
+08745500
+1
+Cable, Battery To Magneto Switch
+44
+08779600
+1
+Harness, Wiring Ground and Lights
+45
+036313
+6
+Cable Tie
+46
+09044100
+2
+Adapter, Module
+47
+039069
+2
+Head Light
+48
+04202200
+1
+Battery
+49
+037742
+2
+Clamp
+50
+06220000
+2
+Bolt-Round Head Square Neck .25-20 x 1.75 Grade 5
+51
+06116900
+2
+Screw-Machine 10-24 x .75 Hex Washer Head
+52
+07027700
+2
+Nut-Retaining Ring 10-24
+```
+
+## Page 44 — Continuity Diagram
+
+```text
+44
+CONTINUITY DIAGRAM
+Model 9870070, 071, 072 
+OFF
+M
+G
+S2
+B
+S1
+A
+RUN
+M
+G
+S2
+B
+S1
+A
+START
+M
+G
+S2
+B
+S1
+A
+Key Switch (071, 072)
+(03602300)
+PTO & FWD/REV Switch
+(02913100)
+1
+2
+1
+2
+(BUTTON UP)
+(BUTTON DOWN)
+Solenoid
+(03492300)
+NOT ENERGIZED
+ENERGIZED
+OFF
+ON
+Light  Switch
+(08973300)
+Seat Switch
+(03654200)
+1
+2
+OPERATOR
+OFF SEAT
+1
+2
+OPERATOR
+ ON SEAT
+Lift Pump Switch
+(03437900)
+DOWN
+UP
+OFF
+F
+D
+B
+C
+A
+E
+F
+D
+B
+C
+A
+E
+F
+D
+B
+C
+A
+E
+Relay
+(03042800)
+87
+87A
+86
+85
+30
+NOT ENERGIZED
+87
+87A
+86
+85
+30
+ENERGIZED
+The diagrams below show the various states of connection for electrical components.
+The solid lines on switches show continuity.
+NOTE:  All switches are viewed from the rear.
+Key Switch (070)
+(08883300)
+OFF
+M
+G
+S
+B
+L
+A
+RUN
+START
+M
+G
+S
+B
+L
+A
+M
+G
+S
+B
+L
+A
+PJ0441
+```
+
+## Page 45 — Wiring Diagram - Briggs And Stratton Engine
+
+```text
+45
+WIRING DIAGRAM - BRIGGS AND STRATTON ENGINE
+Model 987070
+PJ0310
+Battery
+S
+M
+L
+B
+G
+Engine
+87
+85
+30
+86
+Oil
+Pressure
+Light
+Ignition
+Switch
+Hourmeter
+A
+GREEN
+BROWN
+BROWN
+Carb
+Charge
+Kill
+LT BLUE/BLACK
+WHITE
+GREEN
+GREEN
+YELLOW
+BROWN
+YELLOW
+GREEN
+YELLOW
+YELLOW
+GREEN
+Relay
+Time Delay
+Module
+BROWN/
+WHITE
+BROWN
+BROWN
+PTO
+Interlock Switch
+RED
+Solenoid
+Switch
+BLACK
+Fuse
+RED
+GREEN
+Seat
+Switches
+WHITE
+WHT/RED
+Ammeter
+Fwd / Rev
+Interlock Switch
+RED
+BLACK
+Implement Lift
+Switch
+WHITE
+RED
+87A
+Hydraulic
+Pump
+LIGHT
+SWITCH
+BLACK
+BLUE/WHITE
+PINK
+PINK
+WHITE
+WHITE
+GREEN/WHITE
+```
+
+## Page 46 — Wiring Diagram - Robin Engine
+
+```text
+46
+WIRING DIAGRAM - ROBIN ENGINE
+Model 987071 S/N 000101 and up, 987072 S/N 000101 - 000214 
+BATTERY
+BLACK
+STARTER
+SOLENOID
+2
+1
+4
+3
+1
+2
+4
+3
+1
+2
+RED
+BROWN
+GREEN/WHITE
+B R O W N / Y E L L O W
+ENGINE
+BLACK
+RED/YELLOW
+RED
+PURPLE
+STARTER
+KEY
+SWITCH
+RELAY
+A
+B
+FUSE-30 AMP
+1
+2
+BLACK
+1
+2
+AMMETER
+RELAY
+87a
+30
+87
+86
+85
+LIFT PUMP
+FUSE-40 AMP
+BLACK
+HOUR METER
+BLACK
+87a
+30
+87
+86
+85
+TIME DELAY MODULE
+A
+B
+C
+D
+E
+F
+PINK
+YELLOW/RED
+OIL PRESSURE
+WHITE/BLACK
+FUEL SOLENOID
+REGULATOR
+MAGNETO KILL
+O I L P R E S S U R E
+L I G H T
+B L U E / W H I T E
+RED
+Y E L L O W / R E D
+BLACK
+A
+B
+BLUE
+FWD/REV
+SWITCH
+PTO
+SWITCH
+BLACK
+HYDRAULIC
+LIFT PUMP
+B L U E / W H I T E
+G R E E N / W H I T E
+H E A D L I G H T S
+1
+2
+1
+2
+1
+2
+1
+2
+L I G H T
+S W I T C H
+BLACK
+BLACK
+SEAT SWITCH
+LIFT PUMP
+SWITCH
+RED
+M
+G
+S2
+A
+B
+S1
+S1
+PJ0431
+```
+
+## Page 47 — Wiring Diagram - Robin Engine
+
+```text
+47
+WIRING DIAGRAM - ROBIN ENGINE
+Model 987072 S/N 000215 and up,
+BATTERY
+BLACK
+STARTER
+SOLENOID
+2
+1
+4
+3
+1
+2
+4
+3
+1
+2
+RED
+BROWN
+GREEN/WHITE
+B R O W N / Y E L L O W
+ENGINE
+BLACK
+RED/YELLOW
+RED
+PURPLE
+STARTER
+KEY
+SWITCH
+RELAY
+A
+B
+FUSE-30 AMP
+1
+2
+BLACK
+1
+2
+AMMETER
+RELAY
+87a
+30
+87
+86
+85
+LIFT PUMP
+FUSE-40 AMP
+BLACK
+HOUR METER
+BLACK
+87a
+30
+87
+86
+85
+TIME DELAY MODULE
+A
+B
+C
+D
+E
+F
+PINK
+YELLOW/RED
+OIL PRESSURE
+WHITE/BLACK
+FUEL SOLENOID
+REGULATOR
+MAGNETO KILL
+O I L P R E S S U R E
+L I G H T
+B L U E / W H I T E
+RED
+Y E L L O W / R E D
+BLACK
+A
+B
+BLUE
+FWD/REV
+SWITCH
+PTO
+SWITCH
+BLACK
+HYDRAULIC
+LIFT PUMP
+B L U E / W H I T E
+G R E E N / W H I T E
+H E A D L I G H T S
+1
+2
+1
+2
+1
+2
+1
+2
+L I G H T
+S W I T C H
+BLACK
+BLACK
+SEAT SWITCH
+LIFT PUMP
+SWITCH
+RED
+M
+G
+S2
+A
+B
+S1
+S1
+PJ0432
+```
+
+## Page 48 — Gravely
+
+```text
+GRAVELY
+A Division of Ariens Company
+655 West Ryan Street
+P.O. Box 157
+Brillion, WI  54110-0157
+920-756-2141
+Fax 920-756-2407
+www.gravely.com
+```

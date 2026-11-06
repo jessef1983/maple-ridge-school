@@ -9,9 +9,11 @@ Two Gravely Professional 16-G riding tractors (built 1988–2001) and their atta
 | | 2× Gravely 16-G Pro, rough condition ([FB listing](https://www.facebook.com/share/1Dxrge12F6/)) | $1,000 | Includes snowblower, mowing deck, and a blade (blade is walk-behind series) |
 | | Snow plow | $150 | |
 | | Plow brackets + rear ATV tires ([FB seller](https://www.facebook.com/share/1BXruCeo3p/)) | $120 | |
-| | *Pending:* 8000-series parts tractor (FB) | $50 | Clutch/drivetrain donor — confirm model # |
+| 2026-11-06 | 8000-series parts tractor (FB) | $50 | Drivetrain donor. See [manuals/8000-vs-G-interchange.md](manuals/8000-vs-G-interchange.md) |
 
-**Total so far:** $1,270
+**Total so far:** $1,320
+
+Manuals (tractor + attachments, OCR'd, with a parts index): [manuals/](manuals/README.md). The PDFs are in SharePoint.
 
 ## Units
 
@@ -99,8 +101,25 @@ Measure on Brandon's tractor if you can. Otherwise measure your own lift arm and
 - [ ] What's in the bottom nut/collar stack, and the thread size
 - [ ] Top connection: bolt-through eye or 90° bend? Bracket hole size?
 
-### Angle lever
-- [ ] Photograph the plow's pivot and angle plate to see whether it's a pull-pin through a hole quadrant or a different mechanism. Then decide whether to fab or buy.
+### Angle lever (fab the handle)
+The plow is the 48" Snowdozer 24678. Parts list: manual 0650, p.10 (also 0647).
+
+**Mechanism:**
+- The handle (18503, grip 11861) fits over the end of the pivot shaft (18502), the round stub sticking sideways out of the push-frame bracket. A clevis pin (18507) and hair pin go through the stub's cross-hole.
+- Rock the handle forward or back to turn the shaft. That swings the blade through the bell crank (14421) and the angling control rod (11864).
+- Tip the handle sideways to pull the latch control rod (18504, short, with the 90° hook). That lifts the lock bar (34098) out of the notched pivot plate (18501). The spring (11851) pulls it back in.
+
+**What's on hand:** Jesse's photos (2026-11-06) show everything except the handle and grip. An eBay handle (#127579943461, $55 + $18 shipping) looks shop-made too, so we're fabbing one.
+
+**Fab plan (2-plate clevis):**
+1. Two plates of 3/16" or 1/4" flat bar, about 1¼" × 4".
+2. Gap between the plates = stub outside diameter + about 1/16", so the handle can tip.
+3. Pin hole about 1/2" from the bottom, sized to the stub's cross-hole. Clamp the plates together and drill them as a pair.
+4. Latch-rod hole about 1½–2" above the pin hole, on the side the rod comes from. Latch travel ≈ hole offset × the tip angle. At 1½" and about 20° of tip, the latch moves about 1/2".
+5. Handle: 3/4" pipe or 5/8" bar, about 24", with a slight bend toward the seat. Any handlebar grip.
+6. Hardware: clevis pin + washer + hair pin through the stub, and a hair pin on the latch-rod hook.
+
+- [ ] Measure: stub outside diameter, cross-hole diameter, distance from the stub's end to the hole, latch-rod wire diameter, notch depth
 
 ## Seat
 
@@ -123,7 +142,8 @@ Plan: burn off and repaint the panels (see Paint in [hank-notes.md](hank-notes.m
 ## Open items
 
 - [ ] Measure rear hub bolt pattern
-- [ ] Confirm the 8000-series parts unit's model # matches the 16-G's clutch/transmission
+- [ ] Get the 8000-series parts unit's model # (plate under the hood, right side) and compare its F/R clutch with the 16-G's
+- [ ] Take the angle-lever measurements, then fab the handle
 - [ ] Rear tire/wheel plan
 
 ## Log

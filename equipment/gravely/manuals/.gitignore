@@ -1,0 +1,2 @@
+# Source PDFs live in SharePoint (ccfedu /sites/MPRSchool), not git.
+*.pdf

@@ -1,0 +1,129 @@
+# 0640 Illustrated Parts List - 38 inch Snow Blower - Sep 1968
+# Source: 0640 Illustrated Parts List - 38 inch Snow Blower - Sep 1968.pdf (3 pages; OCR: Windows.Media.Ocr @200dpi)
+
+===== Page 1 =====
+      e GRAVELY
+                                               38" SNOWBLOWER
+       ILLUSTRATED
+                                               Model Number     MA 213
+       PARTS LIST
+                                               Effective Date    September l, 1968
+     TO iH program Of quality and design
+                 right Olang                   Form Number      14551 Pl
+         pno obliggtim.
+
+===== Page 2 =====
+              ITEM     PART NO.       DESCRIPTION                            FEPLQCES
+                                                                                  NO.
+               1       10616 A2       Flange Bearing
+               2                      5/16 x 5/8 Hex Ed. Bolt
+               3       120393         11/32 Fiat Washer                       103340
+                       9L13Z7         5/16 Hex. Nut                           9413301
+               5       426767         7/8 Hex.
+               6                      ? not Washer
+                       6493 Fl        Spring Washer
+               8       11797 A1       Zght hand Reel
+               9       9657 PI        Friction Disc.
+              10       12399          Drive Plate                             9658
+                       180020            x 3/ L Hex. Hd. Bolt                 179795
+              12       1155&          Lock Washer
+              13       6329 Pl        Housing Cap
+                       9669           O-Ring
+              15       9668           O-Ring
+                       10229 Ai       Reel Gear
+              17                      Thrust Race                             6&23
+              18
+              19       632 Fl         Bearing Cap
+              20       6339           Gasket
+              21       96� Pl         Needle Bearing
+              22       9659           Thrast Washer
+              23                      Worn Sha? t
+              24       10325 Fl       Spacer
+              25       9662 ? i       Ihnst Race
+              26       9661           Thrust Bearing
+              27       103867         Sq. Hd. ? ipe Plug
+              23                      Sq. Ed. ? ipe
+              29       10573          Housing
+              30       11802 A1       Left Hand Reel
+              31       11796          Shaft
+              32       9667           Oil Seal
+              33       10577 A1       Coupling
+                       13619          1 Washer                                225-N
+                             21       Fan
+              36       13464          Bearing                                 EB-106
+              37       11790          Shaft
+                                         Woc�r,:-?. Key
+              39       157733         I/Z+ x 3/4 Screw                        157732
+                       11789          Gua rd
+                       9129254        1/ Loch-.ut                             274856
+                       11785 A1       Eody Weldment
+              43       11788          Wear Strip
+                       120392         9/32 Flat Washer                        103339
+                       627            Bearing Eng
+              2+6      455025         1/2 x i Hex. Hd. Bolt                   217208
+              47       180173         1/2 x 1 Hex. Hd. Bolt
+              1.8      180122         3/8 x 1 Hex. Hd. Bolt                   179839
+                       10579 Fl       Reel Drive Bracket
+              50       181666         7/16 x 1 Hex. Hd. Bolt                  181395
+              51       120394         11/32 Flat Washer                       10332
+              52       L56004         3/ B Loclmut                            94.1001
+              53       180094         1/4 x 2 Bolt                            109094
+              51+      64.10 A1       Housing
+              55       63u            Chute Attachment Ring
+              56       159582         +8-3/8 YLchi-ne Screv                   436859
+
+===== Page 3 =====
+                  57        10580          Glide
+                            L5339            Speed Nut
+                                           Claz
+                  60        6404 A1        Chute Weldment
+                  61        180016        1/ L x 1/2 Hex. Hd. Bolt                179791
+                   62       155886               1&chine Screv                    133493
+                  63        6352          Deflector Baffle
+                                          Ea21e Retainer
+                  65        120622        #8 Machine Nut                          115998
+                  66        6399 AI       Denector Weldment
+                  67        120392         9/32 Flat Washer                       103339
+                  68        6L6&          Wing Nut
+                  69                          Locknut
+                  70
+                  71        101% A1        Cable Guide
+                  72        11791          housing
+                  73        191163         3/8 x hex. Ed. Bolt                    1001&2
+                                           ld',re
+                  75        91.13314       1/1+ Locknu                             926106
+                  76        6370 Ai        Cable Guide
+                  77        6375           Tabe Guard Space
+                  78        10576          7/16 1.10 ck.nut
+                  79        2605           Bearing
+                            11792 21       Retaining Ring
+                            11780 Ai       Frame
+                  82        11806 A-I      Crank Support
+                  83                       3/8 hex. Ed.                            12212+5
+                            1203%          13/32 Flat Washer
+                  85        456004         3/8 Locimut
+                            10210          Stud
+                            10211          Yandle Grio
+                            Z+5L563        3/16 x 7/8-
+                            11805          Crank
+                  90        9630
+                  91        9612 Fl        Conne c to r
+                  92        272739         5/8 Loclmut
+                  93        6L99          Washer
+                  94        9687 A1        Sprocket Housing Rear
+                  95        6497           Fri ction Eng
+                  96        9691 Ai        Sprocket Weldment
+                  97        9694 A1        Sprocket Weldment
+                  98        962            %ain
+                  99        13126          21/32 Washer                            118779
+                 100        9686 Al        Sprocket Housing Front
+                 101        453670         1/4 x 1 1/8
+                            961.0          Sprocket
+                 103        180132         3/8 x 2 1/4 Hex. Hd. Bolt
+                 104        180134         3/8 x 2 1/2 Hex. Hd. Bolt               179849
+                            10502          1/2 hex.
+                 106        456004         3/ e Locknut
+                 107        120380         1/4 Lock Washer
+                 108        13L57          Handle                                  A&823
+                 109        6027 A1        Sprayer Tank Stand
+                 20         11809 A1       Push Rod

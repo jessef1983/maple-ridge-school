@@ -1,0 +1,137 @@
+---
+title: "Illustrated Parts List — 40 inch Mower — Sep 1972"
+oldgravelys_no: "0550"
+series: "40 inch Mower"
+doc_type: "Illustrated Parts List"
+date: "Sep 1972"
+pages: 3
+source_pdf: "../0550 Illustrated Parts List - 40 inch Mower - Sep 1972.pdf"
+text_source: "OCR (Windows.Media.Ocr, 200 dpi)"
+---
+# Illustrated Parts List — 40 inch Mower — Sep 1972
+
+Source: [0550 Illustrated Parts List - 40 inch Mower - Sep 1972.pdf](../0550 Illustrated Parts List - 40 inch Mower - Sep 1972.pdf). Text is machine-extracted; confirm part numbers against the PDF page before ordering.
+
+## Page 1 — Qgravely                        Illustrated Front Mounted
+
+```text
+QGRAVELY                        ILLUSTRATED FRONT MOUNTED
+                                         PARTS LIST           3 SPINDLE ROTARY MOWER
+          TO program Of qu ality and design                   FOR RIDING TRACTOR
+                   the right to chong specifieat;m, do.
+                      nd wihout
+                                                              Model Number        1S666E1
+                                                              Effective Date      9-15-72
+                                                              Form Number         19845B
+                                                                      -00
+```
+
+## Page 2
+
+```text
+ITEM
+                 NO.            PART NO.           DESCRIPTION
+                  1             14674P1            Pulley Cover - R.H.
+                 NS             14675P1            Pulley Cover     L.H.
+                  2              160536            1/4-20 x 5/8 Pan Head Machine Screw
+                  3             11777P1            Plastic Grommet
+                  4           -19359A1             Deck Weldment
+                  5             18549P1            Danger Decal
+                  6             15802P1            Male U-Joint End
+                  7             13518P1            Female U-Joint End
+                  8             9411027            Lube Fitting
+                  9              180044            1/4-20 x 2 Hex Head Bolt
+                 10             9419454            1/4-20 Washer Insert Locknut
+                 11              180016            1/4-20 x 1/2 Hex Head Capscrew
+                 12              120380            1/4 Spring Type Lockwasher
+                 13             10982P1            Gear Housing Cover
+                 14             11231P2            Gear Housing Gasket
+                 15             14636P1            Casting Gear Box
+                 16             14637P1            Shaft, Drive
+                 17             14642P1            Ring, Retaining
+                 18             14641P1            Spacer, Ring
+                 19             14646P1            Seal, Grease
+                 20             14640P1            Bearing, Roller
+                 21             19607P1            Bevel Gear
+                 22             15369P1           Washer
+                 23              435507            1/2-13 Washer Insert Locknut
+                 24             19608P1            Gear, Pinion Shaft
+                 25              431787            #61 Woodruff Keyo
+                 26             14644A1            Roller Bearing
+                 27             12134P1            U-Joint Kit
+                 28              451539           Hex Jam Nut
+                 29             14660P1            Sheave, Drive
+                 30             14645P1            Grease Seal
+                 31              180173            1/2-13 x 1 Hex Head Bolt
+                 32              120384            1/2 Spring Type Lockwasher
+                 33             14669P1            Spacer
+                 34              435507            1/2-13 Washer Insert Locknut
+                 35              120396            17/32 Flatwasher
+                 36              180193            1/2-13 x 3-3/4 Hex Head Bolt
+                 37             14673P1           V-Be1t
+                 38              180129            3/8-16 x 1-7/8 Hex Head Bolt
+                 39              120388            7/16 x 1 x . 083 Flat Washer
+                 40             11641P1            Ball Bearing
+                  41            10984P2            Bearing Housing
+                 42             9411010            Grease Fitting
+                 43             1123SP1           Needle Bearing
+                 44             9418692            5/8-11 Washer Insert Locknut
+                 45              131016            21/32 x 1-5/16 x . 095 Flat-washer
+                  46            14668P1            Blade
+                  47            10986P2            Blade Cradle
+                  48            19443P1            Bearing Housing Shaft
+                  49             124549            #9 Woodruff Key
+                  50            11229P1            Oil Seal
+```
+
+## Page 3
+
+```text
+ITEM
+          NO.            PART NO.           DESCRIPTION
+           51             180124            3/8-16 x 1-1/4 Hex Head Bolt
+           52             120388            7/16 Flat Washer
+                         10988P1            Spindle Sheave
+                         14672P1            Idler Spacer
+           55            11313P1            Drilled Bolt
+           56            11255P1            Idler Sheave
+           57            11779P1            Spring
+           58             120395            15/32 Flat Washer
+                          271501            7/16-14 Hex Nut
+           60             179252            1/16 x 1 Cotter Pin
+           61            11316P1            Idler Sheave
+           62            14671P1            Idler Rod
+           63            10992P1            Idler Pivot Arm
+           64            14670P1            Idler Arm Spacer
+           65             124829            3/8-16 x 7/32 Jam Nut
+           66             456004            3/8-16 Washer Insert Locknut
+           67             124543            1/8 x 1/2 Woodruff Key
+           68            15777A1            Frame Weld Wheel
+           69            15781P1            Arm Wheel
+           70             126784            Bolt Carriage, 1.2 N.C. x 2.5
+           71             120238            1/2-13 Hex Jam Nut
+           72            11317A1            Mower Lift Pivot Assembly
+           73            19313P1            Lift Rod
+           74            15783P1            Rod Level Adjustment
+           75             120378            1/3-13 Hex Nut
+           76            15805P1            Anchor Level
+           77            15785P1            Anchor Level
+           78            15794A1            Frame Weldment Lift
+           79            15787P1            Pin Adjustment
+           80            11860P1            Hair Pin Cotter
+           81            15800P1            Pin Pivot
+           82            11948A1            Caster Fork Weldment
+           83             6535P1            Gauge Wheel
+           84            11950P1            Bushing
+           85             189314            1/2-13 x 4- 3/4 Hex Head Bolt
+           86             142485            Groove Pin
+           87            15691P1            Hair Pin Cotter
+           88            1465511            Gear Housing Support
+           89             137185            1/8 x 1 Cotter Pin
+           90            11715P1            Belt Installation Decal
+           91             120123            1/8 x 1-1/4 Cotter Pin
+           NS            14635A1            Drive Assembly
+           92            18720P1            Guard
+           93             120392            9/32 x 5/8 x . 065 Flat Washer
+           94             160536            1/4-20 x 5/8 Pan Head Machine Screw
+```

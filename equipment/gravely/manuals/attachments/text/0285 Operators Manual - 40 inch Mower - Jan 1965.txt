@@ -1,0 +1,725 @@
+# 0285 Operators Manual - 40 inch Mower - Jan 1965
+# Source: 0285 Operators Manual - 40 inch Mower - Jan 1965.pdf (14 pages; PDF text layer)
+
+===== Page 1 =====
+OPERATING ond MAINTENANCE
+INSTRUCTIONS
+4OO ROTARY MOWER
+...3
+!
+J
+TPACTOR 
+DrVtStOil
+CORPORATIO]I
+DUNBAR, WEST VIRGINIA 25064
+EBAVELY
+:*.
+r \- {
+., -r
+
+
+===== Page 2 =====
+:
+i.
+
+
+===== Page 3 =====
+4O'' ROTARY MOWBR OPERATING AND MAINTENANCE INSTRUCTIONS
+1. ATTACHING THB MOWER TO THE TRACTOR.
+The mower is attached to the front of the tractor by four bolts shown at A, Fig. 1. When
+attaching, tighten securely one of the top bolts before tightening the other three. When detaching
+the mower from the tractor, remove completely both bottom bolts and one of the top bolts before
+removing the other top bolt.
+When attaching, be sure the engine is stopped, the attachment clutch lever (or attachment
+clutch control) is at the trOUT position and the operating levers are in the neutral position.
+Figure 1
+2. SWIVEL ACTION ADJUSTMENT"
+The swivel action of the mower is regulated by the bolt and nut shown at B, Fig. 1. To get
+the proper swivel action, the nut should be tightened until there is no swivel at all to the mower.
+The nut should then be loosened just enough to allow the mower sufficient swivel action to follow
+the grouad contour rurder its own weight.
+"S#
+#
+d
+
+
+===== Page 4 =====
+3" CUTTING HEIGHT ADJUSTMENT.
+Figure 2
+the cutting height of the mower is adjusted by the colla"rs on the rotor shaft shown at A, Fig. 2.
+The closer the blades are to the bottom of the deck, the higher the cut, and vice versa. Vary the
+combination of the three collars as you so desire. The cutting height of the mower is from 1 1/2r,
+to 3ri.
+CAUTION: Never put your hands or feet under the deek of tle
+mower whiLe the mower is running, or for an interva.l
+after the mower is shut off, Make sure the blades
+have stopped completely before putting your hands or
+feet under the deck.
+On some mowers, a square hole has been machined in the end of the shaft shown
+in figure 2. To remove or replace blade easily, insert standard 3/ 8" socket drive
+in square hole, and remove or tighten nut with wrench as required.
+s
+
+
+===== Page 5 =====
+4. REMOVING THE BLADES FROM THE MOWER.
+Figure 3
+Figure 4
+(A) Remove both belt covers.
+(B) Stand mower on its side. (This can be done with the mower attached to the tractor as
+shown in Fig. 3. )
+(c) use a large screw driver, etc., to hold the pulley as shown at A, Fig. 4, white Ioosening
+the nut on the bottom of the blade shaft as shown at B, Fig. 2. It is a conventional right
+handed thread nut.
+CAUTION: Never have the mower in gear with the tractor
+when removing the blades from the mower. With
+the right conditions, any clockwise rotation of the
+blades could cause the tractor engine to start.
+The Gravely triple-purpose wrench, available from your Gravely representative, was designed
+to remove the nut on the end of the blade shaft with a minimum of effort. It can also be used for the
+removal of the blade on the 30'r Rotary Mower and on the tine shaft nut on the Rotary Cultivator.
+
+
+===== Page 6 =====
+5. BLADE SHARPENING.
+CAUTION: When grinding the blade, over heating can partially remove
+the temper from the cutting edge. Equa1 amounts should be
+removed from each cutting edge to maintain proper balance
+of the blade.
+6. DRIVE LUBRICATTON.
+Figure 5
+Check the gear housing oil level every four hours of operation by removing the oil level plug
+shown at A, Fig. 5. Ifoil runs out, the oil level is alright, if not, oil must be added until the
+proper oil level is obtained.
+To add oil, remove the oil filler plug shown at B, Flg. 5, and pour through the hole rmtil oil
+begins to run out the oil level hole, Replace both plugs before operatiug the mower.
+Use Mobilube EP-140 (SAE 140) lubricant. Use a good grade of lubricant occasionally in the
+grease fitting of the swivel casting.
+Use a file or grind stone to sharpen the blade. Try to follow the same bevel as the originally
+sharpened cutting edge, although the precise degree of the bevel is not critical. Dul] blades will
+beat the grass and will require more power to operate the mower,
+:
+titE
+
+
+===== Page 7 =====
+7. BLADE SPINDLE LUBRICATION.
+Blade spindles should be lubricated every 10 hours of service with Mobilgrease MP. Apply
+lubricant through the grease fitting until lubricant starts to come out the vent hole on the opposite
+side of the spindle.
+No lubrication is required for the two belt tightening idler puIleys"
+8. BELT ADJUSTMENT"
+The belts are in proper adjustment when the mower is delivered. Loosening of the belts is
+seldom required, except when replacing a belt. However, from time to time you will need to
+tighten the belts, this is indicated by the mower improperly cutting the grass over areas within
+its swath. (This condition can also be caused by the safety clutch being out of adjustment. )
+The belt adjustment can be made by first removing the belt cover. Then loosen the bolt on top
+of the idler pulley shown at B, Fig. 4. After loosening, the pulley can be moved in either direction
+to loosen or tighten the belt. There is an idler pulley for each belt.
+When the belts are in proper adjustment, by applying moderate pressure at its mid-point
+shown at C, Fig. 5, you should be able to deflect the belt about 1/2i'
+9. BELT REPLACEMENT.
+A
+Remove both belt covers.
+B
+Loosen both idler pultreys shovm at D, Fig. 5.
+C
+Remove belts from around blade spindle and idler pulleys.
+D
+Remove the five bolts holding the drive mounting plate to the deck shown at
+E, Fig" 5. Remove th.e drive and belts.
+(E) Replace belts by reversing the above procedure and adjust the belts. (See Belt
+Adjustment)
+Put new belts on drive pulley before re-attaching drive plate to mower.
+10. SAFETY CLUTCH
+The mower is equipped with a safety clutch shown at A, Fig. 6. This clutch will stall the
+mower if tlre blades strike a solid obstacle, preventing damage to the tractor, and limit damage
+that might occur to the mower.
+The clutch is set to withstand a clutch capacity of 45-50 ft. lbs. of slip torque. This can be
+increased or decreased by changing the tension on the six springs around the bolts on the clutch.
+
+
+===== Page 8 =====
+Figure 6
+11. REMOVABLE DECK SIDE.
+The mower is equipped with a removable side which can be removed when mowing high, heavy
+weeds, or thick tough grass of considerable height, which will give better mowing results.
+CAUTION: It is recommended that this side not be removed unless absolutely
+necessary. When this is done, there is the danger of roeks, tin
+cans, metal objects, etc. , being thrown from under the hood.
+Never mow with the side removed in public places or where persons
+or property can be injured or damaged by materials thrown from
+under the hood.
+
+
+===== Page 9 =====
+EBAVELT@)ffiH
+To continue its program of quality and design improvemtnt, the
+manufacturer reserves the right to change specifications, de-
+signs or prices without notice and without incurring obligatioii.
+4(,,'ROTARY
+ILLUSTRATED
+Po rts List
+Model Nr. MA- 600
+PRINTED IN U. S. A
+Effective Dote: L-L2 -6s
+Form Number: pL- 13I
+MOWER
+17- I
+i
+to-9
+t,.{
+r E- L 44,\',
+tr 
+\_g#
+.'-'
+r4- e
+,N;-
+l@B
+@'?
+25
+^, E
+7
+36 \,,
+2<
+6\
+l3-fi
+ll-
+l8-
+t9-
+20-i'o1
+Y1
+28
+a
+U
+I
+I
+I
+l
+()
+B
+-2
+8/ 
+,-
+'r-35
+?t-tu
+-35
+t
+U
+I
+I
+I
+I
+2
+I
+6
+27
+3
+6Y
+3s
+?
+35
+-3
+q-6
+I
+o*35
+\5
+3-
+I
+I
+4-BI
+I3-il
+l7-9.
+I
+I
+l6-@
+I
+t5-
+27
+30- B
+-g
+g,-.261
+e-€>
+ll
+I
+I
+I
+tg- i
+!.--
+It
+l9-c
+I
+I
+2o-!.
+2l-\1.
+I
+i
+,r-9
+-l
+4-g''
+,
+2
+5
+\
+?
+2
+{
+7-
+32
+9-
+o-
+o
+Ig
+i
+@
+g
+IUu
+u
+I,A\
+\:=)
+,
+@
+@
+3
+B-
+r'
+o
+O-@
+]J
+2l
+22
+23-d)
+Y
+24-6
+Poge Number lof 4 Poges
+22
+24-@
+@
+34
+l2-
+E
+I
+)o
+
+
+===== Page 10 =====
+Item
+No,
+Part No,
+9214
+151- S
+124-S
+9231
+9235
+9232
+9234
+9200
+924s
+9246
+9206
+9203
+9206
+9273
+9 204
+9207
+w- 14
+230-N
+9205
+927t
+9270
+9209
+92t2
+w- 14
+230-N
+6-cB- 07 -c
+NTUO- 6-C
+9256
+179-S
+9223
+5-CH- 7- C
+9240
+9258
+9259
+9260
+802-A
+9250
+40" Rotary Mower
+Des cr ipt ion
+Top Deck Weldment
+Hex Head Cap (Right)
+Hex Head Cap (Left)
+Id 1er
+Idler Spacer R,H.
+Idler Nut
+Idler Spacer L.H.
+Spindle Bearing Housing Weldment
+Bearing Cap (L44610)
+Bea r ing Cone ( l-++643 )
+Bearing Sea 1
+Rotor Shaft
+Bearing Seal
+Square Key
+Sea I Ring
+Rotor Pul1ey
+Fla t Wa sher
+Nut
+Dust Shie 1d
+Blade Spacer Co11ar 3/4"
+Blade Spacer Co1lar 7/2"
+Blade Spacer Co1Iar l/4"
+B lade
+Fla t Wa sher
+Nut
+Square Neck Carriage Bolt
+Nut
+Belt Cover
+Hex Head Cap Screw
+s kid
+Hex Head Cap Screw
+Drive Belt
+Hex Head Cap Screw
+Loc kwa sher
+Fla t Wa sher
+Set Screw for 9207 ( Item 15)
+Grease Fitting for 9200 (Item 5)
+No"
+Req 'd .
+1
+1
+1
+2
+1
+2
+1
+2
+4
+4
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+8
+8
+2
+4
+2
+4
+2
+5
+5
+lt
+T
+2
+2
+1
+2
+2-B
+3
+4
+5
+6
+7
+8
+9
+10
+11
+72
+13
+14
+15
+16
+t7
+18
+l9
+20
+2l
+22
+23
+24
+25
+26
+27
+28
+29
+30-31
+32
+34
+35
+36
+NS
+NS
+Page 2 of 4
+
+
+===== Page 11 =====
+40
+I
+39 --:
+27
+31
+35
+36
+g-
+@-
+1
+5
+@r
+n
+T
+\
+23
+c- 28
+30
+l3
+921
+r €l-
+,J m-
+25
+I
+e
+24
+s'.
+ll
+3r
+@- 
+33
+9-zu
+l4
+l9
+18
+11
+s
+e\Is
+I
+q
+s
+\
+15
+;
+10
+1l
+l2
+6
+5
+4
+3
+t2
+\
+37
+-- 3A
+4O,, ROTARY
+@
+4t -
+le-B
+MO\^/ER DRIVE
+r
+T
+O
+I
+!
+Page 3 of 4
+
+
+===== Page 12 =====
+Photo
+No"
+10
+11
+t2
+13
+14
+15
+16
+t7
+18
+19
+20
+27
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+40" Rotary Mower Drive
+Des cript ion
+Spring Bo1t, SEfety Clutch
+5/8"-LB NF Nut, Safety Clutch to Drive Shaft
+Spring, Ssfety Clutch
+Dog P1ate, Safety Clutch
+Friction Washer, S€fety Clutch
+Drive Plate, Splined, Safety Clutch
+Back PLate, Safety Clutch
+Jam Hex Nut, Safety Clutch
+Timken Ro 1ler Bea ring , For Swive 1 Ca s t ing
+Oil Sea1, Swivel Casting
+Oil Seal Retainer
+Drive Shaft Housing
+Grease Fitting, 
+Swivel Casting
+1/2" 
+13 NC Nut, for 172-3 Screw
+l/2" 
+12 NC Bolt, Swivel Cast ing Clamp
+Hex, Hd" C p Screw, Swivel Casting to Gear Hsg.
+Lock Washer, for 110-S Bolts
+Swivel Casting
+Drive Shaft, in Swivel Casting
+Bea r ing
+Beve I Gear , ( large s ize) Mates with RO-342.,
+27 tooth L3/16" bore
+Woodruff Key for RO-341 Gear
+Snap Ring for RO-341 Gear to Shaft
+Shim (.020 thickness )(or"005 thickness)
+Ga s ket
+Vented Oi1 Filter Plug, for Gear Housing
+Gear Housing
+Oil Level Plug, for Gear Housing
+Cotter Pin, for 219-N Pinion Nut
+Pinion Nut, for R0-342 Gear
+Bevel Pinion, Smal1 Size, Mates with RO-341,
+15 tooth, \3/16" bore
+Drive Sheave Key
+Shim
+Timken Bear{.ng Cone, Rotor
+Timken Bearing Cup, Rotor
+Rotor Oil Sea1, 1-3/8" I.D"
+Rotor Shaft
+Mounting Plate Weldment
+Lock Washer
+Nut
+Drive Sheave
+Nut
+No.
+Req 'd "
+1
+2
+3
+4
+5
+6
+7
+8
+9
+5 10-K
+RR- 1 10
+sH- 1 14
+M- 488
+706-vP
+9236
+70l-P
+607 -c
+2 19-N
+RO- 108
+9239
+RO- 1 10
+RB- 1 L2-C
+RB- I 10-R
+RO- 3 44
+9237
+9226
+308-w
+211-N
+9238
+22 9-N
+6
+1
+6
+1
+5
+6
+1
+6
+2
+2
+2
+1
+1
+1
+1
+4
+4
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+I
+I
+1
+1
+1
+'l
+!
+1
+1
+1
+I
+1
+6
+6
+1
+1
+Page 4 of 4
+Part No.
+SC-37
+227 -N
+SC-35
+SC-30
+SC.34
+SC- 33_SA
+SC-32
+2 15-.N
+RB- 1 13-R
+& RB-113-C
+os- 1 12
+A-+7 4
+A- 148
+903-c
+241-N
+8CH3OC
+110-S
+305-W
+A- 149
+A-47 5
+RB- 1 18*R
+& RB-117-C
+RO-341
+
+
+===== Page 13 =====
+1
+
+
+===== Page 14 =====

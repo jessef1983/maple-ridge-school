@@ -1,0 +1,46 @@
+---
+title: "Illustrated Parts List — Front Adapter Kit — May 1973"
+oldgravelys_no: "0696"
+series: "Front Adapter Kit"
+doc_type: "Illustrated Parts List"
+date: "May 1973"
+pages: 1
+source_pdf: "../0696 Illustrated Parts List - Front Adapter Kit - May 1973.pdf"
+text_source: "OCR (Windows.Media.Ocr, 200 dpi)"
+---
+# Illustrated Parts List — Front Adapter Kit — May 1973
+
+Source: [0696 Illustrated Parts List - Front Adapter Kit - May 1973.pdf](../0696 Illustrated Parts List - Front Adapter Kit - May 1973.pdf). Text is machine-extracted; confirm part numbers against the PDF page before ordering.
+
+## Page 1 — Qgravely                        Illustrated            Front Adapter Kit
+
+```text
+QGRAVELY                        ILLUSTRATED            FRONT ADAPTER KIT
+                                                 PARTS LIST             Model Number 11601 El
+                           01 quality and deston                        Effective Date 5-15- 73
+                            r.qh' change
+                               v.thov'                                 Form Number 19665P1
+                                                                    8
+                                                                                        6
+                                                           9
+                                                                  14
+                                                               4
+                                                                 3        2
+                    13
+                  ITEM
+                  NO.           PART NO.           DESCRIPTION
+                   1            11607A1            Push Rod Weldment
+                   2             10405P1           Hair Pin Cotter
+                   3              131017            13/16 x 1-15/32 x . 134 Flat Washer
+                   4             11603P1           Adapter Dog
+                   5             11604P1           Needle Bearing
+                   6             11605P1            Ball Bearing
+                   7            9411027             1/4-28 Lube Fitting
+                   8             14900P1           Adapter Housing
+                   9             11600P1            Stud
+                  10             11609A1           Adapter Weldment
+                  11              435507            1/2-13 Washer Insert Locknut
+                  12              120384            1/2 Spring Type Lockwasher
+                  13              180177            1/2-13 x 1-1/2 Hex Head Bolt
+                  14             149401             Thrust Bearing
+```

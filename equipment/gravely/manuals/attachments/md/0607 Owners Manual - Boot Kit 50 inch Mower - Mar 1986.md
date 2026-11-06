@@ -1,0 +1,63 @@
+---
+title: "Owners Manual — Boot Kit 50 inch Mower — Mar 1986"
+oldgravelys_no: "0607"
+series: "Boot Kit 50 inch Mower"
+doc_type: "Owners Manual"
+date: "Mar 1986"
+pages: 3
+source_pdf: "../0607 Owners Manual - Boot Kit 50 inch Mower - Mar 1986.pdf"
+text_source: "OCR (Windows.Media.Ocr, 200 dpi)"
+---
+# Owners Manual — Boot Kit 50 inch Mower — Mar 1986
+
+Source: [0607 Owners Manual - Boot Kit 50 inch Mower - Mar 1986.pdf](../0607 Owners Manual - Boot Kit 50 inch Mower - Mar 1986.pdf). Text is machine-extracted; confirm part numbers against the PDF page before ordering.
+
+## Page 1 — Ggravely
+
+```text
+GGRAVELY
+                                     BOOT KIT
+                                   50" MOWER
+         FORM NO: 41603 (3-86)            PART NO:  41601                 PRINTED IN USA
+```
+
+## Page 2 — Section 1
+
+```text
+SECTION 1
+                                    Lzs-t.�A.a-t-ian
+      1.1   Remove the boot kit from the shipping container.
+      1.2   Remove the mower discharge chute.
+      1.3   Put the boot in the position on the mower.        Retain witb two
+            3/ 8-16" 3/4 carr iage bolts (from underneath) ,         two flat
+            washers, and two lock nuts.
+      1.4   Using the hole in the front of the boot for a guide, drill
+            a 3/8 diameter hole in the deck.
+      1.5   Install a 3/8-16 hex bolt from inside the deck in the new
+            hole.  Secure with a flat washer and a     3/8-16 lock nut.
+      1.6   Put a clamp on each end of the hose.          Put one end of the
+            hose on the boot and the other end         on the blower inlet.
+            Tighten the clamps.
+```
+
+## Page 3 — Section 2
+
+```text
+SECTION 2
+                               Illustrated Parts   and Parts List
+                                                                                       3
+                                    3
+                               7
+                         4
+       4                           5
+        7          8  6
+                 ITEM
+                  NO.     PART NO.       QTY .                DESCRIPTION
+                   1       41600          1        Bose, Mower to Blower
+                   2       37840          1        Chute, Discharge 50 n
+                   3       36996          2        C 1 amp
+                   4      120394          3        Washer, Flat .406x 812x .06 5
+                   5      126227          2        Bolt, Carr iage 3/8-16x.75
+                   6      1 80122         1        Bolt, Bex 3/8-16X1.OO
+                   7      456004          3        Nut, Lock 3/8-16
+```

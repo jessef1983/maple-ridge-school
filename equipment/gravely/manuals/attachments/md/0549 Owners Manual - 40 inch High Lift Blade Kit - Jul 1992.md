@@ -1,0 +1,48 @@
+---
+title: "Owners Manual — 40 inch High Lift Blade Kit — Jul 1992"
+oldgravelys_no: "0549"
+series: "40 inch High Lift Blade Kit"
+doc_type: "Owners Manual"
+date: "Jul 1992"
+pages: 2
+source_pdf: "../0549 Owners Manual - 40 inch High Lift Blade Kit - Jul 1992.pdf"
+text_source: "OCR (Windows.Media.Ocr, 200 dpi)"
+---
+# Owners Manual — 40 inch High Lift Blade Kit — Jul 1992
+
+Source: [0549 Owners Manual - 40 inch High Lift Blade Kit - Jul 1992.pdf](../0549 Owners Manual - 40 inch High Lift Blade Kit - Jul 1992.pdf). Text is machine-extracted; confirm part numbers against the PDF page before ordering.
+
+## Page 1
+
+```text
+e GRAVELY
+                      40" HIGH LIFT BLADE KIT
+           FORM NO. 53223(7-92)              PART NO. 53217               PRINTED IN USA
+                                                                                     $ 1.00
+```
+
+## Page 2 — Installation Instructions
+
+```text
+SECTION 1
+                              INSTALLATION INSTRUCTIONS
+    1.   Remove the mower from the tractor or power unit. See the Service Instruction Section of the
+        mower Operator's Manual.
+    2.  Turn the mower upside down or lift the front of the mower with a hoist or floor jack.
+    3.  Block the blades and remove the nuts, flat washers, blades and blade cradle weldments from
+        the spindles.
+    4.  Install the new blade cradles and blades on the mower and retain with the flat washers, lock
+        washers and hex nuts. Tighten the nuts to a torque of 120 ft.lbs. (163 N.m). Reinstall
+        the mower on the tractor or power unit.
+                                       SECTION 2
+                          ILLUSTRATED PARTS AND PARTS LIST
+                                 2
+                                                    3
+                                                   4
+                                                 5
+     ITEM                                    ITEM
+      NO.  PART NO. QTY.    DESCRIPTION      NO.  PART NO. QTY.    DESCRIPTION
+      1     47684   3   Weldment, Blade Cradle 4   121574  3   Washer, Lock 5/8 SP
+      2     53216   3   Blade, 40" Mower      5    124589  3      Hex 5/8-11
+      3     131016  3   Washer, Flat .656x1.312x.095
+```

@@ -1,0 +1,843 @@
+# 0517 Operators Manual - G Series Rider - Dec 1990
+# Source: 0517 Operators Manual - G Series Rider - Dec 1990.pdf (28 pages; OCR: Windows.Media.Ocr @200dpi)
+
+===== Page 1 =====
+                       e GRAVELY
+                                 A SAFETY MESSAGE A
+                                 The product for which you have requested
+                                 information or replacement parts is not a current
+                                 product. The replacement models incorporate
+                                 product designs, safety features, safety
+                                 instructions or warnings which represent the latest
+                                 "State Of The Art" developments. For your safety
+                                 and those around you please contact your nearest
+                                 Ariens/Gravely Dealer for a demonstration of the
+                                 current product safety provisions and features.
+           PROFESSIONAL 24-G TRACTOR
+                     OPERATOR'S MANUAL
+        FORM NO. 50983(12-90)              PART NO. 51000              PRINTED IN USA
+                                                                                 $5.00
+
+===== Page 2 =====
+                                        NOTE
+           Read this manual carefully and learn to operate and service your tractor before using it.
+           To keep the warranty, the tractor must be maintained and operated as directed in this
+     manual.
+           All references to "left-side", "right-side", "front" and "back" are given from the operator's
+     position.
+           Use the serial numbers to ensure prompt and correct service when ordering parts,
+     requesting service or making inquiries.
+                   TRACTOR SERIAL NUMBER:
+                   ENGINE SERIAL NUMBER:
+                   ENGINE SPEC NUMBER:
+                         Look for this symbol to point out important safety precautions.
+                         It means -- ATTENTION! BECOME ALERT! YOUR SAFETY
+                         IS INVOLVED.
+
+===== Page 3 =====
+                                    CONTENTS
+                        1. INSTRUCTIONS FOR SAFE OPERATION
+                        2. CONTROLS
+                        3. OPERATING INSTRUCTIONS
+                        4. SERVICE INSTRUCTIONS
+                        5. STORAGE
+                        6. PROBLEM SOLVING
+                        7. SPECIFICATIONS AND WIRING
+                        8. SET-UP INSTRUCTIONS
+                        9. WARRANTY
+
+===== Page 4 =====
+                                     SECTION 1
+                         INSTRUCTIONS FOB SAFE OPERATION
+    Improper use of this tractor can injure people and damage the equipment. People using or servicing
+   this tractor must read and follow the instructions in this manual.
+    It is important to understand that this manual and any other Gravely instruction manuals do not
+    cover every possible danger. It is impossible for Gravely to know all possible dangers in operating
+    and servicing the tractor and attachments.
+    The purchaser must give these instructions to the people operating and maintaining this tractor.
+    These people must use eye and foot protection.
+    1.1  Preparation:
+         I.  Read this manual and the attachment operator's manuals carefully.
+         2.   Learn the location and function of all tractor and attachment controls.
+         3.   Learn how to use the controls to stop the tractor and attachment quickly.
+         4.   Use caution with gasoline. Gasoline is very flammable. Keep it in a clean and
+              tight container away from flames or hot items. Never put gasoline in the fuel tank while
+              the engine is running or hot. Clean up spilled gasoline before starting engine.
+         5.   Be certain that all shield, guards, and interlock switches are in the correct positions.
+         6.   When hauling the tractor, connect the chassis and rear hitch to the transporting
+              vehicle. Never connect from control levers, rods, or like items that could be damaged.
+          7.  Inspect area to be mowed and remove all material which could be thrown by
+              the mower.
+    1.2   Operation:
+          I.  Wear foot and eye protection. Do not wear loose clothing.
+          2.  Do not use the tractor in the dark without adequate lighting.
+          3.  Keep the tractor in good condition. Maintain it as directed in this manual.
+          4.  Replace all parts that become damaged or lost.
+          5.  USE ONLY GRAVELY ACCESSORIES AND ATTACHMENTS OR ATTACHMENTS
+              GRAVELY HAS APPROVED FOR USE WITH THIS TRACTOR.
+                                           1
+
+===== Page 5 =====
+           6.  Do not overspeed the engine. Do not override the governor.
+           7.  Keep away from moving parts.
+           8.  Keep people and animals away from the operating area.
+           9.  Do not let people other than the operator near the operating equipment.
+           10. Use a slow speed and engage the forward-reverse control lever slowly when operating
+               on slopes.
+           11. Look for and keep away from hazards.
+           12. Before starting the engine, put the forward-reverse lever in the "NEUTRAL" position
+               and the PTO control in the "OFF" position.
+           13. Look behind when operating in reverse. Look for people and hazards.
+           14. After hitting an object, stop the equipment and engine. Check for and repair any
+               damage before operating.
+           15. Operate the tractor only from the operator's position, on the seat.
+           16. Travel up and down slopes, not across.
+           17. Never permit children to operate the tractor.
+           18. Before leaving the operator's position, put the PTO control in the "OFF" position, lock
+               the brake or put in gear and engage the forward-reverse lever, and remove the ignition
+               key. Wait until all moving parts have stopped.
+           19. If there is a sudden change in the sound or vibration of the equipment, stop the engine
+               and check for damage. Repair any damage or failure before continuing operation.
+           20. Never run the engine indoors except to move it outside. Exhaust fumes are dangerous.
+           21. Go slowly on slick surfaces.
+           22. Follow traffic laws when operating on or near a road.
+           23. Before making adjustments or servicing, move the PTO to "OFF", turn the ignition
+               switch to "OFF" and wait until all moving parts completely stop.
+                                           2
+
+===== Page 6 =====
+                                      SECTION 2
+                                      CONTROLS
+                                 13
+                                                             2
+                              O
+           10
+                             8                        3
+                                                                    4
+              11
+                                          6           5
+                                  7
+                  12
+                 1 - Ammeter                 8 - Ignition Switch
+                2 - Throttle Control         9 - Hourmeter
+                3 - Choke Control           IO - Hydraulic Lift Control
+                4 - Fwd-Rev Lever Weldment  11 - Brake Pedal
+                 5 - Gear Selector          12 - Brake Lock Lever
+                 6 - Range Selector         13 - Warning Light(Oil Pressure
+                 7 - PTO Control                 and Temperature)
+                                       FIGURE 1
+                                           3
+
+===== Page 7 =====
+                                      SECTION 3
+                              OPERA4NG INSTRUCTIONS
+    Read this manual before operating the tractor. Read the Operator's Manual for any attachment that
+    is to be used.
+    From the tractor seat, note the location of the tractor and attachment controls (See Section 2.).
+    ALWAYS BE IN THE SEAT WHEN OPERATiNG THE TRACTOR OTHER THAN IN
+    STATIONARY APPLICATIONS.
+    3.1  Before Starting the Engine
+         Be sure that the tractor and engine have been properly serviced and maintained.
+    3.2  Starting and Stopping the Engine
+         To start the engine:
+          1.  The forward-reverse lever must be in "NEUTRAL" position and the PTO control must
+              be at "OFF" position.
+         2.   Put the key in the ignition switch.
+         3.   Move the throttle lever to a middle position.
+         4.   If the engine is cold, move the choke lever to "ON". If the engine is warm, the choke
+              lever should be at "OFF".
+          5.  Turn the ignition key to "START". When the engine starts, move the choke lever slowly
+              to "OFF". If the engine does not start in five seconds, release the key for a few seconds
+              and then repeat. If the engine does not start within five tries, see Section 6 for
+              instructions.
+                  CAUTION: Do not keep the starter running for over 15 seconds. Do not run the
+                             starter for more than 15 seconds in any one minute.
+          To stop the engine:
+          1.  Move the throttle lever to "SLOW" and idle with the PTO control disengaged
+              for approximately 15 seconds.
+          2.  Turn the ignition switch to "OFF".
+          3.  Remove the key before leaving the tractor.
+                                           4
+
+===== Page 8 =====
+    3.3 Operating the Transmission
+    Use slow engine and transmission speeds lentil you know how to operate the tractor safely.
+     A CAUTION: DO NOT SHIFT TRANSMISSION GEARS WHILE THE FORWARD OR
+                    REVERSE CLUTCHES ARE ENGAGED OR THE TRACTOR IS MOVING.
+                    This will damage the gears. Always place the forward-reverse lever weldment
+                    in "N EUTRAL" and bring the tractor to a complete stop before moving the gear
+                    or range selectors.
+         1.  To Move in a Forward Direction
+             A.   Start the engine and move the throttle to give the desired engine speed.
+             B.   Put the range and gear selectors in the positions that will produce the desired
+                  speeds. See Section 7 for ground speeds produced.
+             C.   Move the fomard-reverse lever weldment forward. As the tractor increases
+                  speed, push the lever until it locks into position. If the lever is not pushed all the
+                  way forward, slippage can damage the forward clutch. USE CAUTION WHILE
+                  LEARNING TO OPERATE THE FORWARD-REVERSE LEVER WELDMENT.
+                  NOTE: The operator must be in the seat to operate the forward-reverse lever.
+                          If the operator leaves the seat with the forward-reverse lever in
+                          the "FORWARD" position, the engine will stop.
+         2.  To Move in a Reverse Direction
+             A.   Follow Steps A and B under Number 1 above.
+             B.   Move the forward-reverse lever weldment rearward. The lever does not lock into
+                  a reverse position. You must continue to hold the lever in the "REVERSE" position
+                  to continue reverse travel. The lever will return to "NEUTRAL" upon release.
+         3.  Stopping the Tractor
+              Pushing the brake pedal down will stop the tractor and return the forward-reverse lever
+             to "NEUTRAL". Use the brake pedal for sudden stops and for holding the tractor on
+             slopes.
+         4.   Locking the Brake
+             To lock the brake for parking, depress the brake pedal and pull back on the brake lock
+              lever. To release, push on the pedal and move the lock lever forward.
+                                          5
+
+===== Page 9 =====
+          5.  Using the PTO
+              To power an attachment, push the PTO control forward to 'ON". To stop an
+              attachment, pull the PTO control rearward to "OFF". The operator must be in
+              the tractor seat to operate the P TO. If the operator leaves the seat while the
+              PTO control is in the "ON" position, the engine will stop.
+          6.  Correct Operating Speeds
+              A WARNING: On rough and sloping ground and when mowing and trimming near
+                             buildings, trees, and other obstructions, use a slow ground speed.
+              NOTE: Most attachments, especially rotary mowers and snowblowers perform best
+                     when operated at full engine speed. Proper ground speed is determined by
+                     power limitations, the type of terrain, the quality requirements of the job being
+                     performed, obstructions, hazards, etc.
+    3.4   Using the Attachment Lift System
+          The hydraulic lift system is used to raise and lower attachments. It can hold an attachment
+          in position or let it follow the ground.
+          1.  To hold an attachment in position:
+              A.  Lift the attachment by pulling back on the hydraulic lift lever until the attachment
+                  is fully raised.
+              B.  Lower the attachment to the desired position by gently pushing the lift lever
+                  forward.
+              C.  When the attachment reaches the desired position, release the lever. The
+                  attachment will be held in that position.
+          2.  To let an attachment follow the ground:
+              Push the hydraulic lift lever all the way forward to the "FLOAT" position. The
+              attachment will be lowered to the ground and the lever will remain at that position until
+              you pull it backwards.
+                                           6
+
+===== Page 10 =====
+     3.5   Warning Light
+           This tractor is equipped with a warning light to alert the operator in the event there
+           is a problem with the engine. The warning light is located on the upper left side of
+           the instrument panel. See Figure 1.
+           NOTE: The light is activated by two different switches on the engine:
+                   a. Oil Pressure Switch - when there is a loss of oil pressure.
+                   b. Metal Temperature Switch - when the engine overheats.
+           If the light comes on while operating the tractor, stop the tractor and engine as quickly as
+           possible. Check the following items on the engine:
+           1.  Check the engine oil level.
+           2.  Remove the engine shrouds and clean the cooling fins of any blockage.
+           3.  Check the engine for external damage.
+          To check to see if the light is operating correctly, turn the ignition switch to the "ON" position.
+          The light should glow red.
+           NOTE: The engine must have been off for at least five minutes prior to performing this
+                   test.
+                                           7
+
+===== Page 11 =====
+                                       SECTION 4
+                                 SERVICE INSTRUCTIONS
+     Correct maintenance can increase the lite of the Professional 24-G. It is important that the items
+     shown in Chart 1 be done at the correct time intervals. Use Chart 2 to record the actual hours on
+     the hourmeter and the date at which each service item is performed.
+                                MAINTENANCE SCHEDULE
+               SERVICE PERFORMED               TIME INTERVALS BETWEEN SERVICE
+                                                 DAILY 25 HR. 200 HR. 500 HR.
+      General Lubrication Section 4.2                       x
+      Check the En ine Oil Section 4.3
+      Check the Batte Fluid Section 4.5                              x
+       Check the Batte Section 4.5
+       Check the Fasteners Section 4.6                      x
+       Check the Air Intake Screen Section 4.7
+       Check the En ine Coolin S stem Section 4.8           x
+       Check the Air Cleaner Section 4.9           x
+       Check the Transmission Oil Section 4.11                       x
+       Check the Tire Pressure Section 7                    x
+                                        CHART 1
+     4.1   Filling the Fuel Tank
+               WARNING: Gasoline is very flammable. Follow the safety instructions shown
+                            in Section 1.
+           Gasoline is added as required. Use clean lead free or regular grade gasoline. To
+           add gasoline:
+           1.  Put the tractor in an open area.
+           2.  Stop the engine and tock the brake.
+           3.  Clean the fuel cap area.
+           4.  Remove the fuel tank cap.
+           5.  Fill the tank with gasoline. Use caution. Do not overflow.
+           6.  Reinstall fuel tank cap.
+           7.  If gasoline is spilled, wipe it up.
+                                            8
+
+===== Page 12 =====
+     Iluuu
+                                                             25 HRS.
+                                                         ACTUAL HOURS
+                                                             DATE
+                                                             50 HRS.
+                                                         ACTUAL HOURS
+                                                             DATE
+                                                             75 HRS.
+                                                         ACTUAL HOURS
+                                                             DATE
+                                                            100 HRS.
+                                                         ACTUAL HOURS
+                                                             DATE
+                                                            125 HRS.
+                                                          ACTUAL HOURS  m
+                                                              DATE
+                                                            150 HRS.
+                                                          ACTUAL HOURS  m
+                                                              DATE
+                                                            175 HRS.
+                                                          ACTUAL HOURS  cn
+                                                              DATE
+                                                            200 HRS.
+                                                         ACTUAL HOURS
+                                                             DATE
+                                                            225 HRS.
+                                                         ACTUAL HOURS
+                                                             DATE
+                                                            250 HRS.
+                                                         ACTUAL HOURS
+                                                             DATE
+                                                            275 HRS.
+                                                         ACTUAL HOURS
+                                                             DATE
+                                                            300 HRS.
+                                                         ACTUAL HOURS
+                                                             DATE
+                                                            325 HRS.
+                                                         ACTUAL HOURS
+                                                             DATE
+                                                            350 HRS.
+                                                         ACTUAL HOURS
+                                                             DATE
+                                       CHART 2
+
+===== Page 13 =====
+                                                          ACTUAL HOURS
+                                                              DATE
+                                                             400 HRS.
+                                                          ACTUAL HOURS
+                                                              DATE
+                                                             425 HRS.
+                                                          ACTUAL HOURS
+                                                              DATE
+                                                             450 HRS.
+                                                          ACTUAL HOURS
+                                                              DATE
+                                                             475 HRS.
+                                                          ACTUAL HOURS  m
+                                                              DATE
+                                                             500 HRS.
+                                                          ACTUAL HOUR   m
+                                                              DATE
+                                                             525 HRS.
+                                                          ACTUAL HOURS
+                                                              DATE
+                                                             550 HRS.
+                                                          ACTUAL HOURS
+                                                              DATE
+                                                             575 HRS.
+                                                          ACTUAL HOURS  CD
+                                                              DATE
+                                                             600 HRS.
+                                                          ACTUAL HOURS
+                                                              DATE
+                                                             625 HRS.
+                                                          ACTUAL HOURS
+                                                              DATE
+                                                             650 HRS.
+                                                          ACTUAL HOURS
+                                                              DATE
+                                                             675 HRS.
+                                                          ACTUAL HOURS
+                                                              DATE
+                                                             700 HRS.
+                                                          ACTUAL HOURS
+                                                              DATE
+                                  CHART 2(CONTlNUED)
+
+===== Page 14 =====
+     4.2  General Lubrication
+          There are five grease fittings to be greased at 25-hour intervals. Clean the fittings before
+          attaching the grease gun. Use a mult&purpose grease. Add grease until it appears at the
+          ends of the bearings. The loqtions of the five fittings are;
+          1.  On the brake pedals.
+          2.  On the front axle at each king pin.
+          3.  On the front axle as shown in Figure 2.
+          Apply motor oil to all pin connections, pivot points and areas where sliding occurs
+          in the clutch, transmission, P TO, and lift control systems every 25 hours.
+     4.3  Checking the Engine Oil
+          Check the engine oil level daily. Never operate the engine with the oil level below the low
+          mark on the dipstick. See your engine manual for oil specifications and oil filter service
+          instructions.
+          To check the oil level:
+          1.  Clean around the dipstick to prevent dirt from entering the tube.
+          2.  Remove the dipstick and wipe off the oil.
+                          O            O
+                                                                  O
+                             1 - Grease Fitting on the Front Axle
+                                       FIGURE 2
+                                           11
+
+===== Page 15 =====
+          3.  Put the dipstick back in place. Be sure it is all the way down.
+          4.  Remove the dipstick again and note oil level.
+          5.  Add oil, if needed. Do not oCerfill.
+          6.  Repeat Step 3.
+    4.4   Changing the Engine Oil
+          1.  Read your engine manual for recommended change schedule.
+          2.  Move the tractor to a level area. Lock the brake.
+          3.  If the engine is cold, let it run for 5 minutes.
+          4.  When the engine is warm, stop it and raise the rear fender.
+              A WARNING: Engine muffler and other parts are hot.
+          5.  Clean the areas around the dipstick and drain plug.
+          6.  Remove the dipstick.
+          7.  Put an open top container that will hold four quarts under the drain plug.
+          8.  Remove the drain plug.
+          9.  Allow the engine to drain completely.
+          10. Clean and reinstall the drain plug.
+          11. Remove the oil filter (some models), clean the oil filter port and install a new oil filter
+              according to the instructions on the oil filter.
+          12. Fill with new oil to the "FULL" mark on the dipstick.
+          13. Replace the dipstick. Lower the rear fender.
+          14. Start the engine and check for leakage at the drain plug. Tighten the plug if leakage
+              occurs.
+     4.5  Checking the Battery Fluid
+          Check the battery fluid every 200 hours. Use caution and wear eye protection when
+          checking the battery. To check the battery:
+          1. Clean the top of the battery.
+                                           12
+
+===== Page 16 =====
+          2.   Lift the filler caps.
+          3.   If the fluid level is below the split rings in the filler tube, add distilled water. Do not fill
+               above the split ring. Do not usef metal funnel.
+          4.   Reinstall the filler caps. push them all the way down.
+     4.6  Checking the Fasteners
+          Each day before operating, check all nuts, bolts, and other fasteners. Replace fasteners that
+          are missing or damaged. Tighten all nuts and bolts to the torque shown in Chart 3 unless
+          shown differently.
+                             BOLT TORQUE SPECIFICATIONS
+                   BOLT SIZE      FOOT POUNDS         NEWTON METERS
+                                      (ft.lbs.              N.m
+                      1/4"               7                   9.5
+                      5/16"                                  19
+                      3/8"              25                   34
+                      7/16"                                  54
+                                        60                   82
+                      9/16"             83                  113
+                      5/8"              120                 163
+                                        200                 271
+                                        CHART 3
+     4.7  Checking the Air Intake Screen
+          Check the air intake screen on the engine each day. Remove any grass, dirt, or debris that
+          may have accumulated on it. THE AIR INTAKE SCREEN MUST BE KEPT CLEAN.
+     4.8  Checking the Cooling System
+          Check the cooling system for signs of the collection of grass and debris in the engine cooling
+          fins every 25 hours or more often when operated in dirty conditions. See your engine manual
+          for instructions.
+     4.9  Checking the Air Cleaner
+          Check the air cleaner each day. See your engine manual for instructions.
+     4.10 Changing the Air Cleaner Element
+          Replace the air cleaner element at the correct intervals. See your engine manual for
+          instructions.
+                                           13
+
+===== Page 17 =====
+    4.11 Checking the Transmission Oil
+         Check the transmission oil level every 200 hours or twice a year, whichever comes first. If
+         leakage is observed, check more fre<uently. The fill tube and check plug are shown in Figure
+         3. To check the transmissioh oil level:
+         1.  Move the tractor to a level area. Stop the engine and lock the brake.
+         2.  Raise the rear fender.
+         3.  Clean the check plug and remove it.
+         4.  The oil level is correct when oil is at the bottom of the hole.
+         5.  If the level is correct, reinstall and tighten the plug. If the level is Iow, add oil.
+             See Section 7 for recommended lubricant specifications.
+         To add oil:
+         1.  Remove the fill tube cap.
+         2.  Add oil until it reaches the bottom of the check plug hole.
+         3.  Reinstall and tighten the fill tube cap and check plug.
+                                                2
+                                    1 - Fill Tube
+                                    2 - Check Plug
+                                      FIGURE 3
+                                         14
+
+===== Page 18 =====
+     4.12 Servicing the Brakes
+          After each use of the tractor, wash the dirt from the brakes with water. Each day
+           before operating, check all nuts, holts, and other fasteners. Replace fasteners that
+           are missing or damaged. Tighten alrnuts and bolts to the torque shown in Chart 3 unless
+           shown differently.
+           NOTE: Do not use harsh or abrasive cleaners on any painted surface. Do not allow
+                   gasoline or oil to remain on any silk screened surface.
+           Brake service is requ ired if the brakes do not stop and hold the tractor effectively. The brakes
+           should be effective enough to cause the rear wheels to slide if applied suddenly on
+           a concrete or asphalt surface.
+           1 . Brake Adjustment
+               As necessary to compensate for brake lining wear, adjust the brake linkage as follows:
+               A.  Stop the tractor on a level surface.
+               B.  Stop the engine and block the wheels so the tractor cannot roll.
+               C.  Remove the cotter pin and clevis pin holding the brake control rod clevis to the
+                   cam lever arm on the left individual wheel brake. See Figure 4.
+                                        4
+                                                  3
+                               2
+                                     5
+                           1 - Brake Rod      4 - Cotter Pin
+                           2 - Adjustable Clevis 5 - Cam Lever Arm
+                           3 - Clevis Pin
+                                         FIGURE 4
+                                            15
+
+===== Page 19 =====
+            D.  With the left brake pedal all the way up, turn the clevis on the brake control rod
+                until the hole in the clevis is aligned with the hole in the cam lever arm.
+            E.  Fasten the brake control rod clevis to the cam lever arm with the clevis pin and
+                cotter pin.
+            F.  Carefully test the operation of the left individual wheel brake. If necessary, repeat
+                the above procedures to get the correct braking action.
+            G.  Follow the above procedures for the right individual wheel brake.
+            H.  Make sure that the pedal travel is equal for both brakes.
+                     WARNING: Replace the brake shoes before the lining is worn to the rivet
+                                heads.
+                 If the correct braking action cannot be achieved after performing the above
+                procedures, do the following:
+                a. Loosen the 5/16-24 nut and bolt which fastens the cam lever arm to the brake
+                   cam.
+                 b. Remove the cam lever arm from the brake cam. Rotate the cam lever arm one
+                   spline to the rear and put it back on the brake cam.
+                 c. Move the cam lever arm all the way to the front. Then rotate the tip of the cam
+                   lever arm 3/4 inches toward the rear.
+                 d. Repeat Steps A through F.
+        2.   Brake Inspection and Repair
+             A.  Raise and block the rear of the tractor.
+             B.  Remove the rear wheels and brake drums.
+             C.  Inspect the brake parts and linkage. Replace any parts worn or damaged.
+             D.  Reverse the disassembly procedure. See Section 4.12.1 for adjustment.
+   4.13 Servicing the Forward and Reverse Clutches
+         The forward and reverse clutches must be checked every 100 hours. If the lining has worn
+         to a thickness of less than 0.150 inch (3.8mm), replace the lining. The forward clutch is on
+         the right side of the transmission and the reverse clutch is on the left side of the transmission.
+         See Figure 3.
+         NOTE: DAMAGE WILL OCCUR IF THE TRACTOR IS OPERATED WITH A LINING
+                 THICKNESS OF LESS THAN 0.150 INCH(3.8MM).
+                                         16
+
+===== Page 20 =====
+          Inspect and adjust the clutches as follows:
+          1.  Stop the engine and place the forward-reverse lever in the "NEUTRAL" position.
+          2.  Raise the rear fender.
+          3.  Measure the clearance in the slot. The correct clearance is .030 inch (.76mm) to .060
+              inch (1.5mm).
+          4.  Adjust the bolts which go through the flange on the axle bearing retainer so that the
+              forward-reverse clutch springs are straight up and down when the clutches have zero
+              clearance. Lock the bolt in place with the jam nut. Loosen the jam nut which holds the
+              slide rod bushing in place. Adjust the bushing on the slide rod until the clearance is
+              correct. Lock the bushing in place with the jam nut.
+          5.  Lubricate the clutch once each season. Remove the clutch and apply a film of multi-
+              purpose grease to the splined clutch shaft. While the clutch is off, check the lining wear.
+              If the lining has worn near the rivet heads, replace the lining. Re-adjust the clutch as
+              described above.
+    4.14  Servicing the PTO Clutch
+          The PTO clutch adjustment should be checked every 100 hours. To check the adjustment
+          and to adjust:
+          1.  Stop the engine and lock the brake.
+          2.  To check adjustment, move the PTO clutch lever forward until the gaps in the clutch
+              pac are closed. (Light forward pressure on the PTO clutch lever.) Measure the distance
+              between the front edge of the lever and the locking notch in the control cover plate. This
+              dimension should be about 1 inch.
+          3.  If adjustment is required, remove the control cover plate and push back on the end of
+              the bar spring that loads the PTO clutch, until the gaps in the clutch pac are closed.
+              (Push on the end of the spring on which the coil spring is located.) When the gaps in
+              the clutch pac are closed, the bar spring should be straight across the frame.
+              NOTE: The bar spring will line up with the two flanges on the clutch trunnion. If it does
+                     not line up, adjust as necessary with the bolt in the bracket on the right side
+                     of the frame. Loosen the lock nut and turn the bolt until the spring bar is straight
+                     across. Tighten the jam nut.
+          4.  Install the control plate and check the clutch adjustment as directed in Step 2 above.
+          5.  If more adjustment is needed, loosen the two jam nuts on the rod that loads
+              the compression spring. Turn the nuts toward the compression spring until the 1 inch
+              dimension in Step 2 is achieved. Lock the jam nuts.
+                                          17
+
+===== Page 21 =====
+    4.15 Servicing the Spark Plug(s)
+          To clean or change a spark plug:
+          1. Stop the engine, lock the brake, and raise the rear fender.
+          2. See your engine manual for further instructions.
+    4.16 Hydraulic Lift and Power Steering Service
+          Check the hydraulic fluid level each time the tractor is used. The hydraulic fluid tank
+          is located underthe hood. The fluid level should be slightly above the divider in the tank. Add
+         fluid when necessary and check for leaks. The hydraulic fluid and filter should be replaced
+         when:
+         A. The tractor has been used one year commercially.
+         B. The tractor has been used two years by a consumer.
+         C. The hydraulic system has been repaired.
+                  WARNING: Thoroughly clean hydraulic fittings that are to be disconnected to
+                             keep contaminates out of the system.
+         To replace the hydraulic fluid:
+         1.  Disconnect the suction hose at the fitting on the pump. This will drain the back half of
+             the tank.
+         2.  Disconnect the hose that goes from the lift valve to the tank at the fitting on the oil filter.
+             This will drain the front half of the tank.
+         3.  Change the hydraulic oil filter.
+         4.  Reconnect both hoses and fill with clean hydraulic fluid. See Section 7 for hydraulic
+             fluid specifications. The fluid level should be slightly above the divider in the tank.
+   4.17 Adjustment of Range Selector
+         1. Move the Hi-Lo shift lever as far as it will go both directions. Measure the distance
+             between the lever and the end of the slot. This distance should not be less than 5/16".
+         2. Adjust the clevis so that the clearance between the Hi-Lo shift lever and control cover
+             plate slot is equal for both positions of the lever.
+                                         18
+
+===== Page 22 =====
+                                      SECTION 5
+                                       STORAGE
+    5.1   When the tractor will not be operated for more than two months:
+          1.  Do the daily and 25-hour maintenance, but do not add gasoline.
+          2.  Clean the tractor. Paint or oil bare metal surfaces to prevent rust.
+              NOTE: Do not use harsh or abrasive cleaners on any painted surface. Do not allow
+                     gasoline or oil to remain on any silk screened surface.
+          3.  Refer to the engine manual and prepare the engine for storage.
+          4.  Clean and charge the battery. Charge the battery every three or four weeks while in
+              storage.
+          5.  Place the PTO lever in the "OUT" position.
+         6.   Store in a cool, dry place.
+    5.2  To use the tractor again:
+         1.   Refer to the engine manual and prepare the engine for service.
+         2.   Charge the battery.
+         3.   Put fresh, clean gasoline in the fuel tank.
+                                          19
+
+===== Page 23 =====
+                                      SECTION 6
+                                  PROBLEM SOLVING
+                 OBSERVATION                          POSSIBLE CAUSE
+      1. No sound or motion when the ignition PTO control in the "ON" position
+         switch is turned to the "START" position. Forward-reverse lever in the forward or
+                                              reverse position
+                                            Blown fuse
+                                            Discharged battery
+                                            Starting solenoid damaged
+                                            Loose battery cable(s)
+                                            Damaged time delay module
+      2. When the ignition switch is turned to Discharged battery
+        "START", the solenoid "clicks" and the Battery cable connector(s) corroded
+        engine starter motor does not operate. Starter damaged
+      3. When the ignition switch is turned to Relay or relay connection(s)
+        "START", the starter operates but the Fuel tank empty
+        engine does not start.              Fuel valve turned off
+                                            Engine spark plug(s) fouled
+                                            Engine failure -- see Engine Service Manual
+     4. Battery discharged.                 Regulator-rectifier failure
+                                            Fuse holder or battery
+                                            Engine alternator failure
+                                            Battery failure
+     5. Engine continues to run when the ignition Ground wire not connected
+        switch is rotated to the "OFF" position. Ignition switch failure
+     6. Lights do not come on when the light Light(s) burned out
+        switch is moved to the "ON" position. Defective light switch
+                                           Loose wire connections
+                                           Engine light alternator failure
+                                           Ignition switch failure
+     7. Engine runs rough or stops after it gets See Engine Service Manual
+        hot.                               Time delay failure
+     8. Fuse blows when starting engine.   Defective solenoid
+     9. Hydraulic lift will not lift attachment. Hydraulic valve seals
+                                           Cylinder seals
+                                           Low fluid level
+                                           Hydraulic pump
+                                         20
+
+===== Page 24 =====
+                                        SECTION 7
+                               SPECIFICATIONS AND WIRING
+      Fuel Specifications                         See your engine manual
+      Fuel Tank Capacity                          5.3 Gallons(U.S.) (20 liters)
+      Engine Oil Specification                    See your engine manual
+     Engine Oil Capacity                          See your engine manual
+     Transmission Oil Specification               API Service SC IOW-30 Motor Oil
+     Transmission Oil Capacity                    6 Quarts(U.S.) (5.7 liters)
+     Hydraulic Fluid Specification                ATF Dextron II
+     Hydraulic Fluid Capacity                     4 Quarts(U.S.) (3.8 liter)
+     Battery                                      12 Volt, BCI group 22F, 42 amp. hr.
+     Fuse                                         30 amp. Acc-30
+     Weight                                       983 Lbs.(445.9 kg.)
+     Tire Sizes:
+           Front                                  18 x 8.50-8
+           Rear                                   26 x 12.00-12
+     Tire Pressure:
+           Front                                  14 psi(97 kN/m2) to 18 psi(124 kN/m2)
+           Rear                                   10 psi(69 kN/m2) to 14 psi(97 kN/m2)
+     Grounds Speeds (at 3600 rpm Engine Speed):
+                              FORWARD                            REVERSE
+        Gear        "LO" Range         "HI" Range         "LO" Range      "HI" Range
+         1        .6 mph (1 .O km/h) 2.8 mph (4.5 km/h) 1.2 mph (1.9 km/h)  Same
+         2        .8 mph (1.2 km/h) 4.2 mph (6.8 km/h) 1.9 mph (3.1 km/h)   Same
+         3       1.2 mph (1.9 km/h) 6.2 mph (10.0 km/h) 2.8 mph (4.5 km/h)  Same
+         4       1.9m h (3.1 km/h) 9.4 mph (15.1 km/h) 4.2 mph (6.8 km/h)   Same
+                                            21
+
+===== Page 25 =====
+    Wiring Diagram:
+                                                     RED
+                                             PTO
+                                        INTERLOCK swrrcH
+                                                        -.e-BROWN
+                                      BROWN
+                                                          FWD-REV
+                              SOLENOID               INTERLOCK SWITCH
+                              SWITCH
+                                   s
+                                                      YELLOW
+                          BROWN
+                BATTERY
+     BLACK                                                  STARTER
+                                                            MOTOR
+                          BROWN         RED
+                            s                                             STARTER
+                                                                          SOLENOID
+                                    RED             RED
+                     IGNITIO
+                     SWITCH                AMMETER
+                            LIGHT
+                            BLUE
+             DARK
+             BLUE                                            FUSE
+                  BLACK           BLACK
+                                         HOURMETER
+                        LIGHT
+                        SWITCH
+                  OIL
+                  PRESS.                     RED
+                  LITE      RED
+                  BLACK                       WHITE             WHITE
+   RED
+                                     HEADLIGHTS
+                                                                       ORANGE
+                  LIGHT
+                  BLUE
+                                            GREEN GREEN
+                            ORANGE
+                                      8      RELAY          YELLOW
+                                          85           SEAT        GREEN
+                        RED            o               SWITCHES
+                                    86  30
+                                                            YELLOW
+                                                 GREEN
+                              DARK
+                              BLUE
+                                           TIME DELA
+                                           MODULE           YELLOW
+              CONNECTOR
+                                   COIL
+      REGULATOR  WHITE      WHITE
+                                                 BROWN
+                  (3)        (4)
+     ENG. TEMP.                    OIL PRESS.
+     SWITCH      WHITE      WHITE  SWITCH N.C.
+                  (1)        (2)
+                                         22
+
+===== Page 26 =====
+      Hydraulic System Diagram:
+           OIL FILTER
+                                    STEERING CYLINDER
+                                                                       TANK
+                                            STEERING
+                                               UNIT
+             LIFT VALVE                         OUT
+                  IN
+                                             IN
+                 OUT
+                                                UT IN
+                                  LIFT          PUMP
+                               CYLINDER
+                                             23
+
+===== Page 27 =====
+                                      SECTION 8
+                                 SET-UP INSTRUCTIONS
+    8.1   Remove the tractor from the shipping container.
+    8.2   Adjust the air pressure in the rear tires to 10 psi (69 kN/m2) to 14 psi (97 kN/m2).
+    8.3   Adjust the air pressure in the front tires to 14 psi (97 kN/m2) to 18 psi (124 kN/m2).
+    8.4   The steering wheel is shipped upside down on the steering wheel shaft. Remove the nut,
+          flat washer and steering wheel from the steering wheel shaft. Put a film of grease
+          on the steering serrations and put steering wheel in place on the shaft. Retain the steering
+          wheel with the flat washer and nut which were previously removed. Put the steering wheel
+          cover in place.
+    8.5   Fasten the seat to the seat springs with four 5/16-18x.75 hex bolts and 5/16 lock washers.
+          Connect the seat switch wires.
+                                          24
+
+===== Page 28 =====
+                                         SECTION 9
+                               LIMITED FIVE-YEAR WARRANTY
+       1. This Limited Five-Year Warranty is issued by Gravely International, 6. This Warranty does not cover the following:
+         Inc., only to the original purchaser. If Gravely equipment is leased
+         by Gravely, this Warranty shall extend also to the original lessee as a. Transportation to the Gravely dealership. (If tie Gravely dealer
+         if such lessee were the original purchaser. provides transportation, he will charge for such service.)
+       2. Gravely warrants that all new equipment manufactured by Gravely b. Normal maintenance services and normal replacement of items
+         ("Gravely Products") shall be free of defects in material and work- such as spark plugs, belts, oil, oil filters, air filters, and mower,
+         manship for the term described in paragraph 4, below. Except as plow or cultivator blades, gauge wheels, skids and other wear
+         hereinafter provided, this Warranty does not cover any engine, tires items.
+         or battery forming a part of the Gravely Product. Engine and tires
+         are covered by and subject to separate warranties of the manufac- c. Any Gravely Product which has been altered or modified in any
+         turers thereof.                           way.
+       3. In the event that any Gravely Product warranted hereunder shall be d. Any repair or replacement occasioned by customer neglect or
+         defective or fail to conform with this Warranty, Gravely shall, subject lack of proper maintenance. (The purchaser is responsible for
+         to the provisions hereof, pay for, or provide labor and materials for, making sure that Gravely Products are operated and serviced
+         the repair or replacement of such defective Gravely Product. as directed in the applicable manual or service instruction.
+                                                   Incorrect use or maintenance will void tlis Warranty.
+       4. This Warranty is for five years (60 months) from purchase date for
+         Gravely Products used exclusively for personal, family or house- e. Any repair occasioned by the use of any attachment not ap-
+         hold purposes, and two years (24 months) for products used for proved by Gravely. (The use of any such unapproved attach-
+         other purposes (commercial use), excluding rental firms. Gravely ment will void this Warranty.)
+         products used for rental purposes will be warranted for 90 days.
+         Repair of Gravely Products after the second year (24 months from 7. GRAVELY MAKES NO OTHER EXPRESSED OR IMPLIED WAR-
+         date of purchase) shall be subject to a $50.00 deductible for each RANTIES, OR WARRANTIES AS TO THE MERCHANTABILITY
+         repair. (After two years, Gravely agrees to repair or replace defec- OR FITNESS FOR A PARTICULAR PURPOSE. ALL WARRAN-
+         tive Gravely Products used exclusively for personal, family or TIES ARE LIMITED IN DURATION TO THE TERMS SET OUT IN
+         household purposes only to the extent that the cost of such warranty PARAGRAPH 4, ABOVE. GRAVELY SHALL HAVE NO LIABILITY
+         covered repair or replacement exceeds $50.00.) FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES RESULT-
+                                                 ING FROM THE BREACH OF ANY WARRANTY, INCLUDING,
+         Batteries are warranted by Gravely for a period of twelve (12) BUT NOT LIMITED TO, LIABILITY FOR INCONVENIENCE,
+         months only. If a battery shall fail within twelve (12) months of RENTAL OR PURCHASE OF REPLACEMENT EQUIPMENT, OR
+         purchase, the replacement cost thereof shall be prorated over a FOR LOSS OF PROFITS OR OTHER COMMERCIAL LOSS.
+         twelve-month term based upon the number of months since pur-
+         chase.                                8. Some states do not allow limitations on how long an implied war.
+                                                 ranty lasts, so the above statement may not apply to you. Some
+       5. To obtain Warranty Service on a Gravely Product (including any states do not allow the exclusion or limitation of incidental or
+         battery or other component not manufactured by Gravely), use this consequential damages, so the above limitation or exclusion may
+         procedure:                              not apply to you.
+         a. Notify the Gravely dealer from whom you purchased the equip- 9. This Warranty gives you specific legal rights, and you may have
+           ment.                                 other rights which vary from state to state.
+         b. If you have moved and it is not convenient to notify the selling IO. A Gravely product registration card is supplied with each Gravely
+           dealer, notify the nearest Gravely dealer. You should supply Product. Please complete the card and retum it to Gravely at the
+           this dealer with a copy of the bill of sale as proof of the date of address listed on the card. The equipment registration card will be
+           purchase.                             used by Gravely for:
+         c. Make arrangements to have the equipment delivered to the a. Recording date of purchase.
+           dealer (refer to paragraph 6 a., below).
+                                                 b. Notification of owners in compliance with the Consumer Prod-
+         d. If you have any questions conceming the Gravely Limited uct Safety Act, should any notification be necessary.
+           Warranty, they should be referred to:
+                                                 The return of such card is necessary for your warranty to be
+              Gravely International, Inc.        effective.
+              One Gravely Lane
+              Clemmons, NC 27012               11. This Warranty is not subject to change or modification by anyone,
+              Attn: Customer Service Department  including Gravely dealers and no Gravely dealer is authorized to
+                                                 make any representations or promises on Gravely's behalf.
+         e. Warranty Service on Gravely Products must be performed by EGRAVELY.
+           an authorized Gravely dealer.
+                                                      One Gravely Lane, Clemmons, NC 27012
+                                             25

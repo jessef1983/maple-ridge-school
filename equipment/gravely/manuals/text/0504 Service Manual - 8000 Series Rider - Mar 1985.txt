@@ -1,0 +1,1527 @@
+# 0504 Service Manual - 8000 Series Rider - Mar 1985
+# Source: 0504 Service Manual - 8000 Series Rider - Mar 1985.pdf (68 pages; OCR: Windows.Media.Ocr @200dpi)
+
+===== Page 1 =====
+                             eGRAVELV
+                    8000 SERIES TRACTOR
+                          SERVICE MANUAL
+       FORM NO:  34836 (3-85)      PART NO: 34686, 34687, 34688, 34689 PRINTED IN USA
+                                            34690, 38303, 38304
+
+===== Page 2 =====
+                                            NOTE
+                All references to "left-side", "right-side",     "front",
+           back  are given from the ope rator's position.
+                       Look for this symbol to point out important safety
+                       precaut ions.   It means  -- ATTENTION 1 BECOME ALERTI
+                       YOUR SAPETY IS IWOLVED.
+
+===== Page 3 =====
+                                  TABLE    CONTENTS
+                            1.   SPECIFICATIONS
+                            2.   SERVICE INSTRUCTIONS
+                            3.   TRANSMISSION
+                            4.   ENGINE
+                            5.   STEERING
+                            6.   ATTACHMENT  LIFT - MANUAL
+                                                  - HYDRAULIC
+                                 FUEL SYSTEM
+                            8.   BRAKES
+                                 ELECTRICAL
+                           10.   SPECIAL TOOLS
+
+===== Page 4 =====
+                                      SECTION 1
+                               General Specifications
+            Fuel Specification                    See your engine manual
+            Puel Tank Capacity                    5.3 Gallons (U. S.)
+                                                    (20 liters)
+            Engine Oil Specification              See your engine manual
+            Engine Oil Capacity                   See your engine manual
+            Transmiss ion Oil Specificat ion      API Service SC IOW-40
+                                                    Motor Oil
+            Transmission Oil Capacity             6 Quarts (U.S.)
+                                                    (5.7 liters)
+            Hydraulic Fluid Specificat ion        Automatic Transmiss ion Fluid
+                                                    Type A, Suffix A, Type F
+                                                    or Dextron
+            Hydraulic Fluid Capaci ty             1.5 Quarts (U. S.)
+                                                    (1.4 liters)
+            Battery                               12 Volt, BCI group 22P,
+                                                    42 amp. hr.
+            Fuse                                  30 amp. Acc-30
+            Tire Sizes:
+               Regular Models, Front              16 x  6.50
+               Regular Models, Rear               23 x  8.50 - 12
+               Professional Models, Pront         16 x  7.50
+               Professional Models, Rear          23 x  10.50 - 12
+            Tire Pressure, Front                  14  psi (97 kN/m2)    to 18  psi
+                                                     (124 kN/m2)
+            Tire Pressure, Rear                   IO psi (69 kN/m2)     to 14  psi
+                                                     (97 kN/m2)
+                                                1
+
+===== Page 5 =====
+                   Ground Spe eds  (at 3600 rpm Eng ine Speed )
+                                             FORWARD
+                         "LOB RANGE                           "HI  RANGE"
+               Gear            Speed               Gear               Speed
+                1         .5 mph     8 km/h )         1       2.5  mph ( 4.0 km/h)
+                2            mph  (1. 2 km/h )        2       3.8  mph ( 6.1 km/h)
+                3        1. 1 mph (1. 8 km/h)         3       5.7  mph ( 9.2 km/h)
+                4          7 mph     7 km/h )         4       8.5  mph (13.7 km/h)
+                                             REVERSE
+                                      "HI" OR  "LO" RANGES
+                                  Gear            Speed
+                                   1        1.1 mph  (1.8 km/h)
+                                   2        1.7 mph  (2.7 km/h)
+                                   3        2.5 mph  (4.0 km/h)
+                                   4        3.8 mph  (6.1 km/h)
+                                  BOLT TORQUE SPECIFICATIONS
+                 BOLT SIZE             FOOT POUNDS            NEWTON METERS
+                                        (ft. lbs.)
+                                             7                      9.5
+                   5 16"                    14                      19
+                                            25                      34
+                                            40                      54
+                                            60                      82
+                   9 16 "                   83                     113
+                                           120                     163
+                                           200                     217
+                                             CHART 1
+                                                 2
+
+===== Page 6 =====
+                                           SECTION 2
+                                     Service Instructions
+            Chart 2 shows the recommended    schedule for service that should be
+            performed on a regular basis.
+                             �rvxoe                       Interva s Bet�en Service
+                            �rforned                  Dax         25 Hr.     200 Hr.
+            Check Tire Pressure (Section 1)                        x
+            Ge�ral Lubrication (Section 2.2)                       x
+            Check   ine Oil (Section 2.3)              x
+            Check Air Intake Screen (Section 2.6)      x
+            Check Cool i    tern (Section 2.7)                     x
+            Check Air Cleaner (Section 2.8)            x
+            Check Transnission Oil (Section 2.10)                  x
+            Check H draulic Fluid (Section 2.16)                              x
+            Check Fluid Level am
+            Clean Batte (Section 2.17)                                        x
+                                            CHART 2
+            2.1    Filling the Fuel Tank
+                WARNING; Gasoline is very f lammable.      Follow safety ins truc-
+                           t ions shown in Sect ion 1, Operator's Manual .
+            Gasoline is added as required.       Use clean lead free or regular
+            grade gasoline. To add gasoline:
+                   1.  Put the tractor in an open area.
+                       Stop the engine and lock the brake.
+                   3.  Clean the fuel cap area.
+                   4.  Remove the fuel tank cap
+                   5.  Fi I the tank    with gasoline.     Use  caut ion.    Do not
+                       ov rtlow.
+                   6.  Reinstall fuel   tank cap.
+                       If gasoline is   spilled, wipe it up.
+                                                3
+
+===== Page 7 =====
+            2 2 General Lubrica t ion
+            There are seven grease fittings to be greased at 25-hour inter-
+            vals. Clean the fittings before attaching the grease gun.         Use a
+           mult I-purpose grease. Add grease until it appears at the ends of
+            the bearings. The locations of the seven fittings are:
+                  1.   On the direct ion control lever.
+                  2.   On the front axle at each king pin.
+                  3.   on the front axle as shown in Figure l.
+                  4.   On the steering mechanism as shown in Figure 2.
+           Apply motor   oil  to all pin connect ions, pivot points and areas
+           where sliding occurs in the clutch, transmission, PTO, and lift
+            control systems every 25 hours.
+            2.3   Checking the Eng ine Oil
+            Check the engine oil level daily.      Never ope rate the engine with
+            the oil level below the Iow mark on the dipst ick.            See your
+            engine manual.
+            To check the oil level:
+                  1.   Park the tractor on a level area.
+                  2.   Clean around the dipstick to prevent dirt from entering
+                       the tube
+                  3.   Remove the dipst ick and wipe off the oil.
+                  4.   Put the dipst ick back in place.     Be sure it is all the
+                       way down.
+                  5.   Remove the dipstick again and note oil level.
+                  6.   Add oil, if needed. Do not overfill.
+                  7.   Repeat Step 4.
+            2 4 Changing the Engine Oil
+            To change oil:
+                       Read your eng ine manual         for   recommended change
+                       schedule .
+                  2.   Move the tractor to a level area.     Lock the brake.
+                  3.   If the engine is cold, let it run for 5 minutes.
+                                               4
+
+===== Page 8 =====
+                           I - Grease Fitting on the Front Axle         78211
+                                          FIGURE 1
+                      1  Grease Fittings for the Steering Arms         84081
+                      2 - Grease Fittings for the steering Columns
+                           Adjusting Bolt
+                                          FIGURE 2
+
+===== Page 9 =====
+                   4.  When the   engine is warm, stop it and raise the         rear
+                       fe nder.
+                       WARN 1 NG : Engine muffler and other parts are hot.
+                   5.  Clean the  areas around the dipstick and drain plug .
+                   6.  Remove the dipstick.
+                       Put an open top container that will hold four quarts
+                       under the drain plug.
+                   8.  Remove the drain plug.
+                   9.  Allow the engine to drain completely.
+                  10.  Clean and reins tall the drain plug.
+                  11.  Fill with new oil to the "PULL" mark on the dipstick.
+                  12.  Replace the dipstick. Lower the rear fender.
+                  13.  Start the engine and check for leakage at the drain
+                       plug. Tighten the plug if leakage occurs.
+             2 . 5 Checking the F as teners
+            Check all fas teners periodically.        Look for loose or missing
+             fasteners any time looseness of parts, rattles, or excess noise
+            and vibrat ion are noted .      Make sure all bolts, screws, nutse
+            pins, snap rings, and cotter pins are in the correct position and
+             replace any that are missing .
+             2.6   Checking the Air Intake Screen
+            Check the air intake screen on the engine each day.          Remove any
+            grass, dirt, or debris that may have accumulated on it.         THE AIR
+             INTAKE SCREEN MUST BE KEPT CLEAN.
+             2.7   Checking the Cooling System
+            Check the cooling sys tem for signs of the collect ion of grass and
+             debris in the engine cooling fins every 25 hours or         more often
+            when ope ra ted  in dirty conditions .    See your eng ine   manual  for
+             i ns tru ct ions.
+             2 . 8 Check ing the Air Cleaner
+             Check the air    cle aner each day          your  engine   manual  for
+             i ns tru ct ions .
+             2.9   Chang ing the Air Cleaner Element
+             Replace the air cleaner element at the       correct  intervals.
+             your engine manual for ins truct ions.
+                                                6
+
+===== Page 10 =====
+           2.10 Checking the Transmission Oil
+           Check the transmission oil level every 25 hours .        If Ie akage is
+           observed, check frequently.            The fill tube and     the check
+           plug are in Figure 3. To check the transmission             oil level:
+                      Move the tractor to a level area.      Stop the  engine and
+                      lock the brake.
+                 2.   Raise the rear fender.
+                 3.   Clean the check plug and remove it.
+                 4.   The Oil level is correct when oil is at the      top ot the
+                      hole 
+                 5.   If the level is correct, reins tall and tighten the
+                      plug.  If the level is low, add oil.      See Sect ion 1 for
+                      recmmended lubricant specifications .
+           To add oil:
+                      Remove the fill tube cap.
+                 2.   Add oil until it reaches the top of         the check plug
+                      hole 
+                 3.   Reinstall and tighten the fill tube cap     and check plug
+                                       i - Fill Tube
+                                       2 - Check Plug
+                                          FIGURE 3
+                                              7
+
+===== Page 11 =====
+           2.11 Servicing the Brake
+           Brake service is required if:
+                  1.  The brake does not stop and hold the tractor ef fec-
+                      tively. The brake should be ef fective enough to cause
+                      the rear wheels to slide if applied suddenly on a con-
+                      crete or asphalt surface.
+           The brake is shown in Figure 4.
+           CAUTION: Replace the brake band when the lining is as thin as
+                      the ignition key.
+                      Replace the brake drum if it is visibly worn or      rough.
+           To adjust the brake:
+                  1.  Stop the tractor on a level surface .
+                  2.  Stop the eng ine and block the wheels so the         tractor
+                      cannot roll.
+                  3.  Loosen the jam nut and remove the clevis pin.
+                  4.  Turn the clevis clockwise to tighten or counterclock-
+                      wise to loosen as needed.
+                  5.  To check the adjustment, reconnect the clevis and brake
+                      band with the pin.
+                  6.  Push the direct ion control lever all the way forward .
+                      Push the brake pedal by hand while watching the mot ion
+                      of the brake band.       The brake is correctly adjus ted
+                      when the band becomes tight on the drum as the
+                      direct ion control lever moves to "NEUTRAL . 1'       If the
+                      band is tight before the lever moves to "NEUTRAL"         the
+                      brake is too tight.     If too tight or too loose, repeat
+                      Steps 4, 5, 6, and 7 until the correct adjustment is
+                      Obtained. The brake pedal should stop approximately 3
+                      from the foot board. See Figure 5.
+                  8.  Install the cotter pin in the clevis pin and tighten
+                      the jam nut.
+                  9.  Check the ef fect iveness of the brake while operating
+                      the tractor.
+                                               8
+
+===== Page 12 =====
+                                          FIGURE 4
+                                          FIGURE 5
+
+===== Page 13 =====
+            2.12 Servicing the Forward and Reverse Clutches
+            The forward and reverse clutches must be checked every 100 hours.
+            Lubricate shaft if needed.          The forward clutch is on the
+            right-side of the transmission and the reverse clutch is on the
+            left-side of the transmiss ion. See Figure 6.
+            Inspect and adjust the clutches as follows :
+                       Stop the engine, place the direct ion control       lever in
+                       the neutral position, and engage brake lock.
+                   2.  Raise the rear fender.
+                                               10
+
+===== Page 14 =====
+               3.  Adj us tments :
+                   a.   Neutral interlock switch: Loosen the mounting bolt
+                        until the swi tch bracket can be moved by tapping 
+                        Tap the bracket up until the clutch detent spring
+                        lifts off the actuating arm.         NOTE:     Keep the
+                        swi tch bracket horizontal      Tap the bracket down
+                        until the leaf spring rests on the actuating arm.
+                        Tighten the mounting bolt.      Check adjus tment with
+                        an ohm meter or put the transmiss ion gear in
+                        neutral and move the ignition switch to the "START"
+                        posi t ion. See Figure 7.
+                   b.   Rod actua ting lever:       Wi th the forward-reverse
+                        lever in the neutral position, adjust the clevis so
+                        that the slide rod actuating lever is parallel with
+                        the transmiss ion case gasket.    See Figure 8.
+                        Clutch springs: Push in on the clutch spring until
+                        there is no clutch gap.       Adjust the bolt in the
+                        axle flange until the clutch spring is vertical.
+                        Repeat for the other clutch. See P igure 9 .
+                                        FIGURE 7
+                                            11
+
+===== Page 15 =====
+                                          FIGURE 8
+                                          FIGURE 9
+                                              12
+
+===== Page 16 =====
+                    d.   Clutch gap adjustment: With the forward-reverse
+                         lever in the neutral position, adjust the nuts on
+                         the slide rod so that:     ( 1) the forward clutch gap
+                         is 0.070" (1.8mm) and (2) the reverse clutch gap is
+                         0.125"  (3.2mm).    See Figure IO (the ignition key
+                         can be used tor a gauge in the fwd clutch) .
+                         Cam bushing adjustment: Loosen retaining bolt and
+                         rotate the bushing until the linkage goes over
+                         center .125"     See Figure 11.    Ret ighten the bolt.
+                4.   To lubricate clutch, remove the clutch and apply a film
+                     of mult i-purpose grease to the splined clutch shaf t.
+                     Readjust as described above.
+                                         FIGURE 10
+                                                    125
+                                         FIGURE 11
+                                             13
+
+===== Page 17 =====
+             2.13 Servicing the PTO Clutch
+             The PTO clutch should be ad Justed whenever there is less than .5
+             inches of free travel in the clutch lever when it is in the "ON"
+             pos i t ion.  See Figure 12 to see where this free travel is
+             measured.    The free travel should be between .5 inch and 1.0
+             inch. To adjust:
+                    1.  Stop the engine and lock the brake.
+                    2.  Raise the rear fender.
+                    3.  Push the PTO lever to "ON."
+                    4.  Disconnect the PTO rod from the PTO lever. See Figure
+                        13.
+                    5.  Rotate the PTO rod to change the free travel            Each
+                        turn will change it by about .25 inch. Turn clockwise
+                        to increase and counterclockwise to decrease the free
+                        travel .
+                    6.  Reconnect the control rod to the transmission lever.
+                        Check for correct free travel .     Repeat Steps 4, 5, and
+                        6 if necessary.
+                                                  MEASURE FREE TRAVEL HERE
+                                            FIGURE 12
+                                                14
+
+===== Page 18 =====
+                                        9        8
+                                    10                   12
+                                                                 2
+                                                        13
+                               11
+                               7
+                                                        4
+                               6
+                              14
+                                                                3
+                                 15                           5
+                               16
+                  1 - Direct ion Control  Lever        11 - Fuse Holder
+                  2 - Brake Pedal                     12  - Throttle Control
+                  3 - Brake Lock Lever                 13 - Ignition Switch
+                  4 - Gear Selector                   14 - PTO Rod
+                      Range Selector                  15  - Pipe Plug
+                  6 - PTO Con trol                     16 - PTO Lever
+                      Hydraulic Lift Control           17 - Washer
+                  8 - Ammeter                          18 - Cotter Pin
+                  9 - Hourmeter                        19 - Pipe Nipple
+                 IO - Choke Con trol                  20  - Pipe Cap
+                                        FIGURE 13
+            2.14 Servicing the Steering Sys tem
+            Adjustment is usually needed whenever there is more than 2 inches
+            of free play in the steering wheel.
+            TO ad) ust the steering gear:
+                  1.   Be sure that all hood fasteners are tight.
+                  2.   Loosen the lock nuts on both adjusting bolts.            See
+                       Figure 2.
+                  3.   Turn the steering wheel to the right as far as it will
+                       go.
+                                               15
+
+===== Page 19 =====
+                  4.  Turn the adjusting nut on the left side adjusting bolt
+                      clockwise with your fingers until it is tight.          Then
+                      back the nut off one fourth turn.
+                  5.  Tighten the lock nut against the adjusting nut being
+                      careful not to move the adjusting nut.
+                  6.  Turn the steering wheel to the left as far as it will
+                      go
+                  7.  Repeat steps 4 and 5 for the right side adjusting nut.
+                  8.  Check for tightness or backlash in the steering gear
+                      through the full range of the steering wheel rotation.
+                      There should be no noticeable tightness or backlash in
+                      the rack and pinion mesh.      If there is, repeat Steps 3
+                      through 7 as required.
+           Upon complet ion of the steering gear adjustment ,         recheck the
+           steering wheel free play.      If the free play is still excessive,
+           look for loose steering arms on the king pins, loose or worn ball
+           Joints, or other signs of wear. Tighten or replace as required.
+           2.15 Servicing the Spark Plug(s)
+           To clean or change a spark plug:
+                  1.  Stop the engine, lock the brake, and raise the          rear
+                      fender.
+                  2.  See your engine manual for further instructions.
+           2.16 Checking the Hydraulic Fluid
+           Check the hydraulic fluid level every 200 hours or at any sign of
+           leakage .  The tank is under the hood. See P igure 14.         To check
+           the level of the fluid:
+                  1.  Stop the engine, lock the brake, and remove the      hood 
+                  2.  Clean the top of the tank.
+                  3.  Remove the plug with dipstick.
+                  4.  Wipe the dipstick and put it back in the hole         in the
+                      tank. Do not threads.
+                  5.  Remove again and note the level of the fluid          on the
+                      dipstick.
+                                              16
+
+===== Page 20 =====
+                                           FIGURE 14
+                       If the level is Iow, add     fluid  to raise   the level  to
+                       the full mark.
+                       CAUTION: Do not overfill.
+                       NOTE: See Section I for hydraulic fluid specifications.
+                  7.   Reins tall and tighten the plug.
+            2.17 Checking the battery Fluid
+            Check the battery fluid every 25 hours.         On tractors with Iow
+            water loss batteries, check the fluid level once a season if the
+            cap can be removed .    See Figure 14.      Use caut ion and wear eye
+            protect ion when checking the ba ttery. To check the battery.
+                  1.   Clean the top of the battery.
+                  2.   Lift the filler caps.
+                  3.   If the fluid level is below the split rings in the
+                       filler tube, add distilled water.        Do not fill above
+                       the split ring. Do not use a metal funnel.
+                  4.   Reins tall the f iller caps. Push them all the way down.
+                                               17
+
+===== Page 21 =====
+                                          SECTION 3
+                                         Transmission
+            3.1  Problem Solving Chart :
+                       PROBLEM                         POSSIBLE CAUSE
+            1.  Tractor will not move.     Axle key  sheared
+                                           Clutch  - lining worn
+                                                   - linkage broken
+                                                   - dowel pin sheared in slide
+                                                     rod
+                                           Broken axle
+                                           Crankshaft key sheared
+                                            Differential failure (check to see
+                                              if brake drum turns )
+            2.  Tractor will move only     Adjustment of range linkage
+                in reverse.                Hi-Io range in   neutral
+                                            Forward clutch  hub (18024P1)
+                                            Key sheared or  missing
+                                            Forward clutch  - lining worn or
+                                                              linkage broken
+            3.  Tractor will move only     Reverse clutch   hub (18024P1)
+                in forward.                Key sheared or   missing
+                                            Reverse clutch  - lining worn or
+                                                              linkage broken
+            4.  Attachment does not         PTO linkage out of adjustment
+                opera te .                  PTO clutch lining worn out
+                                           Crankshaft key sheared
+            5.  Attachment will not         PTO clutch stuck
+                s top                      PTO linkage out of adjustment
+            6.  Difficult or imposs ible   Control linkage
+                to shift range gear.        Roll pin in shif ter arm sheared
+                                           Broken shifter fork
+                                            Burred hi-lo shif ting gear
+            7.  Gear shift lever                or gears not in neutral
+                will not go in             Gears not aligned, rock tractor,
+                pos it ion or                 or momentarily engaged clutch
+                posi t ion                  #6 shaft bent
+                                              18
+
+===== Page 22 =====
+           3.2  Transmission Disassembly (in frame)
+                      Remove hood and rear deck.     See Figure 15.
+                 2.   Disconnect the battery ground cable
+                 3.   Drain transmission lubricant.
+                 4.   Turn off fuel at fuel tank and disconnect fuel line at
+                     engine.
+                 5.  Jack tractor to lift rear wheels.        (DO not use engine
+                      as a jack point. ) Block front wheels.        Position jack
+                     stands at the rear of the frame.       It may be convenient
+                      to disconnect the brake linkage to position the jack
+                     stand on the right side.     See Figure 16.
+                 6.   Remove the right rear tire assenbly and remove        E-ring
+                      on the axle .   Loosen wheel hub, set screw, and      remove
+                      wheel hub with a gear puller. Remove axle key.        Repeat
+                      on the left side if the differential ($8               shaf t
+                                 is to be removed. See F igure 17.
+                 7.   Disconnect the starter cable, charging circuit        wires.
+                      Remove ties and press away from the transmission.         If
+                      the PTO clutch assembly (#9 shaft assembly) is to be
+                      removed ,  disconnect the coil wire, choke control ,
+                      throt tie control, and other engine connect ions.
+                 8.   Disconnect the forward-reverse neutral switch.
+                 9.   Disconnect the forward-reverse shifter link at           the
+                      forward-reverse lever.
+                      Disconnect the clevis on the clutch actuating rod.
+                11.   Remove the adjusting nuts on the slide rod. Remove the
+                      forward-reverse clutch springs.
+                12.  Remove the three bolts mounting the forward-reverse
+                     mounting plate weldment and remove
+                13.   Remove the forward clutch assembly. Remove the spring,
+                      flat washer, and retaining ring from the forward clutch
+                      ($1 shaft assemb ly)    Repeat on the other side if the
+                     reverse shaft (#2 shaft assembly) is to be removed.
+                     See Figure 18.
+                14.   Remove brake band and brake drum.
+                15.   Remove the right rear hitch arm. Clean the right axle
+                     and remove the axle bearing retainer.
+                16.   Loosen the left, and remove the right engine adaptor
+                      bolts.  Pull engine rearward.
+                                              19
+
+===== Page 23 =====
+                                         FIGURE 15
+                                            FIGURE 16
+                                                 20
+
+===== Page 24 =====
+                                         FIGURE 17
+                                      FIGURE 18
+                                         21
+
+===== Page 25 =====
+               17.  Remove the two right frame bolts.
+               18.  Remove the e-ring on the PTO yoke shaft.          Remove  all
+                    vis ibie paint and debris from PTO yoke shaft.
+               19.  Remove the cover bolts.
+               20.  Put the gear shift lever in the neutral position,         the
+                    PTO control in the "ON" pos it ion, and the hi-lo lever
+                    in the "Lot' position.
+               21.  Tap the cover with a soft hammer and pry off with two
+                    screwdrivers or pry bars .      Clean paint and debris off
+                    the exposed part of               and shafts.         Tap #1
+                    shaft, $6 shaf t,        shaft (axle),    and the PTO yoke
+                    shaft as the cover is worked off.       Place a clean   cloth
+                    or box under the transmission to      ca tch the parts  wh ich
+                    may fall out.    See Figure 19.
+         3.3   Gearing Removal
+                l.  Remove idler gear assemb ly      and  races   from  #2  shaf t
+                    assembly. See Figure 20.
+                2.  Remove #7 shaft assembly
+                3.  Remove #5 shaft assembly
+                4.  Remove #4 shaft assembly.
+                5.  Remove the h i -Io detent spring and ball.     A magnet can
+                    be used to lift the ball out of the case.       See Figure
+                    21.
+                6.  Remove shaft assernbly along with hi-lo shaft fork.
+                    See Figure 22.
+                7.  Remove shaft assembly.
+                8.  Remove shaft assembly.
+                9.  Remove $8 shaft assembly (differential-axle assembly) .
+                    See Figure 23.
+                    Remve $2 shaft.       Slide races towards reverse drive
+                    to clear
+                    Removal of $9 (PTO clutch) assembly:
+                    a.   Renove engine.   See Sect ion 4.
+                    b.   Disconnect PTO lever.
+                    c.   Remove e-ring, key, and PTO lever.      See Figure 24.
+                    d.   Pull yoke shaft out and remove PTO yoke .
+                    e.   Remove front PTO cap
+                    f.   Remove retaining ring on rear clutch cup. See
+                         Pigure 25.
+                         Slide asse�ly forward.        Swing rear outward     and
+                         pull out of case.    See Figure 26,
+                                             22
+
+===== Page 26 =====
+                                        FIGURE 19
+                                        FIGURE 20
+                                            23
+
+===== Page 27 =====
+                                            PIGURe 21
+                                    FIGURE 22
+
+===== Page 28 =====
+                                           FIGURE 23
+                                FIGURE 24
+                                                              84101
+                                 25
+
+===== Page 29 =====
+                                           FIGURE 25                     64102
+                                          FIGURE 26
+                                              26
+
+===== Page 30 =====
+                 12.   Removal of shaft assembly (PTO shaft) :
+                       a.  Put the male universal shaft on the PTO shaf t.
+                           Rotate the U-joint to 900 and rotate against the
+                           tractor frame.    See Figure 27.
+                       b.  Use a 15/16 wrench to remove the lock nut on the
+                           end of the shat t.
+                       c.  Pull shaft forward out of the transmiss ion case .
+                       d.  Drive out seal and remove bearing.
+                           Inspect bearing races and remove if worn or
+                           damaged. Use a bearing puller to remove the races
+                           Use the snap ring clamp and snap ring pliers to re-
+                           move the snap ring. See Section 10.
+            3.4  Inspection and Repair of Shaft (PTO Shaft)            See Figure
+                 28.
+                  1.   Inspect all parts for wear and damage.
+                  2.   Replace all worn or damaged parts.
+            3.5  Assembly of #10 Shaft (PTO Shaft)
+                  1.   If bearings are to be replaced, secure a complete new
+                      bearing set as the parts are matched.
+                  2.  Put snap ring in the groove and press races from either
+                      side using a driver.     See Sect ion 10.
+                                          FIGURE 27                     84104
+                                              27
+
+===== Page 31 =====
+                                        00000
+                                          FIGURE 28
+                 3.  Put cone in front race and press seal into posit ion.
+                 4.  Put cone spacer, bearing cone, spacer, and gear in
+                     position and slide shaft into place.
+                 5.  Put a hardened washer (33845) next         to the gear and
+                     secure assembly with the lock nut.         Use the U-joint
+                     assembly to hold the shaft.
+          3.6   Disassembly of #9 Shaft Assembly (PTO Clutch)       See Figure
+                29.
+                     Use a bearing puller with long legs in a push-puller to
+                     compress the spring.
+                 2.  Compress spring until the clutch cup clears the
+                     retaining ring.
+                 3.  Remove the retaining ring.
+                 4.  Remove the rear clutch cup and key.
+                 5.  Remove the cone gear, front clutch cup, and key.
+                 6.  Release the spring, slide parts off the shaft
+                     while noting their position.
+                                             28
+
+===== Page 32 =====
+                                            FIGURE 29                    utoe
+            3.7   Inspect ion and Repair of #9 Shaft (PTO Clutch).      See Figure
+                  30.
+                   1.  Inspect all parts for damage and wear.
+                   2.  Replace all parts damaged or worn. The retaining rings
+                       should be replaced.
+            3.8   Assembly of #9 Shaft (PTO Clutch)
+                   I. Reverse the disassembly procedure given in          3.6.    Be
+                       sure the retaining ring is in place before         rele as i ng
+                       the spring pressure.
+            3.9   Disassembly  of Shaft (Different ial )
+                   1.  Remove  the four bolts holding the assembly.
+                   2.  Use a   soft hammer to loosen the assembly         and  pull
+                       apa rt.
+                   3.  Remove  the axle retaining rings.
+                   4.  Remove  bearings from the end cap with a soft hammer.
+            3.10   Inspection  and Repair  of #8 (Differential-Axie )
+                   Figure 31.
+                   1.  Inspect all parts   for damage and wear.
+                   2.  Replace any parts   worn or damaged .
+                                               29
+
+===== Page 33 =====
+                                           FIGURE 30                    84107
+                                           FIGURE 31                     84108
+                                               30
+
+===== Page 34 =====
+           3.11  Assembly of #8 (Differential-Axie )
+                      Reverse the disassembly procedure
+                  2.  Use nut retaining canpound on the          four   bo Its and
+                      tighten to a torque of 25 ft-lb.
+           3.12   Gearing Inspect ion and Repa ir
+                  1.  Inspect all parts for wear and damage.
+                  2.  Replace any part worn or damaged .         If a  bearing or
+                      thrust race is damaged, replace the bearing and both
+                      thrust races .   See Figures 32, 33, 34, 35, 36, 37 and
+                      38.
+           3.13   Check the seals for wear and damage in the forward/reverse
+                  clutch hubs, #6 shaft seal, axle seals and  PTO cap.
+                  Replace as needed.
+                                          FIGURE 32                     84109
+                                              31
+
+===== Page 35 =====
+                                          FIGURE  33                    84110
+                                          FIGURE  34                    04111
+                                              32
+
+===== Page 36 =====
+                                         FIGURE 35                     84112
+                                        FIGURE 36
+                                            33
+
+===== Page 37 =====
+                                        FIGURE 37                     04114
+                                        FIGURE  38                    84115
+                                            34
+
+===== Page 38 =====
+          3.14  Gearing Ins tal Ia t ion
+                1.   Put the key in the hub of the gear-bearing assembly
+                     which goes on the right end of shaft. Put grease on
+                     the hub and slide the gear-bearing assembly into the
+                     clutch hub (forward clutch) in the cover.      See Figure
+                     39.
+                2.   Put the key in the hub of the reverse gear and bearing
+                     assernbly which goes on the left end of #2 shaft.
+                     grease on the hub and slide the reverse gear and
+                     bearing assembly into the clutch hub (reverse).
+                3.   Posit ion the controls
+                     a.  PTO to "ON"
+                     b.  Hi-Io to "Loll
+                     c.  Gear to "NEUTRAL"
+                     d.  Fwd-rev "NEUTRAL"
+                4.   Ins tal lation of #9 shaft assembly (PTO clutch)
+                     a.  Put the front of the assembly through the front
+                         hole of the case. Move rearward into the bearing.
+                         Tap the bearing with a soft hammer until the shaft
+                         is in place.
+                     b.  Ins tall the square retaining ring.
+                     c.  Slide the front PTO cap with gasket in place and
+                         secure with two bolts.
+                     d.  At the rear, rotate the bearing snap ring gap to
+                         the top pos it ion    Apply a coat of grease to the
+                         O-ring and place in the case.
+                     e.  Put O-rings and a key in the PTO yoke shaft.        Coa t
+                         the O-rings with grease.     See Figure 40.
+                     f.  Slide the PTO yoke in position over the key and
+                         into the case .     Note orientat ion of yoke--heavy
+                         side to rear.
+                     g.  Install PTO lever, woodruff key and e-ring.
+                     h.  Connect PTO lever to the PTO rod with a washer and
+                         cotter pin.
+                5.   Install the shaft assemblies in the following order:
+                     a.  #6 shaft.     Install interlock pin, detent balls ,
+                         de tent spr ings and shift forks if removed           If
+                         removed ,   replace the sh ifter weldments           and
+                         associated parts first.
+                     b.  #8 shaft (differential).
+                     c.  #1 shaft with 2-speed shift rail, detent ball,
+                         detent spring , and plug.           Reconnect peed
+                         linkage.
+                     d.  #3 shaft.
+                             shaft.   Put the bearing and bearing race near
+                         the end of the shaft so as to clear the PTO
+                         assemb ly.
+                     f.  $4 shaft.
+                     g.  $5 shaf t.
+                     h.  $7 shaft.
+                                             35
+
+===== Page 39 =====
+                                         FIGURE  39                    84116
+                                        FIGURE  40                    u117
+                                            36
+
+===== Page 40 =====
+          3.15  Transmission Assembly
+                1.  Coat a new cover gasket with grease and stick in place
+                    on the case.    Slide the cover in place by tapping with
+                    a soft hammer.
+                2.   Ins tall the e-ring on the PTO yoke shaft.
+                3.  Start all of the cover bolts, then tighten the cover
+                    bo Its .
+                4.  Put the two bolts and lock washers in the right side of
+                    the engine adaptor plate. Push the engine in place and
+                    tighten all four engine adaptor bolts.
+                5.  Install the brake drum, brake band, and connect the
+                    brake li nkage
+                    Put a seal protector coated with oil on the axle in the
+                    axle bearing retainer assembly. Coat a new gasket with
+                    grease and stick it to the axle bearing retainer. Slide
+                    the assembly in place on the axle and install the four
+                    bolts. Remove the seal protector. Repeat on the other
+                    s ide if removed.
+                    Install the clutch mounting plate assembly and
+                    associated linkage
+                8.  Put the snap rings on and #2 shafts and coat the
+                    splines with grease.       Put the clutch assemblies in
+                    place and retain with the clutch spring and hardware.
+                9.  See Sect ion 2.12 for clutch adjustment procedure.
+         3.16   Chassis Assembly
+                1.  Replace the rear hitch arm.
+                2.  Coat the axle (s) with grease, put the key(s) in place
+                    ard put the wheel hub(s) on the axle(s). Put the
+                    retainer ring on the axle(s)         Set and lock the set
+                    screw(s).
+                3.  Mount the tire assembly( ies) .
+                4.  Remove jack stards.
+                5.  Reconnect choke, throt tie, starter cable, fw1 line,
+                    interlock swi tches, coil wire, charging wire, and any
+                    other disconnected items. Secure wiring and lines with
+                    ties as they were removed.
+                6.  Reconnect the battery cables, replace the hood, and
+                    turn on fuel at the fuel tank.
+                7.  Put lubricant in the transmission.
+                8.  Mount the rear deck and latch.
+                                             37
+
+===== Page 41 =====
+         3.17   Forward-Reverse Clutch Bearing Service
+                    Remove the trunnion, bearing, disc assembly from the
+                    transmiss ion . See Figure 41.
+                2.  Use a flange pul ler with three bolts positioned to fit
+                    the trunnion lip to press the trunnion off the bearing.
+                    See Figure 42.
+                3.  Turn the assembly over and remove the snap ring
+                4.  Readjust the posit ion of the three bolts to fit the
+                    bearing. Press the bearing off the disc assembly. See
+                    Figure 43.
+                5.  Inspect all parts. Replace any parts damaged or worn.
+                6.  Press the bearing on the disc assembly. and install the
+                    snap ring. See Figure 44.
+                7.  Turn the assembly over and press the trunnion on the
+                    be ari ng  See Figure 45.
+                        Coo@
+                                        FIGURE 41                     84118
+                                            38
+
+===== Page 42 =====
+                                       FIGURE 42                      84119
+                                         FIGURE 43                     64120
+                                             39
+
+===== Page 43 =====
+                                                                       "121
+                                         FIGURE 44
+                                                                            84122
+                                              PIGURE 45
+                                                  40
+
+===== Page 44 =====
+         3.18   Forward-Reverse Clutch Seal Replacement-Small Seal (18035) :
+                1.  Remove the trunnion, bearing and disc assembly (#11) .
+                2.  Caref ully remove the old seal with    a small punch .   ( Hub
+                    may have two seals.)
+                3.  Put a film of grease on the lip        of the new seal and
+                    slide it on the thimble (Figure 53     - Section 10).
+                4.  Put the thimble over the shaft and     seat the seal with a
+                    driver (Figure 55   - Section 10).
+                    Large Seal (17917):
+                1.  The ins ide clutch hub must be removed to install this
+                    seal .   Follow the procedure for removal of the clutch
+                    shaft in the transmiss ion disassembly.
+                2.  Remove the old seal .
+                3.  Install the new seal with a driver (Figure 56      - Sect ion
+                    10).
+                4.  Assemble transmission.
+                                            41
+
+===== Page 45 =====
+                                         SECTION 4
+                                          Enq ine
+         4.1   Refer to your engine service manual for adjustments and
+               repa ir.
+         4.2   Engine Removal
+               1.  Remove hood.       Di sconnect ba t tery  cab Ies .   Remove
+                   negative cable first.
+               2.  Turn oft fuel at fuel tank outlet.
+               3.  Remove the rear deck.
+               4.  Disconnect the choke and throttle cables.
+               5.  Disconnect the engine charging wire(s), ignition wire,
+                   and starter cable.
+               6.  Disconnect the fuel line at the engine.
+                   Place a J ack under the engine to provide support during
+                   removal .
+               8.  Remove the four bolts holding the adaptor plate to the
+                   frame .
+                   Slide the eng ine rearward out of the transmiss ion 
+                   Take care to keep the gear and be aring set on            the
+                   crankshaft.
+         4.3   Adaptor Plate Removal/ Ins tal lation
+                   Remove the gear, key, and bearing set.
+               2.  Remove the four bolts which mount the adaptor plate       off
+                   the pilot.
+               3.  Use a soft hammer to remove the adaptor plate off         the
+                   pilot.
+               4.  Inspect the adaptor plate, bearing set and sgear          for
+                   damage and wear.
+               5.  Replace any parts worn or damaged .
+               6.  Remove all res idue of the adaptor gasket from            the
+                   ervine and adaptor plate.       Put a film of grease on a
+                   new gasket and put it in place on the engine.
+                                            42
+
+===== Page 46 =====
+                    Slide the adaptor plate in place with the assistance of
+                    a soft hammer.
+                8.  Start all four bolts and then tighten.
+                9.  Replace the bearing set, key, and gear.
+               10.  Install a new O-ring coated with grease on the adaptor
+                    pla te.
+          4.4   Engine Instal lation
+                1.  Coat a new PTO O-ring with grease and put in position
+                    on the rear of the transmission.
+                2.  Set the engine on a jack. Adjust the jack so that         the
+                    crankshaft is on the centerline ot the hole in            the
+                    transmission.
+                3.  Slide the engine into the transmission.          Rotate   the
+                    forward clutch to mesh the bevel gears.
+                4.  Install the four bolts and tighten.
+                5.  Reverse the disassembly process for engine connect ions
+                         replacement of the rear deck and hood.
+                                             43
+
+===== Page 47 =====
+                                             SECTION 5
+                                             Steering
+             5.1  Front Wheel Bearings Removal
+                  1.  Jack up the front of the tractor.
+                  2.  Remove the caps.
+                  3.  Remove the nut, washer, spacer, bearing, and wheel
+                      assembly for each spind le .
+                  4.  Use a piece of clean bar stock and a hammer to tap out
+                       the ins ide bearing and seal.
+             5.2  Front Wheel Bearing Inspect ion and Repair
+                  1.  Thoroughly clean the wheel hub and other part .
+                  2.   Replace any part which is worn or damaged 
+                  3.   If a bearing is replaced, also replace the bearing
+                       cup. Use a bearing puller to remove the bearing cups.
+             5.3  Front Wheel Bearing Ins tal la t ion
+                  1.   If removed, ins tall new bearing cups with a driver.
+                      See Section 10.     Pack the bearings with wheel bearing
+                      grease .   See Figure 46.
+                  2.   Lay the ins ide bearing in the cup and press a new seal
+                       in place.
+                  3.   Put a film of grease on the lip of the seal.
+                  4.   Clean the spindles.
+                  5.   Slide a spacer on    the spindle fol lowed by the wheel
+                       as semb ly.
+                  6.   Fill the wheel hub   cavity with grease.    Put the outside
+                       bearing in the cup   followed with a spacer, flatwasher,
+                       and a nut.
+                  7.   Tighten the nuts,      back off unt il the     wheel turns
+                       freely. Replace the caps with the driver.       See Section
+                       10.
+                                                44
+
+===== Page 48 =====
+                                          FIGURE 46                     84123
+          5.4   Front Wheel Toe-In Adjustment
+                1.  Rotate the steering wheel until the two steering arm
+                    weldments are parallel to the frame side.
+                2.  On the consumer models, loosen the jam nuts on the tie
+                    rods and disconnect the outside ball joint. Rotate the
+                    front tires by hand so that the distance between the
+                    front centerline of the tire is 1/4"       - 3/4" less than
+                    the distance between the rear centerline. Adjust the
+                    tie rods so that the ball joint can be connected to the
+                    tie rod arm without moving the tire.      See Figure 47.
+                3.  On commercial models, loosen the jam nuts on the tie
+                    rods and rotate the tire rod tube so that the front
+                    centerline is 1/4"                 closer than the rear
+                    centerline. Tighten the jam nutse
+                                             45
+
+===== Page 49 =====
+                                         FIGURE 47                     "124
+                                             46
+
+===== Page 50 =====
+                                           SECTION 6
+                                        Attachment Lift
+           6.1   Manual Lift
+                 1.  Disassembly:
+                     a.   Loosen jam nut and remove the set screw in the lift
+                          lever assembly.
+                     b.   Apply liquid wrench to the shaft through the hole
+                          where the pawl is positioned.
+                     c.   Loosen the two bolts holding the locator casting
+                          and remove.
+                     d.   Fas ten a gear/ sheave pul ler to the lift lever
+                          assembly and remove.    See Figure 48.
+                          Disassernble the lift lever assembly by removing the
+                          grip and rotate the push rod counterclockwise to
+                          di sengage the pawl.
+                     f.   Remove the key and the snap ring from the shaft.
+                     g.   Using a punch and hammer drive the pivot bushing
+                          outward fran the frame .
+                     h.   Slide the lift lever shaft weldment to the left.
+                          Lift up on the right end and pull from the frame.
+                 2.  Inspect and replace all parts worn or damaged.
+                 3.  As sembly:
+                     a.   Slide the left end of lift lever shaft weldment
+                          into the frame hole and move to the left. Lower
+                          the right end and slide into the right hole.
+                     b.   Slide new pivot bushings on the shaft and start in
+                          the holes .   Slide the lift lever on the shaft and
+                          drive the bushings into the frame.
+                     c.   Put the snap ring on and key in the shaft.
+                     d.  Reassembly the lift lever.
+                     e.  Reassemble the Ioca tor casting and mount to the
+                          f rame 
+                     f.   Put the lift lever assembly on the shaft so as to
+                          align with the key.    Use a soft hammer to drive in
+                         place while holding down on the push rod.
+                     g.   Ins tall the set screw and tighten the jam nut.
+                                              47
+
+===== Page 51 =====
+                                         FIGURE 48                     84125
+                                              48
+
+===== Page 52 =====
+           6.2   Hydraulic Lift
+                 1.  Problem Solving   Chart
+                      Observation                         Possible Cause
+                 Attachment will not   raise.     Lift linkage jammed
+                                                  Hydraulic pump pressure too
+                                                    low
+                                                  Relief valve leaking
+                                                  Control linkage damaged or
+                                                    disconnected
+                                                  Low hydraulic fluid level
+                                                  Hydraulic pump drive failure
+            2.   Hydraulic lift has no   down     Damaged control linkage
+                 pressure .
+            3.   Control will not move   to       Control linkage damaged
+                 the float pos it ion.
+            4.   Control will not move   to       Control Ii nkage damaged
+                 neutral position from            Con trol valve mount ing
+                 power up or power down             hardware is too tight
+                 posit ions when released.
+            5.   Continuous pressure on           Bent control linkage
+                 cylinder noted by relief
+                 valve squeal.
+            6.   Attachment lowers slowly.        Dirt in control valve
+                                                  Damaged control valve
+                                                    Seals in hydraulic cylinder
+                                                    Ie ak ing
+                 2.  Hydraulic Valve Removal:
+                     a.  Remove hood.
+                     b.   Disconnect the battery cables and the battery.
+                     c.  Remove the ba ttery tray and fuel tank.      Place an oil
+                         pan under the valve to collect the hydraulic oil.
+                     d.  Clean the hydraulic lines and fittings.        Disconnect
+                         hydraulic cylinder hoses .        Use two wrenches to
+                         prevent damage to the fittings.
+                     e.  Di sconnect the control linkage.
+                     f.  Di sconnect the line to the pump and the line      to the
+                          t ank.
+                 3.  Refer to the Valve Manufacturer's literature for
+                     hydraulic valve repair.
+                                              49
+
+===== Page 53 =====
+                4.  Ins tal lation of the Valve:
+                    a. Reverse the removal procedure         Start fittings with
+                        fingers to avoid cross-threading.
+                    b. Put clean new hydraulic oil in the tank.
+                5.  Hydraulic Cylinder Removal :
+                    a.  Clean the hydraulic fitt ing at the cy linder .
+                        Disconnect the hydraulic lines
+                    b.  Disconnect the piston from the lift lever weldment.
+                    c.  Remove the snap ring and any rust from the left end
+                        of the hydraulic cylinder shaft.        If the shaft is
+                        rusted, clean with sandpaper and lubricate.
+                    d.  Use a soft hammer or a hammer and punch to drive the
+                        shaft to the right through the frame side and
+                        hydraulic cylinder. Take care not to pen the end of
+                        the shaft. This will cause it to bind in the frame
+                        or cylinder.
+                    Hydraulic Cylinder Repa ir   - refer to ins truct ions
+                    supplied with the seal kit.
+                7.  Hydraulic Cylinder Installation:
+                    a.  Reve rse the disassembly procedure        Start fittings
+                        with fingers to prevent cross-threading.
+                    b.  Note that the bolt connecting the piston to the lift
+                        lever weldment must be loose enough to allow free
+                        rotation of the bolt.
+                    c.  Check the   hydraulic tank af ter the lift has been
+                        cyc led and  add oil if necessary.
+                8.  Hydraulic Pump  Removal :
+                    a.  Remove the  rear deck and left rear wheel.
+                    b.  Put an oil  pan under the pump.
+                    c.  Clean the pump body, hydraulic lines, and fittings.
+                    d.  Disconnect the hydraulic lines.      Use a second wrench
+                        on the fitting in the pump to prevent breakage
+                        Remove the two socket cap screws retaining the pump.
+                    t.  Using a soft hammer, gently tap the pump to free and
+                        remove.
+                                             50
+
+===== Page 54 =====
+                9.  Repa ir of the Hydrau lic Pump  - refer to the pump seal
+                    kit ins t ruct ions.
+               10.  Instal lat ion of the Hydraulic Pump:
+                    a.   Reverse the disassenbly.
+                    b.   Start the hydraulic fittings with the fingers          to
+                         prevent cross-threading.
+                    c.   Add fresh, clean hydraulic oil to the tank.
+               11.  Hydraulic Pump Shaft Removal:
+                    a.   Remove the hydrau lic pump as described in       Sect ion
+                         6.2.8.
+                    b.   Remove the engine as described in Sect ion 4.
+                    c.   Remove the snap ring on the pump shaft.
+                    d.   Put a shop cloth under the gear to catch the     key and
+                         spacer if dropped. Tap the pump shaft inward with a
+                         soft hammer.    When the key is exposed, rotate the
+                         shaft so that the key is on the top side. When the
+                         shaft passes through the outboard bearing, the gear,
+                         shaft and spacer can be pulled passed the bevel gear
+                         on shaft and out the rear of the transmission.
+               12.  Replace the parts worn or damaged .
+               13.  Hydraulic Pump Shaft Instal lat ion:
+                    a. Reverse the disassenbly process.
+                    b. Put fresh, clean hydraulic oil in the tank.
+               14.  Hydraulic Pressure Measurement and Adjustment:
+                    a.   Remove the left rear wheel assenbly.
+                    b.   Remove the adaptor fitting at the pump outlet and
+                         ins tall the pressure gauge .     Use two wrenches to
+                         avoid breaking the fittings. See Pigure 49.
+                    c.   Start the engine. Move the lift control to the "UPE
+                         pos it ion and hold.   The pres sure gauge should read
+                         950 psi to 1050 psi.
+                    d.   If the pressure reading is not correct, it can be
+                         ad justed with the relief valve in the hydraulic
+                         control valve assernbly.
+                    e.   Turn the fuel valve off at the fuel tank.
+                                              51
+
+===== Page 55 =====
+                                                150
+                                             500
+                                                    1250 -
+                                     FIGURE 49                     8418
+               f.  Remove the hood.
+               g.  Remove the fuel tank.
+               h.  Pos ition the fuel tank near the chassis       so that it
+                   can continue to supply fuel.
+               i.  Remove the acorn nut on the valve body.        See Figure
+                   50. Loosen the jam nut while holding the adjusting
+                   screw with a screwdriver.
+               j.  Start the eng ine.      Have another person hold the
+                   hydraulic lift control in the "UP" position while
+                   observing the pressure gauge. Rotate the adjusting
+                   screw clockwise to increase the pressure.          Rotate
+                   the adjusting screw counterclockwise to reduce the
+                   pressure. Take care not to move the adjusting screw
+                   when tightening the jam nut.
+               k.  Reverse the disassembly procedure to reassembly.
+                                        52
+
+===== Page 56 =====
+                                          FIGURE 50                     84127
+                                              53
+
+===== Page 57 =====
+                                        SECTION 7
+                                       Puel System
+          7.1  Fuel Tank Removal
+                   Remove the hood .
+               2.  Turn off fuel valve at the tank outlet.
+               3.  Remove the tank bracket hardware and the tank brackets.
+               4.   Lift tank up out of the frame.
+               5.   Disconnect the fuel line.
+          7.2  Fuel System Inspect ion and Repair
+               1.  Check the fuel tank, fitting and fuel line for damage.
+               2.   Replace any worn or damaged parts.         Rep lace the fuel
+                    tank if it is leaking.      Welding on a fuel tank could
+                    result in an explos ion.
+          7.3  Fuel Tank Installation
+                    Reverse the disassembly process to reassernble .
+               2.  Make sure the fuel tank is centered in the frame
+               3.   Use new moulding with the brackets.
+               4.   Note that the fuel valve has a longer stem than the fuel
+                    valve on the 800 Series.
+                                             54
+
+===== Page 58 =====
+                                           SECTION 8
+                                             Brakes
+            8.1  Brake Removal
+                 1.   Remove the rear deck.
+                 2.   Remove the right rear wheel assembly.           This is not
+                      necessary but will prov ide easy access to the brake.
+                 3.   Remove the 1/2" bolt and brake band.
+                 4.   Use a two-prong puller to remove the brake drum.
+            8.2  Brake Repair and Inspect ion
+                 1.   Inspect the brake parts and linkage.       Replace any part
+                     worn or damaged.
+                 2.   Replace the brake band when the lining is an thin as the
+                      thickness of the ignition key (about 0070").
+            8.3  Brake Ins tal la t ion
+                      Reverse the disas sembly procedure.
+                 2.   see Sect ion 2.11 for adjustment.
+                                              55
+
+===== Page 59 =====
+                                          SECTION 9
+                                     Electrical System
+           9.1  Problem Solving Chart
+                      observation                        Possible Cause
+            1.  No sound or mot ion when         PTO control in "ON' position
+                 ignition swi tch is turned       Direction control lever in
+                to the "START" position.            forward or reverse position
+                                                  Fuse blown
+                                                  Battery discharged
+                                                  Starting solenoid damaged or
+                                                    not grounded
+            2.  When ignition swi tch             Discharged ba t tery
+                 turned to "START" solenoid       Battery cables corroded
+                 "clicks" engine starter          Starter damaged
+                does not operate.
+            3.  When ignition switch              Fuel valve turned Otf
+                 turned to "START" the            Fuel tank empty
+                starter operates but              Loose wire to + side of coil
+                engine does not start.            Eng ine spark plug(s) fouled
+                                                  Engine elecrical failure
+                                                    See engine service manual
+            4.   Battery is discharged.           Regulator-rect if i er failure
+                                                  Poor connect ion to the
+                                                    igni t ion switch, regula tor-
+                                                    rectifier, fuse holder, or
+                                                    ba t te ry
+                                                  Engine alternator failure
+                                                  Battery failure
+            5.   Engine cont inues to run         Ground wire not connected or
+                when the ignit ion swi tch          incorrectly wired (8163B)
+                 is rotated to the "OFF"          Ignition swi tch failure
+                 pos i t ion.
+            6.   Lights do not come on when       Light bulbs burned out
+                 the light switch is moved        Defect ive light switch
+                 to the RON" position.            Loose wire connect ions
+                                                  Light fixture rusted
+                                                  Engine light genera tor failure
+                                                    (8163-B)
+                 Eng ine runs rough or stops        See engine service manual
+                 after it gets hot.
+            8.   Fuse blows when starting         Grounded interlock switch
+                 eng ine                          Defect ive solenoid
+                                              56
+
+===== Page 60 =====
+            9. 2  Wiring Di ag rams
+                     8122 & 8123                               8179 & 8199
+                      DIAGRAM 1                                 DIAGRAM 2
+                                     r-nv wrrcu
+                                              8163
+                                            DIAGRAM  3
+                                               57
+
+===== Page 61 =====
+           9.3   Ignition Switches
+                 1.  Swi tch number  19223 for   Models 8179-KT,   8199-KT,  8122,
+                     and 8123.
+                                       PUNCTION DIAGRAM
+                                                 O
+                                                s
+                                          O         o
+                                           o
+                                  Key
+                               Position  Function     Circuit
+                                   1       Off         None
+                                   2       Run
+                                   3       Start
+                                           DIAGRAM 4
+                     Check out procedure:
+                     a.  Unplug the ignit ion swi tch    and remove   it from   the
+                         instrument panel.
+                     b.  Set a VOM in the ohm (Rxl)      posit ion.   Connect  one
+                         lead to the 'B" pin.
+                     c.  Turn the ignition key to position I.      Sequent i al ly
+                         touch pins R, I, A, S and the case with the free
+                                 lead       No circuit (inf inity) should be
+                         indicated.
+                     d.  Turn the ignition key to position 2.         Sequential ly
+                         touch pins R, I, and A with the free lead .
+                         circuit (zero ohms) should be indicated.        Touch the
+                         free lead to the case. No circuit ( inf inity) should
+                         be indicated.
+                         Turn the key to posit ion 3 and hold.        Sequenti al ly
+                         touch pim R, I, S with the free lead.
+                         circuit (wro should be indicated.               Touch the
+                         free lead to the No circuit ( inf inity) should
+                         be indicated.
+                     f.  Replace the swi tch it tho switch fails the above
+                         tes ts.
+                                               58
+
+===== Page 62 =====
+               2.  Switch number 20564 for Model 8163-B.
+                                    FUNCTION DIAGRAM
+                                               O
+                                         O        o
+                                                   O
+                                        o
+                                                 o
+                                             O
+                                Key
+                             Position  Function     Circuit
+                                         Off         G+M+A
+                                 2       Run         B+A+R
+                                 3       Start
+                                         DIAGRAM 5
+                   Check out procedure:
+                   a.  Unplug the ignit ion swi tch and remove      it from   the
+                        ins trument panel .
+                   b.   Set a VOM in the ohm (Rx 1) position.       Connect   one
+                        lead to the case.
+                   c.   Put the key in the "OFF" posit ion.         Sequential ly
+                        touch pin M and A with the free lead.          A circuit
+                        ( zero ohms) should be indicated. Sequentially touch
+                        the remaining pins .   No circuit (inf inity) should be
+                        indicated.
+                   d.  Move the lead from the case to pin n B "         Move the
+                        key to position 2.    Sequentially touch pins A and R
+                       with the free lead. A circuit (zero ohms) should be
+                        indica ted .  sequentially touch the remaining pins
+                        (M,S) and the case with the free lead.        No circuit
+                        ( inf inity) should be indicated.
+                   e.  With one meter lead connected to the "B" pin, move
+                        the key to the "S" position and hold.         Touch -the
+                        free lead to the "S" pin.       A circuit (zero ohms)
+                       should be indicated .      Sequentially move the lead
+                        fran the "S" pin to the remaining pins.       No circuit
+                        ( infini ty) should be indicated.
+                   t.   Replace the switch if it fails the above tests.
+                                             59
+
+===== Page 63 =====
+          9.4  Interlock Switch
+               1.   Remove the subject interlock switch from the tractor.
+               2.   Set a VOM switch in the ohm (Rx l) position.
+               3.   Connect the meter leads to the switch pins .
+               4.   No circuit (inf inity) should be indicated.
+               5.   Push in on the interlock swi tch plunger.          A circuit
+                    (zero ohms) should be indicated.
+               6.   Connect one lead to the case and sequentially touch the
+                    swi tch pins with the other lead      No circuit (inf inity)
+                    should be indicated.
+               7.   Replace the swi tch if it fails the above test.
+          9.5  Fuse Holder
+               1.   Use a VOM with the switch set in the ohm (Rx 1) position.
+               2.  Make a visual check of the fuse to determine that it is
+                   not burned out.     If the glass is clouded, check with an
+                   ohmmeter (zero ohms) .
+               3.   Unplug the fuse holder and connect the ohmmeter to the
+                    pins .   A circuit (zero         ohms ) reading should be
+                    indicated.
+               4.   If no circuit is indicated, replace the fuse holder.
+          9.6  Ba t te ry
+                    Detailed information on battery des ign, service, voltage
+                    check, and hydrometer use can be found in the Batte ry
+                    Serv ice Manual published by the Bat tery Council
+                    Internat ional, Ill East Wacker Drive, Chicago, Illinois
+                    60601.
+               2.  on a standard ba ttery, measure the voltage and specific
+                    gravity of the battery. Replace the battery if it fails
+                    the voltage or specific gravity test.      See the schedule
+                    in Diagram 6.    NOTE :  The voltmeter used must be cali-
+                    brated to give an accurate reading and the hydrometer
+                    reading must be corrected to a temperature of 800F
+                    (26.70C).
+                                     Charge    Specif ic
+                                      Level     Gravit   Volta e
+                                      100%      1.265
+                                                1.225      12.4
+                                                1.190      12.2
+                                                1.155      12.0
+                                   Dischar  ed 1.120       11.9
+                                              DIAGRAM  6
+                                             60
+
+===== Page 64 =====
+                 3.  On Iow water loss batteries, if voltage is below 12.4
+                     or the specific gravity is below 1.225 after charging,
+                     replace the battery. If the battery has a built-in
+                     hydrometer, follow the instructions on the battery.
+           9.7
+                 1.  Remove and clean the electrical connection. Inspect for
+                     damage .
+                 2.  Rep lace the ammeter if it is damaged or does not
+                     funct ion after cleaning.
+           9.8   Hourme ter
+                 1.  Check and clean the electrical connections.       Inspect for
+                     damage .
+                 2.  Turn the ignition key to the "ON" position.         The hour-
+                     meter should "tick."
+                 3.  Replace the hourmeter if it does not operate.
+           9.9   Sole noid Swi tch
+                 1.  Inspect and clean all wire connect ions
+                 2.  Connect a VOM set in the volt position to the post to
+                     which the starter cable is connected and to the solenoid
+                     case. Turn the ignition switch to the ns" position. If
+                     a voltage is indica ted ,        the solenoid swi tch is
+                     funct ional .
+                 3.  If the above test is not met, connect the voltmeter to
+                     the small post that is connected to the ignition switch.
+                     Turn the ignition switch to the "S" position. A voltage
+                     should be inaica ted.     If the swi passes this test
+                      (voltage to the coil) and fails the test in number 2,
+                     replace the solenoid switch.
+           9.10   Reg ula tor-Rect if ier. See the Engine Service Manual.
+                                              61
+
+===== Page 65 =====
+                                          SECTION 10
+                                         Special Tools
+          10. 1  Tool Identif icat ion
+                1.  Ax le:  seal (18031) -  Dr i ver - Figure 51
+                                          - Thimble  - Figure 52
+                            Hub (18052)  - 3-Jaw Puller - OTC #1037*
+                        *Reference OTC catalog #A-83
+                        OTC Tools and Equipment
+                        Division of Owa tonna Tool Company
+                        Owa tonna, MN 55060
+                2.  Brake Shaft (Shaft #6):     seal (15137)  - Thimble  - Fig. 53
+                                                              - Driver  - Pig. 54
+                3.  Pwd-Rev Clutch (Shaft Shaft #2):
+                          Seal (18035) - Thimble -   Figure 53
+                                        - Driver  - Figure 55
+                         seal (17917)   - Driver  - Figure 56
+                         Bearing ( 18042) Removal   - Plange Puller - OTC #518
+                4.  PTO:   Clutch - Spring Compressor   - Bearing Puller - OTC
+                                                                            #1123
+                                                       - Push-Puller - OTC #927
+                                                  - Push-Puller Legs - OTC #1101
+                           Cap - Seal  (15137)  - Thimble  - Figure 53
+                                                - Dri ver - Figure 54
+                        Output Shaft   - seal (17923)  - Driver  - Figure 57
+                                       - Bearing Cup - Puller - OTC #1150
+                                                      - Slide Hammer - OTC #1155
+                                                      - Driver OTC #27793
+                                       - Snap Ring  - Clamp - Figure 58
+                5.  Lift Lever Removal: Bearing Pul ler - OTC #1123
+                                           Push-Puller - OTC #927
+                6.  Wheel, Front:    Bearing Cup  - Puller - orrc #1150
+                                                  - Slide Hammer - OTC #1155
+                                                  - Driver  - OTC #27793
+                                          (18447)  - Driver  - OTC #27793
+                                     Cap  (18449)  - Driver  - Figure 59
+                                             62
+
+===== Page 66 =====
+           10.2  Tool  Illustrations
+                                    5.0
+                                      4.75
+                                                             2.50 DIA.
+                                                               1.270 DIA.
+                                                               1.275
+                                    1.50 DIA.
+                                                           so R.
+                                     Seal Driver  - Axle             84128
+                                          FIGURE  51
+                                    4.95
+                                       3.94
+                           06 R          60
+                                                               1.188
+                                      405
+                                     Seal Thirnble - Axle           84129
+                                          FIGURE 52
+                                        325
+                                       60
+                             .06 R.                          .752 DIA.
+                        Seal Thimble  - Brake Shaft Seal            84130
+                                      - PTO cap Seal
+                                      - Fwd/Rev Clutch Seal    (18035)
+                                          FIGURE 53
+                                    5.37
+                                    4.89
+                                                     DIA.     1.250 DIA.
+                                                              281 DIA.
+                                                              1.000 DIA.
+                                     4.78
+                             Driver - PTO cap seal (15137)          84131
+                                    - Brake Shaft Seal (15137)
+                                          FIGURE 54
+                                              63
+
+===== Page 67 =====
+                                     & 37
+                                         4.28      1.250 DIA.
+                                                                        84132
+                            Driver    Fwd/Rev Clutch Seal   (18035)
+                                           FIGURE 55
+                                             1.125
+                                  TYP.
+                                  .12 R.                          150 DIA.
+                         1.250
+                                                    .222         1.966
+                                                    2.221        1.965
+                                                                        84133
+                           Driver  - Fwd/Rev Clutch Seal    (17917)
+                                          FIGURE 56
+                                     4.
+                         n
+                                                              1.600 DIA.
+                                      2   1.00
+                                                                        84134
+                          Driver  - PTO Output Shaft Seal    (17923)
+                                          FIGURE 57
+                                              64
+
+===== Page 68 =====
+                                   W30
+                                      .1
+                                         .56
+                                                                  THIS SIDE
+                                                     .234
+                                                               OTHER SOC en-32 TAP
+                                  TO DE                 .20   094 DRU THRU
+                           DULED AT. ASSEMUY                    (4 PLACES)
+                                                                           84135
+                             Retaining Ring Clamp   - PTO Bearing Set
+                                            FIGURE  58
+                                            2.0
+                                           .25       1.85 DIA.
+                                                    20 DIA.
+                                                               84136
+                                    Driver  - Front Wheel Cap
+                                            FIGURE 59
+             10. 3 Hydraulic Gauge and Fittings
+                                     #6-1/4"                  1/4" NPTF
+                                     900 Male Pipe            Female Pipe Coupling
+                                     Female 370 Swivel
+                             Tee-Maie Tube
+                           Female 37" Swivel
+                                             FIGURE  60                    84145
+                                                 65

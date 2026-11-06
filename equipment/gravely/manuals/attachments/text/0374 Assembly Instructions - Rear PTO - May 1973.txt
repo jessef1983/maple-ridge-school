@@ -1,0 +1,78 @@
+# 0374 Assembly Instructions - Rear PTO - May 1973
+# Source: 0374 Assembly Instructions - Rear PTO - May 1973.pdf (2 pages; OCR: Windows.Media.Ocr @200dpi)
+
+===== Page 1 =====
+        #GRAVELY
+                                                          ASSEMBLY INSTRUCTIONS
+                                                          18945E1 Rear PTO
+         A DIVISION OF CLARKE-GRAVELY CORPORATION         Form No: 20132L2
+             TO Continue Ond design im�rovement. the i   Effective Date: 5-1-73
+             ,manufacturee reserves the fright to change specifications; deu
+         _ or p' aces without notice gnd -without -incurvog .obliggtiom
+        FOR 424, 430, 432 TRACTORS
+       Requires:
+       14712E1 Rear Hitch.
+                                      GEAR BOX
+                    QUICK DISCONNECT   SUPPORT                  - DIA. 32
+                     CHAIN DRIVE ASSEMBLY
+          REA� DRIVE SHAFT               CLEVIS
+                                          p IN
+                                                            �   2 �
+                                                                    igure 2
+             BRACKET         SPLINED
+        THRUST RACE   THRUST RACE                  2.  If not previously done, install the rear hitch on
+                                                       the tractor.
+                              RETAINING RING
+                        Figure 1
+                                                                                 BRACKET
+        Lubrication:
+        Use general purpose grease in the bracket (Figure 1)
+        to lubricate the shaft that fits under the axle. Use
+        light oil on the quick disconnect of the chain drive
+        assembly (Figure 1) before using. Clean and re-     THRUST
+                                                            RACE
+        lubricate after each use. Use SAE 30 oil in the chain
+        drive assembly. Fill chain drive assembly to bottom
+        plug level holding the chain drive assembly vertical
+        (quick disconnect to top). Check level periodically.
+                                                            RIGHT RETAINING
+                                                             ASSEMBLY
+                                                                    SHAFT
+                                                                   Figure 3
+        Assembl                                    3. Place the flat thrust race on the shaft against the
+        1. Check the Right Retaining Assembly of the rear shoulder. Install the shaft through the bracket
+            hitch. On earlier hitches it will be necessary to from the rear. Place the thrust race with the re-
+            obtain a new Right Retaining Assembly or drill cess on the shaft, flat side next to the bracket.
+            2 - 17 /32 inch diameter holes as shown in Figure Secure in place with the retaining ring. Be sure
+            2.                                        the retaining ring is in the groove and under the
+                                                      retainer.
+                                                      Install the bracket on the right retaining assembly
+                                                      as shown in Figure 3.
+
+===== Page 2 =====
+                  GEAR BOX SUPPORT
+                   Figure 4
+                                                              Figure 5
+                                               5.  Mount the small splined shaft in the drilled end
+   4.  Two 11/32 inch diameter holes to mount the  of the rear drive shaft. Secure in place with bolt
+       gear box support must be drilled in the tractor and locknut.
+       frame to initially mount the rear P TO. To
+       locate these holes, turn the quick disconnect of 6. Insert the splined shaft of the rear drive shaft
+       the chain drive assembly in the direction of the in the lower (output) end of the housing. Pull
+       arrow, install the chain drive assembly on the chain drive housing over and slide free end of
+       PTO of the tractor. Attach the gear box support the rear drive shaft on the shaft through the
+       to the front side of the chain drive assembly. bracket.
+       Secure in place with clevis pin and hair pin
+       cotter. Pivot unit to the right until the gear box 7. Attach the chain drive assembly to the gear box
+                                                   support with clevis pin, secure with hair pin
+       support lays flat on the bottom flange of the
+                                                   cotter.
+       frame and is pointing to the front of the tractor.
+     Mark the hole locations. Detach chain drive assembly
+     from gear box support. Drill holes through frame.
+     Secure the gear box support to the frame using bolts
+     and locknuts.
+   OGRAVELY
+   One Gravely Lane
+   Clemmons, N. C. 27012
+                                                                    Printed in U. S. A.

@@ -1,0 +1,20 @@
+# 0698 Illustrated Parts List - Front Drive Conversion Kit - Jun 1972
+# Source: 0698 Illustrated Parts List - Front Drive Conversion Kit - Jun 1972.pdf (1 pages; OCR: Windows.Media.Ocr @200dpi)
+
+===== Page 1 =====
+                                                                  FRONT DRIVE CONVERSION
+           &GRAVELY                         ILLUSTRATED
+                                                                           KIT
+                                            PARTS LIST
+                  program Of and design improvm.nf. th          Model Number       15839E1
+                      'h. right '0 d.-                            Effective Date
+                  vithwt                                                             6-15-72
+                                                                  Form Number        19703P1
+                                            1
+                     ITEM
+                     NO.           PART NO.            DESCRIPTION
+                                    15835A1            Double Joint Assembly
+                                    15836P1            Bearing Sleeve
+                                    15837P1            Shaft Front Drive
+                                     113782            Woodruff Key #15, 1/4 x I
+                     NS             12134P1            Repair Kit for Universal Joints
