@@ -1,8 +1,8 @@
 {
-  "lastWrapUtc": "2026-11-05T21:30:00Z",
-  "mainHeadSha": "1dc5a57c7dc803ccc82d889ef5a8edc029133d37",
+  "lastWrapUtc": "2026-11-07T02:00:00Z",
+  "mainHeadSha": "5ee302c9ac1872a21e6731dd646b512311bf52ba",
   "confirmedClean": false,
   "openPRs": [],
   "knownStaleBranches": [],
-  "summary": "Gravely 16-G equipment folder + research merged via PRs #2-#4 (docs/session-notes/2026-11-05.md). Pre-existing uncommitted agent/skill edits and untracked 2026-11-03 notes from other sessions left in place, so not clean."
+  "summary": "Gravely manuals ingested (OCR md + parts index, PDFs in ccfedu SPO gravely-tractor-kb, 385 files) and plow angle-handle fab plan; PR #6 merged (docs/session-notes/2026-11-06.md). Pre-existing uncommitted agent/skill edits from other sessions left in place, so not clean."
 }
