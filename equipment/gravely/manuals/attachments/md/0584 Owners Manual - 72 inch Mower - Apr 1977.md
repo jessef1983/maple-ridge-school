@@ -1,0 +1,594 @@
+---
+title: "Owners Manual — 72 inch Mower — Apr 1977"
+oldgravelys_no: "0584"
+series: "72 inch Mower"
+doc_type: "Owners Manual"
+date: "Apr 1977"
+pages: 13
+source_pdf: "../0584 Owners Manual - 72 inch Mower - Apr 1977.pdf"
+text_source: "OCR (Windows.Media.Ocr, 200 dpi)"
+---
+# Owners Manual — 72 inch Mower — Apr 1977
+
+Source: [0584 Owners Manual - 72 inch Mower - Apr 1977.pdf](../0584 Owners Manual - 72 inch Mower - Apr 1977.pdf). Text is machine-extracted; confirm part numbers against the PDF page before ordering.
+
+## Page 1 — A Division Of Clarke-C,Ravely Corporation Manual                Model No. 22013
+
+```text
+QGRAVELY                         OWNERS                          72" ROTARY MOWER
+                                                                       3-BLADES
+       A DIVISION OF CLARKE-C,RAVELY CORPORATION MANUAL                MODEL NO. 22013
+       TO continue its program Of quality and design improvement. the manufacturer reserves the to change specif.catons, deswt FORM NO. 23153 (4-77)
+       Or prices without nonce and w.thout incurr.n9 obl.gat.on_
+      GENERAL                                       SPECIFICATIONS
+      Read this manual carefully and understand how to General purpose
+      operate and maintain the equipment before at-     Lawn care
+      tempting to use it. The 72" 3-blade mower has     Weed mowing
+      been designed and built to the traditional standards
+      for which Gravely is famous. Knowing how to use Maintenance Intervals
+      the tractor and mower is the largest part of getting See recommended maintenance
+      the job done.
+                                                    Lubricants
+      This manual includes parts lists, set-up, safety, All grease fittings: general purpose grease
+      operator and maintenance instructions. All re-    Gear box: 90# EP GL5 gear oil
+      ferences to right. left, front, rear are made from Locking collar: light oil
+      operator's position on the seat. Item Numbers
+      used herein are in reference to the Illustrated Cutting width: 72" (1829 mm)
+      Parts List. Contact the Gravely Dealer for further
+      information.                                  Cutting height: 1" to 51/2"
+                                                               (25.4 to 139.7 mm)
+      To continue its program of quality and design im-
+      provement, the manufacturer reserves the right Shipping weight
+      to change specifications, design or prices without 498 lbs. (224.10 kg)
+      notice and without incurring obligation.
+                                     WAN.OLDGRAVELYS.NET
+```
+
+## Page 2
+
+```text
+TRAINING                                   4. Exercise caution, especially when operating
+                                                    in reverse.
+      1.  Read the tractor Operator's Manual and
+          mower manual carefully. Be thoroughly  5. Do not operate equipment except from
+          familiar with the equipment. Know how to  proper operator's position.
+          stop the unit and disengage the controls
+          quickly.                               6. Keep safety devices and shields in place at all
+                                                    times.
+      2.  Never allow children to operate the equip-
+          ment. Never allow adults to operate equip- 7. Do not allow passengers to accompany the
+          ment without proper instructions.         operator at any time.
+      3.  Keep area of operation clear of all persons, 8. Disengage PTO before crossing a gravel drive,
+          especially small children and pets. Never walks or roads. Stay alert for hidden hazards
+          direct the mower discharge toward bystanders and traffic.
+          or allow anyone in front of the unit.
+                                                 9. Reduce speed on slopes and in sharp tums to
+      PREPARATION                                   prevent tipping over or loss of control. Exer-
+                                                    cise extreme caution when changing direction
+      1.  Thoroughly inspect the work area where the on slopes.
+          equipment is to be used and remove all
+          stones, glass, metal, bones, sticks, wires and 10. Do not start or stop suddenly when going up
+          any other foreign objects. Stay alert for or down slopes. When mowing, go up and
+          holes and other hidden hazards.           down the face of slopes, never across.
+      2.  Disengage all clutches before starting engine. 11. Never direct the discharge so as to endanger
+                                                    life or property such as people, pets, struc-
+      3.  Never make an adjustment to mower while   tures, cars, etc.
+          engine is running.
+                                                 12. Take all possible precautions when parking
+      4.  Do not put hands or feet near or under    or leaving the tractor unattended: STOP
+          rotating parts.                           the engine, set parking brake and lower
+                                                    attachment.
+      5.  Do not wear loose fitting clothing or accesso-
+          ries that might get caught in moving parts or 13. Before cleaning, repairing, or inspecting, make
+          on the controls. Keep hands, feet, hair, cloth- certain all moving parts have stopped. Set
+          ing, etc., away from moving parts. Wear eye parking brake and remove the key to prevent
+          protection.                               accidental starting.
+      6.  Before leaving the operator's position, STOP 14. If the mower should start to vibrate ab-
+          the engine and put the PTO in the OUT     normally , stop the engine, disengage the P TO,
+          position and set parking brake.           set parking brake. Abnormal vibration is gen-
+                                                    erally a warning of trouble. Obtain qualified
+      OPERATION                                     service assistance.
+      1,  Never operate the mower without good visi- 15. Do not run engine indoors, except when
+          bility and light.                         starting engine and for transporting equip-
+                                                    ment in or out of building. Open outside
+      2.  Before making any repairs or adjustments, doors as exhaust fumes are dangerous.
+          STOP the engine, put the PTO in the OUT
+         position and set parking brake.         16. Never operate machine at high transport
+                                                    speeds on slippery surfaces.
+      3.  After striking a foreign object, STOP the
+         engine and put the PTO in the OUT position 17. Disengage the tractor PTO when transporting
+         and set parking brake before inspecting for or not in use.
+         damage. Any damage must be repaired be-
+         fore restarting the equipment.          18. Do not overload mower capacity by at-
+                                                    tempting to operate equipment at too fast a
+                                                    rate.
+                                             1
+```
+
+## Page 3 — Maintenance And Storage
+
+```text
+MAINTENANCE AND STORAGE
+       1.  Keep all bolts, nuts and screws tight to be
+           sure equipment is in safe working condition.
+       2.  Do not touch the muffler or exhaust pipes
+           until they have had sufficient time to cool.
+       3.  Prevent accidental starting by removing the
+           ignition key and set parking brake when
+           servicing the mower.
+       -APPLY LOCTITE
+        27/ TO HOLE  15 10 4
+        COYER BEFORE
+        INSTALLING
+                                                                13
+                                           p
+                6
+                                           5
+                                           2
+                                 5
+                   ITEM NO.  PART NO.                DESCRIPTION
+                     1       22532               Housing, Gearbox 72" Mower
+                     2       22533               Bearing , Cap
+                             22534               Cover, Hole
+                     4       22535               Bearing Set
+                     5        9245& 9246         Bearing Set
+                     6       22536               Gear
+                     8       22537               Shaft, Input
+                     9       22538               Key, SQ.
+                    10       22539               Ring, Snap
+                    11       22540               Seal
+                    12       22541               Shim Pack
+                    13       180079              Bolt, Hex; 5/16-18 x 1.0
+                    14       120214              Washer, Lock; 1/2 sp
+                    15       455322              Relief Fitting; 1/8 NPT
+                    16       103879              Plug, Pressure; 3/8-18 NPT Soc. Hd.
+                    17       22542               Shim, Gear
+                    18       22543               Shaft, Gear; (Output)
+                    19       22544               Plug, Hole
+                                             2
+```
+
+## Page 4
+
+```text
+22
+                      87
+                                                      qto
+             36
+                                          78-1
+        48
+                                                                    sep
+                            0
+        ITEX PAR                                 I".'EH PART NO.     DESCRIPTION
+         1.  22m4           72"                   56.  131016     washer, Flat; 21/32 x 1-5/16 x .095
+         2.  22102       Chute, Discharge         57.  137204     Pin, Cotter; i /8 x 1-1/2
+         3.  22056           L.H. Idler Plate     58.  22101      Spacer; 2.00 Sq. x .50
+         4.  22052           R.H. Idler Plate     59.  22082      Spring M ft
+         5.  22051       Bracket, Eller           60.  22112      Pin, Clevis; 3/4 x 1-31/32
+         6.  22055       Rod, R.H. Idler          61.  22113      Pin, Clevis; 3/8 x 1-31/32
+         7.  22060         L.H. Idler             62.  22092      Caster Wheel Support
+         8.  22107       Hinge Support, Welent R.H 63. 22095      Fork , Caster heel Weldment
+         9.  22108       Hinge Support, Wei&ent        22098      Bearing , Flanged
+         10. 22071      Gear Case, Weldment       65.  22099      Wheel , Gauge
+             22078      Gearbox, 72"              66.  22100      Bushing,
+         12. 22079      Pulley , Drive            67.  131000     Washer, Fiat; 13/16 x 2 x .148
+         13. 22080      Ring, Retaining           68.  433163     BOIt, Hex; 1/2-13 x 5
+         14. 124551     Key. Woodruff; 1/4 x 7/8 Hard 69. 137156  Nut, Wing; 1/2-13
+         15. 22077      Washer, Pelt              70.  19340      Bearing, Thrust
+        16.  180122     Bolt, Hex; 3/8-16 x       71.  120384     Washer, Lock 1/2 sp
+         17. 120382     Washer, lock; 3/8 SP      72.  126390     Bolt, 3/8-16 x 7/8 RD HD SQ NK
+        18.  22088      Q�ver, Belt, R.H.         73.  126227     Bolt; 3/8-16 x 3/4 HD SQ NX
+        19.  22086      cover, Belt, L.H.         74.  120388     washer, Flat; 7/16 x 1 x .083
+        20.  22091      Plug, Button              75.  456004     Nut, lock; 3/8-16 Insert
+        21.  22089      Strip, Sealing, Belt Cover 76. 189305        Hex; 3/8-16 x 3 1/2
+        22.  22090      Strip, Sealing, Belt Cover 77. u279       pin, latch
+        23.  22249      Strip, Sealing , Belt Cover 78. 11860     pin, Hair Cotter
+        24.  10405      Cotter, Hair Pin          79.  15172      Spring, Ext. Type; 4-1/2 x .50 x 22
+        25.  22042      Pulley, Center Spindle         20499      Pin, Clevis; 5/8 x 1.125
+        26.  22043      pulley, R.H. spindle      81.  22062      spacer, .516 x .875 x 1.000
+        27.  22044      Pulley, L.H. Spindle      82.  22066      Spring, Idler COQ. 2.85
+             18549      Decal , Danger            83.  22067      Spring, Idler Co. Type 2.50
+             22050      Shield, 72" Front R.H.         120394     washer, Plat, 13/32 x 13/16 x .065
+             22049      Shield, 72" Front L.H.    85.  121224     Pin, Cotter; 3/32 x 1
+        31.  22063      Pulley, Plat Idler        86.  192481     Nut, lock; 3/8-24 Washer Insert
+        32.  22064      pulley, v-ldier           87.  22068      v-Be1t KB x 69.28
+        33.  21214      Fitting, Grease 900 (Center Spindle mry) 88. 22395 Bolt Mjusement
+        34.  144067     Coupling, (Center Spinate Only) 89. 126216 Bolt; 5/16-18 x 3/4 RD HD SQ NK
+        35.  22045      Nipple, Pipe; 1/8-27 x 14.60 (Center Spindle Only) 90. 446363 washer, Plat; 3/8 x 7/8 x .083
+        36.  144117     Elbow , Street; 1/8-27 (Center Spindle 419455 Nut, lock: 5/16-18 Washer Ingere
+        37.  20066      Cradle, Blade             92.  126411     Bolt, 3/8-16 x 1 1/4 HD SQ NX
+             22041      Blade, 72"                93.  180087     BOIt, Hex; 5/16-18 x 2
+        39.  22083      tJ-J0int Assembly,        94.  22069      v-Be1t KB x 152.5
+             22084      U-Joint Assembly,         95.  21706      pin, Link
+        41.  22061         special Rex; 1/2-13         21778      Strap
+        42.  22081      Plate , Space             97.  21779      Bushing
+        43.  22065      Bolt, special Hex; 1/2-13      120390     Washer, Fiat: 9/16 x 3/8 x .109
+             14406      Fitting, Lube                  180177     B01t, Hex; 1/2-13 x 1 1/2
+        45.  411010     Pitting, Lube 1/8        100.  435507     Nut , tock; 1/2-13 Washer Insert
+        46.  9245       Cup, Bearing             101.  120396     washer, Plat; .500 x 1.062 x .095
+        47.  9246       Cone, Bearing            102.  22402         Rear R.H.
+             20743      Washer                   103.  22403            L.H. 72"
+        49.  21211      seal, steel              104.  21898      Pin,
+             21215      Housing, Bearing, (Side Spindle) 105. 22401  Front R.H. 72"
+             21218      Housing, Bearing (Center Spindle) 106 22400  Front L.H. 72"
+        51.  22040      Shaft, Spindle           107.  22399      Decal, Belt Diagram 72"
+        52.  22047      Shaft, Center Eller      108.  22545      Bellville Springs
+        53.  22046      Shaft,                   109.  272739     Nut, Inck; 5/8-18 Washer Insert
+        54.  15351          Gage                 110.  444855     Plug, Drain; 1/8-27 Pipe
+        55.  11123      Pivot, Pin               Ili.  120378     N-ut, Hex; 1/2-13
+                                              3
+```
+
+## Page 5 — Assembly
+
+```text
+ASSEMBLY
+       1.  Cut banding straps securing hardware and
+           mower components. See fig 3.
+                        fig 3
+       2.  Remove nuts and bellville springs from
+           spindles.
+       3.  Set blades (item 38) on each spindle making
+           sure blades fit down in cradle (item 37). The
+           lift portion of the blade points towards
+           mower deck.
+       4.  Put two bellville springs (item 108) on each           fig 5
+           spindle. Assemble bellville springs so both
+           cups face blade. Secure with nut and torque 6. Turn mower deck right side up using caution
+           80-90 ft. lbs. (108.48 to 122.04 Nm). wedge not to damage the mower or cause personal
+           a piece of wood between blades and deck   injury.
+           housing to keep blades from tuming.
+           See fig 4.                            7.  Remove the shipping blocks. The hardware
+                                                     removed will be used in the installation of the
+                                                     caster wheel supports. DO NOT DISCARD
+                                                     HARDWARE. See fig 6.
+                        fig 4                                     fig 6
+       5.  Install the gage roller (item 54) using roller
+           shaft, (item 53) washers, (item 56) and secure
+           with pin lock (item 55) and cotter pin (item
+           57). Install a roller assembly in each rear
+           corner. See fig 5.
+```
+
+## Page 6
+
+```text
+8. Install the caster wheel support (item 62) 11. Install hinge support weldment (item 8 or 9)
+           using the hardware removed. Fasten only the and fasten with clevis pin (item 60) and hair
+           back of support at this time using bolt, (item pin cotter (item 24). There is a right and left
+           68) spacer (item 58) and nut (item 100).   weldment. The hanging strap at the back of
+           See fig 7.                                 the weldment goes to the outside. Install only
+                                                      one weldment before installing mower on
+                                                      tractor. See fig 9.
+                        fig 7
+       9.  Install the caster wheel assembly on the
+           support and secure with washer (item 70)
+           and cotter pin (item 57). See fig 8.
+                                                  12. Insert the woodruff key (item 14) in the slot
+                                                     of the drive shaft of the gearbox (item 11).
+                                                     See fig IO.
+                        fig 8
+       IO. Fasten front of support with adjustment bolt,
+           (item 88) lock washer (item 71) and wing nut
+           (item 69). See fig 8.                                  fig 10
+```
+
+## Page 7 — Ting Position Or Damage Will
+
+```text
+13. Align the keyway of the female U-joint 16. Install latch pin (item 77) and secure with nut
+             assembly (item 39) and slide joint on shaft. (item 111). See fig 14.
+             Secure U-joint to shaft with bolt (item 93)
+             and nut (item 91). See fig 11.         INSTALLATION
+                                                    PREPARATION
+                                                    To position mower under tractor for connection,
+                                                    first place mower on a level surface. Locate tractor
+                                                    behind mower with front of tractor towards rear
+                                                    of mower. The mower deck is designed to support
+                                                    the front wheels of the tractor.
+                                                    CAUTION: CASTER WHEELS MUST BE AD-
+                                                             JUSTED TO THE LOWEST CUT-
+                                                             TING POSITION OR DAMAGE WILL
+                                                             RESULT. BELT COVERS MUST BE
+                                                             IN PLACE AND SECURE.
+                                                    Block behind mower to start wheels of tractor up
+                                                    and onto the mower deck, like a ramp. Make sure
+                                                    back wheels will not stop on the ramp once front
+                                                    wheels have cleared mower deck.
+                          fig 11
+                                                    The tractor transmission should be in First Gear/
+         14. Remove the plugs (item 16-fig 2) from each
+                                                    Low Range. Start engine and carefully drive front
+             side of gearbox. Add SAE EP GL-5
+                                                    of tractor over mower. Remove the blocking ramp.
+             gear oil to one hole until it appears in other
+             hole. Replace plugs. Check oil level periodi-
+                                                    CONNECTION
+             cally.
+                                                    1. Lower hydraulic lift to the lowest position.
+         NITENTION: Gearbox is shipped without oil.
+                                                       See tractor Operator's Manual.
+         15. Install the hydraulic lift straps (item 96) on
+                                                    2. Secure lift straps to mower with clevis pin
+             the tractor using bolt (item 99), flat washer
+                                                       (item 80) and hair pin cotter (item 24).
+             (item 98), bushing (item 97) and lock nut
+                                                       See fig 13.
+             (item 100). Straps go on outside of hydraulic
+             lift. See fig 12.
+                                                                    fig 13
+                          fig 12
+                                                6
+```
+
+## Page 8 — Cutting Height Adjustment
+
+```text
+3.  Start engine and raise mower to highest 7. Lower mower all the way down. Apply a
+            position using the hydraulic lift.        light coat of general purpose grease to splined
+                                                      PTO shaft of tractor.
+        4.  Attach springs (item 59) to the mower and
+            latch pins on each side of mower/tractor. 8. Slide collar ring towards U-joint and hold.
+            See fig 14.                               Slide collar on shaft, release ring and continue
+                                                      sliding on shaft until collar "clicks" and locks
+                                                      in position.
+                                                  CUTTING HEIGHT ADJUSTMENT
+                             C)                   The cutting height of mower can be adjusted from
+                          o                       1" to 51/2". There are 7 height adjustments.
+                                                  1.  Raise mower to highest position with the
+                                                      hydraulic lift.
+                                                  2.  Set caster wheel supports to the desired
+                                                      cutting height by locating the adjustment
+                                                      bolt in the desired hole of the adjusting flange
+                               L.                     on the mower deck. See fig 16.
+                         fig 14
+         5. Slide the hinge support weldment, that was
+            installed during set-up over the link pin in
+            back of tractor and secure with kilk pin (item
+            104). See fig 15.
+                                                                   fig 16
+                                                  3.  Locate the corresponding hole in the hinge
+                                                      support and insert the clevis pin (item 61) and
+                                                      secure with hair pin cotter (item 78). See
+                                                      fig 17.
+                         fig 15
+        6.  Slide the remaining hinge support weldment
+            over the remaining link pin on other side and
+            secure with kilk pin. Secure forward part of
+            weldment to mower deck as described in
+            set-up.
+                                                                  fig 17
+                                               7
+```
+
+## Page 9
+
+```text
+For correct cutting height adjustment, holes in LUBRICATION
+         caster wheel supports and hinge supports must
+         correspond. Refer to decals attached to mower or There are 11 grease fittings on the mower. See
+         diagrams in this manual. Fig 18 & 19.     Factory Recommended Preventive Maintenance.
+         LOWER THE NUMBER - LOWER THE CUTTING      Spindle bearing housings - 3
+         HEIGHT.                                   Idler pivot arms - 2
+                                                   Caster wheel supports - 2
+                                                   Caster wheels - 2
+                                                   U-joint - 2
+                                                   NOTE: Before lubricating, wipe fittings clean so as
+                                                         not to force dirt into grease fittings.
+                                                   Blade Spindle Bearings:
+                                                   The two end blade bearings are lubricated through
+                                                   the top of the mower deck. Remove the button
+                                                   plugs (item 20) to expose the fittings. The center
+                                                   spindle bearing fitting is lubricated at the lower
+                                                   back of the mower deck. When bearing housing is
+                                                   full, excess grease will come out the end of the
+                                                   housing.
+                                                    Idler Pivot Arms:
+                                                    For access to the idler pivot arms, remove the belt
+                                                   cover (items 18 & 19). Add grease through the
+                                                   fittings until it comes out around the stud.
+                                                   Caster Wheel Supports:
+                                                   The caster wheel forks are lubricated through the
+                                                   fitting located in the end of the caster wheel
+                          fig 18                   support. Add grease until it comes out around the
+                                                   bushings.
+                                                    Caster Wheels:
+                                                   The caster wheels are lubricated through the grease
+                                                    fittings on the wheel hubs. Add grease until it
+                                                    comes out around the bushings.
+                                                    U-joint:
+                                                   There are two grease fittings on the female end of
+                                                   the drive assembly. Add grease to the U-joint un-
+                                                    til it comes out around the rectangular shaft.
+                          fig 19
+                                                8
+```
+
+## Page 10 — Belt Replacement
+
+```text
+BELT                     8.  Place gear case weldment on mower and re-
+                                                     place bolts and nuts that secure the back.
+                                                     Do not tighten.
+       BELT TENSION
+                                                 9.  Lift gear case weldment as far as bolt will
+        The "long" belt tension adjustment is located on allow and place belt around drive pulley
+       the left side of mower. Adjust by tightening the shown in fig 21.
+       nut against the spring leaving a .005" to .010"
+        air gap between coils of spring.
+        To adjust tension on "short" belt, remove right
+        belt cover (item 18) and follow procedure as des-
+        cribed for "long" belt".
+        BELT REPLACEMENT
+        I. Remove mower from tractor and remove
+           right and left hand belt cover.
+        2. Loosen belt tension on "long" belt.
+        3. Remove gear case weldment.                                DRIVE
+                                                                    PU Y
+       4.  Remove and replace "long" belt.
+       NOTE: If required, "short" belt must be re-
+               placed before installing "long" belt.
+       5.  Loosen "short" belt tension and remove belt.
+       6.  Replace "short" belt and adjust tension as
+           described in BELT TENSION.
+                                                                 fig 21
+       7.  Place the "long" belt around the pulleys and
+           idler as shown in fig 20 or diagram on mower. 10. Replace all bolts, washers, nuts and tighten.
+                                                 11. Adjust "long" belt tension as described in
+                                                     BELT TENSION.
+                                                 12. Replace belt covers, all bolts, nuts, washers
+                                                     and tighten.
+                       fig 20
+                                              9
+```
+
+## Page 11 — Be In The Lowest Cutting Position
+
+```text
+BLADES                                     MULCHING: Plan a mowing pattem so as to dis-
+                                                  charge cutting on grass that has yet to be mowed.
+       The mower must be removed from the tractor be- The mower will then mow cut and uncut grass at
+       fore removing the blades. DO NO ATTEMPT TO the same time discharging a fine mulch. Slower
+       REMOVE THE BLADES WHILE MOWER IS           ground speed is necessary for mulching than for
+       ATTACHED TO TRACTOR.                       normal mowing. Keep the engine at full throttle.
+       After removal from tractor, position mower in REMOVAL
+       such a way that blades can be removed safely. If
+       mower is turned upside down the pressure relief 1. Raise mower to the highest lift position.
+       valve plunger must be secured to prevent gearbox
+       from loosing oil. Use tape or similar material 2. Set caster wheel supports to the lowest
+       across valve.                                 cutting position. CASTER WHEELS MUST
+                                                     BE IN THE LOWEST CUTTING POSITION
+       CAUTION: Mower deck must be supported so      OR DAMAGE WILL RESULT WHEN RE-
+                mower does not rest on the gearbox.  MOVING FROM TRACTOR.
+                Damage will result.
+                                                 3.  Remove klik pins securing hinge support
+       Resharpen and balance the blades when they    weldments at back of tractor.
+       become dull. When blades are removed for sharpen-
+       ing, inspect for surface cracks. Discard any blade 4. Remove the hair pin cotter and clevis pin
+       that has evidence of metal fatigue and/or cracks. securing one of the hinge support weldment
+       Pay particular attention to the metal around the to mower deck and remove weldment. It is
+       center hole.                                  not necessary to disconnect both weldments
+                                                     from mower.
+       Check gearbox oil level before remounting on
+       tractor.                                  5.  Remove remaining hinge support weldment
+                                                     from link pin at back of tractor.
+       OPERATION
+                                                 6.  Remove lift springs.
+       1.  Read the Tractor Operator's Manual. Follow
+           safety and operating instructions to engage 7. Lower mower to the lowest lift position and
+           and disengage the PTO (power take-off).   remove the hair pin cotters and clevis pins
+                                                     securing lift straps to mower deck.
+       2.  After PTO is engaged, run engine at full
+           throttle.                             8.  Remove U-joint from PTO shaft of tractor.
+       3.  Select a ground speed fast enough to get the 9. Block between tractor wheels and mower to
+           job done, yet slow enough to give a clean cut. start front wheels of tractor up and onto
+           Some trials may be necessary to find an   mower deck as described in installation.
+           optimum ground speed (for a particular stand
+           of grass) to give a satisfactory cut. 10. Back the front wheels of tractor over mower.
+                                                     DO NOT DRIVE THE BACK WHEELS OF
+       4.  In thick, lush growth reduce ground speed, TRACTOR OVER MOWER.
+           not engine speed, (see Tractor Operator's
+           Manual) to allow the mower enough (more) STORAGE
+           time to cut and discharge. Come to a com-
+           plete stop before shifting Gear and/or Range. 1. After removing mower from the tractor, re-
+                                                     connect hinge support and all clevis pins to
+       5.  NORMAL MOWING: Plan a mowing pattern      mower for storage.
+           so as to avoid discharging onto grass that has
+           not been cut. Mowing grass with cuttings on 2. Clear mower of all cuttings and debris.
+           top of it decreases the efficiency of the
+           mower and is only necessary when mulching 3. Perform all lubrications.
+           is desired. Keep the engine at full throttle.
+                                                 4.  Apply a light coat of oil to preserve finish and
+                                                     appearance.
+                                             10
+```
+
+## Page 12 — Preventive Maintenance
+
+```text
+FACTORY RECOMMENDED
+             PREVENTIVE MAINTENANCE
+                                    Operating
+                                      Hours
+      Spindle Nut Lubrication - - - - - - - - - - - -8
+      Caster Wheel Lubrication - - - - - - - - - - - - - - - - 8
+      Idler Pivot Arm Lubrication - - - - - - - -- - - -50
+      Check Gearbox Oil - - - - -        50
+      Check Blade Sharpness - - - -     -50
+      Torque Spindle Nut - - - - - - --
+                                   ------ 50
+      Check Belt Wear and Tension - - - - - - -50
+      Check all Nuts and Bolts ----- ---- ----- -- Daily
+                                            11
+```
+
+## Page 13 — 8. Gravely Shall Have No Responsi-
+
+```text
+LIMITED WARRANTY
+             This Limited Warranty is issued by Clarke-Gravely 6. This Warranty does not cover the following:
+             Corporation, Gravely Division, and consists of the
+             following terms:                      (a) Transportation between owner's home or
+                                                      place of business and the dealership. If
+                  Only the original purchaser of new Gravely the dealer provides the transportation of
+                  equipment is covered by this Warranty. the equipment, he will charge the owner
+                                                      his usual rate for such service.
+               2. This Warranty covers repair or replacement of
+                  parts manufactured by Gravely which are de- (b) Normal maintenance services and normal
+                  fective in material or workmanship. Gravely replacement of items such as spark plugs,
+                  will pay for parts and labor only.  belts, oil, oil filters, air filters, and mower
+                                                      blades.
+               3. The Warranty starts the date of purchase and
+                  lasts for NINETY (90) DAYS for products 7. GRAVELY MAKES NO OTHER EXPRESS
+                  used in commerical applications, and TWELVE WARRANTIES. ANY IMPLIED WARRAN-
+                  (12) MONTHS for products used by the owner TIES, INCLUDING WARRANTIES AS TO
+                  to maintain his personal residence. Commerical MERCHANTABILITY OR FITNESS FOR A
+                  means any use other than to maintain the PARTICULAR PURPOSE, ARE LIMITED IN
+                  grounds around the personal residence of the DURATION TO THE PERIOD SET OUT IN
+                  owner Of the product.            PARAGRAPH 3 ABOVE. SOME STATES
+                                                   DO NOT ALLOW LIMITATIONS ON HOW
+               4. Some components Of Gravely equipment are LONG AN IMPLIED WARRANTY LASTS,
+                  not covered by the Gravely Warranty. These SO THE ABOVE STATEMENT MAY NOT
+                  components are covered by the original manu- APPLY TO YOU.
+                  facturer's warranty, they are:
+                                                 8. GRAVELY SHALL HAVE NO RESPONSI-
+                  (a) Engines - Onan and Briggs & Stratton BILITY FOR INCIDENTAL OR CONSE-
+                                                   QUENTIAL DAMAGES RESULTING FROM
+                  (b) Tires - Goodyear, Goodrich & Carlisle THE BREACH OF ANY WARRANTY, IN-
+                                                   CLUDING, BUT NOT LIMITED TO, IN-
+                  (c) 34" Mower Gear Box - Peerless CONVENIENCE, RENTAL OR PURCHASE
+                                                   OF REPLACEMENT EQUIPMENT, LOSS OF
+               5. To obtain warranty service on Gravely equip- PROFITS OR COMMERCIAL LOSS. SOME
+                  ment including components not manufactured STATES DO NOT ALLOW THE EXCLU-
+                  by Gravely, use this procedure:  SION OR LIMITATION OF INCIDENTAL
+                                                   OR CONSEQUENTIAL DAMAGES, SO THE
+                  (a) Notify the Gravely dealer from whom you ABOVE LIMITATION OR EXCLUSION MAY
+                    purchased the equipment.       NOT APPLY TO YOU.
+                  (b) If you have moved and it is not convenient 9. This Warranty gives you specific legal rights,
+                    to notify the selling dealer, notify the near- and you may have other rights which vary
+                    est Gravely dealer. You should supply this from state to state.
+                    dealer with a copy of the bill of sale as
+                    proof of the date of purchase. IO. A Gravely equipment registration card is
+                                                   supplied with each Gravely tractor or major
+                  (c) Make arrangements to have the equipment attachment. Please complete the card and
+                    delivered to the dealer (refer to paragraph return it to Gravely at the address listed on
+                    6 (a) below).                  the card. The equipment registration card
+                                                   will be used by Gravely for:
+                  (d) If you have any questions concerning the
+                    Gravely Warranty, they should be referred (a) Recording date of purchase.
+                    to:
+                                                   (b) Notification of owners in compliance
+                       Gravely Division               with the Consumer Product Safety Act,
+                       Clarke-Gravely Corporation     should any notification be necessary.
+                       One Gravely Lane
+                       Clemmons, North Carol ina 27012 The return of registration card is not required
+                       Attn: Manager of Customer Services in order to take advantage of this Warranty.
+                  (e) Warranty service on Gravely equipment II. This Warranty is not subject to change or
+                    must be performed by an authorized modification by anyone, including Gravely
+                    Gravely dealer or Gravely factory branch. dealers and no Gravely dealer is authorized
+                                                   to make any representations or promises on
+                                                   Gravely's behalf.
+                                 e GRAVELY
+                                          One Gravely Lane
+                                        Clemmons, N. C. 27012
+```

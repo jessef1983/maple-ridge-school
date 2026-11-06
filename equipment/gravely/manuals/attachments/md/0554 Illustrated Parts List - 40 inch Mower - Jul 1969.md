@@ -1,0 +1,128 @@
+---
+title: "Illustrated Parts List — 40 inch Mower — Jul 1969"
+oldgravelys_no: "0554"
+series: "40 inch Mower"
+doc_type: "Illustrated Parts List"
+date: "Jul 1969"
+pages: 3
+source_pdf: "../0554 Illustrated Parts List - 40 inch Mower - Jul 1969.pdf"
+text_source: "OCR (Windows.Media.Ocr, 200 dpi)"
+---
+# Illustrated Parts List — 40 inch Mower — Jul 1969
+
+Source: [0554 Illustrated Parts List - 40 inch Mower - Jul 1969.pdf](../0554 Illustrated Parts List - 40 inch Mower - Jul 1969.pdf). Text is machine-extracted; confirm part numbers against the PDF page before ordering.
+
+## Page 1 — Illustrated
+
+```text
+40" ROTARY MOWER
+                                          ILLUSTRATED
+                                                                    Model Number MA 608
+                                          PARTS LIST                Effective Date Juiy 1, 1969
+              iti program Ond design improvemenf, the
+                     righ' to ehonge                                Form Number  14910P1
+                           incurring
+```
+
+## Page 2
+
+```text
+ITEM     PART NO.        DESCRIPTION
+                    1       11251 A2        Pivot Arm Weldment
+                     2       120388         7/16 Flatwasher
+                    3        180126         3/8 x 1 Hex. Hd. Bolt
+                    4       14674P1         Pulley Cover R. H.
+                   NS       14675P1         Pulley Cover L. H.
+                    5        125680           x 5/8 Machine Screw
+                    6       11777P1         Plastic Grommet
+                    7       14663A1         Deck Weldment
+                    8       11238P1         Safety Decal
+                    9       13517P1         Male U-Joint End
+                   10       13518P1         Female U-Joint End
+                   11       9411027         Lube Fitting
+                   12        180044           x 2 Hex. Hd. Bolt
+                   13       9419454           Locknut
+                   14        180016         k x Ilex. Hd. Bolt
+                   15        120380           Lockwasher
+                   16       10982P1         Gear Housing Cover
+                   17       11231P1         Gear Housing Gasket
+                   18       14636P1         Gear Box Casting
+                   19       14637P1         Drive Shaft
+                   20       14642P1         Retaining Ring
+                   21       1464 IPl        Ring Spacer
+                   22       14646P1         Grease Seal
+                   23       14640A1         Roller Bearing
+                   24       11220P1         Bevel Gear
+                   25        120390         9/16 Flatwasher
+                   26       14639P1         Self Locking Bolt
+                   27       14643P1         Pinion Shaft Gear
+                   28        124546         #6 Woodruff Key
+                   29       14644A1         Roller Bearing
+                   30       12134P1         Repair Kit
+                   31       14655A1         Gear Housing Support Weldment
+                   32        451539         3/4 Hex. Jam Nut
+                   33       14660P1        Drive Sheave
+                   34       14645P1        Grease Seal
+                   35        180120         3/8 x 3/4 Hex. Hd. Bolt
+                   36        120382         3/8 Lockwasher
+                   37       14669P1        Spacer
+                   38        435507           Locknut
+                   39        456004        3/8 Locknut
+                   40        189349        % x 5 Hex. Hd. Bolt
+                   41       11317A1        Mower Lift Pivot Assembly
+                            9415993           Hex. Jam Nut
+                            11315P1        Quick Disconnect Ball Joint Assy.
+                   44        446257        13/16 Flatwasher
+                             126803        % x 3 Carriage Bolt
+                   46       14673P1        V-Be1t
+                             126411        3/8 x 1 Carriage Bolt
+                             120394        13/32 Flatwasher
+                   49        126227        3/8 x 3/4 Carriage Bolt
+                   so        126416        3/8 x 1 3/4 Carriage Bolt
+```
+
+## Page 3
+
+```text
+ITEM     PART NO.        DESCRIPTION
+                    51       11641P1         Ball Bearing
+                    52       10984P1         Bearing Housing
+                    53        127800         Lube Fitting
+                             11235P1         Needle Bearing
+                    55       13412P1         5/8 Locknut
+                    56        446502         5/8 Flatwasher
+                    57       14668P1         Blade
+                    58       10986P1         Blade Cradle
+                    59       11232P1         Bearing Housing Shaft
+                    60        124549            Woodruff Key
+                    61       11229P1        Oil Seal
+                    62       11264P1        Axle Support Bracket
+                    63       11265P1        Height Adjustment Bracket
+                    64        126402         3/8 x 1 Carriage Bolt
+                    65        446230         9/16 Flatwasher
+                    66       10988P1         Spindle Sheave
+                    67        446239         5/8 Flatwasher
+                    68       14672P1         Idler Spacer
+                    69       11313P1         Drilled Bolt
+                    70       11255P1         Idler Sheave
+                    71       11779P1         Spring
+                    72        120395         15/32 Flatwasher
+                    73       9419456         7/16 Locknut
+                              179252         Cotter Pin
+                    75       11316P1         Idler Sheave
+                    76       1467 IPl        Idler Rod
+                    77       10992P1         Idler Pivot Arm
+                    78       14670P1         Idler Arm Spacer
+                    79       14661A1        Axle Pivot Weldment
+                    80       10993P1        Height Adj. Lever
+                    81        120123        Cotter Pin
+                    82       11261P1        Adj. Control Knob
+                    83       11268P2        Spring
+                    84       11260P1        Nylon Stop
+                    85        124829         3/8 Hex. Jam Nut
+                    86       1125SP1        Bushing
+                    87       11269P1        Guage Wheel
+                    88        180134         3/8 x 2 Hex. Hd. Bolt
+                    89        190171           Locknut
+                    NS       1171 SPI       Belt Installation Decal
+```

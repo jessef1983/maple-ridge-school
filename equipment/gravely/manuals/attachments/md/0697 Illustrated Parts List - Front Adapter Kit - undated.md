@@ -1,0 +1,54 @@
+---
+title: "Illustrated Parts List — Front Adapter Kit — undated"
+oldgravelys_no: "0697"
+series: "Front Adapter Kit"
+doc_type: "Illustrated Parts List"
+date: "undated"
+pages: 1
+source_pdf: "../0697 Illustrated Parts List - Front Adapter Kit - undated.pdf"
+text_source: "OCR (Windows.Media.Ocr, 200 dpi)"
+---
+# Illustrated Parts List — Front Adapter Kit — undated
+
+Source: [0697 Illustrated Parts List - Front Adapter Kit - undated.pdf](../0697 Illustrated Parts List - Front Adapter Kit - undated.pdf). Text is machine-extracted; confirm part numbers against the PDF page before ordering.
+
+## Page 1 — Ogravely                         Illustrated                     Front Adapter Kit
+
+```text
+OGRAVELY                         ILLUSTRATED                     FRONT ADAPTER KIT
+                                                                       Model No. 21125E1
+                                       PARTS LIST                      Form No. 21164E1
+       TO its program Of quality design imp' ovemen'. 'he
+       manvfocturer reserves the right to donge specifications. de
+       sign or Without notice and without Incurring obligation.
+                                                              12
+                                                     2
+                                                                             1
+                                                                       3
+                                              7
+                                                    5
+                                                 6
+                                                  14      15                 16
+              10
+                9
+           8
+                                                        13
+               LINE ITEM   PART NUMBER    DESCRIPTION
+                   1        11609A1       Adapter Weldment
+                   2        14900P1       Hous ing, Adapter
+                   3        11605P1       Bearing, Ball
+                   4       11604P1        Bearing, Needle 7/8 x 1-1/8 x 1/2
+                            14948P1       Bearing, Thrust
+                   6        11603P1       Dog, Adapter
+                   7        11600P1       Stud
+                   8         180177       Bolt, Hex 1/2-13 x 1-1/2
+                   9         120384       Washer, Lock 1/2 SP
+                  10         435507       Nut, Lock 1/2-13 Washer Insert Hex
+                  11        15835M        Double Joint Assembly
+                  12        9411027       Fitting, Lube 1/4-28
+                  13        11607A1       Rod, Push Weldment
+                  14         131017       Washer, Flat 13/16 x 1-15/32 x .134
+                  IS        1040SP1       Pin, Hair Cotter
+                  16        12134P1       Kit, Repair Universal Joint Rockwell STD.
+                            20573P1       Kit, Repair Universal Joint NEAPCO 1605x
+```

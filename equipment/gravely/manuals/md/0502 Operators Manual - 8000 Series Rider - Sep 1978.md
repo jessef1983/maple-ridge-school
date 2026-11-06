@@ -1,0 +1,1080 @@
+---
+title: "Operators Manual — 8000 Series — Sep 1978"
+oldgravelys_no: "0502"
+series: "8000 Series"
+doc_type: "Operators Manual"
+date: "Sep 1978"
+pages: 23
+source_pdf: "../0502 Operators Manual - 8000 Series Rider - Sep 1978.pdf"
+text_source: "OCR (Windows.Media.Ocr, 200 dpi)"
+---
+# Operators Manual — 8000 Series — Sep 1978
+
+Source: [0502 Operators Manual - 8000 Series Rider - Sep 1978.pdf](../0502%20Operators%20Manual%20-%208000%20Series%20Rider%20-%20Sep%201978.pdf). Text is machine-extracted; confirm part numbers against the PDF page before ordering.
+
+## Page 1 — Operator'S
+
+```text
+GRAVELY
+                                                    OPERATOR'S
+                                                    MANUAL
+                                                    8000 Series
+                                                    Consumer
+                                                    Grounds Maintenance
+                                                    Tractors
+                                                      Form: 24825 (9/78)
+                                                      Printed in U.S.A.
+```
+
+## Page 2 — Learn About Your Tractor
+
+```text
+LEARN ABOUT YOUR TRACTOR
+                    Read this book carefully and learn how to operate and do maintenance on your
+                    tractor before use.
+                    Learning how to use your tractor is part of doing the job. Learn how to start, turn,
+                    change direction, change speeds and stop. Know what the tractor can do.
+                    It is very important that the warnings for safe operation are read, learned and
+                    followed. Use Caution, SAFETY FIRST.
+                                     ABOUT THE WARRANTY
+                    It is the purchaser's responsibility to make sure that the tractor is operated and the
+                    maintenance is done as shown in this book. A failure caused by bad maintenance
+                    or using the tractor in the wrong way stops the warranty.
+                    Read the Limited Warranty. It is on the inside back cover.
+                                             -1-
+```
+
+## Page 3
+
+```text
+INDEX
+       SECTION 1.0           for Safe Operation   SECTION 4.0      Procedures for Maintenance
+              1.1      Instructions Before Operation     4.1       Filling the Fuel Tank with
+              1.2      Preparation for Operation                   Gasoline
+              1.3      Operation                         4.2       Applying Lubricant to the Chassis
+                                                         4.3       Checking the Engine Lubricant
+       SECTION 2.0     Controls and Instruments          4.4       Changing the Engine Lubricant
+             2.1       Steering Wheel                    4.5       To Change the Lubricant Filter in
+             2.2       Direction Control Lever                     the Engine
+             2.3       Brake Pedal                       4.6       To Check the Battery Fluid
+             2.4       Brake Lock for Parking            4.7       Battery Cleaning
+             2.5       Transmission Controls             4.8       To Check the Fasteners
+             2.6       Attachment Lift Controls          4.9       To Check the Cooling System
+             2.7       Engine Controls and Instruments   4.10      To Check the Air Filter
+             2.8       Fuel Tank Cap with Gauge          4.11      To Change the Air Filter
+             2.9       Rear Fender                       4.12      To Check the Level of the
+                                                                   Transmission Lubricant
+      SECTION 3.0      Procedure for Operating the       4.13      Adjusting the Brake
+                       Tractor                           4.14      Adjusting the Clutches
+             3.1       Procedure to Follow Before        4.15      Adjusting the PTO Clutch
+                       Starting the Engine                         Assembly
+             3.2       Procedure to Follow to Start and  4.16      Adjusting the Steering
+                       Stop the Engine                   4.17      Cleaning and Changing the Spark
+             3.3       Procedure for Operating the                 Plug(s)
+                       Transmission                      4.18      Checking the Hydraulic Fluid
+             33.1      To Move the Tractor in a Forward
+                       or Reverse Direction       SECTION 5.0      To Put the Tractor in Storage
+             3.3.2 ..... .. Stopping the Tractor
+             3.3.3 .   Using the PTO Control      SECTION 6.0      Correcting Tractor Problems
+             3.3.4 .   Correct Speeds for Tractor        6.1       Starter Will Not Turn the Engine
+                       Operation                         6.2       Engine is Difficult to Start or Has a
+             3.4       Using the Attachment Lift                   Loss of Power
+                       Systems                           6.3       Clutch Engagement is Rough or
+             3.4.1     Using the Manual Lift System to             Clutch Slips When Fully Engaged
+                       Hold an Attachment in Position    6.4       Brake Does Not Stop the Tractor
+             3.4.2     Using the Hydraulic Lift System to 6.5      More Than One Inch (2.5 cm) Free
+                       Hold an Attachment in Position              Travel in Steering Wheel
+             3.4.2     Using the Manual Lift System to   6.6       Attachment Will Not Run or Runs
+                       Let an Attachment Follow the                Slowly
+                       Ground                            6.7       Gear Selector or Range Selector
+             3.4.4     To Let an Attachment Follow the             Levers Will Not Change Tractor
+                       Ground with the Hydraulic Lift              Speed
+                       System                            6.8       Hydraulic Lift System Will Not
+             3.5       Using the Tractor for Stationary            Operate
+                       Operations                        6.9       Ammeter Shows a Discharging
+                                                                   Condition
+                                              -2-
+```
+
+## Page 4 — Section 1
+
+```text
+SECTION 1
+       1.0     Warnings For Safe Operation
+       This section of this book gives warnings for safe operation of Gravely tractors.
+       Using this equipment the wrong way can cause injury to persons and damage to the equipment. Persons using or doing
+       maintenance on this equipment must read this Operator's Manual and follow the instructions.
+       It is important to understand that the warnings in this Operator's Manual and any other Gravely instruction book do not
+       list every possible danger. It is not possible for Gravely to know and tell the operator or person doing service on the
+       equipment of all the dangers in operating and doing maintenance on the equipment.
+      The purchaser must give these instructions to the persons operating and doing maintenance on this equipment. The
+       purchaser must get the operator and person doing maintenance on this equipment to use eye and foot protection.
+       1.1 Instructions Before Operation       7.  USE ONLY GRAVELY ACCESSORIES AND
+                                                   ATTACHMENTS OR ATTACHMENTS shown by
+       l.  Read the tractor and attachments operator's manuals Gravely to be correct for use with the tractor.
+           carefully before operating or doing maintenance.
+                                               1.3 Operation
+       2.  Learn the location and function of all tractor and
+           attachment controls.                l.  Do not change the setting of the engine governor.
+       3.  Know how to use the controls to stop the tractor and 2. Do not run the engine over 3600 revolutions per
+           attachment in a short time.             minute.
+      4.   Never permit children to operate or ride on the 3. Keep away from moving parts.
+           tractor.
+                                               4.  Keep all persons and animals away from the area of
+       5.  Use Caution with gasoline. Gasoline is very operation.
+           flammable. Keep gasoline in a clean and tight
+           container. Keep gasoline away from flames or hot 5. Do not let persons other than the operator ride on
+           items. Never put gasoline in the fuel tank while the the tractor.
+           engine is running or hot. Clean any gasoline leakage
+           before starting the engine.         6.  When operating on slopes, use a low speed and
+                                                   engage the Direction Control Lever slowly.
+      1.2  Preparation For Operation           7.  Always look for and keep away from holes and
+                                                   hazards.
+       l.  When using the tractor, keep all shields, guards and
+           safety interlock switches in the correct position. 8. Use caution when pulling heavy loads. Keep load
+                                                   below 1000 lbs. (453 kg), go slowly and keep away
+      2.   Wear strong shoes and clothing that is not loose when from slopes.
+           operating the tractor. Make sure your feet and eyes
+           have protection.                    9.  Use more caution when moving backward. Look for
+                                                   persons and danger in the way.
+      3.   Before starting the engine, put the Direction Control
+           Lever in neutral and PTO Control in "OFF" position. 10. After hitting an item, stop the tractor and engine
+                                                   and check for damage. If there is damage, make
+      4.   Do not use the tractor where the work area is too dark repairs before restarting.
+           for the operator to see.
+                                              II.  Operate equipment only when in the tractor seat.
+      5.   Keep the tractor in good operating condition. Do the
+           maintenance as shown in this book. 12.  Travel up and down slopes, not across.
+      6.   Never operate the tractor or attachment when there 13. When moving the equipment on a transport, connect
+           is damage to any part or any part is not in the correct the tractor chassis and tractor rear hitch to the
+           position. Replace all parts when damaged or missing transport. Never connect from control levers, rods
+           before operating.                       or like items, that could be damaged.
+                                             -3-
+```
+
+## Page 5
+
+```text
+14.  Before leaving the tractor, put the PTO Control
+               in the "OFF" position, turn the Ignition Switch to
+               the "OFF' position, lower any attachments, push on
+               the brake pedal and engage the brake lock, and
+               remove the Ignition key.
+          15.  If there is a sudden change in the sound or vibration
+               of the tractor or attachments, stop the tractor and
+               check for damage. If there is damage, make repairs
+               before operating.
+          16.  Never start and run the engine inside a building
+               except to move the equipment outside. Exhaust
+               fumes are dangerous.
+          17.  Go slow on surfaces where the tractor can slide.
+          18. Always follow traffic laws while going on or near a
+               road.
+          19.  Before leaving the tractor seat to make adjustments,
+               or to do maintenance, put PTO control in "OFF"
+               position, turn the ignition switch to "OFF" position
+               and wait until the engine and moving parts stop.
+                                                -4.
+```
+
+## Page 6 — Section 2
+
+```text
+SECTION 2
+       2.0 Controls and Instruments              2.5 Transmission Controls
+       This section of this book gives a description of the Con- The Transmission Controls for changing speeds are shown
+       trols and Instruments and tells how to use the Controls in figure 2.0-2.
+       and Instruments.
+                                                 The Gear Selector is used to change the speed of the tractor.
+       2.1 Steering Wheel                        There are five positions for the Gear Selector. Positions
+                                                 numbered one, two, three and four are each for a different
+       The Steering Wheel is used to control the direction of the speed. When the Gear Selector is in Position One, the tractor
+                                                 will have a slow speed. When the Gear Selector is in Position
+       tractor. Turn the Steering Wheel clockwise to turn the
+       tractor to the right. Turn the Steering Wheel counter- Four, the tractor has the fastest speed. When the Gear
+       clockwise to turn the tractor to the left. See figure 2.0-1. Selector is in the neutral position (N), the transmission
+                                                 gears are disengaged.
+                                                 The Range Selector is also used to change the speed of the
+                                                 tractor. There are two positions for the Range Selector.
+                                                 When the Range Selector is in the "LO" position, the
+                       9                         tractor has a slower speed. When the Range Selector
+                          2                      is in the "HI" position, the tractor has a faster speed. The
+                                                 Range Selector must be pushed all the way forward or pulled
+                                                 all the way backwards.
+                                                 When the Gear Selector and Range Selector are used
+                             3                   together, there are eight different speeds for forward
+                                                 movement.
+                 4
+                                                 The PTO Control is used to engage or disengage the Power
+                                                 Take Off (PTO) that gives power to the attachments. Push
+       1 - Steering Wheel                        the Control Lever forward to engage the PTO, pull
+           Direction Control Lever               backwards to disengage the PTO.
+       3 - Brake Pedal
+           Brake Lock Lever
+                       Figure 2.0-1
+       2.2 Direction Control Lever
+                                                           3
+       The Direction Control Lever, shown in Figure 2.0-1, 2
+       controls forward and reverse movement of the tractor. Push
+       the lever forward, with your right hand, to go forward. Pull
+       the lever back to go backwards. The tractor is in a neutral
+       condition when the lever is in a vertical position.
+       2.3 Brake Pedal
+       The Brake Pedal is used to stop the tractor. To stop the
+       tractor use your right foot, to push the Brake Pedal, all the Gear Selector
+       way down, see figure 2.0-1. Pushing on the Brake Pedal will Range Selector
+       cause the Direction Control Lever to return to the neutral PTO Control
+       position.                                                Figure 2.0-2
+       2.4 Brake Lock for Parking                2.6 Attachment Lift Controls
+       To engage the Brake Lock for parking, push the Brake There are two types of attachment lift systems. The tractor
+       Pedal and at the same time, pull the Brake Lock Lever has a manual lift system or a hydraulic lift system.
+       back. See figure 2.0-1. To disengage the Brake Lock, push
+       the Brake pedal and at the same time push the Brake The controls for the manual lift system are shown in figure
+       Lock Lever forward.                       2.0-3.
+                                              -5-
+```
+
+## Page 7
+
+```text
+Choke Lever forward to the "ON" position for starting
+                  2                            the engine. Pull the Choke Lever backwards after the engine
+                                               starts and is running smoothly.
+                                               The Throttle Lever is used to change the engine revolutions
+                                               per minute (RPM). Push the Throttle Lever forward to
+                                               increase the engine RPM. Pull the Throttle Lever backwards
+                                               to decrease the engine RPM.
+                                               The Light Switch is used to activate the tractor lights. Pull
+                                               the knob up to the "ON" position to activate the lights.
+                                               Push the knob down to the "OFF" position to deactivate
+                                               the lights.
+                              3
+                                               The Fuse Holder has a fuse that gives protection to the
+         Manual Lift Lever                     electrical system. A failure of the fuse stops the tractor from
+         Release Button                        running.
+         Lift Range Control
+                     Figure 2.0-3              The Hourmeter and Ammeter are not used on all Gravely
+                                               Tractors. If an Hourmeter is installed, the face shows the
+      Push the Release Button all the way down to move the number of hours that the tractor has been operated. If an
+      Manual Lift Lever. Pull the lever back to raise an Ammeter is installed, the face shows if the electrical system
+      attachment. Move the lever forward to lower an attachment. is charging the battery.
+      The Lift Range Control is used to control the distance
+      between an attachment and the ground.
+      Figure 2.0-4 shows the Hydraulic Lift System Control.
+        .8-
+                                                   Throttle Lever
+                                               2 - Choke Lever
+                                               3 - Ignition Switch
+                                                   Light Switch
+                                               5 - Fuse Holder
+      I - Hydraulic Lift Lever
+                                                   Hourmeter
+                     Figure 2.0-4
+                                                   Ammeter
+                                                               Figure 2.0-5
+      The Hydraulic Lift Lever is used to raise or lower
+      attachments. To raise an attachment, pull the Hydraulic
+      Lift Lever backward. To lower an attachment, push the 2.8 Fuel Tank Cap with Gauge
+      Hydraulic Lift Lever forward.
+                                               There is a Fuel Tank Cap with Gauge on the hood of the
+      2.7 Engine Controls and Instruments      tractor. To add gasoline to the tractor, remove the cap by
+                                               turning it counterclockwise until the threads are disengaged.
+      The Engine Controls and Instruments are shown in Figure Then, lift the cap vertically until the gauge mechanism is
+      2.0-5. The Steering Wheel is removed in the illustration. completely out of the fuel tank. To install the cap, lower
+                                               the gauge mechanism into the tank, then engage the threads
+                                               by turning the cap clockwise. Tighten the cap.
+      The Ignition Switch is used to start, run and stop the engine.
+      The Ignition Switch has a key.
+      The Choke Lever is used to start a cold engine. Push the
+                                             -6-
+```
+
+## Page 8
+
+```text
+2.9 Rear Fender
+       When the Rear Fender is raised, as shown in figure 2.0-6,
+       it is automatically held in the open position.
+           Rear Fender
+           Lock Bar
+                      Figure 2.0-6
+       To close the Rear Fender, push the lock bar forward and
+       hold the fender up, then lower the fender.
+```
+
+## Page 9 — Operate The Direction Control
+
+```text
+SECTION 3
+      3.0 Procedure for Operating the Tractor  3.3.1 To Move the Tractor in a Forward or
+                                                     Reverse Direction
+      This section of this book shows the procedures for operating
+      the tractor. Read this Operator's Manual before operating Follow this procedure: Use slow engine RPM and slow
+      the tractor. Read the Operator's Manual for any attachment transmission speeds the first time the tractor is run and
+      that is to be used.                      until the operator knows how to operate the tractor.
+      Get in the tractor seat and see the location of the tractor 1. Start the engine and adjust the throttle lever to give
+      Controls and Instruments. (See Section 2). ALWAYS BE the needed engine RPM. Put any attachment in a
+      IN THE TRACTOR SEAT TO OPERATE THE            raised position.
+      TRACTOR.
+                                               2.  Put the Range Selector in the position needed.
+      3.1 Procedure to Follow Before Starting the 3. Put the Gear Selector in the position needed.
+          Engine
+                                               4.   Move the Direction Control Lever forward to move
+      Before starting the engine, do the daily maintenance
+                                                    forward, or backwards to move backward. When the
+      procedures as shown in Section 4.0.
+                                                    tractor is moving fast, push the lever until it stops
+                                                    and holds in position. If the lever is not pushed all the
+      3.2 Procedure to Follow to Start and Stop the
+                                                    way foward, damage can be caused to the clutches.
+          Engine                                    USE CAUTION WHILE LEARNING TO
+                                                    OPERATE THE DIRECTION CONTROL
+      To start the engine, the Direction Control Lever must be LEVER.
+      in the "neutral" position and the PTO Control must be in
+      the "OUT' position. To start the engine, follow this
+      procedure.                               3.3.2 Stopping the Tractor
+      1.  Put the key in the Ignition Switch.  Pushing the Brake Pedal down will stop the tractor and
+                                               return the Direction Control Lever to the "neutral"
+      2.  Move the Throttle Lever forward half-way. position. Always use the Brake Pedal to stop the tractor.
+      3.  If the engine is cold, move the choke lever all the way 3.3.3 using the PTO Control
+          forward. If the engine is warm or hot, do not move the
+          choke lever.                         The PTO gives power to attachments from the engine. The
+                                               PTO Clutch is inside the transmission. When the PTO
+      4.  Turn the ignition key to the "START" position. Clutch is engaged, power goes to the attachment. To
+          When the engine starts and is running smoothly, pull
+                                               engage the PTO Clutch and activate an attachment, push the
+          the choke lever all the way backwards. If the engine PTO Control forward to the "IN" position. To disengage
+          does not start in five seconds, move the choke lever the PTO Clutch and deactivate an attachment, pull the
+          forward and try again. If the engine does not start PTO Control backwards to the "OUT" position.
+          after trying this procedure five times, see Section
+          6.0 for instructions.
+                                               3.3.4 Correct Speeds for Tractor Operation
+      CAUTION: Do not keep the starter engaged for over 15
+               seconds. Do not run the starter more than 15 Warning: On rough and sloping ground, use slow
+               seconds in one minute.          speed. When operating the mower in high grass, the
+                                               snowblower or the tiller, use slow speed. When mowing and
+      When stopping the engine, engage the Brake Lock and trimming near buildings and trees use a slow speed.
+      disengaged the PTO. Pull the throttle backward to decrease
+      the engine RPM. Turn the Ignition Switch to the "OFF' 3.4 Using the Attachment Lift Systems
+      position. Always remove the key when leaving the tractor.
+                                               The Manual Attachment Lift system and the Hydraulic
+      3.3 Procedure for Operating the Transmission Attachment Lift system are used to raise and lower
+                                               attachments. Both systems can hold an attachment in a
+      CAUTION: Engaging or disengaging the transmission gears position above the ground or let an attachment follow
+               while the tractor is moving will cause damage the ground.
+               to the gears. Do not move the Gear Selector or
+               Range Selector while the tractor is moving.
+                                             -8-
+```
+
+## Page 10
+
+```text
+3.4.1 Using the Manual Lift System to Hold an 2. Engage the Brake Lock.
+              Attachment in Position
+                                                 3.  Start the Engine.
+        Use the Lift Range Control on the Manual Lift System to
+        hold an attachment in any position above the ground. 4. Engage the PTO.
+        Adjust the height above the ground of the attachment as
+        follows:                                 5.  Use caution when leaving the tractor seat. Keep away
+                                                      from moving parts.
+        1.  Lift the attachment to the raised position.
+        2.  Lift the Lift Range Control and at the same time,
+            slide the Lift Range Control to the position
+            needed.
+        3.  Lower the attachment. The Manual Lift Lever will
+            stop against the Lift Range Control. If the
+            attachment is not in the position needed, repeat steps
+            I and 2.
+        3.4.2 LJsing the Hydraulic Lift System to Hold
+              an Attachment in Position
+        To hold an attachment in position with the Hydraulic Lift
+        System, follow this procedure:
+        1.  Lift the attachment to the raised position.
+        2.  Lower the attachment to the necessary height above
+            the ground by pushing the Hydraulic Lift Lever
+            forward so that the attachment is lowered slowly.
+        3.  When the attachment reaches the necessary height,
+            release the Hydraulic Lift Lever.
+        3.4.3 Using the Manual Lift System To Let An
+              Attachment Follow the Ground
+        Move the Lift Range Control to the lowest position to let an
+        attachment follow the ground when using the Manual Lift
+        System. Lower the attachment to the ground.
+        3.4.4 To Let An Attachment Follow the Ground
+              with the Hydraulic Lift System
+        To let an attachment follow the ground with the Hydraulic
+        Lift System, push the Hydraulic Lift Lever all the way
+        forward to the "FLOAT" position. The lever will be in this
+        position until you pull the lever backwards.
+        3.5 Using the Tractor for Stationary
+            Operations
+        To operate attachments, such as the log splitter and compost
+        shredder, that use PTO power when the tractor is stationary,
+        follow this procedure:
+        1. Move the tractor to the location needed. Keep the
+            tractor and attachment in an open area. Stay in the
+            tractor seat until the attachment is activated.
+                                               -9-
+```
+
+## Page 11 — Tractor Maintenance Schedule
+
+```text
+SECTION 4
+       4.0 Procedures for Maintenance            1.  Put the tractor in an open area.
+       This section gives a description of the procedures for 2. Stop the engine and engage the Brake Lock.
+       maintenance at regular time intervals. Figure 4.0-1 shows
+       the tractor maintenance schedule. The Maintenance Items 3. Clean the hood and fuel cap area.
+       are shown on the left. The correct time interval for each
+       maintenance item is shown by the mark in the daily, 25 hour, 4. Remove the Fuel Tank Cap with Gauge.
+       100 hour or 200 hour columns.
+                                                 5.  Fill the Fuel Tank with gasoline. Use caution, do not
+       Follow the maintenance procedures shown in this section. add too much.
+                                                 6.  Install the Fuel Tank Cap.
+       4.1 Filling the Fuel Tank with Gasoline
+                                                 7.  Tighten the Cap.
+       Gasoline is added as required. Use clean lead free or
+       regular grade gasoline. To add gasoline, follow this If gasoline flows onto the tractor, clean the tractor before
+       procedure.                                starting the engine.
+             Warning: Gasoline is very flammable, follow safety
+       instructions shown in Section 1.0.
+                                TRACTOR MAINTENANCE SCHEDULE
+                                                             TIME INTERVALS
+                                                            FOR MAINTENANCE
+                  MAINTENANCE ITEMS
+                                                DAILY     25 HOUR   100 HOUR  200 HOUR
+         Filling the Fuel Tank Sect. 4.1          x
+         Applying Lubrication to the Chassis Sect. 4.2       x
+        Checking the Engine Lubricant Sect. 4 3   x
+         Changing the Engine Lubricant Sect. 4 4             x
+         Changing the Engine Lubricant Filter Sect. 4 5      x
+         Checking the Battery Fluid Level Sect. 4.6          x
+        Cleaning the Battery Sect. 4.7                       x
+        Checking the Fasteners Sect. 4.8                                         x
+        Checking the Cooling System ' Sect. 4.9              x
+        Checking the Air Filter Sect. 4.10        x
+         Changing the Air Filter Sect. 4.11                            x
+        Checking the Transmission Lubricant Level Sect. 4.12           x
+         Adjusting the Brake Sect. 4.13
+         Adjusting the Clutches Sect. 4.14                             x
+         Adjusting the PTO Clutch Sect. 4.15                                     x
+         Adjusting the Steering Sect. 4.16                             x
+         Cleaning the Spark Plug Sect. 4.17                            x
+        Changing the Spark Plug Sect. 4.17                                        x
+         Checking the Hydraulic Fluid Level Sect. 4.18                            x
+                                           Figure 4.0-1
+                                              -10-
+```
+
+## Page 12
+
+```text
+4.2 Applying Lubricant to the Chassis    the level of the lubricant is between the high and low marks
+                                               on the dipstick. If new lubricant is needed, use the following
+     There are seven grease fittings on the tractor that need specification:
+     lubricant at 25 hour intervals. Clean the grease fittings
+     before adding lubricant. Use a multi-purpose grease as the
+     lubricant. Add lubricant until it shows at the ends of Engine Lubricant Specification
+     the bearings. Here are the locations of the seven grease
+     fittings:                                    Grade - API Service SC, SD or SE
+     1.  The bearing on the Direction Control Lever. Viscosity - IOW-30 or IOW-40
+     2.  The front side of each front wheel king pin.     Below OOF (-18c) use SW-20
+     3.  The front axle as shown in figure 4.0-2.
+                                              To check the level of the lubricant, follow this procedure:
+                                               1.  Clean the top of the tube and dipstick. Prevent dirt
+                                                   from falling into the tube.
+                                              2.   Pull the Dipstick out of the tube and clean it.
+                                              3.   Push the Dipstick all the way down into the tube.
+                                              4.   Pull the Dipstick out of the tube and see level of the
+                                                   lubricant.
+                                               5.  Add lubricant if needed.
+                                               6.  Push the Dipstick all the way into the tube.
+         Grease Fitting on the Front Axle     4.4 Changing the Engine Lubricant
+                    Figure 4.0-2
+                                              The engine lubricant is changed after the first eight hours,
+     4.  There are three grease fittings on the steering then every 25 hours. When operating in a dirty condition,
+         assembly. They are shown in figure 4.0-3 reduce the time interval. The correct lubricant is shown in
+                                               Section 4.3. Figures 4.0-4 and 5 show two locations of the
+         Grease Fittings on the Steering Column
+         Adjusting Bolts                          Dipstick & Tube
+                    Figure 4.0-3                  Drain Plug
+                                                              Figure 4.04
+     4.3 Checking the Engine Lubricant
+     Check the engine lubricant level each day. Never operate
+     the engine without the correct lubricant level. Make sure
+                                            -11-
+```
+
+## Page 13 — Engine Lubricant Capacity
+
+```text
+ENGINE LUBRICANT CAPACITY
+                                                  Kohler, 10 Horsepower  2 quarts (1.9 liters)
+                                                  Kohler, 12 Horsepower  2 quarts (1.9 liters)
+                                                  Briggs & Stratton, 16 Horsepower 2 quarts (1.9 liters)
+                                                  Onan CCKA, 16.5 Horsepower 2 quarts (1.9 liters)
+                                                  Onan, 16 Horsepower    2 quarts (1.9 liters)
+                                                  Onan, 18 Horsepower    2 quarts (1.9 liters)
+                     2
+                                                                Figure 4.0-6
+           Dipstick & Tube
+       2 - Drain Plug
+                      Figure 4.0-5              4.5 To change the Lubricant Filter in the Engine
+       To change the engine lubricant, follow this procedure: When the tractor engine has a lubricant filter, the filter must
+                                                be changed every 25 hours when the tractor is used in dirty
+        l.  Move the tractor to a flat open area. Engage the conditions. If the tractor is used in clean conditions, change
+            Brake Lock.                         the filter every 50 hours. Figure 4.0-7 shows an engine with
+                                                filter and air seal.
+        2.  If the engine is not warm, let the engine run 5
+            minutes.
+        3.  When the engine is warm, stop the engine and raise
+            the Rear Fender.
+                  WARNING: Engine Muffler and other
+            parts are hot.
+                                                                       2
+        4.  Clean the areas near Dipstick, tube and drain plug.
+        5.  Remove the Dipstick.
+        6.  Put a container under the drain plug. Make sure the
+            top is open and it can hold four quarts or four
+            liters.
+        7.  Remove the drain plug by turning it counter- I - Filter
+            clockwise.                              Air Seal
+                                                               Figure 4.0-7
+        8.  Remove all the old lubricant.
+                                                Always remove the old lubricant from the engine before
+        9.  Clean and install the drain plug.   changing the filter. To change the filter, (See Section 4.4)
+                                                follow this procedure:
+       IO.  Add new lubricant to raise the level of the oil to the
+            "full" mark on the dipstick. See figure 4.0-6 for 1. Remove the air seal.
+            the lubricant capacity for the engine.
+                                                2.  Turn the old filter counterclockwise and remove it.
+       11.  Replace the Dipstick. Lower the Rear Fender.
+                                                3.  Put a small amount of clean lubricant on the new
+       12.  Start the engine and check for leakage at the drain filter gasket.
+            plug. If there is leakage, tighten or replace the drain
+            plug.                               4.  Install the new filter by turning clockwise:
+                                                5.  Use your hand to tighten the new filter.
+                                                6.  Install the air seal.
+                                             -12-
+```
+
+## Page 14
+
+```text
+7.  Add the new lubricant as shown in Section 4.4. 3. DiscontEct the positive (+) battery cable clamp.
+                                                    Use the above procedure.
+      8.  Start the engine and check for lubricant leakage.
+                                                4.  Clean the battery posts and cable clamps with a
+      4.6 To Check the Battery Fluid                solution of one part baking soda to four parts water.
+                                                    Keep the cleaning solution away from the filler caps.
+      Check the battery fluid level every 25 hours. The battery
+      is under the hood. Figure 4.0-8 shows the battery when the 5. Reconnect the positive (+) battery cable first.
+      door in the hood is open.
+                                                6.  Reconnect the negative (-) battery cable. Push the
+                                                    cable clamps all the way down on the battery posts.
+                                                    Tighten the cable clamp bolts.
+                                                7.  Install the tractor hood.
+                                       3
+              2
+          Door
+          Battery                                                          2
+          Filler Caps on the battery
+                     Figure 4.0-8
+      Use caution when checking the battery. Wear eye protection. Positive Terminal
+      Do not use a metal funnel to add water to the battery. To Negative Terminal
+      check the battery, follow this procedure:                Figure 4.0-9
+      1.  Clean the top of the battery.
+                                                4.8 To Check The Fasteners
+      2.  Lift the battery filler caps away from the filler tubes.
+                                               Check the fasteners every 25 hours. Tighten the bolts,
+      3.  If the fluid level is below the split ring in the filler nuts and screws that are loose. Make sure the cotter pins
+          tubes, add distilled water. Do not add water above the and fasteners are in the correct position, replace any
+          split ring.                          fasteners that are missing.
+      4.  Install the filler caps. Push the filler caps all the way
+                                                4.9 To Check the Cooling System
+          down.
+                                               Check the air intake screen each day for grass or other
+      4.7 Battery Cleaning                     material entering the cooling system. The screen must be
+                                               clean at all times. If material goes through the screen into
+      Clean the battery every 200 hours or every year. Use caution the cooling system, remove the engine covers and clean the
+      when cleaning the battery. Wear eye protection. To clean the fins. Install the engine covers.
+      battery, follow this procedure. See figure 4.0-9.
+                                                4.10 To Check the Air Filter
+      l.  Disconnect the tractor hood. Keep the hood away Check the air filter each day. There are two types of air
+          from the battery terminals.          filters used on Gravely tractors. (l) Paper cartridge filters.
+                                               (2) Paper cartridge with foam precleaner. Both are found
+      2.  Always disconnect the negative (-) battery cable under a cover as shown in figure 4.0-10
+          first. Loosen the cable clamp bolt and separate the
+          clamp ends with a thin flat tool. Lift the clamp away
+          from the battery.
+                                            -13-
+```
+
+## Page 15
+
+```text
+Repeat the above until all the dirt is removed. Prevent
+                                                   any dirt from entering the engine. Get a new filter cartridge
+                                                   if the old filter cartridge has damage. Install the filter
+                                                   cartridge carefully to prevent dirt from entering the
+                                                   engine. Clean the cover and put it in position on the paper
+                                                   cartridge. Engage and tighten the wing nut.
+                              2
+                                                   To check the air cleaner with paper cartridge and foam
+                                                   precleaner, remove the cover. Figure 4.0-13 shows a paper
+                                                   cartridge with foam precleaner after the cover is removed.
+             Cover
+             Wing Nut
+                        Figure 4.0-10
+         To check the paper cartridge air filter, raise the rear
+         fender. Remove the air filter cover by turning the wing
+         nut counterclockwise. Lift the cover. If needed, remove
+         the second wing nut. If the paper cartridge, as shown in
+         figure 4.0-11 is dirty, remove and hit it carefully on a
+         smooth surface. See figure 4.0-12.
+                                                       Foam Precleaner
+                                                                  Figure 4.0-13
+                                                   To remove the cover, turn the wing nut counterclockwise,
+                                                   then lift the cover. If needed, remove the second wing
+                                                   nut. If the foam precleaner is dirty, remove it carefully
+                                                   from the paper cartridge.
+                                                   Use clean water and liquid detergent to clean the foam
+                                                   precleaner. Remove all the water from the foam precleaner.
+                                                   Put twenty drops of engine lubricant on all the surface of
+                                                   the foam precleaner. If the paper cartridge is dirty,
+                                                   remove, clean and install. CAUTION: Never operate
+                                                   engine without filter correctly installed. If the paper
+                                                   cartridge is clean, install the precleaner. Clean the cover
+                                                   and put it in position on the paper cartridge. Reconnect
+         1 - Filter Cartridge                      and tighten the wing nut.
+                        Figure 4.0-11
+                                                   4.11 To Change the Air Filter
+                                                   The air filter is changed at 100 hour intervals. When
+                                                   operating in dirty conditions, check the filter every day or
+                                                   as needed. Clean or replace dirty filters. Use the procedures
+                                                   shown in section 4.10 to install a new filter cartridge and
+                                                   foam precleaner.
+                                                   4.12 To Check the level of the Transmission
+                                                       Lubricant
+               WRONG                               The level of the transmission lubricant is checked every 100
+                                                   hours. If there is leakage, check the level at decreased
+                                                   intervals. The transmission fill iube is under the rear fender
+                                                   as shown in figure 4.0-14. The Transmission Check Plug
+                        Figure 4.0-12              is shown in figure 4.0-15.
+                                                -14-
+```
+
+## Page 16
+
+```text
+l.  Turn the Fill Tube Cap counterclockwise to remove
+                                                    it.
+                                                2.  Add lubricant until the level reaches the top of the
+                                                    hole.
+                                                3.  Install and tighten both the Fill Tube Cap and
+                                                    Transmission Check Plug.
+                                                4.  Lower the rear fender.
+                                                CAUTION: Keep the hole in the Fill Tube Cap clean.
+                                  2                     Always use the correct part.
+                                                4.13 Adjusting the Brake
+       1 - cap for Fill Tube                    The Brake is adjusted every 100 hours. If the Direction
+          Transmission Fill Tube                Control Lever does not return to the "neutral" position
+                     Figure 4.0-14              when the brake is used, check the brake adjustment. The
+      I - Transmission Check Plug                       4      3
+      2 - Clutch Cam Rollers
+                                                I - Clevis
+          Splined Clutch Shaft
+                                                    Jam Nut
+                     Figure 4.0-15
+                                                3 - Clevis Pin
+                                                    Brake Band
+      To check the level of the transmission lubricant, follow 5 - Cam
+      this procedure:                               Drum
+                                                    Cotter Pin
+       l.  Move the tractor to a flat open area. Stop the engine Figure 4.0-16
+           and engage the Brake Lock.
+                                                To adjust the brake, follow this procedure:
+      2.   Raise the rear fender.
+                                                1.  Stop the tractor on flat ground in an open area.
+      3.   Turn the transmission check plug counterclockwise
+           to remove it.                        2.  Stop the engine and put blocks under both rear
+                                                    wheels so the wheels can not roll.
+      4.   The level of the lubricant is correct when the level is
+           at the top of the hole.              3.  To tighten the brake, loosen the Jam Nut and
+                                                    remove the Clevis Pin.
+      5.   If the level is correct, clean and install the plug.
+           Tighten the plug.                    4.  Turn the Clevis clockwise and adjust as needed.
+      If the level is below the check p ug, add lubricant. Use 5. To check the brake adjustment, reconnect the Clevis
+      engine lubricant (see Section 4.3). To add lubricant, and Brake Band with the Clevis Pin.
+      follow this procedure:
+                                             -15-
+```
+
+## Page 17 — Measure Clearance Here
+
+```text
+6.  Push the Direction Control Lever all the way is .070 inches (1.8 mm). Use the Ignition Key as a
+             forward.                                 measurement. Adjust the clearance if needed.
+         7.  Push the Brake Pedal by hand while looking at the 4. To adjust the clearance, turn the nuts. Ifthe clearance
+             motion of the Brake Band. The brake is correctly is too large, turn the nuts clockwise. If the clearance
+             adjusted when the Brake Band is tight on the Drum is too small, turn the nuts counterclockwise. The
+             after the Direction Control Lever moves to the clutch is correctly adjusted when there is .070 inches
+             neutral Position. If the Brake Band is tight (1.8 mm) clearance between the clutch plates.
+             before the Direction Control Lever moves to the
+             neutral position, the brake is too tight. If the brake 5. Adjust the other clutch.
+             is too loose, remove the Clevis Pin and turn the Clevis
+             in the opposite direction. Repeat steps 5, 6 and 7 Replace the clutch disc when clutch lining is as thin as the
+             until the brake adjustment is correct. Ignition Key.
+         8.  Install the Cotter Pin in the Clevis Pin and tighten The clutch needs lubricant where the hub slides on the
+             the Jam Nut.                         splined shaft. To put lubricant on the shaft, follow this
+                                                  procedure. Use engine lubricant.
+         9.  Check the operation of the brake while operating the
+             tractor.                             1.  Stop the engine and block the rear wheels.
+         Replace the Brake Band when the brake lining is as thin as 2. Raise the rear fender.
+         the Ignition key.
+                                                  3.  Move the Direction Control Lever all the way
+                                                      forward.
+         4.14 Adjusting the Clutches
+                                                  4.  Apply lubricant to the end of the splined shaft on the
+         The forward and reverse clutches must be checked every
+                                                      forward clutch on the left side of tractor. Keep the
+         100 hours and adjusted if needed. There is a clutch on each
+                                                      lubricant away from the clutch friction material.
+         side of the transmission. Figure 4.()-17 shows a clutch.
+                                                  5.  Pull the Direction Control Lever all the way back.
+                                                  6.  Apply lubricant to the reverse clutch on the right side
+                                   3                  of tractor. Keep the lubricant away from the clutch
+                                                      friction material.
+                                                  7.  Close the rear fender.
+                                   4              4.15 Adjusting the PTO Clutch Assembly
+                                                  The PTO Clutch assembly is adjusted every 200 hours or
+                                                  when the clutch is engaged. The clearance from the front
+                                                  of the PTO Control Lever to the forward end of the slot is
+                                                  less than .5 inch (12.7 mm). The Clutch is correctly adjusted
+                                                  when clearance is between .5 inch (12.7 mm) and 1.0 inch
+                                                  (25.4 mm). See figure 4.0-18.
+            Check Clearance Here
+         2 - Ignition Key
+             Studs for the clutch
+         4 - Nuts
+         5 - Clutch disc
+             Clutch lining
+                        Figure 4.0-17
+         Always check and adjust both clutches if needed. To check
+         and adjust a clutch, follow this procedure:
+         1.  Stop the engine and engage the Brake Lock.
+                                                                  ME  URE CLEA
+         2.  Raise the rear fender.
+         3.  Check the clearance in the slot. The correct clearance
+                                                         MEASURE CLEARANCE HERE
+                                                                 Figure 4.0-18
+                                               -16-
+```
+
+## Page 18
+
+```text
+The PTO Control System is on top of the transmission and engage the Brake Lock.
+      is shown in figure 4.0-19.
+                                               2.  Tighten all the fasteners that hold the tractor hood.
+                                               3.  Loosen the lock nut on both adjusting bolts.
+                                               4.  Turn the steering wheel all the way to the right.
+                 4
+                                               5.  Use your fingers to turn the adjusting nut, on the
+                            .1                     left side adjusting bolt, clockwise, until it is tight.
+                                                   Then, turn the nut one fourth turn counterclockwise
+                                                   to get the correct clearance.
+                                               6.  Tighten the lock nut against the adjusting nut. Do not
+                                                   move the adjusting nut.
+                                               7.  Turn the steering wheel all the way to the left.
+         PTO Control Rod                       8.  Repeat steps 5 and 6 for the right side adjusting nut.
+         Cotter Pin
+         Washer
+         Transmission Lever
+                    Figure 4.0-19
+     To adjust the clearance between the PTO Control Lever
+     and the end of the slot, follow this procedure:  2
+                                                      3
+      1.  Stop the engine and engage the Brake Lock.
+     2.   Raise the rear fender.
+     3.   Push the PTO Control Lever all the way forward.
+     4.   Disconnect the PTO Control Rod from the
+          Transmission Lever.
+                                                   Adjusting Bolt
+     5.   Turn the Control Rod to change the clearance. One 2 - Lock Nut
+          full turn clockwise will increase the clearance by .25 Adjusting Nut
+          inch (6.4 mm). One full turn counterclockwise will  Figure 4.0-20
+          decrease the clearance .25 inch (6.4 mm).
+     6.   Reconnect the control rod to the transmission lever 4.17 Cleaning and Changing the Spark Plug
+          and install the washer and cotter pin.
+                                               Clean the Spark Plug every 100 hours and change it every
+     7.   Check for the correct clearance in the slot. 200 hours. There is one spark plug on the top of one cylinder
+                                               engine. There are two spark plugs on a two cylinder engine,
+     8.   Close the rear fender.               one on each side of the engine. Figure 4.0-21 shows how
+                                               many are needed and the correct gap in points for each
+                                               tractor engine.
+     4.16 Adjusting the Steering
+     The Steering must be adjusted every 100 hours. The To clean or change a spark plug, follow this procedure:
+     adjustment is needed to keep the correct clearance
+     between the rack and pinion. The rack and pinion are in 1. Stop the tractor engine and engage the Brake Lock.
+     back of the front axle. Figure 4.0-20 shows the parts that Raise the rear fender.
+     need adjustment.                                    WARNING: Engine Muffler & other parts
+                                                   are hot.
+     To adjust the rack and pinion clearance, follow this
+     procedure:                                2.  Pull the ignition wire from the spark plug. Use
+                                                   caution, do not pull the wire from the spark plug
+      1. Move the tractor to a flat area, stop the engine and connection.
+                                            -17-
+```
+
+## Page 19 — Engine Needed Gap In Points
+
+```text
+3.  Always use a spark plug socket wrench to remove 4. Remove the dipstick and check the level of the
+           the spark plug. Turn the spark plug clockwise to hydraulic fluid on the dipstick.
+           remove. CAUTION: Damage is easily caused to
+           Spark Plugs.                          5.  If the level is low, add hydraulic fluid to raise the
+                                                     level to the full mark on the dipstick. CAUTION:
+       4.  To clean a spark plug, remove the dirt from the body Do not add too much fluid.
+           and use a sharp tool to remove the carbon from the
+           base. Adjust the gap as needed. See figure 4.0-21. NOTE: Use hydraulic fluid that has the following
+                                                      specification; Automatic Transmission Fluid,
+       5.  When changing a spark plug, check the gap on the type A, Suffix A.
+           new spark plug before installation.
+                                                 6.  Put the Plug with Dipstick in the tank and tighten it
+       6.  When installing a spark plug, use your fingers to by turning it clockwise.
+           engage the spark plug threads in the engine. Turn
+           the spark plug clockwise until it stops, then
+           get the spark plug wrench and tighten to a torque
+            of 18 to 22 foot pounds (24-30 Nm).
+       7.  Reconnect the wire to the spark plug. Push the
+            connector all the way onto the spark plug.
+                                                                              2
+               SPARK PLUG SPECIFICATION
+              ENGINE NEEDED GAP IN POINTS
+         Kohler IO Horsepower 1 .025 inch (.635 mm)
+         Kohler 12 Horsepower I .025 inch (.635 mm)
+                                                     Hydraulic Fluid Tank
+         Briggs & Stratton 16 H.P.I .030 inch (.762 mm) Plug With Dipstick
+                                                                Figure 4.0-22
+         Onan CCKA, 16.5 H.P. 2 .025 inch (.635 mm)
+         Onan, 16 Horsepower 2 .025 inch (.635 mm)
+         Onan, 18 Horsepower 2 .025 inch (.635 mm)
+                      Figure 4.0-21
+        4.18 Checking the Hydraulic Fluid
+        It the tractor has a hydraulic lift system, the level of the
+        hydraulic fluid must be checked at a 200 hour interval.
+        Reduce the intervals if there has been hydraulic fluid
+        leakage. The hydraulic fluid tank is under the hood by the
+        battery. Figure 4.0-22 shows the Hydraulic Fluid Tank.
+        To check the level of the hydraulic fluid, follow this
+        procedure:
+        1.  Stop the tractor engine, engage the Brake Lock and
+            remove the tractor hood.
+        2.  Remove the Plug with Dipstick by turning it counter-
+            clockwise.
+        3.  Clean the dipstick and put it back in the hole in the
+            tank. Do not engage the threads.
+                                              -18-
+```
+
+## Page 20 — Section 5
+
+```text
+SECTION 5
+         5.0 To Put the Tractor in Storage
+         This section shows the procedure to put the tractor in
+         storage. When the tractor will not be operated for three
+         months or more, follow this procedure:
+          l.   Do the daily and 25 hour maintenance, but do not
+               add gasoline to the fuel tank.
+                  AWARNING: Gasoline is highly
+               flammable.
+          2.   Close the fuel tank valve.
+          3.   Disconnect the fuel line from the valve.
+          4.   Get a five gallon (20.0 liter) container.
+          5.   Open the valve and let the gasoline flow into the
+               container.
+          6.   Reconnect the fuel line to the valve.
+          7.   Start the engine and let it run until all gasoline is
+               used.
+           8.  Remove the spark plug. If the tractor has a two
+               cylinder engine, remove both plugs.
+           9.  Put 20 drops of engine lubricant in each hole of the
+               spark plug.
+          10.  Install the spark plugs but do not connect the spark
+               plug wires.
+          11.  Operate the starter for 5 seconds.
+          12.  Remove the ignition key.
+          13.  Clean the battery.
+          To use the tractor again, follow this procedure:
+          l.  Reconnect the spark plug wires.
+          2.  Charge the battery if needed.
+          3.  Put gasoline in the fuel tank.
+                 A WARNING: Gasoline is highly flammable.
+          4.  Check the level of engine lubricant.
+                                                 -19-
+```
+
+## Page 21 — Section S
+
+```text
+SECTION S
+        6.0 Correcting Tractor Problems          2.  Check clutch lining thickness. If too thin, replace it.
+                                                      See Section 4.14.
+        This section shows what to do when there are problems in
+        starting or operating the tractor.       3.  Check lubricant on clutch shaft. Add lubricant if
+                                                      needed. See Section 4.14.
+        6.1 Starter will not turn the Engine
+                                                 If these procedures do not correct the problem, see your
+                                                 Gravely dealer.
+        Follow this procedure:
+        1.  Be sure the PTO Control Lever is in the "OUT" 6.4 Brake does Not Stop the Tractor
+            position and Direction Control Lever is in the neutral
+            (N) position activating the Interlock Switch. See Follow this procedure:
+            Section 3.2
+                                                 1.   Check brake adjustment. Adjust if needed. See
+        2.  Check the fuse. If there is damage, replace with Section 4.13.
+            BUSS AGC 30 fuse. See Section 2.7.
+                                                 2.   Check thickness of brake lining. Replace if too thin.
+        3.  Check the battery. Clean and tighten the battery See Section 4.13.
+            terminals on both ends. See Section 4.7. If battery
+            is discharged, have it charged or replaced. If these procedures do not correct the problem, see your
+                                                 Gravely dealer.
+        If these procedures do not correct the problem, see your
+        Gravely dealer.
+                                                 6.5 More than One Inch (2.5 cm) Free Travel in
+        6.2 Engine is Difficult to Start or has a Loss of Steering Wheel
+            Power
+                                                 Follow this procedure:
+        Follow this procedure:
+                                                 l.   Check steering adjustment. Adjust if necessary. See
+        l.  Check Fuel Tank for gasoline. Add gasoline if Section 4.16.
+            needed. See Section 4.1.
+                                                 2.   Check for loose parts in steering and front axle.
+        2.  Check gasoline for water and dirt.        Replace or tighten if needed.
+        3.  Check and clean air filter. See Section 4.10. If these procedures do not correct the problem, see your
+                                                 Gravely dealer.
+        4.  Check and clean spark plug. See Section 4.17.
+                                                 6.6 Attachment Will Not Run or Runs Slowly
+        5.  Check for dirty cooling system. Clean if needed.
+            See Section 4.17.
+                                                 Follow this procedure:
+        6.  Check Fuel Cap with Gauge for dirt in the hole that
+                                                  1.  Check the PTO Clutch adjustment. Adjust if needed.
+            the air goes through.
+                                                      See Section 4.15.
+        7.  Check the book of instructions for the engine. Follow If this procedure does not correct the problem, see your
+            the procedures shown in it.          Gravely dealer.
+        If these procedures do not correct the problem, see your
+        Gravely dealer.                          6.7 Gear Selector or Range Selector Levers
+                                                     Will Not Change Tractor Speed
+        6.3 Clutch Engagement is Rough or Clutch
+                                                 Follow this procedure:
+            Slips when Fully Engaged
+                                                  l.  Check the control linkage for damage. Replace if
+        Follow this procedure:
+                                                      needed.
+        1.  Check clutch clearance; adjust if needed. See Section
+                                                 2.   Check for loose fasteners. Tighten if needed.
+            4.14.
+                                              -20-
+```
+
+## Page 22
+
+```text
+3.  Check for loss of fasteners. Replace if needed.
+       If these procedures do not correct the problem, see your
+       Gravely dealer.
+       6.8 Hydraulic Lift System Will Not Operate
+       Follow this procedure:
+       l. Check the level of the Hydraulic Fluid. Add
+           Fluid if low. See Section 4.18.
+       If this procedure does not correct the problem, see your
+       Gravely dealer.
+       6.9 Ammeter shows a Discharging Condition
+       Follow this procedure:
+       1.  Stop the engine immediately.
+       2.  Check the electrical system for loose or dirty
+           connections. Clean and tighten the connections if
+           needed.
+       If these procedures do not correct the problem, see your
+       Gravely dealer.
+                                             -21-
+```
+
+## Page 23 — Consumer Tractor Limited Warranty
+
+```text
+CONSUMER TRACTOR LIMITED WARRANTY
+               I.  Only the original purchaser of new Gravely (a) Transportation between owner's home
+                  tractor(s) is covered by this Warranty. or place of business and the dealership.
+                                                        If the dealer provides the transportation
+               2.  This Warranty covers repair or replacement of of the tractor(s), he will charge the
+                   parts manufactured by Gravely which are de- owner his usual rate for such service.
+                   fective in material or workmanship. Gravely
+                   will pay for parts and labor only. (b) Normal maintenance services and
+                                                        normal replacement of items such as
+               3.  The Warranty starts the date of purchase and spark plugs, belts, oil, oil filters, air
+                   lasts for the NINETY (90) DAYS for products filters, etc.
+                   used in commercial applications; TWELVE
+                                                7.  GRAVELY MAKES NO OTHER EX-
+                   (12) MONTHS for products used by the
+                                                    PRESS WARRANTIES. ANY IMPLIED
+                   owner to maintain his personal residence. WARRANTIES, INCLUDING WAR-
+                   "Commercial" means any use other than to
+                   maintain the grounds around the personal RANTIES AS TO MERCHANTABILITY
+                   residence of the owner of the product. OR FITNESS FOR A PARTICULAR
+                                                    PURPOSE, ARE LIMITED IN
+                   Some components of Gravely tractors are DURATION -TO THE PERIOD SET
+               4.
+                                                    OUT IN PARAGRAPH 3 ABOVE. SOME
+                   not covered by the Gravely Warranty. These STATES DO NOT ALLOW LIMITATIONS
+                   components are covered by the original ON HOW LONG AN IMPLIED WARRAN-
+                   manufacturer's warranty. They are:
+                                                    TY LASTS, SO THE ABOVE STATEMENT
+                   (a) Engine - Briggs & Stratton   MAY NOT APPLY TO YOU.
+                                                8.  GRAVELY SHALL HAVE NO RESPON-
+                   (b) Tires- Goodyear, Goodrich,   SIBILITY FOR INCIDENTAL OR CONSE-
+                       Armstrong, General and Firestone QUENTIAL DAMAGES RESULTING
+                                                    FROM THE BREACH OF ANY WAR-
+               5.  To obtain warranty service on Gravely trac- RANTY, INCLUDING, BUT NOT
+                   tors, including components not manufactured LIMITED TO, INCONVENIENCE,
+                   by Gravely, use this procedure:  RENTAL OR PURCHASE OF REPLACE-
+                                                    MENT EQUIPMENT, LOSS OF PROFITS
+                   (a) Notify the Gravely dealer from whom OR COMMERCIAL LOSS. SOME
+                       you purchased the tractor.   STATES DO NOT ALLOW THE EXCLU-
+                                                    SION OR LIMITATION OF INCIDENT-
+                   (b) If you have moved and it is not con- AL OR CONSEQUENTIAL DAMAGES,
+                       venient to notify the selling dealer, SO THE ABOVE LIMITATION OR
+                       notify the nearest Gravely dealer. You EXCLUSION MAY NOT APPLY TO YOU.
+                       should supply this dealer with a copy This Warranty gives you specific legal rights,
+                       of the bill of sale as proof of the date 9.
+                       of purchase.                and you may have other rights which vary
+                                                   from state to state.
+                   (c) Make arrangements to have the tractor IO. A Gravely registration card is supplied with
+                       delivered to the dealer (refer to para- each Gravely tractor. Please complete the c�rd
+                       graph 6 (a) below).         and return it to Gravely at the address listed
+                                                    on the card. The registration card will be used
+                   (d) If you have any questions concerning by Gravely for:
+                   the Gravely Warranty, they should be (a) Recording date of purchase.
+                   referred to:
+                       Gravely                      (b) Notification of owners in compliance
+                       Clarke-Gravely Corporation       with the Consumer Product Safety
+                       A Studebaker-Worthington Company Act, should any notification be
+                       One Gravely lane                 necessary.
+                       Clemmons, N.C. 27012
+                       Attn: Manager Customer Services The return of registration card is not required
+                                                    in order to take advantage of this Warranty.
+                  (e)  Warranty service on Gravely tractors
+                       must be performed by an authorized 11. This Warranty is not subject to change or
+                       Gravely dealer or Gravely factory modification by anyone, including Gravely
+                       branch.                      dealers and no Gravely dealer is authorized
+                                                    to make any representations or promises on
+               6. This Warranty does not cover the following: Gravely's behalf.
+                             eeRAVELY
+                                                CORPORATION
+                                  On. arv.lv Ln. Clmmon.. N.C.
+```

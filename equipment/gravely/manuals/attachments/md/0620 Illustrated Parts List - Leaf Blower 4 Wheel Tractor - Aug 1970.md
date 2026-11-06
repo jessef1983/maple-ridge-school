@@ -1,0 +1,66 @@
+---
+title: "Illustrated Parts List — Leaf Blower 4 Wheel Tractor — Aug 1970"
+oldgravelys_no: "0620"
+series: "Leaf Blower 4 Wheel Tractor"
+doc_type: "Illustrated Parts List"
+date: "Aug 1970"
+pages: 2
+source_pdf: "../0620 Illustrated Parts List - Leaf Blower 4 Wheel Tractor - Aug 1970.pdf"
+text_source: "OCR (Windows.Media.Ocr, 200 dpi)"
+---
+# Illustrated Parts List — Leaf Blower 4 Wheel Tractor — Aug 1970
+
+Source: [0620 Illustrated Parts List - Leaf Blower 4 Wheel Tractor - Aug 1970.pdf](../0620 Illustrated Parts List - Leaf Blower 4 Wheel Tractor - Aug 1970.pdf). Text is machine-extracted; confirm part numbers against the PDF page before ordering.
+
+## Page 1 — Ggravely                        Illustrated
+
+```text
+GGRAVELY                        ILLUSTRATED
+                                                                  LEAF BLOWER ATTACHMENT
+               YCORPORATION                                          4 Wheel Tractor
+           TO cont .nue program cf quel,ty one design .mprovement, the PARTS LIST Model Number 17304E1
+           manufacturer reserves 'he "gh 'o chcn.e de-         Effective Date Aug 1 , 1970
+           Sign or prices without no"ce and
+                                                                Form Number          18067P1
+```
+
+## Page 2
+
+```text
+ITEM     PART NO.        DESCRIPTION
+          N�I_
+           1       17758P1         Sheave
+            2      17765P1         C 1 amp
+           3       17830A1         Support Assembly, Fan
+                                   (Includes 17757P1)
+           4       17757P1         Pump Shaft Bearing
+           5       17759A1         Impeller Weldment
+           6       17763P1         Housing, Fan
+           7       9419454         Nut, Lock .25 Washer Insert
+           8       17767P1         Clamp, Nozzle
+           9       17800P1         Rope, Crank
+          10        180024         Bolt, Hex .25 N.C.   x 1.25
+          11        180016         Bolt, Hex .25 N.C.
+          12        120391         Washer, Flat 1/4
+          13       17789A1         Shield, Fan
+          14       17766P1         Nozzle
+          15        6464P1         Nut
+          16       17773P1         Deflector, Nozzle
+          17       11967P1         Joint Assembly, Double
+          18       17798P1         Belt, Drive
+          19        456004         Nut, Lock . 375 N.C. Washer Insert
+          20       17788P1         Idler
+          21       17787P1         Spacer
+          22        180122         Bolt, Hex . 375 N.C. X 1.0
+          23        120382         Washer, Lock . 375
+          24       17835A1         Frame Assembly, Blower
+          25        126696         Bolt, Carriage .375 N.C. X 2.5
+          26       17785P1         Bushing, Spline
+          27       17906A1         Pump Shaft Bearing Assembly
+                                   (Includes 17785P1)
+          28       17786P1         Sheave
+          29       17799P1         Crank, Nozzle
+          30        273937         Pin, Spring .12 5 X 1.25
+          31       17815P1         Anchor, Fan
+          32       10405P1         Hair Pin, Cotter
+```

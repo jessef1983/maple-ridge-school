@@ -1,0 +1,539 @@
+---
+title: "Operators Manual — 48 inch Snowdozer — Sep 1987"
+oldgravelys_no: "0650"
+series: "48 inch Snowdozer"
+doc_type: "Operators Manual"
+date: "Sep 1987"
+pages: 17
+source_pdf: "../0650 Operators MAnual - 48 inch Snowdozer - Sep 1987.pdf"
+text_source: "OCR (Windows.Media.Ocr, 200 dpi)"
+---
+# Operators Manual — 48 inch Snowdozer — Sep 1987
+
+Source: [0650 Operators MAnual - 48 inch Snowdozer - Sep 1987.pdf](../0650 Operators MAnual - 48 inch Snowdozer - Sep 1987.pdf). Text is machine-extracted; confirm part numbers against the PDF page before ordering.
+
+## Page 1 — Operator'S Manual
+
+```text
+OGRAVELV
+                                    SNOWDOZER
+                      OPERATOR'S MANUAL
+       FORM NO: 44606 (9-87)               PART NO: 24678                 PRINTED IN USA
+                                                                                   $3.00
+```
+
+## Page 2 — Your Safety Is Involved.
+
+```text
+NOTE
+                  Read this manual carefully and learn      to operate and service
+            your snowdozer before using it.
+                  To keep the warranty, the snowdozer       must be maintained and
+            operated as directed in this manual ,
+                  All references to "left-side,        "zight-side,"   *front,"   and
+            "back n are given from the operator's position.
+                  Use the serial number to ensure prompt and correct service
+            when ordering parts, requesting service, or making inquiries.
+                       SNOWDOZER SERIAL NUMBER
+                      Look for this symbol to point out important safety
+                      precautions.    It means  -- ATTENTION! BECOME ALERT i
+                      YOUR SAFETY IS INVOLVED.
+```
+
+## Page 3 — Section 2
+
+```text
+SECTION 2
+                                  Operating inseructipns
+           2.1  Read the tractor operator's manual and learn the location
+                and operation of the controls.
+           2.2  Install wheel weights and tire chains for maximum traction
+                needed for heavy snow dozing.
+           2.3  A light coat of wax appl ied to the working surface of the
+                blade aids in preventing ice and snow build-up on the blade.
+           2.4  Mark any hidden obstructions such as driveway markers, water
+                or gas shutoffs, spouting, stumps, etc. prior to operating
+                the snowdozer.
+           2.5  Position the blade perpendicular to the tractor frame when
+                transpozting to prov ide maximum ground clearance.
+           2.6  To doze snow:
+                     Adjust the blade angle,     wear  plate  and  lift  height  as
+                     described in Section 3.
+                2.   Lower the blade.
+                3.   Select a Iow gear.
+                4.   Move the throttle to the    fast position.
+                5.   Engage the forward clutch slowly.
+                6.   Adjust the tractot speed by selecting a faster       or slower
+                     gear to match the operating conditions.
+                                              3
+```
+
+## Page 4 — Section 3
+
+```text
+SECTION 3
+                                    Seryive InstructiQns
+          3.1  Blade Angle Adjustment:
+                    Raise the blade with the tractor lift.
+               2.   Push the handle assembly out away from the operator .
+                    Then push the handle assembly either forward to rotate
+                    the blade to the left or rearward to rotate the blade to
+                    the right.   See Figure 1.
+          3.2  Wear Plate Adjustment:
+                    Block the blade in the "UP" position.
+               2.   Loosen the 3/8-16 nuts which fasten the wear plate to the
+                    blade.
+               3.  Move (rotate) the wear plate to the rear                (counter-
+                   clockwise) to increase the bite of the wear plate.
+               4.  Move (rotate) the wear plate to the front (clockwise) to
+                   decrease the bite of the wear plate.
+               5.  Tighten the 3/8-16 nutse
+          3.3  Lift Height Adjustment:
+                   Remove the cotter pin from the lift pivot and remove the
+                   pivot from the attachment lift.         Loosen the jam nuts on
+                   the height adjustment rod .
+               2.  Block the blade in the "UP" position so that the push
+                   frame assembly just clears the bottom of the front axle
+                   of the tractor.
+               3.  Put the attachment lift in the full "UP" position.
+               4.  Turn the jam nuts on the height adjustment rod until the
+                   end of the pivot can be reinstalled in the attachment
+                   lift.
+               5.  Lock the two jam nuts in this position.        Retain the pivot
+                   with the cotter pin previously removed.        See Figure 2.
+               6.  Remove the block and    lower the blade.
+               7.  Move the attachment      lift to the full     "UP" position and
+                   check for clearance     between the push fr ame assembly and
+                   the bottom of the        tr actor front axle .      Read just if
+                   necessary.
+                                             4
+```
+
+## Page 5 — Figure 2
+
+```text
+Coog.o  3
+                                       O
+                                                               Cotter Pin
+                    - Control Handle
+                       FIGURE 1                            2 - Jam Nut
+                                                                Attachment Lift
+                                                           4 - Lift Pivot
+                                                                 FIGURE 2
+            3.4   Adjustment of the Trip Springs:
+                      Lower the blade.
+                  2.  Loosen the jam nut on each trip spring.
+                  3.  Adjust the first nut by hand until the spring is not
+                      loose
+                  4.  Tighten the first nut three turns and lock in place with
+                      the jam nut.
+                  5.  The spr ings may be tightened more than three turns of
+                      the nut if unwanted tripping is a problem.
+                   ACAUTION; Do not adjust the t zip springs too tight.
+                                  To prevent damage and/or loss of control, the
+                                  springs must be adjusted to allow the blade to
+                                  trip when a fixed object is struck.
+             3.5  Installation
+                       Remove the hair pin cotters,         clevis pin and latch
+                       control zod from the handle assembly. See Figure 3.
+                  2.   position the rear of the push frame assembly in front of
+                       the tractor with the kick stand in the "UP* position.
+                  3.   Roll the tractor over the push frame assembly until the
+                       cross tod is near the axle latches.
+                                               5
+```
+
+## Page 6 — Figure 3
+
+```text
+A1164
+                 Hair Pin Cotters                         1 - Cross Rod
+             2 - Clevis Pin                               2 - Axle Latch
+             3 - Latch Control Rod                        3 - Kick Stand (Down)
+             4 Control Handle                             4   Locking Strap
+                 Pivot Shaft                                   FIGURE 4
+             6 Kick Stand (Up)
+                  FIGURE 3
+               4.  Raise the push frame with the kick stand ,             Raise  the
+                   lock ing straps on the axle latches.      See Figuze 4.
+               5.  Roll the tractor forward so that the czoss rod of             the
+                   push frame assembly engages the axle latches.
+               6.  Close the locking straps and retain with a hair               pin
+                   cotter   See Figure 5.
+               7.  Raise and lock the kick stand.
+               8.  Connect the handle assembly and latch control rod as
+                   shown in Figure 6.
+               9.  Lower the attachment lift.        Put the end of the height
+                   adjus tment rod in the hole in the tab on the frame
+                   assembly. Retain with the k lik pin.       See Figure 7.
+              10.  Raise the blade and check to see that the frame assembly
+                   just clears the bottom of the front axle.          If necessary,
+                   see Section 3.3 to adjust the lift height of the blade.
+                   Raise the blade to the  position with the attachment
+                   lift when the tractor is to be moved.           Keep the    blade
+                   down when the tractor is parked
+         3.6   To remove, reverse the installation procedure except            leave
+               the kick stand in the "UP" position,
+                                             6
+```
+
+## Page 7 — Figure 5
+
+```text
+2
+             G)                                                               o
+                  O
+                                        6
+                        4
+              3
+                                           at 1ss
+                    Cross Rod                                       2
+               2  - Push Frame
+                    Axle Latch
+                4 - Locking Strap                        1 - Control Handle
+                    Bait Pin Cotter                      2   Latch Control Rod
+                6 - K ick Stand (Up)                             FIGURE 6
+                     FIGURE 5
+                                                       2
+                                       Height Adjustment Rod
+                                   2 - Klik Pin
+                                            FIGURE 7
+                                                 7
+```
+
+## Page 8 — Section 4
+
+```text
+SECTION 4
+                                         Storage
+         4.1   Clean the snowaozer. Do not use harsh or abrasive cleaners
+               on any painted surface.
+         4.2   Inspect for loose or missing fasteners and damaged parts.
+               Tighten loose hardware and replace or repair damaged parts.
+         4.3   Put paint or a coat of oil on areas where the paint is
+               missing .
+                                           8
+```
+
+## Page 9
+
+```text
+Sol
+```
+
+## Page 10
+
+```text
+ITEM
+         NO.       PART NO.        QTY .             DESCRIPTION
+           1          10405         2        Pin, Hair
+           2        456004          8        Nut, Lock 3/8-16
+           3         19766          1        Plate, Axle Latch R.H.
+           4        180181          4        Bolt, Hex 1/2-13X2.OO
+           5          19172         2        Strap t. Locking
+           6        180124          2        Bolt, Hex 3/8-16x1.25
+           7        180175          2        Bolt, Hex 1/2-13x1. 25
+           8          19 767        1        Plate, Axle Latch L.H.
+           9          11861         1        Grip, Handle
+          10          18503         1        Handle, Assembly
+          11          11851         1        Spring, Bladen Angling
+          12        426897          2        Nut, Jam 374-10 Hex
+          13          11850         1        Washer r Spring Anchor
+         14           18 506        1        Spacer    .824x1.050x. SOO
+          15         14412          2        Pin, Hair Cotter
+          16        131016          2        Washer, Flat    .656x1.31x.095
+         17          11865          2        Spr ing, Trip
+         18          18505          2        Bolt, Hex 3/8-16x4.5 Gr 2
+         19           18501         1
+         20         124829          2        Nut, Jam 3/8-16 Hex
+         21         120377          2        Nut, Hex 3/8-16
+         22           18499         1        Assembly, Blade 48"
+         23          11860          2        Pin,  Cotter Hair
+         24          18507          1        Pin,
+         25           11864         1        Rod , Angl ing Con trol
+                      34096         1        Rod , Latch Control (Long)
+         27           34098         1        Bar,  Pivot Lock
+         28           14424         1        Nut,  5/6 Push
+         29         412281          1        Pin,  Spr ing 1/4x1
+         30           23468                  Pin,  Xlik
+         31         137218          3        Pine  Cotter .156x1. 250
+         32           11846         1        Pivot, Blade
+         33           18500         1        Plate, Wear
+                    120915          4        Bolt, 3/8-16X1.OO Rd Hd sq Nk
+         35          271781         1        Bolt, Hex 3/4-10x4.50
+         36           18504         1        Rod, Latch Control (Short)
+         37         120394          4        Washer, Flat .406x.812x.065
+         38          120123         1        Pin, cotter .125x1.25
+         39          120238         2        Nut, Hex 1/2-13
+         40           11262         1        Pivot, Mower Lift
+         41           14421         1        Bell Crank
+         42           18502         1        Shaft, Pivot Assernbly
+                                    2        Spacer , .423x.675x. 205
+                      35690         1        Rod, Height Adjus tment
+         45           34099         1        Spr ing, Compression
+                     180130         1        Bolt, Hex 3/8-16X2.CO
+         47           34097         1        Stand, Kick
+                     131017         1        Washer, Flat .812x1.469x. 134
+                      34101         1        Assernbly, Push Frame
+         NS           19365         1        Decal, Gravely
+          NOTE :  Item  4   (Part No. 180181) in circle "A" to be used on tractor
+                  with  standard axle bearing retainer .
+                  I tem 7   (Part No. 180175) in circle "B" to be used on tractor
+                  with  axle bearing retainer for rear PTO.
+                                               IO
+```
+
+## Page 11 — Figure  8                                  Figure 9
+
+```text
+SECTION 6
+                                       Set-VP Inserpction$
+             6.1   Remove the snowdozer from the shipping container.
+             6.2   Fasten the wear plate to the blade with four 3/8-16xI round
+                   head square neck bolts,       flat washers,     lock washers and
+                   3/8-16 nuts.   see Figuze 8.    For adjustment see Section 3.2.
+             6.3   Connect the pivot plate to the blade with the blade pivot
+                   and fasten with a cotter pin in each end of the blade pivot
+                   as shown in Figure 9.
+             6.4   Put the threaded end of a 3/8x4-1/2 bolt into and through
+                   each trip spring, and put the hooks of the trip springs into
+                   the holes in the tabs on the pivot plate.            Then put the
+                   bolts through the holes in the top of the blade and fasten
+                   them with a 3/8 hex nut on each bolt as shown in Figure 10.
+                   Tighten the nuts against the blade with your fingers, and
+                   then use a wrench to tighten the nuts three complete turns.
+                   Place a jam nut on each bolt; holding the hex nuts with a
+                   wrench, tighten the jam nut against the hex nut.
+             6.5   Put the end of the push frame in the pivot plate. Al ign the
+                   hole in the push frame with the center hole in the pivot
+                   plate and put a 3/4x4-1/2 bolt through the hole from the
+                   bottom as shown in Figure 11.
+                                                                                       149
+          - Blade            4 - Flat Washer                 1 - Pivot Plate
+        2 - Wear Plate       5 - Lock Washer                     Blade Pivot
+            Bolt             6 - Hex Nut                         Cotter Pin
+                     FIGURE  8                                  FIGURE 9
+```
+
+## Page 12 — Figure 11
+
+```text
+5
+                             4
+                                                                 6
+                                                                                 1
+                                                                5,           3
+                                                                    4
+                                                                           2
+             Trip Spr ing s        Hex  Nuts             - Pivot Plate
+             Tabs              5   Jam  Nuts               Push Frame
+             Bolts                                     3 - Pivot Lock Bar
+                     FIGURE 10                         4 - Blade Angling Spr ing
+                                                            Spr ing Anchor Washer
+                                                       6 - Bolt
+                                                           Jam Nuts
+                                                            Spacer
+                                                                FIGURE 11
+           6.6  Put the hook Of the blade angling spring in the small hole in
+                the spr ing anchor washer and the other end of the spring in
+                the pivot lock bar.
+           6.7  Put the spacer on the bolt and then slide the spr ing anchor
+                washet onto the bolt.       Fasten the bolt with a 3/4 jam nut.
+                Tighten the nut until the push frame is barely free to pivot.
+                Lock the nut with a second jam nut.       See Figure 11.
+           6.8  Put the pivot shaft through the tube on the push frame and
+                fasten with a flat washer and cotter pin as shown in Fig ure
+                12.
+           6.9  Fasten the angl ing control rod to the pivot plate with a flat
+                washer and hair pin cotter as shown in Figure 13.
+          6.10  Fasten the other end of the angling control rod to the plate
+                on the pivot shaft with a flat washer and cotter pin as
+                shown in Figure 14.
+          6.11  SI ide the handle grip onto the handle assembly and fasten
+                the handle assembly to the pivot shaft with a clevis pin and
+                hair pin cotter.     Fasten the latch control rod to the handle
+                assembly with a hair pin cotter.       See Figure 15.
+                                              12
+```
+
+## Page 13 — Figure 12
+
+```text
+2
+                 3
+                                                                            2
+                                                                                  1
+                                            81 Isa
+                       Pivot Shaft
+                  2  - Tube
+                  3  - Flat Washer
+                  4  - Cotter Pin
+                    FIGURE 12
+                                                                                      311*
+                                                             Ang ling Control  Rod
+                                                        2 - Flat Washer
+                                                        3 - Cotter Pin
+                                                                FIGURE 13
+                                                          2
+                                          3
+                                            2                   6
+                                                        4
+                                                                          3
+                                            8115-4
+              I - Angling Control   Rod                  I - Handle Gr ip
+              2                                          2 - Control Handle
+                - Cotter Pin
+              3 - Flat Washer                            3 - Pivot Shaft
+                    FIGURE 14                            4 - Clevis Pin
+                                                         5 - Baiz Pin Cotter
+                                                         6   Latch Control Rod
+                                                                FIGURE 15
+                                               13
+```
+
+## Page 14 — Figure 16
+
+```text
+6.12  Fasten the kick stand to the push frame with the 3/8x2 bolt,
+                 compression spr Ing, flat washer, and 3/8 lock nut as shown
+                 in Figure 16.
+           6.13  Put the lift pivot and two 1/2-13 hex nuts on the threaded
+                 end of the height adjustment rod .         See Figure 17 Eor the
+                 cortect location of the two nutse Jam the two nuts together
+                 to lock them in place.
+           6.14  Put the end of the lift pivot through the second hole away
+                 from the shaft on the attachment lift arm of the tractor
+                 Retain with the .125xl.25 cotter pin.       See Figure 18.
+           6.15  Fasten the lock ing straps to the axle latch plates with the
+                 3/8" 1-1/4 bolts and 3/8 lock nuts         Do not overtighten the
+                 nuts; the locking straps must be free to move.             The left
+                 hand assembly is shown in Figure 19.               The r ight hand
+                 assembly is put together in the opposite manner.
+          6.16   Remove the bolts that fasten the Eight rear hitch arm to the
+                 tz actor . Fasten the ight hand axle latch assembly and the
+                 right rear hitch atm to the tractor with the 1/2x2 bolts and
+                 1/2 nuts as shown in Figure 20.          Do the same on the left
+                 side of the tractor.      NOTE: Tractors with rear PTO require
+                 1/2xl .25 bolts to fasten axle latch assemblies and rear
+                 hitch to the tractor
+                                    6
+                                                                 811
+                                   1  - Kick Stand
+                                        Bolt
+                                   3  - Compression Spr ing
+                                   4    Flat Washer
+                                   5  - Lock Nut
+                                   6  - Push Frame
+                                         FIGURE 16
+                                               14
+```
+
+## Page 15 — Figure 17
+
+```text
+1.50"                                      1.75"
+                       Lift Tract-.org                              Lift Tractors
+                                       1/2-13 Hex Nut
+                                  2 - Lift Pivot
+                                       Height Adjustment Rod
+                                           FIGURE 17
+                                         oooao
+                                                   2
+                                                  3
+                                       Attachment Lift Arm
+                                  2 - Lift Pivot
+                                       He ight Adjustment Rod
+                                           FIGURE 18
+                                                15
+```
+
+## Page 16 — Figure 19
+
+```text
+1
+                                2
+                                                   3
+                                    1  - Lock ing Strap
+                                    2  - Axle Latch Plate
+                                    3  - Bolt
+                                           FIGURE 19
+                                                                    2
+                                    Right Axle Latch Assembly
+                                    Right Rear Hitch Azm
+                                           FIGURE 20
+                                               16
+```
+
+## Page 17 — For Loss Of Profits Or Other Commercial
+
+```text
+SECTION 7
+                                      LIMITED FIVE-YEAR WARRANTY
+              This Limited five-Year Warranty is issued by Gravely 6. This Warranty does not cover the foBowing:
+              Fntemational. Inc., ony to the originat purchaser. If Transportation to Gravely dealership. (If the
+              Gravety equipment is leased by Gravely. this Warranty a.
+                                                         Gravely dealer provides transportation, he witl
+              shall extend also to the original lessee as if such charge for stEh service.)
+              lessee were the original purchaser.
+                                                      b. Norrnal mainqenance services and norma; re-
+           2. Gravety warrants that all new equipment manu- placement ot iterns such as spark plugs. betts. oil.
+              factured by Grave�y ("Gravely Products") Shall be free Oil finers, air filters. and mower. plow or
+              01 detects in material and workmanship for the t�m blades, gauge wheels, skidsand other wear items-
+              described in paragraph 4. b�ow. Except as herenafier
+              pcovided. this warranty does not cover any engine, c. Ary Gravely Product which has been attere< or
+              tires or battery focmjng a part of the Gravely Product. moditied in any way.
+              Engine and tires are covered by and subject to d. Any repair or occasioned by cus-
+              separate warranties of the manufacturers thereof. tomer neglect or lack of proper maintenance. (The
+           3. In the event that any Gravely Producl warranted purchaser is responsible tor making sure that
+              hereunder shall be defective tail to conform with this Gravely Products are operated ane serviced as
+              Warranty. Gravely shall. subiect to the provisions directed in the applicable manual or service
+              herect, pay for. or provide Jabor and materials for. the instruction. Incorrect use or maintenance will void
+              repair or replacement ot such detective Grave\y this Warranty.)
+             Product.                                   Ary repair occasioned by the use af any
+                                                        attachment not approved by Gravely. (The use of
+           4, This Warranty is for five years (60 months) from any such unapproved attachment will void this
+             purchase date for Gravety Products used exetusiveiy Waranty.)
+             for personal. iamiiy or household purposes. and two
+             years (24 month$) for products used for other 7. GRAVELY MAKES NO OTHER EXPRESS OR
+             purposes (commercial use). excluding rental firms. IMPLIED WARRANTEES. OR WARRANTIES AS TO
+             Gravely products used 'or rental purposes will be THE MERCHANTABILITY OR FETNESS FOR A
+             warranted tor 90 days. Repair of Gravely Products PARTICULAR PURPOSE ALL WARRANTIES ARE
+             after the second year (24 months from date ot LIMITED IN DURAT20N TO THE TERMS SET OUT IN
+             purchase) Shall be subject to a $50.00 deductible for PARAGRAPH 4, ABOVE. GRAVELY SHALL HAVE NO
+             each repair. (Atter two years, Gravey agrees to repair LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL
+             or replace defective Grave'y Products used ex DAMAGES RESULTING FROM THE BREACH OF
+             ctusively for personal, family or household purposes ANY WARRANTY. 'NCLUDENG. guT NOT LIMITED
+             only to the extent that the cost Of such warranty TO, LIABILITY FOR INCONVENIENCE. RENTAL OR
+             covered repay or replacement exceeds $50.00,) PURCHASE OF REPLACEMENT EQUIPMENT. OR
+                                                      FOR LOSS OF PROFITS OR OTHER COMMERCIAL
+             Batteries are warranted Gravely a period of Loss.
+             twelve (12} mor.:hs only. It a battery Shal' fail within
+             twelve (12) months of purchase, the replacement cost 8. Some states do not altow limeations on how long an
+             thereof shall be prorated over a twuve-month term imp\ied warranty Casts, so the above statement may not
+             based upon the number Of months since purchase. appty to you- Some states do not allow the exclusion
+                                                      or limitation of or consequential damages,
+           S. TO Obtain Warranty Service on a Gravely Product $0 the above limitation exclusion may nol appty to
+             (including any battery or ether component net manu- you-
+             faciured by Gravely). use this procedure: 9. This Warranty gives you specific legal rights, and you
+             a. Notify the Gravety dealer from whom you pur may have other rigms which vary ttocn state to state.
+                chased the equipment                  A Gravely product registration card is supplied with
+             b, Jf you have moved it is not convenient to notify each Gravely Product. Please comple{e the card and
+                the selling deafer. notify lhe nearest Gravely retum it to Gravely at the address listed on the card.
+                dealer. You should suppty this dealer wilh a copy The equipment regstration card will be used
+                ot the bili ot sale as proof ot the date Of purchase. Graveiy foc
+             c. Make arrangements to have the equipment de- a. Recording dale of purchase.
+                livered to the deafer {reter to paragrapn 6 a, b. Notification of in compliance with the
+                below).                                 Consumer Product Satery ACL shoujd any notiti-
+                                                        cation be necessary.
+             d. If you have any questions cmcerning the Gravey
+                Limned Warranty. they stwuld be referred to: The return of such card is foe you warranty
+                                                      to be effective.
+                    Gravedy International, Inc.       This Warranty is not suoject to change or modification
+                    One Gravely Lane                11.
+                    Clemmons. NC 27012                by anyone, including Gravely dealers and no Gravety
+                    Attn: Customer Service Department dealer is authorized to make any remesentations
+                                                      promises on Gravetys behalf.
+              e. Warranty service on Gravely Products must be e GRAVELY
+                performed by an auth0fjzed Gravety dealer.
+                                                        One Gravely Lane. Clemmons. NC 27012
+```

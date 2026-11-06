@@ -1,0 +1,124 @@
+---
+title: "Illustrated Parts List — Front Adapter Kit — Feb 1986"
+oldgravelys_no: "0215"
+series: "Front Adapter Kit"
+doc_type: "Illustrated Parts List"
+date: "Feb 1986"
+pages: 2
+source_pdf: "../0215 Illustrated Parts List - Front Adapter Kit - Feb 1986.pdf"
+text_source: "PDF text layer"
+---
+# Illustrated Parts List — Front Adapter Kit — Feb 1986
+
+Source: [0215 Illustrated Parts List - Front Adapter Kit - Feb 1986.pdf](../0215 Illustrated Parts List - Front Adapter Kit - Feb 1986.pdf). Text is machine-extracted; confirm part numbers against the PDF page before ordering.
+
+## Page 1 — Front Adapter Kit
+
+```text
+\
+AGIRA/ELY
+!
+FRONT ADAPTER KIT
+PART NO: 21339
+FORM NO: 38588 (2-86)
+PRINTED IN USA
+I
+I
+```
+
+## Page 2
+
+```text
+1d
+/v- t6/.
+t4 }./ffi
+6_M*r
+-'*fu,
+ffit,
+IK
+v(-
+q lry'i
+QTY.
+ITEM
+NO.
+I
+2
+3
+4
+5
+6
+7
+8
+9
+IO
+II
+L2l3
+L4
+15
+16
+NS
+PART NO.
+2L343
+190 73
+L9072
+2L342
+2L34L
+4LL027
+r1609
+LLg67
+120384
+L2L34
+2456A
+I1507
+10405
+180044
+4L9454
+I3 I0 17
+180177
+38056
+t
+2
+2II
+2III
+AR
+AR
+1
+1I
+1III
+DESCRIPTION
+Dog, Attachment
+Ring, Retaining 2.062 Bore
+Bearing, Ball .984x2.047x.590
+Shaft, Front Adaptor
+Housing, Adaptor
+Fitting, Lube L/4-28
+We1dment, Adaptor
+Assembly, Double Joint
+Washer, Lock L/2 Regular
+Kit, Repair U-Joint Rockwell Std.
+Kit, Repair U-Joint Neapco 1605X
+l{el dment , Push Rod
+Pin, Ha ir
+Bolt, Hex L/4-20x2
+Nut, Lock L/4-20
+Washer, FIat .812xL.496x.I34
+Boltr Hex L/2-L3x1.50
+Decal, America : 
+": . :
+/f\'\-
+1ll'\o i
+\(./ \
+3\)i
+\(\
+I
+€9
+vro
+I5L
+,(q-
+I
+I
+I
+\
+^!e'I
+rc{
+```

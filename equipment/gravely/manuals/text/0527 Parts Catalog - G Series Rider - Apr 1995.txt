@@ -1,0 +1,1404 @@
+# 0527 Parts Catalog - G Series Rider - Apr 1995
+# Source: 0527 Parts Catalog - G Series Rider - Apr 1995.pdf (62 pages; OCR: Windows.Media.Ocr @200dpi)
+
+===== Page 1 =====
+         OG�AVELY@ 987
+                                                                       Series
+                                                 PROFESSIONAL G SERIES
+                                                                       Parts
+                                                                  Manual
+      www.oldgravelys.net
+        PRINTED IN USA                                              PART NO. 087751 C
+                                                                                 4-95
+
+===== Page 2 =====
+                    A Message to Gravely Parts Manual User
+         Your Gravely Dealer will be happy to supply any you. If engine repairs or services are required, they
+         service or advice which may be required to keep your can be obtained from a Gravely Dealer or froni an
+         Gravely equipment operating at peak efficiency. He authorized engine manufacturer's service center. If
+         stocks genuine Gravely parts and lubricants, service is required, be prepared to supply the service
+         manufactured with the same precision and skill as the person with the Model Number and Serial Number of
+         original equipment. His factory trained staff is kept the equipment and engine, as well as a full
+         well informed on the best methods of servicing description of the problem encountered.
+         Gravely equipment and is ready and able to serve
+                                       Introduction
+         The information contained herein is intended for use NOTE: The descriptions and specifications
+         by Gravely Dealer's trained servicemen and serves contained in this manual were in effect at the time the
+         as a supplement to and reminder of training sessions manual was approved for printing. Gravely Company
+         conducted by Gravely Company. Before you attempt reserves the right to discontinue models without
+         any repair, adjustment or maintenance project, be notice and without incurring obligation. The
+         certain that you have read and fully understand the equipment described within this manual may not be
+         instructions in your Owner's and Repair Manuals. identified as either standard or optional and the
+         Understand and follow each Danger, Warning, various illustrations may not all be applicable to your
+         Caution and all instructions exactly as given. Also be particular unit. If you have questions always check
+         sure that you have all tools, replacement parts and with your Gravely Dealer.
+         other materials required to complete the project.
+                                                  NOTE: All references to "Left", "Righ?', "Front" and
+         A network of Gravely Dealers is maintained in order "Read' are given from operators position.
+         to assure you of an adequate supply of replacement
+         parts and technical assistance. When replacement NOTE TO GRAVELY DEALERS: Refer to your
+         parts are required, use only genuine Gravely parts. current Parts Price List for suggested parts stocking.
+         Failure to do so may result in product malfunction Service training for dealers is available at the Gravely
+         and possible injury to operator and/or bystander. Service School.
+                          How to Order Replacement Parts
+         This Parts Manual is arranged for easy identification Order parts from your nearest authorized Gravely
+         of genuine Gravely Service parts that are illustrated Dealer. For prompt service when ordering parts,
+         showing their relationship to one another. Item provide the following information.
+         numbers in the illustrations correspond to item
+         numbers in the first column of the parts list and are l. MODEL AND SERIAL NUMBERS OF
+         followed by the Gravely Part Number, Description EQUIPMENT
+         and Quantity with variations between models and/or
+         serial numbers designated in the part description. 2. PART NUMBER (not Item Number)
+         S/N 000000> means this serial number and up, with
+         S/N <OOOOOO meaning up to this serial number. 3. DESCRIPTION
+                                                  4.    QUANTITY REQUIRED
+
+===== Page 3 =====
+                     Contents                               Models
+         Transmission .                          Model 987058
+         Number One Shaft - Forward Clutch . .6  14 H.P. Kohler w/Manual Lift
+         Number Two Shaft - Reverse Clutch .8    Serial No. 000101 and up
+         Number Three Shaft - 3rd and 4th Gear .10
+         Number Four Shaft - Idler               Model 987059
+                                        . .11
+         Number Five Shaft - 1st and 2nd Gear    14 H.P. Kohler w/Hydraulic Lift
+                                        .. .12
+         Number Six Shaft - Brake/Sliding Gear . .14 Serial No. 000101 and up
+         Number Seven Shafi - Pinion/Final Drive .
+                                        . .16
+         Number Eight Shaft - Differential Assembly Model 987060
+         Number Nine Shaft - PTO Clutch   .18    16 H.P. Kohler w/Manual Lift
+         Number Ten Shaft - PTO Drive Assembly . .20 Serial No. 000101 and up
+         Number Eleven - Fwd-Rev Clutch Assembly . .21
+         Number Twelve - Transmission Case Assembly .22 Model 987061
+         Number Thirteen                         16 H.P. Kohler w/HydrauIic Lift
+          Transmission Cover Assembly     .24    Serial No. 000101 and up
+         Frame                            .26
+         Hood and Grille                  .28    Model 987062
+         Rear Deck and Seat               .30    18 H.P. Kohler w/Hydraulic Lifi
+         Rear Hitch                       .32    Serial No. 000101 and up
+         Front and Rear Wheels
+         Hydraulic System .               .36    Model 987063
+         Manual Lift                      .38    20 H.P. Kohler w/Hydraulic Lift
+         Steering                                Serial No. 000101 and up
+          14 H.P. and 16 H.P. Units .     .40
+          18 H.P. and 20 H.R Units .      .42    Model 987064
+         Direction Control                       16 H.P. Briggs & Stratton w/Manual Lifi
+         Transmission Controls           . .44
+                                          .46    Serial No. 000101 and up
+         Brake Linkage                    .48
+         Fuel and Exhaust                        Model 987065
+          14 H.P. Kohler Units            .50    16 H.P. Briggs & Stratton w/Hydraulic Lift
+          16 H.P. Briggs Units .          .52    Serial No. 000101 and up
+          16 H.P., 18 H.P. and 20 H.P. Kohler Units .54
+         Electrical System                .56    This manual covers the models listed. Specific
+         Wiring Diagram                   .58    Model and Serial Numbers of your unit and
+                                                 attachment are on a label on the unit. Record these
+         NOTE: Most hardware descriptions are given in numbers in the space provided and use them
+         decimals. Refer to the following table to find the whenever parts or service are required.
+         equivalent in fractions:
+                       .125=1/8
+                                                  Model Number
+                       .188=3/16
+                                                 Serial Number
+                       .312=5/16
+                                                  Engine Number
+                       .375=3/8
+                                                 Serial Number
+                       .438=7/16
+                       .500=1/2
+                       .562=9/16
+                       .625=5/8
+                       .688=11/16
+                       .750=3/4
+                       .812=13/16
+                       .875=7/8
+                       .938=15/16
+                                               1
+
+===== Page 4 =====
+                                           Decals
+             ALTERNATOR ELECTRICAL SYSTEM
+            12 VOLT NEGATIVE GROUND
+              DO NOT REVERSE BATTERY
+             CONNECTIONS. DISCONNECT
+             REGULATOR WHEN WELDING
+               ON EQUIPMENT OR QUICK
+                  CHARGING BATTERY.
+                          05216700
+                                                            X.
+                                                                AWARNING
+                                                                DO NOT SHIFT GEAR
+                                            05215300 - 14-G     OR RANGE SELECTOR
+             ACAUTION                       05210900 - 16-G
+                                            05211000 - 18-G     UNLESS VEHICLE IS
+                                            05211100 - 20-G     STOPPED AND
+            DO NOT OPERATE UNLESS
+                                                                DIRECTIONALCONTROL
+           ALL GUARDS, SHIELDS AND
+                                                                LEVER IS IN NEUTRAL.
+           COVERS ARE IN PLACE
+                                                                                077119
+                    05216000
+                                                                       07711900
+                                               2
+
+===== Page 5 =====
+                                         Decals
+                 G - SERIES MAINTENANCE INSTRUCTIONS
+              SEE OPERATORS MANUAL FOR FULL INSTRUCTIONS
+           ENGINE: CHECK OIL DAILY.
+                   CHANGE OIL EVERY25 HOURS
+                   SEE ENGINE MANUAL FOR OIL SPECIFICATIONS
+                   KEEP ENGINE AND COOLING FINS CLEAN.
+           AIR CLEANER: CHECK DAILY OR 5 HOURS.
+                   REPLACE ELEMENT WHEN CLOGGED
+           TRANSMISSION: CHECK OIL LEVEL EVERY 200 HOURS
+                   OR AT ANY SIGN OF LEAKAGE
+                   FILL TO CHECK EVEL PLUG WITH SAE IOW.30.
+           HYDRAULIC CHECK HYDRAULIC FLUID EVERY 200 HOURS OR
+           SYSTEM: AT ANY SIGN OF IAKAGE.
+                   SEE OPERATORS MANUAL
+                        8 to 11 6
+                               7
+               2
+              3
+               2
+                    4 5     11
+             REF. LUBRICATION QTY. DESCRIPTION-LOCATION INTERVAL
+                                Dany
+               GREASE 20 SPINDLE
+             2 GREASE  STEERNG SPINXES
+               GREASE                          e GRAVEL
+             3       2 STEERING PIVOT
+             4 GREASE 2 STEERNGARMS
+             5 GREASE 2 STEERNG CCLUMN
+             6 GREASE 2 WHEEL BEARING                          03573000
+             7 GREASE 2 U.JOINT
+             8 GREASE 2 WHEQBEARNG
+             9 GREASE 2 CASTER SPINDLE
+             10 GREASE SLIP JOINT
+             11 GREASE 2 IDLER ARM PIVOT
+               OIL    ALL PIVOT POINT PIN CONNECTIN
+                  60 MOWER DECK ONLY
+             TIRE PRESSURE: FRONT: 14-18 PSI (94-124 kWm2)
+                      REAR: 10-14 PSI (69-97 kWmZ)
+                    05210100                              64
+                                             3
+
+===== Page 6 =====
+                                                                            Ooe
+
+===== Page 7 =====
+                                      Transmission
+            ITEM   OLD           NEW            DESCRIPTION                      QTY
+            NO.    PART NO.      PART NO.
+             1                              No. 1 Shaft, Forward Clutch
+             2                              No. 2 Shaft, Reverse Clutch
+             3                              No. 3 Shaft, 3rd and 4th Gear
+             4                              No. 4 Shaft, Idler
+             5                              No. 5 Shaft, 1st and 2nd Gear
+             6                              No. 6 Shaft, Brake-Sliding Gear
+             7                              No. 7 Shaft, Pinion-Final Drive
+             8                              No. 8 Shaft, Differential Asm.
+             9                              No. 9 Shaft, PTO Clutch
+            10                              No. 10 Shaft, PTO Drive Asm.
+            11                              No. 11, Fwd-Rev Clutch Asm.
+            12                              No. 12, Transmission Case Asm.
+            13                              No. 13, Transmission Cover Asm
+            14      180130      05914700    Bolt-Hex .38-16 x 2.00 Grade 5         2
+            15     018089       05807600    Pin-Dowel .38 x .625                   2
+            16      180132      05924300    Bolt-Hex .38-16 x 2.25 Grade 5         2
+            17      180126      05915100    Bolt-Hex .38-16 x 1.50 Grade 5         4
+            18     456004       06513500    Nut-Locking-Nylon .375-16 Grade 2      6
+            19     018027       0872 i 800  Gasket, Transmission Cover             1
+                                              5
+
+===== Page 8 =====
+
+
+===== Page 9 =====
+                       Number One Shaft - Forward Clutch
+           ITEM    OLD          NEW            DESCRIPTION                      QTY
+            NO.    PART NO.     PART NO.
+             1     046371                  Shaft, Forward Clutch                 1
+            2      117989                  Key, Woodruff .19 x 1.25              1
+             3     431787                  Key, Woodruff .19 x .63               1
+            4      017949      05420400    Bearing-Roller .75 x 1.0 x .50        4
+            5      018025      06%06000    Gear and Bearing Assembly             1
+             6     011223      05427700    Bearing-N-Thrust .752 x 1.24 x .031   5
+             7     006741                  Bearing-N-Thrust .754 x 1.24 x .078   3
+            8      017926      087.01900   Weldment, Shifter                     1
+            9      020755      08720800    Weldment, Shift Rail                  1
+            10     018011      08705400    Gear, spur 25 P 10 DP 36 T            1
+            11     018007      08705200    Gear and Bearing Assembly              1
+           12      006742                  Washer-Thrust .752 x 1.240 x .062      1
+           13      011135      .%057i6ioo  Ring-Retaining-lntemal .750 x .042     3
+           14     045585       08790100    Gear, Bevel                            1
+           15     018003       08705100    Gear, 10 DP 16 Teeth x .750            1
+           16     014998       0541�eoo    Bearing-N-Thrust .752 x 1.24 x .093    1
+           17      020444      08329100    Spring-Compression .085 x .80 x 1.00   1
+           18     421202       05808800*   Pin-Roll .187 x 1.000                  1
+            19     017929      08702600    Am, Shifter                            1
+           20      021141      05645600,   Washer-Felt .437 x 1.00 x .031         1
+           21      017925                  Bushing-Flange .626 x .500 x 1 .O      1
+                                             7
+
+===== Page 10 =====
+
+
+===== Page 11 =====
+                       Number Two Shaft - Reverse Clutch
+           ITEM   OLD           NEW            DESCRIPTION                      QTY
+            NO.    PART NO.     PART NO.
+             1     431787                  Key, Woodruff .19 x .63                2
+            2      034730      08796400    Shaft, Splined Reverse Clutch          1
+            3      011223      05427700    Bearing-N-Thrust .752 x 1.24 x .031    6
+            4      006741      05410400    Bearing-N-Thrust .754 x 1.24 x .078    3
+             5     018020      08705800    Gear, Idler Assembly                   1
+             6     017949      05420400    Bearing-Roller .75 x 1.0 x .50         4
+             7     018003      08705100    Gear, 10 DP 16 Teeth x .750            1
+             8     011135      05716100    Ring-Retaining-lntemal .750 x .042     3
+            9      006742      06431900    Washer-Thrust .752 x 1.240 x .062      1
+            10     017947                  Assembly Reverse Gear & Bearing
+            11     020444      08329100    Spring, Compression .085 x .80 x 1.00
+                                             9
+
+===== Page 12 =====
+                       Number Three Shaft - 3rd and 4th Gear
+                                    1
+                                      2
+                                             3
+                                                     4
+                                                                 5
+                                                                     6
+             ITEM    OLD          NEW             DESCRIPTION                     QTY
+              NO.    PART NO.     PART NO.
+               1     180000      06426200.   Washer-Thrust .63 x 1.15 x .093        1
+               2     017999      08727600    Bushing-Sleeve 1.03 x 1 .13 x .457     1
+               3     019535      08715600    Gear
+               4     017997      08704900    Shaft, Splined                         1
+               5     017992      08704600    Gear, 10 DP 16 Teeth x .750            1
+               6     015118      08701400    Gear, 10 DP 20 Teeth x .600            1
+                                                10
+
+===== Page 13 =====
+                              Number Four Shaft - Idler
+                                     1
+                                             2
+                                                          3
+           ITEM    OLD          NEW             DESCRIPTION                      QTY
+            NO.    PART NO.     PART NO.
+             1     015118                  Gear, 10 DP 20 Teeth x .600
+             2     017995                  Shaft, Splined                         1
+             3     015115                  Gear, 10 DP 30 Teeth x .500            1
+                                             11
+
+===== Page 14 =====
+                        Number Five Shaft - 1st and 2nd Gear
+                                     1
+                                        2
+                                            3
+                                                    4
+                                                              5
+              ITEM   OLD           NEW            DESCRIPTION                      QTY
+               NO.   PART NO.      PART NO.
+               1     015115       OB70t300}�  Gear, 10 DP 30 Teeth x .500
+                                                                                     1
+               2     017993       08728900    Bushing-Sleeve 1.03 x 1.               1
+               3     017992       08704600    Gear, 10 DP 16 Teeth x .750            1
+               4     017989       tm04500     Shaft, Splined                         1
+               5     015118       067.01400   Gear, 10 DP 20 Teeth x .600            1
+                                                12
+
+===== Page 15 =====
+                                          Notes
+
+===== Page 16 =====
+                       Number Six Shaft - Brake/SIiding Gear
+                                                                    10
+                                                        11 -q        12
+                                                  13
+                      17
+                        18
+                                       20
+                                                25
+                            24
+                                               14
+
+===== Page 17 =====
+                       Number Six Shaft - Brake/SIiding Gear
+            ITEM    OLD           NEW            DESCRIPTION                     QTY
+             NO.    PART NO.      PART NO.
+              1     180188      0692tooq     Bolt-Hex .50-13 x 2.75 Grade 5        1
+              2     120396      G429500>     Washer-Fiat-Steel .531 x 1.062 x .095 1
+              3     018165                   Bushing-Sleeve .550 x .750 x 2.06     1
+              4     414075                   Nut-Locking-Center .625-11 Grade 2    1
+              5     040732       0875:iioo   Assembly, Brake Band                  1
+              6     023171      08723600*    Drum, Brake                           1
+              7     421202      05908800    Pin, Roll .187 x 1 .OOO               1
+              8     017945      08702900     Arm, Shifter                          1
+              9     021141      05615600     Washer-Felt .437 x 1 .OOO x .031      1
+             10     017944      08702800     Arm, Shifter
+             11     271089                   Key, Woodruff .13 x .38               1
+             12     017943      05519800     Bushing-Hange .756 x 1.125 x .75      1
+             13     015137      05613800    Seal .750 x 1.250 x .136              1
+             14     018018      :o$6t4200    O-Ring .625 x .75 x .062              1
+             15     017940       08702400    Weldment, 1st & 3rd Shifter           1
+             16     017937                   Weldment, 2nd & 4th Shifter           1
+             17     014988       08700800    Gear, 8 DP 16 Teeth x .850            1
+             18     014987      05�14800     Ring-Retaining External .920 x .125   1
+             19     021370       087�500     Shaft, Slide Gear                     1
+             20     014989       08700900    Gear, Sliding 10 DP 36 T x .594       1
+             21     014995                   Gear, Sliding 10 DP 30 T x .594
+             22     014998                   Bearing-N-Thrust .752 x 1.24 x .093   1
+             23     020761       08721400    Weldment, Rail Shift Fork 1 & 3       1
+             24     456384       05803600    Pin-Roll .250 x .75                   2
+                                 08721900*
+             25     020762                   Weldment, Rail Shift Fork 2 & 4       1
+                                               15
+
+===== Page 18 =====
+                       Number Seven Shaft - Pinion/FinaI Drive
+                                     1      2
+                                                   3
+                                                          1
+              ITEM   OLD           NEW             DESCRIPTION                     QTY
+               NO.   PART NO.      PART NO.
+               1     019340       05421600    Washer-Hardened-Thrust                 2
+                                                1.002 x 1.552 x .030
+               2      017987      08704400    Gear, 8 DP 30 Teeth x .750             1
+               3      017986      08704300    Pin. Final Drive                       1
+                                                16
+
+===== Page 19 =====
+                  Number Eight Shaft - Differential Assembly
+                      4
+                                    5
+                                         6      2
+                                         7   8    9
+                                                     3
+                                                    10
+                                 11                      11
+                                                            6
+                                                                5
+                                      9   12
+                                                  7
+                                                                            4
+           ITEM    OLD          NEW             DESCRIPTION                     QTY
+            NO.    PART NO.     PART NO.
+             1     419455      06506200     Nut-Locking-Nylon .312-18 Grade 2     4
+             2     020514      06521400     Nut-Hex .312-18 Grade 8               4
+             3     023712      05941700     Bolt-Hex .31-18 x 2.75 Grade 8        4
+             4     050116      08785000     Axle, Bevel Gear Differential         2
+             5     046014      05426000     Bearing-Bali 1.57 x 2.68 x .59        2
+             6     046013      08774400     Cap, Differential End                 2
+             7     021608      057 i        Ring-Retaining-External 1.150 x .093  2
+             8     019952      0871700      Pin. Bevel                            2
+             9     046376      08779000     Block, Drive                          2
+            10     023531      08725400    Gear, Final Drive
+            11     046012      08774300    Gear, Bevel                            2
+            12     019954      087t7200.    Pin, Spider Pinion                    1
+                                             17
+
+===== Page 20 =====
+                                 75 70
+
+===== Page 21 =====
+                          Number Nine Shaft - PTO Clutch
+            ITEM    OLD          NEW             DESCRIPTION                     QTY
+             NO.    PART NO.     PART NO.
+              1     011270      05716200     Ring-Retaining-External .574 x .050   2
+              2     018019      08705700     Lever, PTO                            1
+              3     124549      06608700     Key, Woodruff .19 x .75               5
+              4     017966      05712200     Ring-Retaining-External 1.38 x 1.304  1
+              5     017967      05420700.    Bearing-Bali 1.38 x 2.44 x .55        1
+              6     017952      08703300     Cup, Clutch                           1
+              7     017953      08703400.    Assembly, Clutch Cone Bearing         1
+              8     017957      08703800     Cup, Clutch                           1
+              9     017949      05420400     Bearing, Roller .75 x 1.0 x .50       2
+             10     017958      08703900     Bushing-Sleeve .891 x 1.00 x 1.21     1
+             11     018017      08705600     Shaft, PTO Yoke                       1
+             12     018018      05614200     O-Ring .625 x .75 x .062              2
+             13     018016      08705500     Yoke, PTO                             1
+             14     014998      05419800     Bearing-N-Thrust .752 x 1.24 x .093   1
+             15     017962      05523200     Bushing-Sleeve 1.000 x 1.120 x 1 .OOO 1
+             16     017960      08704000     Shifting Collar Assy                  1
+             17     017959                   Washer-Thrust 1.55 x 1.002 x .093     2
+             18     011225      05427900     Bearing-N-Thrust 1.0 x 1.55 x .078    1
+             19     034194      08736000     Sleeve, PTO Throw Out                 1
+             20     034193      08331700     Spring-Compression .187 x 5.50        1
+             21     017965      08704200     Gear, spur PTO 10 DP 22 T             1
+             22     015733      05712000     Ring-Retaining .697 x .93             2
+             23     017951      08703200.    Shaft, PTO Clutch                     1
+                                               19
+
+===== Page 22 =====
+                     Number Ten Shaft - PTO Drive Assembly
+                                                           3     2
+                                                       4
+                                       5
+                             6
+             ITEM    OLD          NEW             DESCRIPTION                     QTY
+              NO.    PART NO.     PART NO.
+               1     414075      06521600    Nut-Locking-Nylon .250-20 Grade 2      1
+              2      033845      06427400    Washer-Fiat-Steel .687 x 1.312 x .135  1
+              3      017922      08701800    Gear, spur PTO 10 DP 56 T              1
+              4      017924      08724500    Bushing-Sleevel .06 x 1.38 x 1.38      1
+              5      019538      08715800    Shaft, PTO                             1
+              6      017923      05614100    seal, 1.375 x 2.129 x 3.15             1
+                                               20
+
+===== Page 23 =====
+                   Number Eleven - Fwd-Rev Clutch Assembly
+                         2
+                                3
+                                      4    6
+                        5
+                                                             9
+                                           7
+                                                        8
+            ITEM    OLD          NEW             DESCRIPTION                      QTY
+             NO.    PART NO.     PART NO.
+              1     044141      21267400     Rivet                                 1
+              2     040692      08751000     Lining, Clutch                        2
+              3     042481      08759500     Ring, Clutch                          2
+              4     042484      08759700     Disc, Clutch                          2
+              5     042482      08759600     Assembly, Clutch & Ring               2
+              6     035330      05424600     Bearing-Ball 1.57 x 3.15 x 71         2
+              7     035681      08654800     Pin, Clutch Spring                    2
+              8     034734      08911000     Trunion, Fwd-Rev Clutch               2
+              9     121223      06709900     Pin-Cotter .062 x .75                 2
+                                              21
+
+===== Page 24 =====
+                 Number Twelve - Transmission Case Assembly
+                                             19
+                                          20           16
+                                                                 23
+                                                                       24
+                                   22
+                                             14
+                                                                         25
+                                                          26
+                                                               27
+                                                                28
+                             13 -e        e
+                                                  29
+                                              17     30
+                       11
+                  12                14        18            31
+                             16
+                                                          32
+                                               22
+
+===== Page 25 =====
+                  Number Twelve - Transmission Case Assembly
+             ITEM    OLD          NEW             DESCRIPTION                      QTY
+              NO.    PART NO.     PART NO.
+               1     017919      05712100.   Ring-Retaining-External 1.819 x .062   1
+               2     018872      05713000    Ring-Retaining-lntemal 3.52 x .109     1
+               3     017915      05420300    Bearing-Bali 1.97 x 3.14 x .63         1
+               4     017913      05420100    Bearing-Needle .75 x 1.0 x .75         4
+               5     017914      05420200    Bearing-Needle .625 x .812 x .75       1
+               6     017912      05420000    Bearing-Needle 1 .O x 1.25 x .75       1
+               7     014640      05419300    Bearing-Assembly 1.000 x 1.980 x 1.243 1
+               8     120214      $$03600     Washer-Lock .313 x .078                2
+               9     180079      05918100    Bolt-Hex .31-18 x 1.00 Grade 5         2
+              10     009660      054271 oo   Bearing-Needle .75 x 1.000 x .50       1
+              11     046302      08778300    cap, Front PTO                         1
+              12     015137      05619800    Seal .750 x 1.250 x .136               1
+              13     017946      07704100.   Plug, cup .500                         1
+              14     274301      05429900    Ball, .312                             5
+              15     017936      08327700.   Spring-Compression .045 x .30 x 1.50   4
+              16     103877      07023700    Plug, Pipe .12                         3
+              17     018200      08706400    Pin, Interlock                         1
+              18     421743      07702700    Plug, cup; 3/8                         1
+              19     050115      08784900    Assembly, Transmission Case            1
+              20     019472      087 i 5400  Cap, Pipe 1/2                          1
+              21     024772      08390400    Spring-Compression .045 x .300 x .938  1
+              22     121664      07024300     Nipple, Pipe .50 x 2.50               1
+              23     017917      05614000    Seal 2.250 x 3.002 x .375              1
+              24     051555      08790700     Hub, Clutch                           1
+              25     018035      05614600    Seal .750 x 1.628 x .250               1
+              26     018421      08707500    Plate, Cover                           1
+                     120394      06404300    Washer-Flat-Steel .406 x .812 x .065   2
+              28     180120      05915400     Bolt-Hex .38-16 x .75 Grade 5         2
+              29     103880      07023900.   Plug, Pipe .50                         1
+              30     070240      07024000     Elbow .50 x 90                        1
+              31     018030      08701800    Gasket                                 1
+              32     042976      08760200     Retainer, Axle Bearing                1
+              33     050743      05426600     Bearing-Bali 1.25 x 2.25 x .50        1
+              34     018812      05712900     Ring-Retaining-External 2.49 x .078   1
+              35     180191      05924200     Bolt-Hex .50-13 x 3.25 Grade 5        4
+              36     051096      05618200    Seal 1.250 x 2.250 x .500              1
+                                               23
+
+===== Page 26 =====
+                Number Thirteen - Transmission Cover Assembly
+                                                                  10
+                                                                    11
+                                                                             13
+                                                                     12          14
+                                                         17 16
+                                                   18
+                                               24
+
+===== Page 27 =====
+               Number Thirteen - Transmission Cover Assembly
+            ITEM    OLD           NEW            DESCRIPTION                      QTY
+             NO.    PART NO.      PART NO.
+                    180191       05924200    Bolt-Hex .50-13 x 3.25 Grade 5        4
+              2     018035       05614600    Seal .750 x 1.625 x .250              1
+              3     050604       08786900.   Hub, Clutch
+              4     046323       05617600    seal, Lip 2.25 x 3.25 x .38           1
+              5     051096       05618200    seal, 1.250 x 2.250 x .500            1
+              6     018812       05712900    Ring-Retaining-External 2.49 x .078    1
+              7     050473       05426600    Bearing-Ball 1.25 x 2.25 x .50         1
+              8     046061       08775300    Axle Bearing Retainer                  1
+              9     018030       08701800    Gasket                                 1
+             10     050117       08785100    Assembly, Transmission Cover           1
+             11     017913       05420100    Bearing-Needle .75 x 1.0 x .75         3
+             12     017914       05420200    Bearing-Needle .625 x .812 x .75       1
+             13     046321       05426300.   Bearing-Bali 1.97 x 3.54 x .79
+             14     046322       05715400    Ring-Retaining-lnternal 3.54 x .109    1
+             15     017919       057tmoo     Ring-Retaining-External 1.819 x .062   1
+             16     011063       05427500    Bearing-Needle .75 x 1 .O x .75        1
+             17     017912       05420000    Bearing-Needle 1 .O x 1.25 x .75       1
+             18     070238       07023800    Plug, Pipe .38                         1
+                                               25
+
+===== Page 28 =====
+                                            Frame
+                                                           38
+                                                   10
+                                                  11
+                                                                           0-22
+                                                             17           8-23
+                                                               20      279 24
+                                               13                                25
+                                                    14
+                                                               30         28
+                                                                          14
+                                        37
+                                                26
+
+===== Page 29 =====
+                                          Frame
+           ITEM   OLD           NEW            DESCRIPTION                      QTY
+            NO.   PART NO.      PART NO.
+            1     087815       08781500    Tank Support                          2
+            2     090378       09037800    Rod, Tank                             2
+            3     419454                   Nut-Locking-Nylon .250-20 Grade 2    26
+            4      160541      06ff3500    Screw-Machine .25-20                  2
+            5      180020                  Bolt-Hex .25-20 x .75 Grade 5         18
+            6     087594       08759400    Instrument Panel, Silkscreen           1
+            7      159341                  Screw-Machine 6-32 x .625             2
+            8     018183                   Bumper                                2
+            9     040548      -08749300    Bracket, Instrument Panel              1
+           10     040449       .08748n     Bracket, Instrument Panel Left Hand    1
+                  040450       03748300    Bracket, Instrument Panel Right Hand   1
+            11    041240       08754000    Support, Instrument
+           12     074019                   Screw-Tapping .250-20 x .625           4
+           13     040140       08746500    Plate, Manual Control Cover            1
+                  087762       08776200    Plate, Hydraulic Control Cover         1
+           14      180124                  Bolt-Hex .38-16 x 1.25 Grade 5         2
+           15     046305       08778400    Bracket, Interlock Switch              1
+           16      180077      05913500    Bolt-Hex .31-18 x .75 Grade 5          4
+           17     040822       087520O     Bracket, Bushing Lock                  2
+           18      120378      .06502i00   Nut .50-13                             4
+           19     010174       05518400    Bushing-Flange .762 x 1 .O x .580 x 1.48 2
+           20      180177      0592m       Bolt-Hex .50-13 x 1.50 Grade 5         4
+           21      180024      05905600    Bolt-Hex .25-20 x 1.25 Grade 5         2
+           22      120386      06400700    Washer-Fiat-Steel .312 x .734 x .065   2
+           23     034723       087080      Bushing-Sleeve .265 x .375 x .250      2
+           24      024357      0752tu      Bumper, Seat                           2
+           25      045594                  Bracket, Rear Hitch                    2
+           26     435507                   Nut-Locking-Nylon .50-13 Grade 5       2
+                   052662      0879320     Plate, Forward-Reverse Mounting        2
+           28     419455                   Nut-Locking-Nylon .312-18 Grade 2      4
+           29      120378      067Eoo      Pin-hair-internal .15 x 2.937          4
+           30     413534       065240      Nut-Locking-Center ..625-10 Grade 2    1
+           31     456004       0651350     Nut-Locking-Nylon .375-16 Grade 2      1
+           32      181700      059377O     Bolt-Hex .50-20 x 1.50                 4
+           33      011058      065254O     Nut-Hex .50-20                         4
+           34      040207      08655000    Rod, Frame External Brace              1
+           35      018362      06778500   Bracket, Fender Hold-Up                1
+           36      045235      08766(m     Weldment, Frame                        1
+           37      021087      087222@     Weldment, Mower Bracket Right Hand     1
+                   021088                  Weldment, Mower Bracket Left Hand
+           38      427254      06521100    Nut-Locking-Machine 6-32               2
+                                             27
+
+===== Page 30 =====
+                                                                  ooe
+                                                26
+
+===== Page 31 =====
+                                    Hood and Grille
+           ITEM    OLD          NEW             DESCRIPTION                      QTY
+            NO.    PART NO.     PART NO.
+             1     043802      08761400     Hood, Silk Screen
+             2     050275      05215300     Decal, Model 14-G (058 & 059)         2
+                   043245      052$0900     Decal, Model 16-G (060, 061)          2
+                   043246      05211000     Decal, Model 18-G (062)               2
+                   043247      .062t"00     Decal, Model 20-G (063)               2
+             3     043003      05210700     Decal, Gravely Logo                   1
+             4     160541      06113500     Screw-Machine .25-20                  3
+             5     077038      07709800    Gravely Name/Logo/Stripe Decal         1
+             6     035294      08704700.    Latch, Flexible                       2
+             7     032661                   Rivet .125 x .245                     6
+             8     039828      08744700     Bracket, Hood Latch Mounting          2
+             9     163158      061          Screw-Machine 8-18 x .375             4
+            10     040754      05210too     Decal-Maintence                       1
+            11     011989      05216700     Decal-E-System Warning                2
+            12     419454      06506600     Nut-Locking-Nylon .250-20 Grade 2    11
+            13     422845      06425900    Washer-Fiat .281 x .625 x .065         4
+            14     120518      06201200     Bolt-Round Head Square Neck .25-20 x . 75 4
+            15     039070      03ji5900     Head Light Retainer Ring              2
+            16     180022      05908300     Bolt-Hex .25-20 x 1 .OOO Grade 5      4
+            17     038672      03067000     Panel, Headlight Reflector            1
+            18     038673      03066800     Bezel, Headlight                      1
+            19     038671      03066900     Panel, Headlight Lense                1
+            20     190254      06506500     Nut-Locking 10-24                     4
+            21     159947      06111200     Screw-Machine 10-24 x .750            4
+            22     039831      03493700     Grill                                 1
+            23     045207      07405200     Screw-Tapping .25-20 x .50            2
+            24     456004      06558500     Nut-Locking-Nylon .375-16 Grade 2     8
+            25     120388      06400800     Washer-Fiat-Steel .438 x 1 .O x .083  6
+            26     035518      07504200     Grommet                               2
+            27     039047      031i8600     Left Hand Hood Hinge                  1
+                   039049      03%8500      Right Hand Hood Hinge                 1
+            28     036849      031g500      Spacer                                2
+            29     419455      06506200     Nut-Locking-Nylon .312-18 Grade 2     2
+            30     010908      08707800     Bushing, Sleeve .406 x 1.00 x 1.00    2
+            31     180122      05914500.    Bolt-Hex .38-16 x 1.00 Grade 5        6
+            32     120393      06412300     Washer-Flat-Steel .344 x .688 x .065  2
+            33     180085      05912800     Bolt-Hex .31-18 x 1.75 Grade 5        2
+            34     039836      08745000     Panel, Side Left Hand                 1
+                   039835      ogi44�oo    Panel, Side Right Hand                1
+            35     180130      05914700     Bolt, Hex .38-16 x 2.00 Grade 5       2
+                                              29
+
+===== Page 32 =====
+                                    Rear Deck and Seat
+                                                        10
+                     11                        13
+                     12
+                                                               17
+                                           14              18
+                              17
+                                                         19
+                                                          17
+                                                                         20
+                                                                       22
+                                                                          23
+                                                                     24
+                                                              25
+                                                       26
+                        33
+                             31                           27
+                                                      28
+                                29
+                                                30
+
+===== Page 33 =====
+                                  Rear Deck and Seat
+           ITEM    OLD          NEW             DESCRIPTION                     QTY
+            NO.    PART NO.     PART NO.
+                               0762to:i
+             1     075216                   Tube Cap                              2
+             2     413447      065042O      Nut-Locking .312-18                   8
+             3     064123      06412300     Washer-Fiat-Steel .344 x .688 x .065  2
+             4     083282                   Spring-Compression .148 x 1.23 x 2.41 2
+             5     180077      059135W      Bolt-Hex .31-18 x .75 Grade 5         2
+             6     055162      055$6200     Bushing-Flange .325 x .465 x .333 x .685 2
+             7     036181      03618100     Seat Box                              1
+             8     062041      06204100.    Bolt-Round Head Square Neck .31-18 x .75 2
+                                             Grade 5
+             9     074045                   Screw-Tapping 12-24 x .50             2
+            10     087970      08797000     Seat V-560                            1
+            11     039062                   Screw-Cap Button Head .31-18 x .50 Grade 5 4
+            12     063032      06303200     Washer-Lock External .313 x .030      4
+            13     036008                   Seat Slides
+            14     062033      06203300     Bolt-Round Head Square Neck .31-18 x .62 4
+            15     087641                   Seat Box                              1
+            16     120376                   Nut-Hex .312-18 Grade 2               4
+            17     059022                   Bolt-Hex .31-18 x .75 Grade 2        10
+            18     036191      036191O      Seat Pivot Plate                      1
+            19     063003      06300300     Washer-Lock .312 x .097               4
+            20     065078      06507800     Nut-Flange .312-18                    2
+            21     044070      03573000     Decal, Gravely Logo                   1
+            22     051329      07536500     Reflector, Rectangular Reflex         2
+            23     160046      061133O      Screw-Machine 10-32 x .50             4
+            24     411893      065028@      Nut-Locking 10-32                     4
+            25     051601      08790900     Bracket, Seat Support                 1
+            26     040453      087485O      Weldment, Seat Pan Head Notched       1
+            27     024996                   Strap, Fender Hold Up
+            28     121223      067039O      Pin-cotter .062 x .75                 1
+            29     018420      06809700     Pin-clevis .250 x .406                1
+            30     180122      05914500     Bolt-Hex .38-16 x 1.00 Grade 5        2
+            31     120394                   Washer-Flat-Steel .406 x .812 x .065  2
+            32     024815      055158O      Bushing-Hange .406 x .88 x .270 x .140 2
+            33     413447       065?i9w     Nut-Locking-Center .312-18 Grade 2    4
+            34     051278       09004000    Plate, Control Shaft                  1
+            35     036167       03616700    Spring Plate                          1
+                                              31
+
+===== Page 34 =====
+                                          Rear Hitch
+              ITEM    OLD          NEW             DESCRIPTION                     QTY
+               NO.    PART NO.     PART NO.
+                      047561      087811100   Guard, Engine
+                      019517                  Plate, Hitch
+                      180179                  Bolt-Hex .50-13 x 1.75
+                      435507                  Nut-Locking-Nylon .50-13 Grade 5
+                      047529                  Arm, Rear Hitch
+
+===== Page 35 =====
+                                          Notes
+
+===== Page 36 =====
+       f COO
+                          00
+
+===== Page 37 =====
+                                Front and Rear Wheels
+            ITEM    OLD          NEW             DESCRIPTION                     QTY
+             NO.    PART NO.     PART NO.
+              1     187184      06609000.    Key, Woodruff .25 x 2.13              2
+              2     040304      0747100      Hub, Tapered 4-Wheel                  2
+              3     131 ooo     06429600    Washer-Flat-Steel .813 x 2.000 x .148  2
+              4     456007                   Nut-Locking-Nylon .75-10 Grade 2      2
+              5     048537      07119500    Tire, Rear                             2
+                    048540      07132100    Tire/Wheel Assembly 23 x 10.50-12 (62,63) 2
+              6     048920      20928000     Tire, Rear 23 x 8.50-12               1
+                    048921      20928100*    Tire, Rear 23 x 10.50-12              1
+              7     048922      20928200     Weldment, Rim                         1
+              8     012744      070i$800     Bolt .44-20 x 1.0                    10
+              9     011191      07520000     Valve Stem Assembly                   2
+             10     423315      06430400     Washer-Fiat-Steel .813 x 1.370 x .100 4
+             11     018448       03495900    Spacer                                2
+             12     018447       05619200    Seal 1.206 x 1.785 x .468             1
+             13     018446       05404500.   Bearing/Cone .750 x .61               2
+             14     018445       05404400    Bearing/Cup 1.781 x .475              2
+             15     018923       07122000    Tire, Front 16 x 6.50-8 (58, 59, 60, 61) 2
+                    031280      20824500     Tire, Front 16 x 7.50-8 (62, 63)      1
+             16     048925      07126700     Tire/Wheel Assembly 16 x 7.50-8       1
+             17     018442       07119600    Tire, Front 16 x 6.50-8 (58-61)       2
+                    031425       071 gogoo   Tire/Wheel Assembly 16 x 7.50-8 (62, 63) 2
+             18     131016       06400400    Washer-Fiat-Steel .656 x 1.312 x .095 2
+             19     418692       06516800.   Nut-Locking-Nylon .625-11 Grade 2     2
+             20     018449       03496000    Dust Cap                              2
+                                               35
+
+===== Page 38 =====
+                                    Hydraulic System
+                                                           13
+                      15
+                                                14
+                                                          10
+                                                                12
+                                                                      11
+                                                                            10
+
+===== Page 39 =====
+                                   Hydraulic System
+           ITEM    OLD           NEW            DESCRIPTION                      QTY
+            NO.    PART NO.      PART NO.
+             1     059004       05900400    Bolt-Hex .38-16 x 1.00                2
+             2     038842      G406700      Washer-Fiat-Steel .390 x .875 x .18   4
+             3     087250       08725000    Pump, Electric Hydraulic              1
+             4     092214      09221400     Assembly, Hose Pump to Cylinder       2
+             5     180181       05928500   Bolt-Hex .50-13 x 2.00 Grade 5        1
+             6     018826       08800700    Adapter 2503-4-4                      2
+             7                  057]6000.   Ring-Retaining-Extemal .835 x .056    4
+             8     031284       08?27500    Cylinder, Hydraulic                    1
+             9     018830       08708900    Shaft, Hydraulic Cylinder              1
+            10     018355      *05520100    Bushing-Hange 1.020 x 1.385 x .75 x 1.75 2
+            11     414074       06525800    Nut-Locking .50-13                     1
+            12     087576       08757600    Mower Lift Weldment                    1
+            13     200018                   Reservoir Cap-Electric Hydraulic Pump  1
+            14     214191       21419�00"   Reservoir Tank                         1
+            15     200014                   Reservoir Seal O-Ring                  1
+                                              37
+
+===== Page 40 =====
+
+
+===== Page 41 =====
+                                        Manual Lift
+            ITEM    OLD           NEW            DESCRIPTION                      QTY
+             NO.    PART NO.      PART NO.
+              1                 07519800    Grip, Flex                             1
+              2                  07517900   Guide, Push Rod                        1
+              3                 o�86t20ff:  Assembly, Lever Lift                   1
+              4     019367      07520700    Tip, Push Rod                          1
+              5                             Rod, Lever Push                        1
+              6                 05216000    Ring-Retaining-External .835 x .056    1
+              7     018355                  Bushing-Hange 1.020 x 1.385 x .75 x 1.75 2
+              8     018404      08707200    Shaft, Lift Lever Weldment             1
+              9     010670      07597600    Knob, Control .438-20 x .50            1
+             10     011105      08584300   Spring, Stop                           1
+             11     011106       088609000  Stop, Lever                            1
+             12     011103       0886080    Casting, Locator                       1
+             13     187184                  Key, Woodruff .25 x 2.13               1
+             14     456004      o�t3500    Nut-Locking-Nylon .375-16 Grade 2      2
+             15     018732       08653600'  Rod, Lever Stop                        1
+             16     180124                  Bolt-Hex .38-16 x 1.25 Grade 5         2
+             17     102593                  Screw-Set .38-16 x .50                 1
+             18                 08861400    Pawl, Lever                            1
+             19     010682                  Spring-Compression .067 x .72 x 2.0    1
+             20     011670                  Washer-Fiat-Steel .426 x .978 x .084   1
+                                               39
+
+===== Page 42 =====
+                             H.P. and 16 H.P. Units
+            steering -
+
+===== Page 43 =====
+                         Steering - 14 H.P.     and 16 H.P.    Units
+            ITEM    OLD          NEW             DESCRIPTION                      QTY
+             NO.    PART NO.     PART NO.
+              1     031426      03489800    Steering Wheel Cap                     1
+              2     124847                  Nut-Jam .625-11                        1
+              3     131016      06400400    Washer-Flat-Steel .656 x 1.312 x .095  1
+              4     031281                  Steering Wheel                         1
+              5     047311      08739200    Steering Column Boot                   1
+              6     010174      05518400    Bushing-Flange .762 x 1 .O x .580 x 1.48 1
+              7     040984      07625500    Tube, Plastic 1 .O I.D.                1
+              8     047530                  Weldment, Steering Shaft               1
+              9     446470      06425500:   Washer-Fiat-Steel .375 x 1.125 x .065  2
+             10     021246                  Strap, Rack and Pinion                 1
+             11     456004      06518500    Nut-Locking-Nylon .375-16 Grade 2      2
+             12     040130      .087a��o    Weldment, Steering                     2
+             13     021077      E519ioo;    Bushing-Flange .627 x .879 x .469 x 1.120 2
+             14     021076      08902300    Bushing, Steel .391 x .621 x .676      2
+             15     051851      08791700    Grade, Rack                            1
+             16     454473                  Screw-Cap .38-16x 2                    2
+             17     120376                  Nut-Hex .312-18 Grade 2                2
+             18     419455      06506200    Nut-Locking-Nylon .312-18 Grade 2      2
+             19     443734      05940600    Bolt-Hex .50-13 x 6.00                 2
+             20     021078      08721900    Sleeve, Pivot                          2
+             21     180149                  Bolt-Hex .44-14 x 1.50                 2
+             22     035344      06426300    Washer-Thrust .507 x .917x .031        1
+             23     035064      08787200    Support, Steering Shaft                1
+             24     039413      00527500    Nut-Locking-Hex .44-14                 2
+             25     121224      06700200    Pin-Cotter .09 x 1 .O                  1
+             26     411027      07012600    Fitting-Lube .25-28 x .256             5
+             27     121592                  Nut-Hex.Slotted .500-13                1
+             28     014998      05419800    Bearing-N-Thrust .752 x 1.24 x .093    2
+             29     192481      06524500    Nut-Locking-Nylon .375-24 Grade 2      4
+             30     021084      ogeotaoo    Joint, Steering Ball                   4
+             31     018785      07520300    Cap, Front Axle                        2
+             32     021079      08722000    Plate, Adjustment                      1
+                    034074      06218000    Bolt-Round Head Square Neck .31-18 x 5.50 Grade 2 2
+             34     435507      .06512900+  Nut-Locking-Nylon .50-13 Grade 5       2
+             35     120369      06522900    Nut-Hex .375-24 Grade 2                4
+                    040630      08655200    Rod, Steering                          2
+             37     271781      05939800    Bolt-Hex .75-10 x 4.50                 1
+             38     023237      08725200    Tube, Axle Pivot                       1
+             39     411031                  Fitting, Lube 45 Deg                   1
+             40     456007       0651.7700  Nut-Locking-Nylon .75-10 Grade 2       1
+             41     021543                  Bearing-Thrust .875 x 1.427 x .078     2
+             42     124589       06500700   Nut-Hex .625-11 Grade 2                2
+             43     040126       08746100   Arm, Tie Rod Axle                      2
+             44     043359       055:1�oo   Bushing-Sleeve .866 x 1.004x 1.000     4
+             45     045400       08766900   Axle, Steering                         1
+             46     021541       06426100   Washer-Thrust .877 x 1.427 x .032      4
+             47     018463       03707700   Weldment, King Pin                     2
+                                               41
+
+===== Page 44 =====
+                         18 H.P. and 20 H.P. Units
+            steering -
+                                                                        ooo
+
+===== Page 45 =====
+                         Steering - 18 H.P. & 20 H.P.        Units
+           ITEM    OLD           NEW            DESCRIPTION                      QTY
+            NO.    PART NO.      PART NO.
+             1     031426      03489800     Steering Wheel Cap                     1
+             2     124847      0$5$4T0      Nut-Jam .625-11                        1
+             3     131016                   Washer-Flat-Steel .656 1. 312 x .095   1
+             4     031281                   Steering Wheel                         1
+             5     047311      08739200    Steering Column Boot                   1
+             6     010174                   Bushing-Flange .762 x 1. ox .580x 1.48 1
+             7     040984      07525500     Tube, Plastic 1.0 1.D.                 1
+             8     047530      08780900.    Weldment, Steering Shaft               1
+             9     446470                   Washer-Fiat-Steel .375 x 1.125 x .065  2
+             10    021246                   Strap, Rack and Pinion                 1
+             11    456004                   Nut-Locking-Nylon .375-16 Grade 2      2
+             12    040130      08*46200     Weldment, Steering                     2
+             13    021077                   Bushing-Hange .627 x .879 x .469 x 1.120 2
+             14    021076                   Bushing, Steel .391 x .621 x .676      2
+             15    051851      0879i700     Grade, Rack                            1
+             16    454473      05%3400      Screw-Cap .38-16 x 2                   2
+             17    120376                   Nut-Hex .312-18 Grade 2                2
+             18    419455                   Nut-Locking-Nylon .312-18 Grade 2      2
+             19    443734      05940600     Bolt-Hex .50-13 x 6.00                 2
+            20     021078                   Sleeve, Pivot                          2
+            21     180149      0595400      Bolt-Hex .44-14 x 1.50                 2
+             22    035344      06426306,    Washer-Thrust .507 x .917 x .031       1
+             23    035064      08707200     Support, Steering Shaft                1
+             24    039413      06627500     Nut-Locking-Hex .44-14                 2
+             25    121224      067:0tmo    Pin-Cotter .09 x 1.0                   1
+            26     411027      070�2600.    Fitting-Lube .25-28 x .256             5
+            27     121592      06523500     Nut-Hex-Slotted .500-13                1
+            28     014998                   Bearing-N-Thrust .752 x 1.24 x .093    2
+            29     192481      06524500     Nut-Locking-Nylon .375-24 Grade 2      4
+                   435507                   Nut-Locking-Nylon .50-13 Grade 5       6
+             30    120384                   Washer-Lock .50 Reg                    4
+             31    271781                   Bolt-Hex .75-10 x 4.50                 1
+             32    018785      0762000      Cap, Front Axle                        2
+             33    021079       08722000.   Plate, Adjustment                      1
+             34    034074      062?t3000.   Bolt-Round Head Square Neck .31-18 x 5.50 Grade 2 2
+             35    180183       05%4S00:    Bolt-Hex .50-13 x 2.25 Grade 5         4
+             36    044941      087637W      Rod End, Steering Right Hand Thread    2
+                   044940                   Tie Rod, Steering                      2
+             38    124934                   Nut-Jam .50-20 Grade 2                 2
+             39    044942       08763800    Rod End, Steering Left Hand Thread     2
+             40    044939      08763600:   Arm, Tie Rod Axle                      2
+             41    190139                   Nut-Locking-Nylon .312-24 Grade 2      2
+             42    023237       08725200    Tube, Axle Pivot                       1
+            43     411031                   Fitting, Lube 45 Deg.                  1
+             44    456007                   Nut-Locking-Nylon .75-10 Grade 2       1
+             45    021543      05422000     Bearing-Thrust .875 x 1.427 x .078     2
+             46    124589       065007004   Nut-Hex .625-11Grade 2                 2
+             47    181618      0593:70w     Bolt-Hex .31-24 x 1.75                 2
+             48    023241                   Bushing-Sleeve .866 x 1.004 x 1 .OOO   4
+             49    045400      08766900     Axle, Steering                         1
+             50    021541      06426f00     Washer-Thrust .877 x 1.427 x .032      4
+             51    018463                   Weldment, King Pin                     2
+                                              43
+
+===== Page 46 =====
+                                    Direction Control
+
+===== Page 47 =====
+                                    Direction Control
+            ITEM   OLD           NEW            DESCRIPTION                      QTY
+            NO.    PART NO.      PART NO.
+             1     180079       05918100    Bolt-Hex .31-18 x 1.00 Grade 5        2
+             2     046309       08778700    Weldment, Forward-Reverse Actuating
+             3     419455                   Nut-Locking-Nylon .312-18 Grade 2     2
+             4     040305       08715700    Bushing-Hange .500 x .875 x .700      2
+             5     044609                   Bolt-Hex .38-16 x 2.50                2
+             6     120377       06501800    Nut-Hex .375-16 Grade 2               3
+             7     043789       08761353    Spring, Reverse Clutch                1
+             8      120238      06501700    Nut-Jam .50-13 Grade 2                2
+             9      120378      06502100    Nut .50-13                            1
+            10      131101      06800600    Washer-Lock .500 x .151               1
+             11    446354       06430700    Washer-Flat-Steel .313 x .875 x .065  1
+            12      180138      05935200    Bolt-Hex .38-16 x 3.00                1
+            13     039843       08745400    Strap, Neutral Detent                 1
+            14     040360       087d530�    Bushing-Steel .328 x .500 x .500      1
+            15     454750                   Nut-Locking-Nylon .250-28 Grade 2     1
+            16      120392      06412700    Washer-Fiat-Steel .281 x .620 x .065  1
+            17     039842       05425200    Roller, Clutch Cam .250 x .750 x .5625 1
+            18     040811       05942500    Bolt-Hex .25-28 x 1.38                1
+            19     456004       06513500    Nut-Locking-Nylon .375-16 Grade 2     2
+            20      039844      08335000    Spring-Tens .062 x .50 x 3.1          1
+            21     039841       08745353    Arm, Forward-Reverse Clutch Roll      1
+            22     039840       08745200    Rod, Forward-Reverse Slide            1
+            23      120230                  Bolt-Round Head Square Neck .31-18 x 1.25 1
+            24     034715       06736253    Spring, Forward-Reverse Clutch        1
+            25     051423       08790500    Weldment, Forward-Reverse Rod         1
+            26     045090       08764300    Pedal, Foot Clutch                    1
+            27     046043       08749700    Pad, Foot Clutch Pedal                1
+            28     435507       065f2900    Nut-Locking-Nylon .50-13 Grade 5      1
+            29      189315      05938500    Bolt-Hex .50-13 x 6.50                1
+            30     010174       05518400    Bushing-Hange .767 x 1.0 x .580 x 1.48 2
+            31      045094      08764400    Bracket, Clutch Pedal Pivot           1
+            32     415543       06430200    Washer-Fiat-Steel .531 x 1.250 x .100 2
+            33      034738      05521100    Bushing-Hange .515 x .750 x .745 x 1.00 2
+            34      180175      05914600    Bolt-Hex .50-13 x 1.25 Grade 5        2
+            35      045789      05517500    Bushing-Hange .320 x .620 x .312      1
+            36      124925      06518800    Nut-Jam .375-24                       1
+            37      180124      05913300    Bolt-Hex .38-16 x 1.25 Grade 5        1
+            38      051425      08790600    Rod End, Male                          1
+                                              45
+
+===== Page 48 =====
+                                    Transmission Controls
+
+===== Page 49 =====
+                                Transmission Controls
+            ITEM    OLD          NEW             DESCRIPTION                     QTY
+             NO.    PART NO.     PART NO.
+              1     180077      05913500    Bolt-Hex .31-18 x .75 Grade 5          2
+             2      103422      06705000    Pin-cotter .250 x 2.00                 1
+              3     419455      06506200    Nut-Locking-Nylon .312-18 Grade 2      2
+             4      057102      05710200    Ring-Retaining-External .500 x .042    4
+             5      087642      08764200    Cross Shaft                            1
+              6     120396      06429500    Washer-Flat-Steel .531 x 1.062 x .095  5
+              7     456004      06513500    Nut-Locking-Nylon .375-16 Grade 2      2
+              8     120388      06400800    Washer-Fiat-Steel .438 x 1 .O x .083   4
+              9     010670      07537600    Knob-Control .438-20 x .50             2
+             10     018371      08653500    Lever, Shift                           1
+             11     033994      08654400    Rod, Shift                             2
+             12     124829      06500100    Nut-Jam .375-16                        4
+             13     033986      08710300    Bushing-Sleeve .396 x .490 x 1.63      2
+             14     033988      08735300    Arm, Shifter Right                     2
+             15     033989      08735400    Arm, Shifter Left                      2
+             16     018372      n8328000    Spring-Compression .085 x .50 x 2.75   1
+             17     033990      08735500    Lever, High-Low Shift                  1
+             18     034067                  Grip, Handle                           1
+             19     068119      06811900    Pin, Clevis .375 x .948                1
+             20     018380      0900406     Clevis .38-24 Adjustable               1
+             21     121222      06700100    Pin-Cotter .09 x .75                   1
+             22     040143      08657700    Rod, 2-Speed                           1
+             23     011860      06702000    Pin-Hair Internal .08 x .18 x 1.18     3
+             24     137185      06700400    Pin-Cotter .12 x 1.0                   4
+             25     018386      08657300    Rod, PTO                               1
+             26     018387      OB7�i200    Yoke .50-20, Adjustable                1
+                    138086      06812100    Pin, Clevis .500 x 1.213               1
+             28     034065      08735800    Assembly, PTO Control                  1
+                                              47
+
+===== Page 50 =====
+                                               Brake Linkage
+                                    19
+                                              18
+                                        20               16
+                                                    17       11
+                                             22
+                                   21 p      23
+                  27-1    26                                               12
+                                              24
+                   28-0         29
+                                                                      13
+                                          25                      14
+                                                  15
+                                     20
+                                        11
+                             0-39
+                                               37
+                                                   41
+                                                                   31
+                                           48
+
+===== Page 51 =====
+                                      Brake Linkage
+            ITEM   OLD           NEW            DESCRIPTION                      QTY
+             NO.   PART NO.      PART NO.
+              1     121741      06811 goo   Pin-Clevis .312 x .822                 1
+             2      034633      07014700    Yoke .31-24 x 2.250                    1
+             3      120368      06522800    Nut-Hex .312-24 Grade 2                1
+             4      121222      06700100    Pin-Cotter .09 x .75                  2
+             5      045109      fi8656100   Rod, Parking Brake                     1
+             6      124549      06608700    Key, Woodruff .19 x .75                1
+             7      045104      08764500    Weldment, Brake Cross Shaft            1
+             8      010174      05518400    Bushing-Flange .762 x 1.0 x .580 x 1.48 2
+              9     011270      05716200    Ring-Retaining-External .574 x .050    1
+             10     018019      08705700    Lever, PTO                             1
+             11     177923      06702400    Pin-Cotter .12 x .75                   2
+             12     138078      06811900    Pin-Clevis .375 x .948                 1
+             13     018380      08800400    Clevis .38-24 Adjustable               1
+             14     124925      06518800    Nut-Jam .375-24                        1
+             15     045102      08656000    Rod, Brake (Right Hand)                1
+             16     011329      08657900    Clip, Spring                           1
+             17     011263      08353300    Spring-Tens .095 x .500 x 5.5          1
+             18     020772      08859800    Arm, Parking Brake Lock                1
+             19     180124      059# 3300   Bolt-Hex .38-16 x 1.25 Grade 5         1
+             20     120394      06404300    Washer-Fiat-Steel .406 x .812 x .065   3
+             21     124829      06500100    Nut-Jam .375-16                        1
+            22      020775      06433600    Washer-Fiat-Nylon .375 x .75 x .060    2
+            23      120382      06302100    Washer-Lock .375 x .094                1
+             24     413534      06524800    Nut-Locking-Center .625-10 Grade 2     1
+             25     041944      07527300    Pad, Pedal                             1
+             26     046064      08775400    Rod                                    1
+             27     121223      06703900    Pin-cotter .062 x .75                  1
+             28     120392      06412700    Washer-Flat-Steel .281 x .62 x .065    1
+             29     126325      06216800    Bolt-Round Head Square Neck .25-20 x 1.25 2
+             30     419454      06506600    Nut-Locking-Nylon .250-20 Grade 2      2
+             31     018053      05712500    Ring-Retaining-External .625 x .042    2
+             32     045518      08767400.   Pedal, Brake                           1
+             33     041921      08938300    Plate, Brake                           1
+             34     045918      06811400.   Pin-Clevis .25 x 1.13                  1
+             35     045215      08765200    Weldment, Brake Pedal                  1
+             36     441027      07012600    Fitting-Lube .25-28 x .256             1
+             37     126227      06216700    Bolt-Round Head Square Neck .38-16 x .75 2
+                                              Grade 1
+             38     045222      08765800    Bracket, Brake Pedal                   1
+             39     045787      05517400    Bushing-Hange .630 x 1 .OOO x .625     4
+             40     456004      06538500    Nut-Locking-Nylon .375-16 Grade 2      2
+             41     045221      08765700    Shaft, Brake Pedal Mounting            1
+                                              49
+
+===== Page 52 =====
+                 Fuel and Exhaust System - Kohler Units 14 H.P.
+                                               50
+
+===== Page 53 =====
+               Fuel and Exhaust System - Kohler Units 14 H.P.
+           ITEM    OLD          NEW             DESCRIPTION                     QTY
+            NO.    PART NO.     PART NO.
+             1     069256      06925600    Throttle Cable                         1
+             2     160046                  Screw-Machine 10-32 x .50              2
+             3     065028      06502800    Nut-Locking 10-32                      2
+             4     047615      08983200    Gauge, Fuel                            1
+             5     047612      08983000    Tank, Fuel                             1
+             6     050246      075tf400    Bushing                                1
+             7     047615      08983100X   Fitting, Tank                          1
+             8     032045      (B�2430��   Hose-Clamp                             2
+             9     021134      .(E24900    Gas Line-Bulk                      72 in.
+            10     010629      08860300    Tie Cable                              6
+            11     419455      06506200    Nut-Locking-Nylon .312-18 Grade 2
+            12     120393      06429200    Washer-Fiat-Steel .344 x .688 x .065   2
+            13     035313      03334000    Cable Clamp
+            14     180079      .ob�t�too   Bolt-Hex .31-18 x 1.00 Grade 5         1
+            15     040133      06926200    Control, Choke                         1
+            16     124925      06518800    Nut-Jam .375-24                        1
+            17     018344                  Ring-Retaining 1.249 x .050            1
+            18     018343      08790200    Gear, Spur & Bevel                     1
+            19     040758      $4$4200     Washer-Thrust 1.125 x 1.750 x .123     2
+            20     018341      05421000    Bearing-N-Thrust 1.84 x 1.127 x .078   1
+            21     421648      05993000    Screw-Socket Head .44-14 x 1.00        1
+            22     180175      05914600    Bolt-Hex .50-13 x 1.25 Grade 5         4
+            23     120384                  Washer-Lock .50 Reg.                   4
+            24     180146      05935300            .44-14 x 1.125                 3
+            25     131100      06300500    Washer-Lock .438 x .133                3
+            26     050126      08786400   Adapter, Engine                        1
+            27     018340      08900100    Gasket, Adapter                        1
+            28     018517      05615100    Seal 1.125 x 1.628 x .250              1
+            29     018345      06606900    Key, Square .248 x 1.25 x .248         1
+            30     018343      08237800    Engine, 14-HP Kohler, PS-1810          1
+            31     051002      08790000    Weldment, Heat Shield                  1
+            32     120391      06414100,   Washer-Flat-Steel .219 x .500 x .049   5
+            33     046419      0*408900.   Screw-Drive 8-18 x .50                 5
+            34     075215      07521500    Knob                                   1
+                                             51
+
+===== Page 54 =====
+                   Fuel and Exhaust System - Briggs Units 16 H.P.
+                                                 52
+
+===== Page 55 =====
+                Fuel and Exhaust System - Briggs 16 H.P. Units
+           ITEM    OLD          NEW             DESCRIPTION                     QTY
+            NO.    PART NO.     PART NO.
+             1     069256      06925600    Throttle Cable                         1
+             2     016046      06113300    Screw-Machine 10-32 x .50              2
+             3     065028      06502800    Nut-Locking 10-32 Nylon                2
+             4     075215                  Knob                                   1
+             5     047615      08983200    Gauge, Fuel                            1
+             6     047612      08983000    Tank, Fuel                             1
+             7     050246                  Bushing                                1
+             8     047614      08983100     Fitting, Tank                         1
+             9     032045      06924300    Clamp-Hose                             2
+            10     021134                  Gas Line Bulk                       72 In.
+            11     010629                  Tie, Cable                             6
+            12     419455      06506200     Nut-Locking-Nylon .312-18 Grade 2     1
+            13     120393      06429200    Washer-Flat-Steel .344 x .688 x .065   2
+            14     180079                   Bolt-Hex .31-18 x 1.00 Grade 5
+            15     035313      0333400b    Cable Clamp                            1
+            16     040133      06926200    Control, Choke                         1
+            17     124925      055i880�     Nut-Jam .315-24                       1
+            18     057172      057i7200     Ring-Retaining-lnternal 1.111 x .042  1
+            19     087964      08796400     Input Gear                            1
+            20     064348      06434800     Washer-Thrust                         2
+            21     011225      05427900     Bearing-N-Thrust 1.0 x 1.55 x .078    1
+            22     421648                   Screw-Scoket Head .44-14 x 1.00       1
+            23     180175      059* 4600    Bolt-Hex .50-13 x 1.25 Grade 5        4
+                   120384       06305100    Washer-Lock .50                       4
+            25     180146       059350      Bolt-Hex .44-14 x 1.125               3
+            26     131100      06300500     Washer-Lock .438 x .133               3
+                   087974      087974W      Adapter, Engine                       1
+            28     018517      05615100     Seal 1.25 x 1.628 x .250              1
+            29     018345                   Key-square .248 x 1.25 x .248         1
+            30     082406                   Engine, 16 HP Vanguard                1
+            31     102570                   Screw-set .25-20 x .38                1
+            32     087977                   Spacer                                1
+                                              53
+
+===== Page 56 =====
+                               Fuel and Exhaust System
+                     16 H.P., 18 H. P. and 20 H.P. Kohler Units
+                                               54
+
+===== Page 57 =====
+                               Fuel and Exhaust System
+                      16 H.P., 18 H.P. and 20 H.P. Kohler Units
+             ITEM   OLD           NEW            DESCRIPTION                      QTY
+              NO.   PART NO.      PART NO.
+              1      069256      E�5600      Throttle Cable                         1
+              2      160046                  Screw-Machine 10-32 x .50              2
+              3      065028      E02800      Nut-Locking 10-32                      2
+              4      047615      08983200    Gauge, Fuel                            1
+              5      047612      08983000    Tank, Fuel                             1
+              6      050246      oi5t4:400   Bushing                                1
+              7      047615      08983100    Fitting, Tank                          1
+              8      032045      $924800     Hose Clamp                             2
+              9      021134      00924800    Gas Line - Bulk                    72 in.
+              10     010629                  Tie, Cable                             6
+              11     419455      06506200    Nut-Locking-Nylon .312-18 Grade 2      1
+              12     120393      06429200    Washer-Fiat-Steel .344 x .688 x .065   2
+              13     035313      03334000*   Cable Clamp                            1
+              14     180079                  Bolt-Hex .31-18 x 1.00 Grade 5         1
+              15     032030      08794400    Shield, Heat                           1
+              16     040448      08748100    Bracket, Throttle & Choke              1
+              17     007331                  Clip, Speed                            2
+              18     039859                  Control, Choke                         1
+              19     124925                  Nut-Jam .375-24                        1
+              20     051902                  Muffler, Exhaust                       1
+              21     421705      05933100    Screw-Cap .31-18 x .75                 4
+              22     120214      06303600    Washer-Lock .313 x .078                4
+              23     044390      08824700    Gasket, Exhaust                        2
+              24     047480      08232700$&  Engine, 16 HP Magnum, PS-24633         1
+                     045527      08235700    Engine, 18 HP Magnum, PS-24590         1
+                     045529      08235800    Engine, 20 Hp S.B. Kohler PT .49562    1
+              25     018344      057t2600.   Ring-Retaining 1.249 x .050            1
+              26     044390      08790200    Gear, Spur & Bevel                     1
+              27     040758                  Washer-Thrust 1.125 x 1.750 x .123     2
+              28     018341      05421000    Bearing-N-Thrust 1.84 x 1.127 x .078   1
+              29     180179      05936600:   Bolt-Hex 1.75                          4
+              30     120304      o�05too     Washer-Lock .50 Reg                    4
+              31     018345                  Key, Square .248 x 1.25 x .248         1
+              32     075215      0752i500+   Grip                                   1
+                                               55
+
+===== Page 58 =====
+                                      Electrical System
+                         8
+                                                 00
+                                                56
+
+===== Page 59 =====
+                                   Electrical System
+            ITEM   OLD           NEW            DESCRIPTION                      QTY
+             NO.   PART NO.      PART NO.
+              1    036066                   Switch, Double Pole N.O./N.O.          1
+             2     074045                   Screw-Tapping 12-24 x .50              2
+             3     087814      087.81:aoo  Harness, Wiring Seat Switch            1
+             4     038059      oesaeooo     Terminal                              16
+             5     020916      029fO*OO    Switch-Neutral Start N.O.              2
+             6     107354                   Nut-Stamped .56-18                     1
+             7     042176      .o�ssooeo    Connector, 2 Wire Switch               2
+             8     020660      08720800     Bracket, Switch                        1
+             9     419454                   Nut-Locking-Nylon .250-20 Grade 2      7
+             10    180020      05908200     Bolt-Hex .25-20 x .75 Grade 5          7
+             11    027122      0697200      Clamp                                2/1
+             12    413534      06524800     Nut-Locking-Center .625-10 Grade 2     1
+             13    042289      207094M      Connector                              1
+             14    039862      08745600     Cable Starter (060, 061                1
+                   040135      08746300     Cable Starter (058,059)                1
+             15    456004      #50500       Nut-Locking-Nylon .375-16 Grade 2      1
+             16    011676                   Nut-speed .25-20                       2
+             17    045071                   Solenoid                               1
+             18    033847                   Boot, Insulator                        3
+             19    045920      20822700.    Assembly, Connector Weather Tight      1
+             20    045922                   Terminal, For 14-16 Gauge Wire         2
+             21    045037                   Fuse, 25 AMP                           1
+             22    045921      20822800     Cover                                  1
+             23    050673      t��@4ff20�   Light, Indicator                       1
+             24     021848     .03490800    Gauge-Ammeter                          1
+             25     046060     08973300    Switch, Light                          1
+             26     045842                  Key Chain                              1
+             27     045488     0348%00     Ignition Switch Key                    1
+             28     045490     07517m       Cap-ignition Switch                    1
+             29     045489     .06517400    Nut-Panel .562-24                      1
+             30     019667                  Washer-Lock Internal .563 x .040       1
+             31     039871                  Cable, Negative Battery                1
+             32     180079                  Bolt-Hex .31-18x 1.00 Grade 5          3
+             33     120393                  Washer-Fiat-Steel .344 x .688 x .065   6
+             34     419455     06506200     Nut-Locking-Nylon .312-18 Grade 2      3
+             35     041784                  Clamp, Steel 1.0                       1
+             36     038256                  Hour Meter                             1
+             37     019223                  Ignition Switch                        1
+             38     038058                  Connector                              2
+             39     087723      08772aeo    Harness, Wiring                        1
+                    087892      08789200    Harness, Wiring (064,065)              1
+             40     040313      08935800    Module, Time Delay                     1
+             41     040216     03042800     Relay                                  1
+             42     120392      064�2700    Washer-Fiat-Steel .281 x .62 x .065    5
+             43     034466                  Cover, Battery Terminal                1
+             44     039861      08745Soo    Cable, Battery to Magneto Switch       1
+             45     087796      08779600    Harness, Wiring Ground & Lights        1
+             46     010629                  Tie, Cable                             6
+             47     035313                  Cable Clamp                            2
+             48     039069      031:tagoo   Head Light                             2
+             49     042597      78506200    Battery, 12Volt                        1
+             50     037742                  Clamp                                  2
+             51     126342                  Bolt-Round Head Square Neck . 25-20 x 1.75 2
+             52     034379      08437900    Switch Assembly                        1
+                                              57
+
+===== Page 60 =====
+                                    Wiring Diagram
+                                    Briggs Engines
+                       �11HM
+                           yovng
+                              O�U/1HM
+                         MOTIAA             NMOU8
+                                           yovngeme
+                                                             038
+                                                       0
+                                                               Yong
+                                              58
+
+===== Page 61 =====
+                                     Wiring Diagram
+                                     Kohler Engines
+                                              INTERLOCK SWITCH
+                                             BROWN
+                                                               FWD-REV
+                                     SOLENOID             INTERLOCK SWITCH
+                                     SWITCH
+                                 RED                        RED
+                        BATTERY
+               BLACK                                            STARTER
+                                                 RED            MOTOR
+                                  BROWN
+                                   s
+                                          RED            RED
+                                           RED
+                               IGNITION          AMMETER
+                               SWITCH
+                                   LIGHT        IMPLEMENT
+                                   BLUE        I LIFT SWITCH
+                                                                  FUSE
+                            BLACK                                    HYDRAULIC
+                                                                       PUMP
+                                                     BLUE / WHITE
+                                                 GREEN / WHITE
+                                 LIGHT
+                     LIGHT
+                     SWITCH
+                                GREEN
+                                                HOURMETER
+                                                                        BLACK
+                           PINK
+                   PURPLE                          PINK
+             DARK                                   WHITE           WHITE
+             BLUE
+                                           HEADLIGHTS
+                                                                           ORANGE
+                                                  G GREEN
+                                             870   RELAY         YELLOW
+                                                                       GREEN
+                                RED                          SEAT
+                                           86  30            SWITCH
+                                      BLACK                      YELLOW
+                             LT BLU/BLK      GREEN    GREEN
+                                                 TIME DELAY      YELLOW
+                                                 MODULE
+                       CONNECTOR
+                         PURPLE           IGNITION
+                REGULATOR          WHITE  MODULE       BROWN
+                                              59
+
+===== Page 62 =====
+        Ask your dealer for information about these other fine Gravely Products:
+             Professional Two-Wheel Tractors
+             Professional Riding Tractors
+             Pro Commercial Walk-Behind Mowers
+              Promaster Commercial Front-Mount Riding Mowers
+              Pro Zero-Turn-Radius Walk-Behind Mowers
+              Promaster Zero-Turn-Radius Riding Mowers
+              Professional Chippers
+              Professional Vacuum
+                                                               ArienSGravely Company
+           e GRAVELY                                           655 W. Ryan Street
+                                                               PO. Box 157
+                                                               Brillion, WI 54110-1098

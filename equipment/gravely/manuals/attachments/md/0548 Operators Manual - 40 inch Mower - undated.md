@@ -1,0 +1,712 @@
+---
+title: "Operators Manual — 40 inch Mower — undated"
+oldgravelys_no: "0548"
+series: "40 inch Mower"
+doc_type: "Operators Manual"
+date: "undated"
+pages: 7
+source_pdf: "../0548 Operators Manual - 40 inch Mower - undated.pdf"
+text_source: "PDF text layer"
+---
+# Operators Manual — 40 inch Mower — undated
+
+Source: [0548 Operators Manual - 40 inch Mower - undated.pdf](../0548 Operators Manual - 40 inch Mower - undated.pdf). Text is machine-extracted; confirm part numbers against the PDF page before ordering.
+
+## Page 1 — Operator'S
+
+```text
+1 
+ 
+ 
+ 
+OPERATOR'S 
+ MANUAL 
+NAME: 40" COMMERCIAL MOWER 
+PART NUMBER(S): 11362 - 40" Commercial Drive 
+ 
+11368 - 40" Commercial Deck 
+40" COMMERCIAL MOWER ATTACHED TO C12 TRACTOR WITH DUAL WHEELS 
+GENERAL 
+1. The 40" Commercial Mower is a front mount unit 
+designed and built to give many years of excellent 
+service. The mower is recommended for rough 
+mowing conditions; has all gear drive from engine to 
+mower, heavy-duty steel deck, rugged skids and 
+casters, and 2 adjustable blades. The mower 
+attaches to both 2 and 4 wheel tractors (see 
+paragraph 3). 
+ 
+2. The Owners Manual includes the parts list, setting 
+up the mower, safety, operation, and maintenance 
+instructions. Use the parts list for reference to 
+individual part numbers. If further information is 
+necessary contact the local Gravely dealer. 
+ 
+3. Height: 15-1/2" Weight: 182 lbs. 
+Length: 34-3/4" Width: 42" 
+Cutting Width: 40" 
+Deck: Reinforced, welded steel. 
+Drive: Right angle bevel gear, tapered roller 
+ 
+bearings, cast iron housing, 2 self 
+ 
+adjusting spring tensioned V-belts. 
+Blades: 
+2 steel, 
+hi-strength, 
+hi-lift, 
+ 
+20-1/2" length, 3/16" thick 
+Features: 
+Adjustable casters, adjustable swivel 
+action. 
+Purpose: 
+Heavy mowing conditions. 
+Recommended for the following tractors: 
+7.6 - C10A - C12 
+424 - 430 - 432 
+810 - 812 - 814 - 816S 
+Required 
+attaching kits: 
+7.6 - C10A - C12: None 
+424 - 430 - 432: 
+15840E1 Front Drive Kit 
+11601E1 Front Adapter Kit 
+810-812-814-816S: 
+19075E1 Front Drive Kit 
+11601E1 Front Adapter Kit 
+ 
+ Recommended optional equipment for special 
+applications: 
+7.6 - C10A - C12: None 
+Riding Tractors: 
+20181E1 Wheel Brake Kit, 800 Series 
+11924E1 Front Wheel Weights 
+Recommend option for riding tractors without 
+hydraulics: 
+11271E1 Lift Assist Kit
+```
+
+## Page 2 — Part N0.
+
+```text
+2 
+ 
+ 
+ITEM 
+ 
+ 
+N0.  
+PART N0.  
+DESCRIPTION 
+1 
+11369A1 
+Deck Weldment 
+2 
+180126 
+Bolt, Hex 3/8-16 x 1-1/2 
+3 
+9231P1 
+Idler 
+4 
+11379A1 
+Arm, Idler Pivot Weldment 
+5 
+11382A1 
+Idler, Pivot Arm 
+6 
+456004 
+Nut, Lock 3/8-16 Washer Insert 
+7 
+11263P1 
+Spring 
+8 
+9200A1 
+Housing, Spindle Bearing Weldment 
+9 
+9246P1 
+Bearing, Cones 
+10 
+9245P1 
+Bearing, Race 
+11 
+9206P1 
+Seal, Oil 
+12 
+9204P1 
+Ring, Seal 
+13 
+9207P1 
+Pulley, Rotor 
+14 
+131001 
+Washer, Flat 31/32 x 2-1/4 x .165 
+15 
+17313P1 
+Nut, Lock Esna 7/8-9 Heavy Thin 
+16 
+9203P1 
+Shaft, Rotor 
+17 
+9213P1 
+Key, Square 1/4 x 1 
+18 
+9205P1 
+Shield, Dust 
+19 
+9211P1 
+Collar, Blade Spacer 3/4" 
+20 
+9210P1 
+Collar, Blade Spacer 1/2" 
+21 
+9209P1 
+Collar, Blade Spacer 1/4" 
+22 
+9212P1 
+Blade, Mower 
+23 
+102581 
+Screw, Set 5/16-18 x 3/8 Hex Socket 
+24 
+94110270 
+Fitting, Lube 1/4-28 
+25 
+120915 
+Bolt, 3/8-16 x 1 Rd. Hd. Sq. Nk. 
+26 
+456004 
+Nut, Lock 3/8-16 Washer Insert 
+27 
+11384P1 
+Cover, Belt 
+28 
+94286380 
+Bolt, 3/8-16 x 5/8 Hex Hd. 
+29 
+120382 
+Washer, Lock 3/8 Sp. 
+30 
+120394 
+Washer, Flat 13/32 x 13/16 x .065 
+31 
+9240P1 
+Belt, Drive 
+32 
+9223P2 
+Skid 
+33 
+181596 
+Bolt, 5/16-24 x 7/8 Hex Hd. 
+34 
+120214 
+Washer, Lock 5/16 Sp. 
+35 
+120393 
+Washer, Flat 11/32 x 13/16 x .065 
+36 
+11376A1 
+Support, Deck Weldment 
+37 
+18549P1 
+Decal, Danger 
+38 
+11375P1 
+Bearing, Bronze 
+39 
+94110270 
+Fitting, Lube 1/4-28 
+40 
+180122 
+Bolt, Hex 3/8-16 x 1 
+41 
+120897 
+Bolt, 1/2-13 x 3 Rd. Hd. Sq. Nk 
+42 
+120384 
+Washer, Lock 1/2 Spring 
+43 
+120378 
+Nut, Hex 1/2-13 
+NS 
+9251A1 
+Guard, Weldment 
+45 
+137204 
+Pin, Cotter 1/8 x 1-1/2 
+46 
+131017 
+Washer, Flat 
+47 
+11385A1 
+Caster Fork Weldment 
+48 
+113871`1 
+Bushing 
+49 
+11386P1 
+Wheel, Caster 
+50 
+180193 
+Bolt, Hex 1/2-13 x 3-3/4 
+51 
+435507 
+Nut, Lock 1/2-13 Washer Insert 
+Complete 40" Rotary Mower Spindles R.H. #10398A1 and L.H. 
+#10399A1 Include Item Numbers 8 through 21 and Numbers 23 and 24 
+ILLUSTRATED PARTS LIST  Continued on Page 4 
+fig 1
+```
+
+## Page 3 — Lubrication
+
+```text
+3 
+ 
+ 
+ 
+ 
+ASSEMBLY 
+1. 
+Unpack the drive and deck. 
+ 
+2. 
+Remove the belt covers, fig 1, Items 27. 
+ 
+3. 
+Mount the idlers on the studs as in fig 2. Note the 
+different sleeve lengths of the idlers. The short 
+sleeve goes next to the high rotor and the tall 
+sleeve goes next to the low rotor. Set the idlers 
+on the studs with the extended sleeves down. 
+Work from the rear of the mower. 
+4. 
+Set the belts as in fig 3; low belt first. This belt 
+positioning is important for ease of assembly. 
+fig 2 
+fig 3 
+5. 
+Hook the springs to the idler assembly from 
+underneath as in figs 2 & 4, solid lines. 
+6. 
+Set the drive in position on the deck; do not bolt 
+it down. Slip the belts on the drive pulley and 
+then on the rotor pulleys. Let the idlers float at 
+this time; solid lines, fig 4. 
+7. 
+Bolt the drive to the deck. The 2 carriage bolts 
+are inserted from under the deck, fig 1, Items 41, 
+42 & 43. Be sure that the heads seat properly in 
+the deck. The 3 hex bolts fasten from the top, fig 
+1, Items 29 & 40. Start all bolts and nuts before 
+tightening. 
+fig 4 
+8. 
+Working from the sides, grip the springs with a spring 
+puller or clamp-lock pliers or equivalent. Extend the 
+spring hook up, over, and through the spring hole. 
+The belts are now in tensioned running position; 
+dotted lines fig 4. 
+9. 
+Replace the belt covers. 
+10. 
+Install the bushings in the caster wheels and 
+ 
+bolt the wheels in the caster forks. 
+ 
+LUBRICATION 
+ 
+1. 
+Grease the spindle bearing weldment housing through 
+the grease fitting, with general purpose grease fig 1, 
+Item 8 & 24. Add grease until it comes out the vent 
+hole; opposite side of the grease fitting. Re-grease 
+every 8 HOURS of operation or more often when 
+operating in severe dust or sand. 
+ 
+2. 
+Grease the bronze bearing and caster wheels through 
+the grease fittings with general purpose grease fig 1, 
+Items 38 & 49. Add grease until it comes out the 
+bearings. Re-grease periodically, especially when 
+operating in severe dust or sand.
+```
+
+## Page 4
+
+```text
+4 
+ 
+ 
+ITEM 
+ 
+ 
+N0.  
+PART N0.  DESCRIPTION 
+1 
+181618 
+Bolt, Hex 5/16-24 x 1-3/4 
+2 
+13412P1 
+Nut, Lock Esna 5/8-18 Light Thin 
+3 
+12871P1 
+Spring 
+4 
+12867P1 
+Plate, Dog 
+5 
+12870P1 
+Washer, Friction 
+6 
+12869P1 
+Plate, Drive 
+7 
+12868P1 
+Plate, Back 
+8 
+18277P1 
+Nut, Lock Esna 5/16-24 Light Thin 
+9 
+13143P1 
+Bearing, Race 
+ 
+13144P1 
+Bearing, Cone 
+10 
+13122P1 
+Seal, Oil 
+11 
+12550P1 
+Retainer, Oil Seal 
+12 
+11815P1 
+Shaft, Housing 
+13 
+94110100 
+Fitting, Lube 1/8 
+14 
+435507 
+Nut, Lock 1/2-13 Washer Insert Hex 
+15 
+180193 
+Bolt, Hex 1/2-13 x 3-3/4 
+16 
+180122 
+Bolt, Hex 3/8-16 x 1 
+17 
+138542 
+Washer, Lock 3/8 Int Tooth 
+18 
+12023P1 
+Casting, Swivel 
+19 
+12566P1 
+Shaft, Drive 
+20 
+13145P1 
+Bearing, Roller Race 
+ 
+13146P1 
+Bearing, Roller Cone 
+21 
+12862P1 
+Gear, Bevel 
+22 
+120502 
+Key, Woodruff 3/16 x 7/8 Hard 
+23 
+13187P1 
+Ring, Retaining 
+24 
+14101P1 
+Shim, Gear .020 
+ 
+12490P1 
+Shim, Gear House .005 
+25 
+12491P1 
+Gasket 
+26 
+10499P1 
+Plug, Pipe 2 In. W/Filler Plug 
+27 
+9236P1 
+Housing, 42 In. Mower 
+28 
+103877 
+Plug, Pipe 1/8 In. Sq. Hd. 
+29 
+119120 
+Pin, Cotter 3/32 x 1-1/4 
+30 
+125384 
+Nut, Slotted 5/8-18 Hex Thick 
+31 
+12850P1 
+Gear, Bevel 
+32 
+9229P1 
+Bolt, Hex Special 
+33 
+12852P1 
+Shim, Gear 
+ 
+13646P1 
+Shim, Gear .010 
+34 
+13142P1 
+Bearing, Roller Cone 
+35 
+13139P1 
+Bearing, Roller Cone 
+36 
+13171P1 
+Seal, Oil (Dual Lip) 
+37 
+11363P1 
+Shaft, Drive Rotor 
+38 
+11366A1 
+Plate, Mounting Weldment 
+39 
+120384 
+Washer, Lock 1/2 Spring 
+40 
+120378 
+Nut, Hex 1/2-13 
+41 
+11364P1 
+Sheave, Drive 
+42 
+11365P1 
+Nut, Special 
+NS 
+10102A1  Attachment Clutch Assembly  
+ ILLUSTRATED PARTS LIST   (Cont.) 
+fig 5
+```
+
+## Page 5 — Installation
+
+```text
+5 
+ 
+ 
+3. 
+Remove filler plug and level plug, fig 6 . Fill the 
+gear drive housing to the oil level plug with SAE 
+90 gear lubricant. Replace the plugs. Check the 
+level periodically especially if signs of leakage 
+are present. 
+ 
+4. 
+Grease the swivel casting through the grease 
+fitting on the casting with general purpose 
+grease. Add grease until it comes out under the 
+swivel adjustment fig 6. Re-grease every 8 
+HOURS of operation. 
+2. 
+7.6, C10A, C12 TRACTORS: 
+The mower attaches to the front of the tractors 
+with 2 nuts and 2 bolts. Do not damage the 
+threaded studs, fig 7. 
+ 
+3. 
+RIDING TRACTORS: 
+ 
+The mower attaches to the Front Adapter Kit with 
+2 nuts and 2 bolts. Do not damage the threaded 
+studs, fig 8. 
+fig 6 
+DRIVE UNIT 
+ 
+INSTALLATION 
+ 
+1. 
+Before attaching or detaching the mower, 
+STOP the engine, put the PTO control in the 
+"OUT" position. 
+fig 7 
+fig 8 
+SAFETY 
+ 
+1. 
+REFER to the tractor Owners Manual to 
+familiarize yourself with all controls before 
+operation. 
+ 
+2. 
+DO NOT ALLOW PASSENGERS to accompany 
+operator at any time. 
+ 
+3. 
+DO NOT ALLOW CHILDREN to operate 
+equipment, nor allow adults to operate it without 
+proper instruction. 
+ 
+4. 
+INSPECT WORK AREA for rocks, glass, metal, 
+bones, and any other foreign objects. Stay alert 
+for holes and other hidden hazards. 
+ 
+5. 
+USE EXTREME CAUTION when operating on 
+slopes. 
+ 
+6. 
+REDUCE SPEED on all side slopes and sharp 
+turns. 
+ 
+7. 
+DO NOT OPERATE equipment except from 
+proper operator's position. 
+ 
+8. 
+KEEP SAFETY devices and shields in place at 
+all times.
+```
+
+## Page 6 — Removal From Tractor
+
+```text
+6 
+ 
+ 
+9. 
+DISENGAGE POWER to attachment and stop 
+engine prior to making any adjustment or clearing 
+the unit. 
+ 
+10. 
+DO NOT WEAR LOOSE fitting clothing. 
+ 
+11. 
+KEEP HANDS, feet, hair, clothing, etc., away 
+from moving parts. 
+ 
+12. 
+KEEP BYSTANDERS and pets removed from the 
+work area. 
+ 
+13. 
+EXERCISE CAUTION to avoid slipping or falling, 
+especially when operating in reverse with two 
+wheel tractors. 
+ 
+14. 
+DIRECT DISCHARGE so as not to endanger life 
+or property; such as people, pets, structures, 
+cars, etc. 
+ 
+OPERATION 
+ 
+1. 
+Refer to the tractors Owners Manual for safety 
+and operating instructions to engage and 
+disengage the PTO (power take-off). 
+2. 
+Operate the engine at full speed. In thick, lush 
+growth reduce ground speed (not engine speed) 
+to allow the mower enough time to cut and 
+discharge. 
+REMOVAL FROM TRACTOR 
+ 
+1. 
+Reverse the procedure for attaching; see 
+INSTALLATION, paragraphs 1 through 3. 
+ 
+ 
+ADJUSTM ENTS 
+ 
+1. 
+SWIVEL ACTION: The swivel action is regulated 
+by the nut and bolt on the swivel casting, fig 5. 
+Loosening allows more action, tightening reduces 
+the action. The swivel action should allow the 
+mower to follow ground contour. 
+ 
+2. 
+CASTERS: The caster wheels should be 
+adjusted (if necessary) after the mower is 
+attached to a tractor. Raise or lower the casters, 
+by use of the spacers, to make the mower level 
+with the ground, fig 6 , Item 46. 
+ROUTINE MAINTENANCE 
+1. 
+Perform the lubrications as described in 
+LUBRICATION, paragraphs 1 through 4. 
+ 
+2. 
+Check each rotor shaft nut to insure tightness fig 
+1 , Item 15. See ADJUSTMENTS, paragraph 6. 
+ 
+3. 
+Check all nuts and bolts to insure tightness. 
+ 
+4. 
+Sharpen and balance the blades. 
+ 
+5. 
+Clear the mower of cuttings and debris. 
+fig 9 
+3. BLADE REMOVAL: STOP the engine, Put the 
+PTO in the OUT position. Put the operating levers 
+in NEUTRAL. BE SURE the blades have stopped. 
+Remove the mower from the tractor.  Turn the 
+mower upside down.  Hold the rotor shaft with a 
+3/8” socket drive and remove the nut with a 
+15367E1 Gravely Wrench or equivalent fig 9.  Do 
+not use the top spindle nut to hold the spindle form 
+spinning 
+4. BLADE SHARPENING: Sharpen the blades. 
+Balance after sharpening. 
+5. CUTTING HEIGHT: Place the collars above and/or 
+below the blade for adjustment, fig 1, Items 19, 20, 
+21. Note that the collars are not the same 
+thickness. Keep the same combination on both 
+rotors.
+```
+
+## Page 7 — Storage
+
+```text
+7 
+6. 
+BLADE INSTALLATION: Place the blade and 
+collars on the shaft at the desired cutting height. 
+Put the flat washer and nut on as in 
+ 
+7. 
+BELT REMOVAL: Remove the belt covers. 
+Unhook one end of each spring; use a spring 
+puller or clamp-lock pliers. Remove the drive. 
+Remove the belts. See figs 2, 3, & 4. fig 1, Item 
+14 and 15. Hold the rotor shaft with a 3/8" socket 
+drive and torque the nut to 100 ft. lbs. Similar 
+tightness can be reached with a Gravely 
+11367E1 Wrench or any 16" length handle 
+wrench when used by an average man, fig 9. 
+ 
+8. 
+BELT INSTALLATION: See ASSEMBLY 
+paragraphs 4, 6, 7, 8, and 9 . 
+9. 
+Safety clutch action is regulated by the 
+attachment clutch assembly, fig 5, Items 1, 3, 4, 
+5, 6, 7 and 8. Loosen all 6 nuts, Items 8. Tighten 
+the 6 bolts all the way into the threaded back 
+plate, Items 1 & 7. Back off each bolt 1/2 turn. 
+Lock the bolts in position with the nuts 
+ 
+ 
+STORAGE 
+ 
+1. 
+Perform all that applies from ROUTINE 
+MAINTENANCE and LUBRICATION. 
+ 
+2. 
+Apply a light coat of oil to preserve finish and 
+appearance.
+```

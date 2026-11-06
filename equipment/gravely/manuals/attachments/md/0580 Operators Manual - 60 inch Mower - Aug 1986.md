@@ -1,0 +1,796 @@
+---
+title: "Operators Manual — 60 inch Mower — Aug 1986"
+oldgravelys_no: "0580"
+series: "60 inch Mower"
+doc_type: "Operators Manual"
+date: "Aug 1986"
+pages: 22
+source_pdf: "../0580 Operators Manual - 60 inch Mower - Aug 1986.pdf"
+text_source: "OCR (Windows.Media.Ocr, 200 dpi)"
+---
+# Operators Manual — 60 inch Mower — Aug 1986
+
+Source: [0580 Operators Manual - 60 inch Mower - Aug 1986.pdf](../0580 Operators Manual - 60 inch Mower - Aug 1986.pdf). Text is machine-extracted; confirm part numbers against the PDF page before ordering.
+
+## Page 1 — Operator'S Manual
+
+```text
+OGRAVELV
+          60" CENTER MOUNT MOWER
+                  OPERATOR'S MANUAL
+     FORM NO: 40515(8-86)               PART NO: 40253                PRINTED IN USA
+```
+
+## Page 2 — Your Safety Is Involved.
+
+```text
+NOTE
+               Read this manual carefully and learn to operate and serv ice
+         your 60" Rotary Mower before using      it.
+               To keep the warranty, the 60"    Rotary mower must be main-
+         tained and operated as directed in      this manual.
+               Ali references to " left-s ide "                            and
+                                                , "right-s ide " , "front"
+         "back" are given trom the opera tor's position.
+               Use the serial   number to ens ure prompt and correct service
+         when ordering parts,    requesting service or making inquiries.
+                                SERIAL NUMBER
+                         Look for this symbol to point out important safe ty
+                         precaut ions .  It means  -- ATTENTION! BECOME ALERTI
+                         YOUR SAFETY IS INVOLVED.
+```
+
+## Page 3 — 1.   Instructions  For Safe Operation
+
+```text
+CONTENTS
+                             1.   INSTRUCTIONS  FOR SAFE OPERATION
+                             2.   OPERATING INSTRUCTIONS
+                             3.   SERVICE INSTRUCTIONS
+                             4.   STORAGE
+                                  SOLVING PROBLEMS
+                                  ILLUSTRATED PARTS   AND PARTS LIST
+                                  SPECIFICATIONS
+                              8.  SET-UP INSTRUCTIONS
+                              9.  WARRANTY
+```
+
+## Page 4 — Section 1
+
+```text
+SECTION 1
+                            Instructions for Safe Operation
+         Improper use of this equipment can inj ure people and damage the
+         eq uipment    People using or servicing this equipment must read
+         ana follow the ins truce ions in this manual.
+         It is important to unders tand that this manual and any other
+         Gravely ins truct ion manuals do not cover every possible danger.
+         It is impossible for Gravely to know all possible dangers in
+         operating and servicing the equipment.
+         The purchaser must give these ins truct ions to the people
+         operating and maintaining this equipment         These people must use
+         eye and foot protect ion.
+         1.1    Preparation:
+                    Read this manual and the tractor manual carefully.
+                2.  Learn the Ioca t ion and funct ion of all controls.
+                3.  Learn how to use the controls to stop the wheels and
+                    mower quickly.
+                4.  Use caut ion with gasoline. Gasoline is very f lammable.
+                    Keep it in a clean and tight container away from flames
+                    or hot items .     Never put- gasoline in the fuel tank
+                    while the eng ine is running or hot.        Clean up spilled
+                    gasoline before starting engine.
+                    Be certain that all shielas          guards,  and interlock
+                    swi tches are in the correct pos it ions .
+                    Never permit children to operate the tractor and mower.
+                    Ins pect area to be mowed and remove all material which
+                    could be thrown by the mower.
+                8.  Before starting the engine, put the PTO control lever
+                    in the "OFF" position and the gear shift lever in the
+                    neutral posit ion.
+                 9. When hauling the equipment, connect the chassis to the
+                    tr a ns po rt i ng veh ic Ie . Never connect from control
+                    levers, rods,   or like items that could be damaged.
+                    Replace al 1    pa rts that become damaged or los t.
+```
+
+## Page 5 — Use Only  Gravely Accessories And Attachments.
+
+```text
+1.2    Ope rat ion:
+                  1.  Wear foot    and   eye prot ect ion.     DO not wear loose
+                      clothing.
+                  2.  Do not use   the  equipment in the dark wi t hout adequate
+                      lighting .
+                  3.  Keep the   equipment in good condi t ion.     Maintain it as
+                      direct-ed  in this manual.
+                      USE ONLY  GRAVELY ACCESSORIES AND ATTACHMENTS.
+                  5.  Do not ove rspeea the eng ine .        Do not override     the
+                      gove rnor.
+                      Keep away from mov ing parts.
+                      Keep people and animals away from the operating area.
+                  8.  Do not let people other than the ope ra tor near the
+                      operating equipment.
+                  9.  Use a slow speed and engage the direct ion control lever
+                      slowly when ope rating on slopes
+                      Look for and keep away from hazards.
+                 11.  After hitting an object, stop the equipment and eng i ne.
+                      Check for damage. Repair any damage before operating.
+                 12.  Look behind when operating in reverse.       Look for people
+                      and hazards.
+                 13.  Operate only from the operator's position, on the
+                       tractor seat.
+                 14.  Travel up and down slope.
+                 15.  If there is a sudden change in the sound or vibration
+                      of the equipment, stop the engine and check for damage.
+                      Repair any damage or fa i lure before cont inuing
+                      ope rat ion.
+                 16.  Never run the engine indoors except to move it outside .
+                      Exhaust fumes are dangerous.
+                 17.  Co slowly on slick surfaces.
+                 18.  Follow traffic laws when operating on or near a road.
+                 19.  Before making adjustments or servicing, move the PTO to
+                       "OFF, " turn the igni t ion swi tch to "OFF,        and wait
+                      until all moving parts completely stop.
+                      Before leaving the opera tort s posit ion, put the PTO
+                      lever in the "OFF" position, turn the ignition key to
+                      the "OEF" posit ion.     Set the brake lock for parking.
+                                                2
+```
+
+## Page 6 — Section 2
+
+```text
+SECTION 2
+                                  OeeKating
+               CAUTION:   The 60" mower is recommended for use on a Model
+                          8179-G or Model 8199-G tractor.      Mow only with the
+                          hydraulic control in the float position.
+         2.1   Transport the equipment to the area to be mowed 
+         2.2   Inspect the area to be mowed and remove all mater ia1 which
+               could be thrown by the mower .
+         2.3   Plan the pattern for cutting the grass.          Generally an area
+               is mowed around the per iphery towards the center DY
+               discharg ing the grass toward the center on the first pass.
+               The remainder of the mow ing is done discharg ing the grass
+               outward in the area which has been cut.
+         2.4   See Section 7 for the schedule of heights ot cut.           Set the
+               mower for the height of cut desired.
+         2.5   See the tractor manual for correct operation of the P TO.
+               Start the eng ine and put the PTO control in the "ON"
+               pos it ion. Move the throttle control to the "FAST n position.
+         2.6   Select a slow gear.     Engage the forward clutch. Control the
+               ground speed by selecting the desired gear.
+               CAUTION: Do not shift the transmission gears while the
+                          tractor is mov ing .
+                                         SECTION 3
+                                        ice
+         3.1   Lubr ication :
+               1.  See Figures 1, 2 and 3.       Every eight hours of operation
+                   apply multi-purpose grease to the lube fittings on:
+                   a.   Each spindle (3)
+                   b.   Each gauge wheel (4)
+                        Drive shaft (2)
+                   d.   Each caster fork (2)
+                   e.   Each idler pivot weldment (2)
+               2.  Gear Box;    Once a year or every 200 hours of operation,
+                   check the lubr icant by remov ing the cover.          Clean the
+                   top of the gear box and carefully remove the cover.
+                   Replace the gasket if damaged .        Keep the gear box 3/4
+                   full of grease.
+                                              3
+```
+
+## Page 7 — Figure 1
+
+```text
+- Lube Fittings                  840Ed
+                                         - Idler Rod
+                                         - Jam Nut
+                                       4 - Adjusting Nut
+                                            FIGURE 1
+                                         - Lube Fittings                  84069
+                                         - Idler Rod
+                                       3 - Jam Nut
+                                       4 - Adjusting Nut
+                                           FIGURE 2
+```
+
+## Page 8 — Figure 3
+
+```text
+5
+                                            2
+                              1                 6
+                                                       3
+                                                                 1
+                                          4
+              1  - Lube Fittings                        4 - Blocks
+              2 - Height of Cut Adjustment Bolts        5 - Hanger Assembly
+              3 - Cas ter Wheel Support weldment-       6 - Trim Line
+                                         FIGURE 3
+         3. 2  Blade Service:
+               1.  Every ten hours ot operation or when           the cut   is  Poor
+                   visually, check the blades for sharpness.
+               2.  Reinove the mower from the tractor .           Secti ons 3.6 and
+                   3.7.
+               3.  Turn ELe mower upside down.
+               4.  Block the blades and renove the         nuts  and         washers
+                   from the spindle.
+               5.  Sharpen and balance the blades.
+                   Reverse the removal process to install the blades on          the
+                   mower and the idower on the tractor.
+               7.  Replace the blades when over 1/2" has been ren;oved or        t Ije
+                   blade cannot be balanced.
+         3. 3  He ight of Cut Adjustwent:      Lift the mower to the transport
+               position.     Remove the bolts in the caster wheel support
+               weldmen t .  move the caster wheel support weldlltent to the
+               holes which correspond to tile desired height position and
+               reinstall the retaining bolts.          Figure 3.
+         3. 4  Adjustment of Belts:
+               1.  Remove the belt covers.
+               2.  Unlock the adjusting nutse      See Figures  1 and  2.
+                                             5
+```
+
+## Page 9 — Belt        Diagrams
+
+```text
+3.   Rotate the inside nut until the air       gap  in the spr ing  is
+                      .010" to .015" (.251itrn to .38ram) .
+                 4.   Jam the adjusting nuts.
+                 5.   Install the belt covers.
+            3. 5 Belt Replacement;
+                 I.   Remove  the mower from the tractor.
+                 2.   Remove  the belt covers.
+                 3.   Loos en the spr ing tension on the belts.
+                 4.   Remove  the gear housing support.
+                 5.   Remove  the belts.
+                 6.   Put the new belts in position          on   the               See
+                      Diagram 1.
+                 7.   mount the gear housing support.
+                      NOTE ;   When install ing the gearbox       support, make    sure
+                      that the belt is around the drive pulley.
+                  8.  Adjust the tension of the belts.      See Section 3.4.
+                  9.  Replace the belt covers.
+                                 BELT        DIAGRAMS
+                                               o
+                                                    O
+                                                             o
+                              TIGHTEN SPRINGS TO .oqo AIR OAP
+                                    BEE OWNERS MANUAL
+                                                      O
+                                             o
+                                                                     84073
+                                            DIAGRAM 1
+                                                6
+```
+
+## Page 10 — Diagram 2
+
+```text
+3.6   mower Installation
+               1.  Pos it ion the mower in front of     the  tractor and block to
+                   keep it from rolling.
+               2.  Get assistance, lift and roll        the  front of the tractor
+                   over the mower.    See Figure 3.
+               3.  AI ign the mower pivot arm weldment with the tractor latch
+                   plates.     Guide the pivot arra weldment into the latch
+                   plates and latch.
+               4.  Put the mower pivot keepers, followed by a flat washer
+                   and hairpin cotter on the shaft on each side of the mower
+                   pivot arm weldment.
+               5.  Put the mower lift pivot on the lift rod followed by two
+                   jam nutse     Leave the jam nuts loose at the top of the
+                   lift rod. See Diagram 2         NOTE; Adjustment of the 1 ift
+                   rod jam nuts is required only on the first installation.
+                   Put a film of grease on the prop shaft and slide it into
+                   the U-joint assembly.
+                                              2
+                                    o ooo
+                                      3
+                                               2
+                                               4
+                                                          5
+                               5.0"TO 5.1"
+                                                               85052
+                                     - Hair Pin Cotter
+                                   2 - Jam Nuts
+                                   3 - Mower Lift Pivot
+                                   4 - Lift Rod
+                                   5 - Lift Bracket
+                                   6 - Cotter Pin
+                                         DIAGRAM 2
+                                             7
+```
+
+## Page 11 — Figure  4
+
+```text
+Put a film of grease on the PTO shaft.
+                 8.  Unlock the locking collar on the prop shaft asselllbly by
+                     pulling back.     SI ide the prop shaft assembly onto the PTO
+                     shaft.     Release the locking collar and slide the prop
+                     shaft assemoiy back and forth on the PTO shaft to assure
+                     latching .
+                 9.  Lower the attachment lift.        Connect the lift rod to the
+                     mower and the tractor lift.      See Diagram 2.
+                10.  Move the top pair of jam nuts down the 1 i ft rod until
+                     there is approx intately 1/8 n clearance.      Jam the top pair
+                     of jam nuts.     NOTE:   Adjustment of the lift zod jam nuts
+                      is required only on the first installation.
+                11.  Lift the mower to the transport position with the attach-
+                     ment lift.     Hook the spr ings to the spr ing tabs.        Pull
+                     the latch over the latch pin and lock.       See Figure 4.
+                12.  Flove the caster wheel support to match the desired height
+                     of cut.
+           3.7   Reverse the ins tall at ion procedure to remove the mower.
+                                                                7
+                                                   6
+                                               3
+                                                    2
+                                   49
+                                                                        05053
+                       1   Mower Pivot Keeper          5 - Latch Plate
+                       2 - Hair Pin Cotter             6 - Latch Pin
+                       3    Extension Spr ing          7 - Latch
+                       4 - Strap
+                                           FIGURE  4
+                                               8
+```
+
+## Page 12 — Observation                        Possible Cause
+
+```text
+SECTION 4
+                                          Storage
+         4. 1  Remove the mower from the tractor and clean.
+         4. 2  inspect tor damage, wear, loose or missing hardware.         Repa ir
+               as needed.
+         4. 3  Sharpen ana balance the blades.
+         4. 4  Lubr ica te .
+         4. 5  Paint any bare areas.
+         4.6   Place in a dry area.
+                                         SECTION 5
+                                     Solving Problems
+         Prob lem Chart:
+                   OBSERVATION                        POSSIBLE CAUSE
+         1.   Uneven cut                     Deck not level
+                                             Uneven tractor tire pressure
+                                             Damaged gauge wheel or axle
+                                             Damaged pivot arm weldment
+                                             Bent blade
+         2.   Uncut grass                    Dull blade
+                                             Damaged blade
+                                             Too Iow engine speed
+                                             Mowing tall grass
+                                             Tractor ground speed too fast
+         3.   Smoke from mower               Spindle/b lade locked
+                                             Debris wedged against belt
+                                             Loose belt
+         4.   Engine slows when   mower      Damaged bearing in spindle
+              is engaged                       as semb ly
+                                             Damaged bearings/ gears in the
+                                               gear box
+         5.   Excessive noise                Unbalanced blade(s)
+                                             Damaged unive rsal joint
+                                             Damaged gear box beari ngs/gears
+                                             Idler bearings
+                                             Damaged bearings in spi nd Ie
+                                              assembly
+```
+
+## Page 13 — Mower Drive
+
+```text
+SECTION 6
+                                Illustrated Parts and Parts     List
+                                           MOWER DRIVE
+                                                         75
+                                65                   74
+                                 66
+                         64
+                                                         76
+                                            69
+                                               70
+                                          62
+                                                     51
+                              61        59
+                                  58
+                                             56
+                                                       10
+                                                   41 40
+                       14                                           26
+                                55
+                                                     26            v36
+                                                           38
+                          13
+                                           41
+                                                          35
+                            12                               34
+                                        3  10                           44         49
+                                                 39     26     32
+                                    52                                   18
+                                                                  33
+                                                               18
+                                                                28
+                                                                            14
+                          10                       16
+               15                                                               13.
+                                                                        19
+                                                       12
+                                                                         20
+                                                                                0-21
+                                                                        15
+                                                       15
+                      (6)
+                                                            22
+                                                           25
+                                                 IO
+```
+
+## Page 14 — Mower Drive
+
+```text
+MOWER DRIVE
+         ITEM
+         NO.      PART NO.       QTY                DESCRIPTION
+                    418692        5        Nut, Lock 5/8-11
+           2        131016        3        Washer, Flat .656x1.312x.0Y5
+           3         25124        3
+           4         23026        3        Weldment, Blade Crad Ie
+           5         21211        2        Seal, Steel
+                    (Right and Center Spindles)
+                                  1
+                            (Left Spindle)
+           6         20743        2        Washer, Flat   .975x1.970x.030
+                    (Right and Center Spindles )
+                                  1
+                            (Left Spindle)
+                     38199        2        Assembly, Bearing Cup and Cone
+           8         21216        1        Shaft, Spindle
+                            (Right Spindle)
+                     31356        1        Shaft, Spindle
+                           (Center spindle)
+                     34603        1        Shaft, Spindle
+                            (Left Spindle)
+           9         21215        1        Housing, Beari ng
+                     (Left and Right Spindles)
+                     21218        1        Housing r Beari ng
+                           (Center Spindle)
+                    456004       14        Nut, Lock 3/8-16
+         11        126406        12        Bolt, Rd Hd sq Nk
+         12          31359        2        Pul ley
+         13          33845        2        Washer, Flat .6d7x1.312x.122
+         14        411010         3        Fitting r Lube 1/8
+         15          21306        1        Assembly, Spindle (Right)
+                     34605        1        Assembly, Spindle (Lett)
+         16          22065        1        bolt, Hex Special 1/2-13x1.34
+         17        120384         1        Washer, Lock 1/2 Reg
+                   120389         4        Washer, Flat .500x1.250x.083
+         19          35015        1        Pulley, Drive
+         20          19340        1        Race, Bearing Thrust
+         21        124553         1        Key, Woodruff .25x1 .00 Hard #15
+         22        144117         2        Elbow, Street 1/8-26
+                          (Center Spindle)
+         23         31357         1        Nipple, Pipe 6.30
+                   144067         1        Coupling, Pipe 1/8-27
+         25        191759         1        Elbowr Adaptor 90 Deg .
+         26        120394         6        Washer, Flat .406x.812x.065
+         27        273351         1        Fitting, Lube 65 Deg.
+         28        126803         1        Bolt, 1/2-13x3.5 Rd Hd Sq Nk
+         29        413534         1        Nut, Lock 3/8-16
+         30         21060         1        Sheave, Idler
+         31         31367         1        Spacer   .850x.546x2.18
+         32         31364         1        Weldment, Idler Pivot
+         33         14406         2        Fitting, Lube 1/4-28
+         34        435507         3        Nut, Lock 1/2-13
+         35        1801 28        1        Bolt, Hex 3/8-16x1.75
+         36        179252         2        Pin, Cotter .06x1.000
+                                          11
+```
+
+## Page 15 — Mower Drive
+
+```text
+MOWER DRIVE
+                ITEM
+                 NO.      PART NO.        QTY                 DESCRIPTION
+                 37         21112          1       Rod, Idler
+                 38        180122          2       Bolt, Hex 3/8-16X1.OO
+                 39         31345          1       Support, Spr ing
+                 40         11779          2       Spr ingr Comp. Ix . 7 8x338
+                 41        120369          4       Nutt Hex 3/8-24
+                             31346         1       Support, Spr ing
+                 43                        1       Rod, Idler
+                 44          31363         1       Spacer,   850x.546x2.50
+                 45          31360         1       Weldment, Idler Pivot
+                 46        180193          1       Bolt, Hex 1/2-13x3.75
+                 47        180181          1       Bolt, Hex 1/2-13X2.OO
+                 48          31368         1       Spacer , .516x.875x.300
+                 49          22063         1       Pulley, Flat Idler
+                 50          31383         1       Belt, "B"
+                 51          31369         1       Belt, "A"
+                 52         451539         1       Nut, Jam 3/4-10 Hex Heavy
+                 53B        431787         1       Key, Woodruff 3/16x5/8 No.    61
+                 54          31382         1       Pulley, Gear Box
+                 55        180173          3       Bolt, Hex 1/2-13X1.OO
+                 56          40511         1       Plate, Support
+                 57          31410         1       Assembly, Drive
+                 58          14645         1       Seal, Oil
+                  59         14644         1       Assembly, Bear ing
+                 60          19607         1       Gear, Bevel
+                 61         456007         1       Nut, Lock 3/4-10
+                  62         14636                 Casting, Gear Box
+                  63         11231         1       Gasket, Gear Housing
+                  64         10982         1       Cover, Gear Housing
+                  65        180016         4       Bolt, Hex 1/4-20x.50
+                  66        120380         4       Washer, Lock 1/4 Reg .
+                  67         19608         1       Shaft, Gear Pinion
+                  68         14640         1       Assembly, Bear ing
+                  69         14646         1       Seal, Oil
+                  70         14641         1       Spacer
+                  71         31412         1       Shaft
+                  72         14642         1       Ring, Retaining 1.000 Shaft
+                  73        419454         1       Nut, Lock 1/4-20
+                            180046         1       Bolt, Hex 1/4-20*2.25
+                  75        411027         1       Fitting, Lube 1/4-28
+                  76         31388         1       U-Joint, Female
+                  77         31389         1       Shaft, Prop. Sq. Bar
+                  78         24560          1      Kit, Repair U-Joint
+                             31828          1      Kit, Repair U-Joint
+                                                 12
+```
+
+## Page 16 — Mower Deck Assembly
+
+```text
+MOWER DECK ASSEMBLY
+                                 6-1
+             10                         14
+                                        15
+                              22 1
+                11                        16
+            12 13
+                                        420
+                                                  2-31          31
+                         47
+                                            29
+                                           40
+                                   521
+                                           13
+```
+
+## Page 17 — Mower Deck Assembly
+
+```text
+MOWER DECK ASSEMBLY
+               NO.      PART NO.        QTY .                DESCRIPTION
+                1        120238          4       Nutt Jam 1/2-13 Hex
+                2         11262          1       Pivot, mower Lift
+                3         15691          1       Pin, Cotter Hair
+                4         40815          1       Rod, Lift
+                5         40309          1       Latch, Spr ing Assembly R.H.
+                          40311          1       Latch, . Spr�ng Assembly L.H.
+                6        120123          5       Pin, Cotter .125x1.125
+                7         11272          2       Spr Ing, Ext. 7.625x1.50x.70 Rate
+                8         31688          2       Latch, Pin
+                9         11273          2       Strap
+               10         40512          1       Weldment, Pivot Arm
+               11         10405          2       Pin, Hair
+               12         37982          2       Keeper, Mower Pivot
+               13        423315                  Washer, Flat .813x1.37x.IOO
+               14        435507          8       Nut, Lock 1/2-13
+               15        120396          4       Washer, Flat .531x1.062x.095
+               16         40511          1       Plate, Support
+               17         37987          2       Weldment, Pivot Anchor
+               18        180177          3       Bolt, Hex 1/2-13x1.50
+               19         31367          4       Spacer,  850x.546x2.18
+               20        180124          2       Bolt, Hex 3/8-16xI.25
+               21        180179          1       Bolt, Hex 1/2-13x1.75
+               2.2        40816          1       Bracket, Lift
+               23         34112          2       Nut, Lock 3/4-10
+               24         11223          2       Race, Bear ing Thrust
+               25         10174          2       Bushing, Nylon .76x1.00x.6 Flange
+               26         40194          3       Nut, wing 5/16-18
+               27         40534          1       Cover, Belt R.H.
+               28         40535          1       Cover, Belt L.H.
+               29        456004         25       Nut, Lock 3/8-16
+               30        419455          3       Nut, Lock 5/16-18
+               31        124824         13       Nut, Jam 5/16-18 Hex
+               32         31834          1       Decal, Belt Diagram
+               33         40536          1       Plate, Deck Support
+               34         35668          1       Weldment, Discharge Chute
+               35         37988          1       Weldment, 60" Hanger
+               36        120915         23       Bolt, 3/8-16X1.OO Rd Hd sq Nk
+               37         33926          1       Decal, Danger Hand
+               38         33928          1       Decal, Warning Eye
+               39         35666          1       Plate, Front Cover
+                         120394         19       Washer, Flat .406x.812x.065
+               41        126358         10       Bolt, Carr iage 5/16-18x1.OO
+               42         31354          1       Baffle, Fron t
+               43         40546          2       Bolt, 5/16-16x4.o Rd Hd sq Nk
+               44         40538          1       Weldment, 60" Deck
+               45        120375          2       Nutt Hex 1/4-20
+               46        103422          2       Pin, Cotter .250x2.OO
+               47         31353          1       Bracket, Front Roller
+                         131016          8       Washer, Flat .656x1.312x.095
+                         180020          2       Bolt, Hex 1/4-20x.75
+               50         31390          2       Roller, Gauge
+               51         31344          1       Plate, Front Cover L.H.
+               52        179128          2       Pin, Cotter .25X1.OO
+               53         24795          2       Shaft, Center Roller
+                          40193          1       Bolt, Hex 5/16-18"3.50
+               55        126803          4       Bolt, 1/2-13x3.50 Rd Hd Sq Nk
+               NS         38769          1       Str ipe
+                                                 14
+```
+
+## Page 18
+
+```text
+00
+                                         00
+                                      aec
+```
+
+## Page 19 — Gauge Wheels And Height Adjustment
+
+```text
+GAUGE WHEELS AND HEIGHT ADJUSTMENT
+               1 TEFI
+                NO.      PART NO.        QTY.                 DESCRIPTION
+                  1         37997         4
+                  2         37823         2       Bear ing, Gauge Wheel
+                  3        181635         3       Bolt, Hex 3/8-24x.75
+                  4        411027         3       Fitting, Lube 1/4-28
+                  5         37825         1       Wheel, Half with Hub
+                  6         37 826        1       Tube, Inner
+                  7         37 827        1       Tire, Gauge Wheel
+                  8         37824         1       Wheel, Half Plain
+                  9        131099         3       Washer, Lock 3/8 SP Heavy
+                10         120369         3       Nut, Hex 3/8-24
+                11          11950         4       Bushing, Wheel
+                 12         38281         3       Assembly, Hanger 60" mower
+                 13        456004        21       Nut, Lock 3/8-16
+                 14        120394         9       Washer, Flat .406X.812X.065
+                 15        435507         4       Nutt Lock 1/2-13
+                 16         35769         2       Weldment, Caster Wheel Support
+                 17        433163         4       Bolt, Hex 1/2-13X5.OO
+                 18         33927         1       Decal, Danger Foot
+                 19        180134         4       Bolt, Hex 3/8-162<2.50
+                 20        120915         9       Bolt, 3/8-16X1.OO Rd Hd sq Nk
+                 21        137253         2       Pin, Cotter .187x1.625
+                 22         19340         2       Race, Bear ing Thrust
+                 23         18355         4       Bushing, Pivot
+                 24         37811         2       Weldment, Caster Fork
+                                                 16
+```
+
+## Page 20 — Section 7
+
+```text
+SECTION 7
+                                  Spec if icat i ons
+           Weight;                                     362 lbs. (165kg)
+           Wid th:                                      71 in.  (18031ilI,i)
+           Height:                                      15 in.
+           Leng th :                                    40 in.  (1016rm)
+           Width Of Cut:                                60 in.  ( 152
+           Tires;   Size                                2.80/2.50 4
+                    Pressure                            40 psi  (276 kN/lll )
+           Heights of Cut:                                 Heiqht of Cut
+                                  1                     1.0 inches  (25. 4nun)
+                                  2                     1.5 inches  (38.
+                                  3                     2. O inches ( 50.
+                                  4                     2. 5 inches (63.51tan)
+                                  5                     3. O inches (76.2mrn)
+                                  6                     3.5 inches  ( 88. 9111m)
+                                  7                     4. O inches (101.610111)
+                                  8                     4. 5 inches (114.3mra)
+```
+
+## Page 21 — Section 8
+
+```text
+SECTION 8
+                                       Set-Ue Instc-uctions
+             8.1  Remove the mower from the shipping container              Block the
+                  mower approximately six inches aoove the floor .
+             8.2  If needed, loosen the bolts which retain the mower hangers
+                  enough to set the caster wheel support assemblies between
+                  the hangers.    See Figure 3.
+             8.3  Set the right caster wheel support (the one with the stripe)
+                  in the r ight side and the remaining assembly on the left.
+             8.4  Tighten the bolts which retain the mower hangers.
+             8.5  Move the caster wheel support assembl ies to the lowest
+                  height of cut position. Retain with two bolts each.
+             8.6  Service the mower as descr ibed in Section 3.
+             8.7  Put a jam nut on the lift rod until it is          5" to 5.1" El Olli
+                  the bottom of the lift rod .       Jam a second    j arn nut against
+                  the first nut.    See Diagram 2 e
+             8.8  Cut off the prop shaft as shown in Diagram 3.
+             8.9  Adjust the tire yressure in the gauge wheels to 35 to 40 psi
+                   (240 to 276 kN/lCl ) 
+             8.10 See Section 3.6 for mower installation .
+                                             10.2
+                                             DIAGRAFi 3
+                                                 18
+```
+
+## Page 22 — For Loss Of Profits Or Other Commercial
+
+```text
+LIMITED FIVE-YEAR WARRANTY
+    I. This Limited Five-Year Warranty is issued by Gravely 6. This Warranty does not cover the following:
+       International. Inc., only to the original purchaser. If Transportation to the Gravely dealership. (If the
+       Gravely equipment is leased by Gravely, this Warranty a.
+                                                      Gravely dealer provides transportation, he will
+       shall extend also to the original lessee as if such charge for such service.)
+       lessee were the original purchaser.
+                                                    b. Normal meintenance services and normal re-
+    2. Gravely warrants that all new equipment manu-  placement of items such as spark plugs, belts, oil,
+       factured by Gravely ("Gravely Products") shall be free oil filters, air filters, and mower, plow or cultivator
+       of defects in material and workmanship for the term blades, gauge wheels, skids and other wear items.
+       described in paragraph 4, below. Except as hereinafter
+       provided, this Warranty does not cover any engine, c. Any Gravely Product which has been altered or
+       tires or battery forming a part of the Gravely Product. modified in any way.
+       Engine and tires are covered by and subject to d. Any repair or replacement occasioned by cus-
+       separate warranties of the manufacturers thereof. tomer neglect or lack of proper maintenance. (The
+                                                      purchaser is responsible for making sure that
+    3. In the event that any Gravely Product warranted
+                                                      Gravely Products are operated and serviced as
+       hereunder shall be defective or fail to conform with this directed in the applicable manual or service
+       Warranty, Gravely shall, subject to the provisions instruction. Incorrect use or maintenance will void
+       hereof, pay for, or provide labor and materials for, the
+                                                      this Warranty.)
+       repair or replacement of such defective Gravely
+       Product.                                     e. Any repair occasioned by the use of any
+                                                      attachment not approved by Gravely, (The use of
+    4. This Warranty is for five years (60 months) from any such unapproved attachment will void this
+       purchase date for Gravely Products used exclusively Warranty.)
+       for personal, family or household purposes, and two
+       years (24 months) for products used for other 7. GRAVELY MAKES NO OTHER EXPRESS OR
+       purposes (commercial use), excluding rental firms. IMPLIED WARRANTIES, OR WARRANTIES AS TO
+       Gravely products used for rental purposes will be THE MERCHANTABILITY OR FITNESS FOR A
+       warranted for 90 days. Repair of Gravely Products PARTICULAR PURPOSE. ALL WARRANTIES ARE
+       after the second year (24 months from date of LIMITED IN DURATION TO THE TERMS SET OUT IN
+       purchase) shall be subject to a $50.00 deductible for PARAGRAPH 4, ABOVE. GRAVELY SHALL HAVE NO
+       each repair. (After two years, Gravely agrees to repair LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL
+       or replace defective Gravely Products used ex- DAMAGES RESULTING FROM THE BREACH OF
+       clusively for personal, family or household purposes ANY WARRANTY, INCLUDING, BUT NOT LIMITED
+       only to the extent that the cost of such warranty TO, LIABILITY FOR INCONVENIENCE, RENTAL OR
+       covered repair or replacement exceeds $50.00.) PURCHASE OF REPLACEMENT EQUIPMENT, OR
+                                                    FOR LOSS OF PROFITS OR OTHER COMMERCIAL
+       Batteries are warranted by Gravely for a period of LOSS.
+       twelve (12) months only. If a battery shall fail within
+       twelve (12) months of purchase, the replacement cost 8. Some states do not allow limitations on how long an
+       thereof shall be prorated over a twelve-month term implied warranty lasts, so the above statement may not
+       based upon the number of months since purchase. apply to you. Some states do not allow the exclusion
+                                                    or limitation of incidental or consequential damages,
+    5. To obtain Warranty Service on a Gravely Product so the above limitation or exclusion may not apply to
+       (including any battery or other component not manu- you.
+       factured by Gravely), use this procedure. g. This Warranty gives you specific legal rights, and you
+       a. Notify the Gravely dealer from whom you pur- may have Other rights which vary from state to state.
+          chased the equipment.                  10. A Gravely product registration card is supplied with
+       b. If you have moved and it is not convenient to notify each Gravely Product. Please complete the card and
+         the selling dealer, notify the nearest Gravely return it to Gravely at the address listed on the card.
+          dealer. You should supply this dealer with a copy The equipment registration card will be used by
+          of the bill of sale as proof of the date of purchase. Gravely for.
+          Make arrangements to have the equipment de- a. Recording date of purchase.
+       c.
+          livered to the dealer (refer to paragraph 6 a., b. Notification of owners in compliance with the
+          below).                                     Consumer Product Safety Act, should any notifi-
+                                                      cation be necessary
+       d. If you have any questions concerning the Gravely
+          Limited Warranty, they should be referred to: The return of such card is necessary foryour warranty
+                                                    to be effective.
+              Gravely International, Inc.
+              One Gravely Lane                   11. This Warranty is not subject to change or modification
+              Clemmons, NC 27012                    by anyone, including Gravely dealers and no Gravely
+              Attn: Customer Service Department     dealer is authorized to make any representations or
+                                                    promises on Gravely's behalf.
+        e. Warranty service on Gravely Products must be  OGRAVELY
+          performed by an authorized Gravely dealer.
+                                                     One Gravely Lane, Clemmons, NC 27012
+```

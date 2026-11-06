@@ -1,0 +1,1872 @@
+---
+title: "Parts Catalog — 8000 Series — Aug 1978"
+oldgravelys_no: "0499"
+series: "8000 Series"
+doc_type: "Parts Catalog"
+date: "Aug 1978"
+pages: 37
+source_pdf: "../0499 Parts Catalog - 8000 Series Rider - Aug 1978.pdf"
+text_source: "OCR (Windows.Media.Ocr, 200 dpi)"
+---
+# Parts Catalog — 8000 Series — Aug 1978
+
+Source: [0499 Parts Catalog - 8000 Series Rider - Aug 1978.pdf](../0499%20Parts%20Catalog%20-%208000%20Series%20Rider%20-%20Aug%201978.pdf). Text is machine-extracted; confirm part numbers against the PDF page before ordering.
+
+## Page 1 — 8000 Series
+
+```text
+GRAVELY
+                                                        8000 SERIES
+                                                        GROUNDS
+                                                        MAINTENANCE
+                                                        TRACTORS
+                                                        PARTS CATALOG
+                                                       Form No. 24857 (8-78)
+                                                       Printed in U SA
+```
+
+## Page 2 — Reserves The Right To Change Specifications, Designs And Prices Without Notice
+
+```text
+TO CONTINUE ITS PROGRAM OF QUALITY AND DESIGN IMPROVEMENT, THE MANUFACTURER
+       RESERVES THE RIGHT TO CHANGE SPECIFICATIONS, DESIGNS AND PRICES WITHOUT NOTICE
+                              AND WITHOUT INCURRING OBLIGATION
+                                 OGRAVELY
+                                    CLARK E -GRAVELY CORPORAT40N
+                                    A Studebaker-Worchinaeon Company
+                                          1 Gravely Lane
+                                       Clemmons, N. C. 27012
+```
+
+## Page 3 — Table Of Contents
+
+```text
+TABLE OF CONTENTS
+                                                                                      page
+      Transmission ..... ....                                                          1
+      Number One Shaft and Forward Clutch ..                                          .2
+      Number Two Shaft and Reverse Clutch ..                                           3
+      Number Three Shaft, Third Gear and Fourth Gear ....                              3
+      Number Four Shaft and Idler Gears ... .. ...
+      Number Five Shaft, First Gear and Second Gear .                                  4
+      Number Six Shaft, Brake Band and Sliding Gears .                                 5
+      Number Seven Shaft, Pinion Shaft and Final Drive Gear .... ....                  6
+      Number Eight Shaft and Differential                                              6
+      Number Nine Shaft and PTO Clutch .                                               7
+      Number Ten Shaft and PTO Drive Gear.                                             8
+      Number Eleven-Forward and Reverse Clutch .                                       8
+      Number Twelve-Transmission Case .                                               .9
+      Number Thirteen-Transmission Cover .. ........                                 .10
+      Manual Lift                                                                     11
+      Hydraulic System .... ...                                                      .12
+      Steering Consumer Tractor .                                                    .14
+      Steering Commercial Tractor .. ... .                                            15
+      Front and Rear Wheel.... ..... ...........................                     11
+      Transmission Controls and Brake Lever Controls                                 .16
+      Tractor Frame ..... ......
+      Rear Hitch for Models 8102, 8122, 8123 8126 8127 and 8167 ......
+                                                                                     . 20
+      Rear Hitch for Models 8162-T 8163-T 8188-T and 8177 .
+                                                                                     . 20
+      Engine, Fuel System and Exhaust System for Models 8102, 8122 8123 8126 and 8127 . 21
+      Engine, Fuel System and Exhaust System for Models 8162-T 8168-T and 8188-T ...
+                                                                                     . 22
+      Engine, Fuel System and Exhaust System for Models 8166 and 8167 .
+                                                                                ..... ...23
+      Engine, Fuel System and Exhaust System for Model 8177 .
+                                                                                      . 24
+      Electric System for Model 8102 .... ...............                             .25
+      Electric System for Models 8122 and 8123 ..
+                                                                                  ... ...26
+      Electric System for Models 8126 and 8127 ..... ..... ..
+                                                                                      . 27
+      Electric System for Models 81 62-T, 8163-T and 8183-T .                         .28
+      Electric System for Models 8166 and 8167 ...                                    29
+      Electric System for Model 8177 ..... ..... ..... ..
+                                                                                      . 30
+      Wiring Diagram for 8102                                                         .31
+      Wiring Diagram for 8122 and 8123                                                .31
+      Wiring Diagram for 8122 and 8123                                                .31
+      Wiring Diagram for 8126 and 8127                                                .32
+      Wiring Diagram for 81 62-T, 8163-T and 8183-T .                               ...32
+      Wiring Diagram for 8166 and 8167                                                .33
+      Wiring Diagram for 8177
+                                                                                      . 83
+```
+
+## Page 4 — Transmission
+
+```text
+TRANSMISSION
+                   27
+               28-4
+          38
+                       24
+             35
+                33
+                   30
+                         13
+                                7                            10
+                                                               17 8 16 2
+                                                             18 19        12
+                                                                          32
+                                                                         5
+                                                                                 11
+                                                         15                          27
+                         ITEM NO. PART NO.         DESCRIPTION
+                           1     Refer To:      Number 1 Shaft , Forward Clutch
+                           2     Refer To:      Number 2 Shaft , Reverse Clutch
+                           3     Refer To:      Nu�er 3 Shaft, 3rd and 4th Gear
+                           4     Refer To:      Number 4 Shaft , Idler
+                           5     Refer          Number 5 Shaft , 1st and 2nd Gear
+                           6     Refer To:      Number 6 Shaft , Brake and Sliding Gear
+                           7     Refer To:          7 Shaft, Pinion and Final Drive
+                           8     Refer TO :     Number 8 Sha ft , Differential Assenbly
+                           9     Refer To:      Number 9 Shaft , PTO Clutch Assembly
+                          10     Refer To:      Nurnber IO Shaft, PTO Drive Assembly
+                          11     Refer To:      Number 11, Forward-Reverse Clutch Assernbly
+                          12     Refer TO :     Number 12, Transmission Case Assembly
+                          13     Refer To:      Number 13, Cover Assembly
+                          14     18089    2     Pin, Dowel; .375 x .625
+                          15     18027    1     Gasket, Transmission Cover
+                          16     17929    1     Arm, Shi fter
+                          17     17945    1     Arm, Shifter
+                          18     421202   2     Pin, Spring; 3/16 x 1
+                          19     21141    2     Washer, Felt; (Special for Trans. )
+                          20     17944    1     Arm, Shi fter
+                          21     271089   1     Key , Woodruff ; .125 x .375 Hard
+                          22     11135    2     Ring, Retaining; .750 Shaft
+                          23     11223    2     Race, Bearing Thrust; .752 x 240 x .030
+                          24     20444    2     Spring, Comp Type; 1.0 x .80 x 36 Lb/ in
+                          25     23370    6     Roller, Clutch
+                          26     18019    1     Lever, PTO
+                          27     18047    2     Plate, Clutch
+                          28     190171   4     Nut, Lock; 1/2-20 Washer Insert
+                          29     180126   6     Bolt, Hex; 3/8-16 x 1-1/2
+                          30     180132   2     Bolt, Hex; 3/8-16 x 2-1/4
+                          31     456004   6     Nut, Lock; 3/8-16 Washer Insert Hex
+                          32     11270    2     E-Ring; .750 Shaft
+                          33     21371    1     Drum, Brake
+                          34     18162    1     Band, Brake Asm.
+                          35     124589   1     Nut, Hex; 5/8-11
+                          36     18165    1     Bushing, .530 x .750 x 2.06
+                          37     120396   1     Washer, Flat; .500 x 1.062 x .095
+                          38     180188   1     Bolt, Hex; 1/2-13 x 2-3/4
+                          39     17926    1     Weldment, Shifter
+                          40     124549   1     Key, Woodruff; +87 x .750 Hard          1
+```
+
+## Page 5 — Number One Shaft And Forward Clutch
+
+```text
+NUMBER ONE SHAFT AND FORWARD CLUTCH
+                          12
+                                  29
+                                        6
+                      0-32
+                                  31
+                                                   26
+                                                         24       22         20
+                                                                    21 +19
+                   2                       27    2
+                       3
+                            4                            23
+                            5              9
+                                 6
+                                         10                                           18
+                                                  11
+                                 7
+                                                   5
+                                                        6
+                                                            13
+                                                                      16
+                                                                       6
+                                                                          17
+                                                                  15
+                        ITEM NO. PART NO.         DESCRIPTION           7
+                          1     20447    1    Shaft, Splined Fwd Clutch
+                          2     117989   1    Key, Woodruff; 3/16 x 1-1/4 Hard No. 19
+                          3     431787   1    Key , Woodruff ; .188 x .625 Hard
+                          4     18025    1    Gear and Bearing Asm.
+                          5     17949    4    Bearing, Needle; 3/4 x 1 x 1/2
+                          6     11223    5    Race, Bearing Thrust; .752 x 1.240 x .030
+                          7      6741    3    Bearing, Needle Thrust; .752 x 1.240 x .078
+                          8     17926    1    Weldment, Shifter
+                          9     20755    1    Weldment , Shift Rail
+                         10     18011    1    Gear, Spur; 2-Speed
+                         11     18007    1    Gear and Bearing Asm.
+                         12     18047    1    Plate, Clutch
+                         13      6742    1    Race, Bearing Thrust; .060
+                         14     11135    3    Ring i Retaining i .750 Shaft
+                         15     18006    1    Gear , Bevel
+                         16     18003    1    Gear, 10 DP 16 Teeth x . 750 Standard
+                         17     14998    1    Race, Bearing Thrust; .752 x 1.240 x .095
+                         18     17913    1    Bearing, Needle; 3/4 x 1 x 3/4
+                         19     17925    1    Bushing , 2-Speed
+                         20     17929    1    Arm, Shifter
+                         21     21141    1    Washer, Felt; (Special for Trans. )
+                         22    421202    1    Pin, Spring; 3/16 x 1
+                         23     17919    1    Ring, Retaining; 1.969 Shaft
+                         24     18872    1    Ring, Retaining; 3.156 Bore
+                         25     17915    1    Bearing, Ball; 1.968 x 3.149 x .629
+                         26     17917    1    Seal, Oil; 2.250 x 3.005 x .375
+                         27     18024    1    Hub, Clutch
+                         28     18035    2    seal, Oil; 3/4 x 1-5/8 x 1/4
+                         29                   Number 11, Forward-Reverse Clutch Assembly
+                         30    190171    2    Nut, Lock; 1/2-20 Washer Insert
+                         31             1     Spring, Comp Type; 1.0 x .80 x 36 LB/ in
+     2                   32.    23370    3    Roller, Clutch
+```
+
+## Page 6 — Number Three Shaft, Third Gear And Fourth Gear
+
+```text
+NUMBER TWO SHAFT AND REVERSE CLUTCH
+                      3                      11
+            2           4                        12
+                                 5                  13
+                                                       14
+                       3          6                           15
+                                     4
+                                           84                    16
+                                 3                                 3
+                                    20        3                            21
+                                                                7
+                                                                  19              18
+                                              9
+                                                                         22
+                         ITEM NO. PART NO. QTY.    DESCRIPTION                       17
+                           1     431787   1    Key, Woodruff; .188 x .625 Hard
+                           2     20448    1    Shaft, Splined Rev Clutch
+                           3     11223    6    Race, Bearing Thrust; .752 x 1.240 x .030
+                           4      6741    3    Bearing, Needle Thrust; .752 x 1.240 x .078
+                           5     18020    1    Gear, Idler Asm.
+                           6     17949    4    Bearing, Needle; 3/4 x 1 x 1/2
+                           7     11135    3    Ring, Retaining; .750 Shaft
+                           8      6742    1    Race, Bearing Thrust; .060
+                           9     17947    1    Assembly, Reverse Gear and Bearing
+                          10     17913    1    Bearing, Needle; 3/4 x 1 x 3/4
+                          11     17919    1    Ring, Retaining; 1.969 Shaft
+                          12     18872    1    Ring, Retaining; 3.156 Bore
+                          13     17915    1    Bearing, Ball; 1.968 x 3.149 x .629
+                          14     17917    1    Seal, Oil; 2.250 x 3.005 x .375
+                          15     18024    1    Hub, Clutch
+                          16     18035    1    Seal, Oil; 3/4 x 1-5/8 x 1/4
+                          17     190171   2    Nut, Lock; 1/2-20 Washer Insert
+                          18     18047    1    Plate, Clutch
+                          19     20444    1    Spring, Comp Type; 1.0 x .80 x 36 Lb/ in
+                          20     18003    1    Gear, 10 DP 16 Teeth x .750 Standard
+                          21                   Number 11, Forward-Reverse Clutch Assembly
+                          22     23370    3    Roller , Clutch
+                NUMBER THREE SHAFT, THIRD GEAR AND FOURTH GEAR
+                               2
+                                    3
+                                          4
+                                                                   7
+                                                       6
+                            ITEM NO. PART NO.      DESCRIPTION
+                              1    18000  1     Bearing, Thrust Race Torr Trc-1018
+                              2    17999  1     Spacer, 1.027 x 1.125 x .457
+                              3    19535  1     Gear
+                              4    17997  1     Shaft, Splined
+                              5    17992  1     Gear, 10 DP 16 Teeth x .750
+                              6    15118  1     Gear, 10 DP 20 Teeth x .600
+                              7    17914  2     Bearing, Needle; 5/8 x 13/16 x 3/4      3
+```
+
+## Page 7 — Number Five Shaft, First Gear And Second Gear
+
+```text
+NUMBER FOUR SHAFT AND IDLER GEARS
+                                              4
+                                                          4
+                                           2
+                                                   3
+                          ITEM NO. PART NO.         DESCRIPTION
+                            1     16118    1     Gear, 10 DP 20 Teeth x .600
+                            2     17995    1     Shaft, Splined
+                            3     15115    1     Gear, 10 DP 30 Teeth x .500
+                            4     17913    2     Bearing, Needle; 3/4 x 1 x 3/4
+                 NUMBER FIVE SHAFT, FIRST GEAR AND SECOND GEAR
+                                                6
+                                                              6
+                                    2
+                                        3
+                                              4
+                                                       5
+                          ITEM NO. PART NO. QTY.    DESCRIPTION
+                            1     15115    1     Gear, 10 DP 30 Teeth x .500
+                            2     17993    1     spacer, 1.057 x 1.250 x .550
+                            3     17992    1     Gear, 10 DP 16 Teeth x . 750
+                            4     17989    1     Shaft, Spl ined
+                                  15118    1     Gear, 10 DP 20 Teeth x .600
+       4                    6     17913   .2     Bearing, Needle; 3/4 x 1 x 3/4
+```
+
+## Page 8 — Number Six Shaft, Brake Band And               Sliding Gears
+
+```text
+NUMBER SIX SHAFT, BRAKE BAND AND               SLIDING GEARS
+                              25
+                                   21                          17
+                                                        16        26
+                                        24
+                                               23                 14
+                                    22
+                                                               13
+                                    12             20
+                               11                      18
+            4
+               5
+                                        10
+                                                                               19
+                    6           7
+                                            9
+                                     8
+                           2
+                      ITEM NO. PART NO.         DESCRIPTION
+                        1     456390   2    Pin, Spring; 1/4 x 3/4
+                        2     20762    1    Weldment, Rail Shift Fork 2 & 4 Range
+                        3     20761    1    Weldment, Rail Shift Fork 1 & 3 Range
+                        4     14988    1    Gear, 8 DP 16 Teeth x .850
+                        5     14987    1    Ring, Retaining; 1.00 Shaft
+                        6     21370    1    Shaft, Slide Gear
+                        7     14995    1    Gear, Sliding; IO DP, 30 Teeth x .594
+                        8     14989    1    Gear, Sliding; 10 DP, 36 Teeth x .594
+                        9     14998    1    Race, Bearing Thrust; .752 x 1.240 x .095
+                       10     17937    1    Weldment, 2nd and 4th Shifter
+                       11     17940    1    Weldment, 1st and 3rd Shifter
+                       12     18018    1    O-Ring; 5/8 x 3/4 x 1/16
+                       13     17943    1    Bushing; .756 x 1.125 x .75
+                       14     17944    1    Arm, Shifter
+                       15     271089   1    Key, Woodruff; .125 x .375 Hard
+                       16     421202   1    Pin, Spring; 3/16 x 1
+                       17     17945    1    Arm, Shi fter
+                       18     11063    1    Bearing, Needle; 3/4 x 1 x 3/4
+                       19     17913    1    Bearing, Needle; 3/4 x 1 x 3/4
+                       20     21371    1    Drum, Brake
+                       21     120396   1    washer, Flat; .500 x 1.062 x .095
+                       22     124589   1    Nut, Hex; 5/8-11
+                       23     18162    1    Band, Brake Asm.
+                       24     18165    1    Bushing; .530 x .750 x 2.06
+                       25     180188   1    Bolt, Hex; 1/2-13 x 2-3/4
+                       26     21141    1    Washer, Felt; (Special for Trans. )
+                       27     15137    1    Seal, Oil; .750 x 1.254 x .188           5
+```
+
+## Page 9 — Number Seven Shaft, Pinion Shaft And Final Drive Gear
+
+```text
+NUMBER SEVEN SHAFT, PINION SHAFT AND FINAL DRIVE GEAR
+                                              4
+                                 1                          4
+                                                3
+                                    2
+                         ITEM NO. PART NO.         DESCRIPTION
+                           1     19340    2    Race, Bearing Thrust; 1.002 x 1.552 x .030
+                           2     17987    1    Gear, 8 DP 30 Teeth x .750
+                           3     17986    1    Pinion, Final Drive
+                           4     17912    2    Bearing, Needle; 1.000 x 1.250 x .750
+                       NUMBER EIGHT SHAFT AND DIFFERENTIAL
+                                1
+                            13
+                          1
+                             15
+                    1
+                                     3
+                                                                            16
+                                        4
+                              2                6                      14      12
+                                      6               4
+                                                                               13
+                                                          3
+                                                  5          2
+                                                              10
+                         ITEM NO. PART NO. QTY.    DESCRIPTION
+                                                                     1
+                           1     19957    2    Axle, Bevel Gear Diff.
+                           2     17984    2    Bearing, Ball; 1. 378 x 2.834 x .669
+                           3     19956    2    Cap, Diff. End
+                           4     19953    2    Gear, Bevel
+                           5     17980    2    Ring, Retaining; 1.000 Shaft
+                           6     12667    2    Block, Drive
+                           7     19952    2    pinion , Bevel
+                           8     19954    1    Pin, Spider Pinion
+                           9     19955    1    Gear, Final Drive
+                          10     20513    4    Bolt, Hex; 5/16-18 x 2.5 Grade-8
+                          11     20514    4    Nut, Hex; 5/16-18 Grade-8
+                          12     18052    2    Hub, Wheel
+                          13     18055    2    E-Ring; 1.125 Shaft
+                          14     187184   2    Key, Woodruff; . 250 x 2.125 Soft
+                          15     124829   2    Nut, Jam; 3/8-16 Hex
+      6                   16     102897   2    Screw, Set; 3/8-16 x 1-1/4 SQ HD Cup Point
+```
+
+## Page 10 — Number Nine Shaft And Pto Clutch
+
+```text
+NUMBER NINE SHAFT AND PTO CLUTCH
+                 21
+                                        23
+                                         6-21
+      12                        17
+                                                                                16
+                    19                                                      14
+                                                                         13
+                          22                                1
+                                         20
+                                                             11
+                                                 19       10
+                                                       9
+                                                                $17
+                                                 24
+                                                                       18
+                                               5  7
+                                            6
+                                         5
+                              3
+                         2
+                         ITEM NO. PART NO.         DESCRIPTION
+                           1     15733    2    Ring, Retaining; .750 Shaft
+                           2     17965    1    Gear, spur PTO; 10 DP 22 Teeth x 1.200 std.
+                           3     17964    1    Spring, Comp Type; 5 x 1.50 x 200 Rate
+                           4     17963    1    Throw-out, PTO
+                           5     17959    2    Bearing , Thrust Race
+                           6     11225    1    Bearing, Needle Thrust; 1.002 x 1.552
+                           7     17960    1    Assembly, Shifting Collar
+                           8     14998    1    Race, Bearing, Thrust; .752 x 1.240 x .095 Torr Trc-1220
+                           9     17958    1    spacer, PTO
+                          10     17957    1    Cup, Clutch
+                          11     17949    2    Bearing, Needle; 3/4 x 1 x 1/2
+                          12      9660    1    Bearing , Torrington B-128
+                          13     17952    1    Cup, Clutch
+                          14     17967    1    Bearing, Ball; 1.378 x 2.440 x .551
+                          15     17953    1    Cone, Clutch Brg. Assy.
+                          16     17966    1    Ring, Retaining; 1-3/8 Eaton 340-1
+                          17     124549   5    Key, Woodruff; .187 x .750 H�rd
+                          18     17951    1    Shaft, PTO Clutch
+                          19     18018    2    O-Ring; 5/8 x 3/4 x 1/16
+                          20     18016    1    Yoke, PTO
+                          21     11270    2    E-Ring; .750 Shaft
+                          22     18017    1    Shaft, PTO Yoke
+                          23     18019    1    Lever, PTO
+                          24     17962    1    Bushing                                  7
+```
+
+## Page 11 — Number Eleven-Forward And Reverse Clutch
+
+```text
+NUMBER TEN SHAFT AND PTO DRIVE GEAR
+                                                          4
+                                                       2
+                                       1
+                           6
+                       ITEM NO. PART NO. QTY.    DESCRIPTION
+                         1      19538   1     Shaft, PTO
+                         2      14640   1     Assembly, Bearing; 1.000 x 1.980 x 1.243
+                         3      17924   1     Spacer; 1.060 x 1.250 x .450
+                         4      17922   1     Gear, spur PTO; 10 DP 56 Teeth x .750 Std.
+                         5     124589   1     Nut, Hex; 5/8-11
+                         6      17923   1     Seal, Oil; 1.375 x 2.129 x . 312
+                NUMBER ELEVEN-FORWARD AND REVERSE CLUTCH
+                                            9
+                                      2
+                                               4             6
+                       ITEM NO. PART NO.         DESCRIPTION
+                         1      20449   1     Assenbly, Clutch Disc
+                         2      18041   2     Spring, Belleville
+                         3      18548   1     Shim ( .030) Fwd-Rev Clutch
+                         4      18042   1     Bearing, Ball; 1.574 x 3.149 .708
+                         5      19063   1     Cam, Clutch
+                         6      18043   1     Ring, Retaining; 1.562 Shaft
+                         7      20444   1     Spring, Comp Type; 1.0 x .80 x 36 LB/in
+                         8      11223   1     Race, Bearing Thrust; .752 x 1.240 x .030
+     8                   9      11135   1     Ring, Retaining; .750 Shaft
+```
+
+## Page 12 — Number Twelve-Transmission Case
+
+```text
+NUMBER TWELVE-TRANSMISSION CASE
+                      37   36                    15
+                                                          28
+                              35
+                                   11      31
+                                       32                      27
+                                33                  9                  26
+                        34
+                                              30
+                                                                          39
+                                                              14
+                        6
+                                                14
+              4                                                 18
+                                                                    21
+                                                        13
+                                                                                 25
+          2
+                   1
+                                                                          6
+                                                               20
+                                                                         22
+                                                                            23
+                                                                                 24
+                       ITEM NO. PART NO. QTY .   DESCRIPTION
+                         1     180079   2     Bolt, Hex; 5/16-18 x 1
+                         2     120214   2     Washer, Lock; 5/16 SP
+                         3      15137   1     seal, Oil; .750 x 1.254 x .188
+                         4      18859   1     cap, Front PTO
+                         5      18857   1     Gasket, Front Cap
+                         6      9660    1     Bearing, Torrington B-128
+                         7      17923   1     Seal, Oil; 1.375 x 2.129 x .312
+                         8     103877   3     Plug, Pipe; 1/8 In. SQ HD steel
+                         9      17936   4     Spring, Compression; 1.50 x .30 x 26 LB/ in
+                        10     274301   5     Ball, Steel; 5/16
+                        11      17913   4     Bearing, Needle; 3/4 x 1 x 3/4
+                        12     103880   1     Plug, Pipe; 1/2 In. SQ HD steel
+                        13     108686   1     Elbow, 1/2 90 Degree Street
+                        14     18036    2     Stud, Clutch
+                        15     17910    1     Assembly, Transmission Case
+                        16     18421    1     PI ate , Cover
+                        17     18422    1     Gasket, Cover Plate
+                        18     120394   2     Washer, Flat; .406 x .812 x .065
+                        19     180120   2     Bolt, Hex; 3/8-16 x .750
+                        20     18810    1     Retainer, Axle Brg. L.H.
+                        21     18030    1     Gasket
+                        22     18029    1     Bearing, Ball; 1.250 x 2.250 x . 500
+                        23     18812    1     Ring , Retaining
+                        24     18031    1     Seal, Oil Axle
+                        25     180191   4     Bolt, Hex; 1/2-13 x 3-1/4 x .551
+                        26     18024    1     Hub, Clutch
+                        27     17917    1     Seal, Oil; 2.250 x 3.005 x .375
+                        28     17967    1     Bearing, Ball; 1.378 x 2.440
+                        29     24772    1     Spring
+                        30     121664   1     Nipple, Pipe; 1/2 x 2-1/2
+                        31     19472    1     cap, Pipe; 1/2 NPT
+                        32     17925    1     Bushing , 2-Speed
+                        33     17943    1     Bushing; .756 x 1.125 x .75
+                        34     17914    1     Bearing, Needle ; 5/8 x 13/16 x 3/4
+                        35     17915    1     Bearing, Ball; 1. 968 x 3.149 x .629
+                        36     18872    1     Ring, Retaining; 3.156 Bore
+                        37     17919    1     Ring, Retaining; 1.969 Shaft
+                        38     17912    1    Bearing, Needle; 1.000 x 1.250 x .750
+                        39     18035    1     Seal, Oil; 3/4 x 1-5/8 x 1/4
+                        40     18200    1    pin, Interlock
+                        41     421743   1    Plug, cup; 3/8
+                        42     17946    1    Plug                                     9
+```
+
+## Page 13 — Number Thirteen-Transmission Cover
+
+```text
+NUMBER THIRTEEN-TRANSMISSION COVER
+         17
+                   15
+                               12
+                                       10
+          16
+              14
+                             11
+                   13
+                                                                     4
+                          ITEM NO. PART NO.        DESCRIPTION
+                                  17919         Ring , Retaining; 1.969 Shaft
+                                  18872         Ring Retaining; 3.156 Bore
+                                  17915         Bearing, Ball; 1. 968 x 3.149 x .629
+                                  17913         Bearing, Needle; 3/4 x 1 x 3/4
+                                  17914         Bearing, Needle; 5/8 x 13/16 x 3/4
+                                  17912         Bearing, Needle; 1. ooo x 1.250 x .750
+                                  103879        Plug, Pipe; 3/8 IN SQ HD steel
+                                  18022         Trans, Cover Assy.
+                                  17917         Seal, Oil; 2.250 x 3.005 x .375
+                           10     18024         Hub, Clutch
+                           11     18030         Gasket
+                           12     18035         Seal, Oil; 3/4 x 1-5/8 x 1/4
+                           13     18810         Retainer, Axle Brg. L.H.
+                           14     18029         Bearing, Ball; 1.250 x 2.250 x .500
+                           15     180191        Bolt, Hex; 1/2-13 x 3-1/4
+                           16     18812         Ring , Retaining
+                           17     18031         Seal, Oil Axle
+                           18     11063         Bearing, Needle; 3/4 x 1 x 3/4
+       10
+```
+
+## Page 14 — Front And Rear Wheel
+
+```text
+MANUAL LIFT
+                                                         16
+                                                         15
+                                                          14
+                                                              13
+                                                 3             12
+                                ooooo                          11
+                                                          10
+                     ITEM NO. PART NO.         DESCRIPTION
+                       1     187184   1     Key, Woodruff; .250 x 2.125 soft
+                       2      18404   1     Shaft, Lift Lever Weldment
+                       3      11103   1     Casting, Locator
+                       4     180124   2     Bolt, Hex; 3/8-16 x 1-1/4
+                       5      11106   1     Stop , Lever
+                       6      11105   1     Spring , Stop
+                       7      10670   1     Ymob, Control
+                       8      18732   1        Lever Stop
+                       9     102897   1     Screw, Set; 3/8-16 x 1-1/4 SQ HD Cup Point
+                       10    124829   1     Nut, Jam; 3/8-16 Hex
+                       11     11670   1     Washer, Special Flat; .45 x .99 x .10
+                       12     10682   1     Spring, Compression; 2 x .720 x 15.5 LB/in
+                       13             1     Pawl , Lever
+                       14             1     Assembly, Lever Lift
+                       15             1     Guide, Push Rod
+                       16             1     Grip, Flex
+                       17     19367   1     Tip, Push Rod
+                       18             1     Rod, Lever Push
+                       19     18355   2     Bushing , Pivot
+                       20    456004   2     Nut, Lock; 3/8-16 Washer Insert Hex
+                       21             1     E-Ring; 1.000 Shaft Copper
+                             FRONT AND REAR WHEEL
+                  6      10                         16
+                                                      15
+                             7
+                              8      o   11
+                       21     9                                            14
+                                            2
+                      ITEM NO. PART NO.        DESCRIPTION
+                        1     18448   2     Spacer
+                        2     18446   2     Bearing , Cone
+                        3     18445   2     Bearing, Cup 11910
+                       4      18447   1     Seal
+                        5     11190   1     Tire, Front; 16 x 6.50 - 8 400-800 Tractors
+                        6     11191   2     Assenbly, Valve Stem
+                        7    131016   1     washer, Plat; .656 x 1.312 x .095
+                        8    418692   1     Nut, Lock; 5/8-11 Washer Insert Hex
+                        9     18449   1     Cap
+                       10     18442   1     Wheel; Asm Front 400-800 Model Tractor
+                       11     18052   1     Hub , Wheel
+                       12     18055   1     E-Ring; 1.125 Shaft
+                       13     12744   5     Bolts, Hub; 7/16-20 x 3/4 (special)
+                       14     11194   1     Tire, Rear; 23 x 8.50 - 12
+                       15     11195   1     Rim, Weldment
+                       16     11705   1     Wheel, Asm Rear;                        11
+```
+
+## Page 15 — Hydraulic System
+
+```text
+HYDRAULIC SYSTEM
+                        32
+                   32
+                                                          44
+                                          15
+                                                38
+                          33
+                         40                                                       10
+                                        45                                          11
+              29
+                                                     36                               12
+                 1              45
+                            28
+                                         19           46
+                  48     23
+                                  18
+                      25
+                              24
+                                                                            35
+             48                                     20
+                                                       21
+      12
+```
+
+## Page 16 — Hydraulic System
+
+```text
+HYDRAULIC SYSTEM
+                        ITEM NO. PART NO. QTY.    DESCRIPTION
+                          1     18799    1    Ring, Retaining; 1.378 Bore
+                          2     18797    1    Shaft, Hyd Pump
+                          3     18809    2    Ring, Retaining; .594 Shaft
+                          4     12626    2    Bearing, Ball; .590 x 1.3780 x .433
+                          5     18807    1    Spacer, .588 x .620 x .750
+                          6     18798    1    Spacer, .620 x .750 x .364
+                          7     18808    1    Gear , Hyd Pump
+                          8     271089   1    Key, Woodruff; .125 x . 375 Hard
+                          9     18422    1    Gasket, Cover Plate
+                         10     18813    1    Pump, Hydraul ic
+                         11     426370   2    Screw, Cap; 3/8-16 Hex Socket HD
+                         12     18816    1    Adapter (P-H #2503-8-6)
+                         13     18817    1    Adapter (P-H #0503-10-6)
+                         14     18818    1    Adapter (P-H #3903-6-6)
+                         15     22460    1    Weldment, Hyd Tank
+                         16     180122   3    Bolt, Hex; 3/8-16 x 1
+                         17     419454   4    Nut, Lock; 1/4-20 Washer Insert
+                         18     19167    2    Adapter (P-H #0503-6-6)
+                         19     18822    1    Weldment, Lift Lever Shaft
+                         20     18355    2    Bushing, Pivot
+                         21              2    E-Ring; 1.000 Shaft Copper
+                         22     18830    1    Shaft, Hyd. Cyl.
+                         23     18826    3    Adapter (P-H #2503-4-4)
+                         24     19471    1    Cylinder, Hydraulic
+                         25     180181   1    Bolt, Hex; 1/2-13 x 2
+                         26     435507   1    Nut, lock; 1/2-13 Washer Insert
+                         27     21286    1    Adapter ( #0503-4-4)
+                         28     18829    1    Adapter (P-H #3503-6-6)
+                         29     18828    1    Adapter (P-H #2503 -6-6)
+                         30     18825    1    Valve, Hydraulic
+                         31     120392   4    Washer, Plat; .281 x .625 x .065
+                         32     180050   4    Bolt, Hex; 1/4-20 x 2-3/4
+                         33     19165    1    Line, Return Valve to Tank
+                         34     19166    1    Line, Hyd (in) Tnak to Pump
+                         35     18843    1    Line, Hyd (out) Valve to Pump
+                         36     18833    1    Rod, Weldment Hyd Valve
+                         37     121224   2    Pin, Cotter; .094 x 1.000
+                         38     18836    1    Rod, Hyd Control
+                         39     132848   1    Screw, Machine; 10-24 x 1 RD HD
+                         40     190254   2    Nut, Lock; 10-24 Washer Insert
+                         41     22457    1    Gauge, Hyd Tank Level
+                         42     11261    1    Knob, Adj. Control
+                         43     18845    2    Hose, Hyd 14.5 66
+                         44     24441    1    Plate, Hydraulic Control Cover
+                         45     456004   3    Nut, Lock; 3/8-16 Washer Insert Hex
+                         46     120910   1     Screw, Machine; 10-24 x 3/4 HD
+                         47     167257   6     Screw, Tapping; 1/4-20 x 1/2 Pan HD C-Recess
+                         48     21287    1    Adapter (P-H #3903-4-4)
+                                                                                      13
+```
+
+## Page 17 — Steering -Commercial Tractor
+
+```text
+STEERING -COMMERCIAL TRACTOR
+                                                               33
+                                                    19-2       29
+                                     39
+                          ITEM NO. PART NO. QTY.    DESCRIPTION
+                            1     411027   5     Fitting, Lube; 1/4-28
+                            2      23312   1     Assembly , Steering Axle
+                            3     456007   1     Nut, I.ock; 3/4-10 Washer Insert
+                            4      18463   2     Weldment, King Pin
+                            5      23212   2     Arm, Axle Tie Rod
+                            6     411031   1     Fitting, Lube; 1/4-28 45 Deg. Elbow
+                            7     124589   2     Nut, Hex; 5/8-11
+                            8     125233   4     Nut, Hex Slotted; 3/8-24
+                            9      23237   1     Tube, Axle Pivot
+                           10     271781   1     Bolt, Hex; 3/4-10 x 4-1/2
+                           11      21668   2     Assembly, Rod End;
+                           12      23209   2     Tube, Tie Rod
+                           13     124934   2     Nut, Jam; 1/2-20
+                           14     126952   2     Bolt; 5/16-18 x 5-1/2 RD HD SQ NK
+                           15     435507   3     Nut, Lock; 1/2-13 Washer Insert
+                           16     419456   2     Nut, Lock; 7/16-14 Washer Insert Hex
+                           17     21148    1     Block, Bearing Support
+                           18     21147    1     Bearing, Spherical
+                           19     180149   2     Bolt, Hex; 7/16-14 x 1-1/2
+                           20     23213    2     Weldment, Steering Arm
+                           21     446470   2     washer, Flat; . 375 x 1.125 x .065
+                           22     456004   2     Nut, Lock; 3/8-16 Washer Insert Hex
+                           23     14998    2     Race, Bearing Thrust; .752 x 1.240 x .095
+                           24     21079    1     Plate, Adjustment
+                           25     21077    2     Bearing, Flange (P/ M Bronze)
+                           26     21076    2     Bushing; .391 x .622 x .670
+                           27     21078    2     Sleeve, Pivot
+                           28     443734   2     Bolt, Hex; 1/2-13 x 6
+                           29     419455   2     Nut, Lock; 5/16-18 Washer Insert Hex
+                           30     454473   2     Screw, Cap; 3/8-16 x 2 Hex Socket HD
+                           31     21075    1     Gear, Rack
+                           32     24442    1     Shaft , Steering Wheel
+                           33     20273    1     Ring, Retaining: Int. Tooth 1.000 Shaft
+                           34     10174    2     Bushing, Nylon; .760 x 1.000 x .600 Flange
+                           35     23376    1     Insert, Steering Wheel
+                           36     418692   1     Nut, Lock; 5/8-11 Washer Insert Hex
+                           37     120376   2     Nut, Hex; 5/16-18
+                           38     21246    1     Strap, Rack and Pinion
+                           39     18785    2     Cap, Front Axle
+                           40     121222   4     Pin, Cotter; .09 x .75
+                           41     190139   2     Nut, Lock; 5/16-24 Washer Insert
+                           42     181018   2     Bolt, Hex; 5/16-24 x 1-3/4
+                           43     21669    2     Assenbly, Rod End; L.H.
+                           44     120388   2     Washer, Flat; .438 x 1.000 x .038
+                           45     23241    4     Bushing, .877 x 1.004 x 1.0
+                           46     24438    1     Bushing, Steering Wheel
+                           47     24490    1     Wheel, Steering; 800 & 8000 Series
+              14           48     131016   1     Nut, Lock; 5/8-11 Washer Insert Hex
+```
+
+## Page 18 — Steering-Consumer Tractor
+
+```text
+STEERING-CONSUMER TRACTOR
+                                                                42
+                                                            33
+                                  14  24
+                            15
+                                                    31
+                                    14
+                                        8'
+                             1                      28-29
+                                               2019'/
+                             | 13
+                                  12
+                                            12
+                                              13
+                              39
+                   ITEM NO. PART NO.         DESCRIPTION
+                     1     411027   5     Fitting, Lube: 1/4-28
+                     2      23312   1     Assembly, Steering Axle
+                     3     456007   1     Nut, Lock; 3/4-10 Washer Insert
+                     4      18463   2     Weldment, King Pin
+                     5      18461   2     Arm, Tie Rod
+                     6     411031   1     Pitting, Lube; 1/4-28 45 Deg. Elbow
+                     7     124589   2     Nut, Hex; 5/8-11
+                     8     192481   4     Nut, Lock; 3/8-24 Washer Insert Hex
+                     9      23237   1     Tube, Axle Pivot
+                     10    271781   1     Bolt, Hex; 3/4-10 x 4-1/2
+                     11     21084   4     Ball Joint, Steering
+                     12     21085   2     Rod, Steering Tie
+                     13    120369   4     Nut, Hex; 3/8-24
+                     14    126952   2     Bolt; 5/16-18 X 5-1/2 RD HD SQ NK
+                     15    435507   3     Nut, Lock; 1/2-13 Washer Insert
+                    16     419456   2     Nut, Lock; 7/16-14 Washer Insert Hex
+                     17     21148   1     Block, Bearing Support
+                     18     21147   1     Bearing , Spherical
+                     19    180149   2     Bolt, Hex; 7/16-14 x 1-1/2
+                     20     21071   2    'Weldment, Steering Arm
+                     21    446470   2     Washer, Flat ; .375 x 1.125 x .065
+                     22    456004   2     Nut, Lock; 3/8-16 Washer Insert Hex
+                     23     14998   2     Race, Bearing Thrust; .752 x 1.240 x .095
+                     24     21079   1     Plate, Adjustment
+                     25     21077   2     Bearing, Flange (p/M Bronze)
+                     26     21076   2     Bushing; .391 x .622 x .670
+                     27     21078   2     Sleeve, Pivot
+                     28    443734   2     Bolt, Hex; 1/2-13 x 6
+                     29    419455   2     Nut, lock; 5/16-18 Washer Insert Hex
+                     30    454473   2     Screw, Cap; 3/8-16 x 2 Hex Socket HD
+                     31     21075   1     Gear, Rack
+                     32     24442   1     Shaft, Steering Wheel
+                     33     20273   1     Ring, Retaining; Int. Tooth 1.000 Shaft
+                     34     10174   2     Bushing, Nylon; .760 x 1.000 x .600 Flange
+                     35     23376   1     Insert, Steering Wheel
+                     36     24490   1     Wheel , Steering;
+                     37    120376   2     Nut, Hex; 5/16-18
+                     38     21246   1     Strap, Rack and Pinion
+                     39     18785   2     Cap, Front Axle
+                     40     24438   1     Bushing, Steering Wheel
+                     41    131016   1     Washer, Flat; .656 x 1.312 x .095
+                     42    418692   1     Nut, Lock; 5/8-11 Washer Insert Hex     15
+```
+
+## Page 19 — Transmission Controls And Brake Lever Controls
+
+```text
+TRANSMISSION CONTROLS AND BRAKE LEVER CONTROLS
+                                       52 t-39
+                               49                                       69        72
+                                              62              39
+                                 31      40          53
+                                                        67 5        67
+                                                                                70
+                                    33
+                                                                      64 0 66
+                        42
+                                                                             65
+               t-39                      46
+            40                                                            62
+                        20    22 65
+                                    26
+                                                                        42
+                           74 68                          39          50
+                                              29                       Vd 52
+                                                                  51
+                           12                'Y-30
+                                        28
+                           37
+      16
+```
+
+## Page 20 — Transmission Controls And Brake Lever Controls
+
+```text
+TRANSMISSION CONTROLS AND BRAKE LEVER CONTROLS
+                        ITEM NO. PART NO.         DESCRIPTION
+                          1      11021   1     Bracket, Brake Pedal
+                          2     456004   4     Nut, Lock; 3/8-16 Washer Insert Hex
+                          3     126227   2     Bolt; 3/8-16 x 3/4 RD HD SQ NK
+                          4     454668   2     Pin, Spring; 3/16 x 1-1/4 Cap
+                          5     417923   1     Pin, Clevis; .250 x 1.500
+                          6     120392   2     Washer, Flat; .281 x .625 x .065
+                          7     180124   3     Bolt, Hex; 3/8-16 x 1-1/4
+                          8      11009   1     pedal, Brake; R. H.
+                          9     121223   1     Pin, Cotter; 1/16 x .75
+                          10    435507   1     Nut, lock; 1/2-13 Washer Insert
+                          11     20773   1
+                          12    120390   3     Washer, Flat; 9/16 x 1-3/8 x .109
+                          13    411027   1     Fitting, Lube; 1/4-28
+                          14     11074   1     Bushing; .505 x .74 x 1.438
+                          15    415571   1     Pin, Clevis; .375 x 1.531
+                          16     10672   1     Pin, Clevis; .375 x 1.250
+                          17    180188   1     Bolt, Hex; 1/2-13 x 2-3/4
+                          18    120238   1     Nut, Jam; 1/2-13
+                          19    102623   1     Screw, Set; 1/2-13 x 2 Cup Pt.
+                          20     24450   1     Lever , Forward-Reverse
+                          21     11078   1     Grip, Hand Lever
+                          22     20772   1     Arm, Parking Brake Lock
+                          23     20775   2     Washer, Nylon; 375 x .75 x .060
+                          24    124829   1     Nut , Jam; 3/8-16 Hex
+                          25    179128   1     Pin , Cotter; 1/4 x 1
+                          26     18381   1     Cam , Brake
+                          27     21131   1     Link , Front
+                          28     21132   1     Link , Rear
+                          29    138083   1     Pin, Clevis; .250 x .766
+                          30    423302   1     Pin , cotter; .078 x ,627
+                          31    180091   2     Bolt, Hex; 5/16-18 x 2-1/2
+                          32    120393   2     Washer, Flat; .344 x .688 x .065
+                          33     11779   2     Spring, Comp Type; 1 x .78 x 338 LB/ in
+                          34     18396   1     Bracket , Weldment
+                          35     18464   1     Plate, Clutch Detent
+                          36    419455   6     Nut, Lock; 5/16-18 Washer Insert Hex
+                          37     11263   1     Spring, Ext; 5-1/2 x .50 x 20 Rate
+                          38     11329   1     Clip, Spring
+                          39    121222   6     Pin, Cotter; .09 x .75
+                          40    120394   6     Washer, Flat; .406 x .812 x .065
+                          41     24491   1     Link, Forward-Reverse Shifter
+                          42    138078   3     Pin, Clevis; . 395 x .948
+                          43     18390   1     Shaft, Clutch Weldment
+                          44    124522   1     Key , Woodruff ; 3/16 x 1 Hard NO. 13
+                          45     18485   1     Spacer, .760 x 1.00 x .540
+                          46     10174   1     Bushing, Nylon; .760 x 1.000 x .600 Flange
+                          47     18395   1     Arm, Reverse Clutch
+                          48     11270   1     E-Ring; .750 Shaft
+                          49     18400   1     Rod, Forward Clutch
+                          50    124925   2     Nut, Jam; 3/8-24 Hex
+                          51     18401   1     Rod, Reverse Clutch
+                          52     18380   4     Clevis, 3/8-24 Adjustable
+                          53     18365   1     Shaft, Cross Weldment
+                          54    137185   3     Pin, Cotter; .125 x 1.000
+                          55     18368   2     Arm, Shifter Weldment
+                          56     18371   1     Lever, Shift
+                          57    120396   1     Washer, Flat; .500 x 1.062 x .095
+                          58     18372   1     Spring, Comp Type; 2-3/4 x .625 x 34 Rate
+                          59     18373   1     Control, 2-Speed Asm.
+                          60     20662   1     control, PTO
+                          61     11096   1     Bracket, Cross Shaft
+                          62    180077   4     Bolt, Hex; 5/16-18 x 3/4
+                          63    104036   1     Clevis , Adjustable; 1/4 x 28
+                          64    138086   1     Pin, Clevis; .500 x 1.213
+                          65    177923   2     Pin, Cotter; .125 x .750
+                          66     18387   1     Yoke, 1/2-20 Adjustable
+                          67     10670   3     Knob, Control
+                          68    120386   1     Washer, Lock; 3/8 SP
+                          69     18389   2     Rod, Shifting
+                          70     18386   1     Rod, PTO
+                          71     18388   1     Rod, 2-Speed
+                          72     11860   3     Cotter, Hair Pin
+                          73    120367   1     Nut, Hex; 1/4-28
+                          74    413534   1     Nut, Lock; 3/8-16 N Hex
+                                                                                       17
+```
+
+## Page 21
+
+```text
+
+```
+
+## Page 22 — Tractor Frame
+
+```text
+TRACTOR FRAME
+               ITEM NO. PART NO. QTY. DESCRIPTION
+                 1     11057 1     Insert, Grille Mesh
+                 2     10969 1     Casting, Grille
+                 3    419455 6     Nut, Lock; 5/16-18 Washer Insert Hex
+                 4    180079 6     Bolt, Hex; 5/16-18 x 1
+                 5    160515 8     Screw, Machine; 1/4-20 x 1/2 Pan HD C-Recess
+                 6     15707 1     Assembly , Hood
+                 7     18573 1     Tray, Battery
+                 8    180018 5     Bolt, Hex; 1/4-20 x .625
+                 9    419454 12    Nut, Lock; 1/4-20 Washer Insert
+                 10    18197 2     Plug , Bumper
+                 11    11989 1     Decal, Electrical System Warning
+                 12   120392 7     Washer, Flat; .281 x .625 x .065
+                 13    24448 1     Panel , Instrument Homeowner
+                       24447 1     Panel, Instrument w/Hourmeter Tractor; Models
+                                   (8166-8167) (8162-T) (8163-T) (8183-T)
+                       24446 1     Panel , Instrument w/ Ammeter Tractor - Models
+                                   (8126-8127-8177)
+                 14    11777 6     Grorrunet , Plastic
+                 15   180021 7     Bolt, Hex; 1/4-20 x 7/8
+                 16    24440 1     Plate, Manual Control Cover
+                       24441 1     Plate, Hydraulic Control Cover
+                 17   167257 6     Screw, Tapping; 1/4-20 x 1/2 Pan HD C-Recess
+                 18   180124 2     Bolt, Hex; 3/8-16 x 1-1/8
+                 19    24378 2     Strap, Frame Ext.
+                 20   456004 2     Nut, Lock; 3/8-16 Washer Insert Hex
+                 21    24356 2     Spring, Seat
+                 22    24358 2     Bracket , Rear Hitch
+                 23   180175 2     Bolt, Hex; 1/2-13 x 1.25
+                 24    18362 1     Bracket, Fender Hold-Up
+                 25   126216 4     Bolt; 5/16-18 x 3/4 RD HD SQ NK
+                 26    24357 2     Bumper , Seat
+                 27   417923 1     pin, Clevis; .250 x 1.500
+                 28   180122 2     Bolt, Hex; 3/8-16 x 1
+                 29   120394 2     Washer, Flat; .406 x .812 x .065
+                 30    24815 2     Bushing, Rear Fender
+                 31    21424 1     Seat, Intermediate Back
+                 32    24348 1     Weldment, Seat Pan
+                 33    17837 2     Reflector, Red Safety
+                 34    24608 3     Decal, Gravely Ingo
+                 35   121223 1     Pin, Cotter; 1/16 x .75
+                 36   120214 4     Washer, lock; 5/16 SP
+                 37    18416 1     Strap, Fender Hold-Up
+                 38    22421 1     Bracket, Forward Tank
+                 39    22422 1     Bracket, Rear Tank
+                 40    14897 2     Moulding
+                 41    11058 4     Nut (Rim)
+                 42    24610 1     Stripe, L. Side Consumer Rider
+                       24612 1     Stripe, L. H. Side Commercial Rider
+                       24609 1     Stripe, R. H. Side Consumer Rider
+                       24611 1     Stripe, R. H. Side Comercial Rider
+                 43   181700 4     Bolt, Hex; 1/2-20 x 1-1/2
+                 44    24353 1     Weldment , Frame
+                 45    10405 2     Cotter, Hair Pin
+                 46   180024 2     Bolt, Hex; 1/4-20 x 1-1/4
+                 47   120386 2     Washer, Flat; 5/16 x 47/64 x .065
+                 48   180077 4     Bolt, Hex; 5/16-18 x 3/4
+                 49   180177 2     Bolt, Hex; 1/2-13 x 1-1/2
+                 50   435507 2     Nut, Lock; 1/2-13 Washer Insert
+                 51   446470 4     Washer, Flat; .375 x 1.125 x .065
+                 52   413447 4     Nut, Lock; 5/16-18 Type N Hex
+                 53    24594 2     Decal , Model 8102
+                       24595 2     Decal , Model 8122
+                       24596 2     Decal , Model 8123
+                       24598 2     Decal , Model 8162-T
+                       24599 2     Decal , Model 8163-T
+                       24600 2     Decal , Model 8183-T
+                       24602 2     Decal , Model 8126 Cormercial
+                       24603 2     Decal , Model 8127 Commercial
+                       24604 2     Decal , Model 8166 Commercial
+                       24605 2     Decal , Model 8167 Commercial
+                       24606 2     Decal , Mode 1 8177 Commercial
+                 54    12391 1     Assernbly , Door
+                 55    24588 1     Decal; Gravely logo
+                 56    21423 1     Seat, High Back
+                 57    24347 1     Weldment, Seat Pan (Onan)
+                 58    24644 1     Bracket, Fuel Pump
+                 59   180120 2     Bolt, Hex; 3/8-16 x .750
+                 60    24649 1     Pump, Electric Fuel
+                   NOTE : Circle Pertains to Tractor Models 8162-T, 8163-T , 8183-T , 8177 Only
+                   NOTE : Circle B Pertains to Tractor Models 8177 Only
+                                                                                   19
+```
+
+## Page 23 — Rear Hitch For Models
+
+```text
+REAR HITCH FOR MODELS
+                             8102, 8122, 8123, 8126, 8127, 8166 AND 8167
+                          ITEM NO. PART NO.         DESCRIPTION
+                                  180179        Bolt, Hex; 1/2-13 x 1-3/4
+                                  435507        Nut, Lock; 1/2-13 Washer Insert
+                                  20450         Arm, Rear Hi tch
+                                  19517         Plate, Hitch
+                                   REAR HITCH FOR MODELS
+                              8162-T, 8163-T, 8183-T AND 8177
+                          ITEM NO. PART NO. QTY.   DESCRIPTION
+                                 180179   10    Bolt, Hex; 1/2-13 x 1-3/4
+                                 435507   10    Nut, Lock; 1/2-13 Washer Insert
+                                  21421         Weldment, Drawbar 817
+                                  19517         Plate, Hitch
+                                  21418         Bracket, Hitch Plate
+                                 418692         Nut, Lock; 5/8-11 Washer Insert Hex
+       20                        271723         Bolt, Hex; 5/8-11 x 2
+```
+
+## Page 24 — Engine. Fuel System And Exhaust System For Models
+
+```text
+ENGINE. FUEL SYSTEM AND EXHAUST SYSTEM FOR MODELS
+                        810 e, 8122, 8123, 8126 AND 8127
+                        e
+                          ITEM NO. PART NO. QTY. DESCRIPTION
+                            1    14897 2     Moulding
+                            2    18563 1     Valve, Fuel; 90 Deg Reverse Flow
+                            3    7216  2     Clamp, Fuel Hose
+                            4    21482 1     Hose, Fuel
+                            5    12383 1     Tank, Fuel
+                            6    21415 1     Guage, Gas
+                            7   416430 1     Nut, I.ock; 1/4-28 Type N Zinc
+                            8    11772 1     Washer, Friction
+                            9    11774 1     Washer , Spring
+                           10   181566 1     Bolt, Hex; 1/4-28 x 3/4
+                           11   120214 2     Washer, Lock; 5/16 SP
+                           12    11773 2     Assembly, Knob and Lever
+                           13    24446 1     Panel , Instrument w/Ammeter
+                                 24448 1     Panel , Instrument
+                           14   421705 2     Screw, Cap; 5/16-18 x 3/4 Socket HD
+                           15    19492 1     Header , Exhaust
+                           16    18509 1     Assembly, Throttle Conduit 812
+                           17    11771 1     Assembly, Choke Conduit 812
+                           18   180175 4     Bolt, Hex; 1/2-13 x 1.25
+                           19   120396 4     Washer, Flat; .500 x 1.062 x .095
+                           20    18344 1     Ring, Retaining; 1.125 Shaft
+                           21    18343 1     Gear, Spur and Bevel; Input
+                           22    18342 2     Race, Bearing Thrust; 1.127 x 1.740
+                           23    18341 1     Bearing, Thrust; 1.127 x 1.740 x .078
+                           24    18346 1     O-Ring; 3.000 x 3.188 x .094
+                           25    10629 9     Tie, Cable
+                           26    18347 1     O-Ring; 2.500 x 2.750 x .125
+                           27   180146 3     Bolt, Hex; 7/16-14 x 1-1/8
+                           28   131100 3     Washer, Lock; 7/16 SP Heavy
+                           29    20555 1     Adapter , Engine
+                           30   421648 1     Screw, Cap; 7/16-14 x 1 Socket Head
+                           31    18340 1     Gasket, Adaptor
+                           32    18345 1     Key, Square; .250 x 1.250
+                           33    24636 1     Engine, IO H.P. 4-Whee1 Elect. Consumer (8102)
+                                 19482 1     Engine, 12 H.P. 4-Whee1 Elect. Consumer (8122) , (8123)
+                                 24663       Engine, 12 H.P. 4-M1ee1 Elect. Commercial (8126) , (8127)
+                           34   114798 1     Elbow, 1/4 Ball Sleeve Asm.
+                           35    10862 1     Decal, Air Cleaner Instruction
+                           36    12019 1     Bracket, Fuel Line Support
+                           37    12009 1     Connector, To Pump Fuel Line
+                           38    14728 1     Clamp, Muffler
+                           39    18543 1     Muffler , Exhaust
+                           40    7331  1     CI Ip, Speed
+                           41   120380 1     Washer, Lock; 1/4 SP
+                           42   160515 1     Screw, Mach; 1/4-20 x 1/2 Pan HD
+                           43   120375 1     Nut, Hex; 1/4-20
+                           44    18522 1     Bracket
+                           45    11202 1     Gasket , Exhaust
+                           46    22422 1     Bracket , Rear Tank
+                           47    22421 1     Bracket , Forward Tank                  21
+```
+
+## Page 25 — Engine, Fuel System And Exhaust System For Models
+
+```text
+ENGINE, FUEL SYSTEM AND EXHAUST SYSTEM FOR MODELS
+                              8162-T, 8163-T AND BIB3-T
+                                                                 23
+                                                 36410
+                        ITEM NO. PART NO. QTY.    DESCRIPTION
+                          1     18563    1     Valve, Fuel; 90 Deg. Reverse Flow
+                          2      7216    2     Clamp, Fuel Hose
+                          3      20560   1     Hose, Fuel; 67 Inches
+                          4      12383   1     Tank, Fuel
+                          5      21415   1     Guage , Gas
+                          6      14897   2     Moulding
+                          7      10629   8     Tie, Cable
+                          8     416430   1     Nut, Lock; 1/4-28 Type N Zinc
+                          9      11772   1     Washer , Friction
+                         10      11774   1     Washer , Spring
+                         11     181566   1     Bolt, Hex; 1/4-28 x 3/4
+                         12      18341   1     Bearing, Thrust; 1.127 x 1.740 x .078
+                         13      11773   2     Assembly, Knob and Lever
+                         14      24447   1     Panel , Instrument w/Hourmeter
+                         15      20565   2     Assembly , Choke Conduit 816S
+                         16      23300   2     Shield, Muffler
+                         17     180177   4     Bolt, Hex; 1/2-13 x 1-1/2
+                         18      10862   1     Decal, Air Cleaner Instruction
+                         19      23290   2     Gasket, Exhaust; Onan
+                         20     421705   4     Screw, Cap; 5/16-18 x 3/4 Socket HD
+                         21      23279   1     Weldment, Exhaust Header R. H.
+                         22      23299   2     Muffler, 816T & 818T
+                         23      14728   4     Clamp, Muffler
+                         24     144811   4     Screw, Tapping; 10-12 x 1/2 Pan HD C-Recess
+                         25      23280   2     Bracket, Muffler
+                         26      23301   2     Extension, Muffler
+                         27     120396   4     Washer, Flat; .500 x 1.062 x .095
+                          28     23277   1     Weldment, Exhaust Header L. H.
+                          29    120382   3     washer, Lock; 3/8 sp
+                          30    120214   4     Washer, Lock; 5/16 SP
+                          31     23261   1     Engine, Onan Model B43M-GA016 16 H.P. A1.
+                                 23262   1     Engine, Onan Model B48M-GA018 18 H.P. A1.
+                          32    454475   1     Screw, Cap; 3/8-16 x 1-3/4 Hex Socket HD
+                          33     18517   1     Seal, Oil; 1.125 x 1.628 x .250
+                          34    103909   1     Key, Woodruff ; .250 x 1.125 Soft
+                          35     18427   1     Adaptor, Engine (Onan NB CCK Engine)
+                          36    180128   3     Bolt, Hex; 3/8-16 x 1-3/4
+                          37     18344   1     Ring, Retaining; 1.125 Shaft
+                          38     18343   1     Gear, Spur and Bevel , Input
+                          39     18342   2     Race, Bearing Thrust; 1.127 x 1.740 x .060
+                          40     7331    1     Clip, Speed
+                          41     18347   1     O-Ring; 6.500 x 2.750 x .125
+                          42     18346   1     O-Ring; 3.000 x 3.188 x .094
+                          43     22422   1     Bracket, Rear Tank
+     22                   44     22421   1     Bracket, Forward Tank
+```
+
+## Page 26 — Engine, Fuel System And Exhaust System For Models
+
+```text
+ENGINE, FUEL SYSTEM AND EXHAUST SYSTEM FOR MODELS
+                                  8186 AND 8167
+                    ITEM NO. PART NO. QTY.    DESCRIPTION
+                      1     18563    1     Valve, Fuel; 90 Deg. Reverse Flow
+                      2      7216    2     Clamp, Fuel Hose
+                      3     20560    1     Hose, Fuel; 67 Inches
+                      4     12383    1     Tank , Fuel
+                      5     21415    1     Gauge, Gas
+                      6     10629   12     Tie, Cable
+                      7     14897    2     Moulding
+                      8     416430   1     Nut, Lock; 1/4-28 Type N Zinc
+                      9     11772    1     Washer, Friction
+                     10     11774    1     Washer , Spring
+                     11     181566   1     Bolt, Hex; 1/4-28 x 3/4
+                     12     18342    1     Gear , Spur and Bevel, Input
+                     13     11773    2     Assembly, Knob and Lever
+                     14     24447    1     Panel , Instrument w/Hourmeter
+                     15     20565    1     Assembly, Choke Conduit 816S
+                     16     20942    1     Assembly, Throttle Conduit 816S
+                     17     18344    1     Ring, Retaining; 1.125 Shaft
+                     18     18342    1     Race, Bearing Thrust; 1.127 x 1.740 x .060
+                     19     180146   3     Bolt, Hex; 7/16-14 x 1-1/8
+                     20     180175   4     Bolt, Hex; 1/2-13 x 1.25
+                     21     120396   4     Washer, Flat; .500 x 1.062 x .095
+                     22     18341    1     Bearing, Thrust; 1.127 x 1.740 x .078
+                     23     18346    1     O-Ring; 3.000 x 3.188 x .094
+                     24     18347    1     O-Ring; 2.500 x 2.750 x .125
+                     25     131100   3     Washer, Lock; 7/16 SP Heavy
+                     26     421648   1     Screw, Cap; 7/16-14 x 1 Socket Head
+                     27     20555    1     Adaptor , Engine
+                     28     18340    1     Gasket , Adaptor
+                     29     18543    1     Muffler, Exh
+                     30     18345    1     Key, Square; .250 x 1.250
+                     31                    Engine, 16 H.P. B & S Model 326437
+                     32     456004   1     Nut, Lock; 3/8-16 Washer Insert Hex
+                     33     10866    1     Nut, Conduit 1" Pipe
+                     34     20579    1     Nipple, Pipe 1 x 6
+                     35     127793   1     Pipe, 1 In. Elbow
+                     36     20580    1     Nipple, Pipe; 1" x 8.4" Special
+                     37     14728    1     Clamp, Muffler
+                     38     120368   1     Nut, Hex; 5/16-24
+                     39     20581    1     Support , Exhaust
+                     40     180124   1     Bolt, Hex; 3/8-16 x 1-1/4
+                     41     22422    1     Bracket , Rear Tank
+                     42     22421    1     Bracket, Forward Tank                  23
+```
+
+## Page 27 — Engine, Fuel System And Exhaust System For Model
+
+```text
+ENGINE, FUEL SYSTEM AND EXHAUST SYSTEM FOR MODEL
+                                              8177
+                                                                                28
+                              ITEM NO. PART NO.     DESCRIPTION
+                                1    18563 1     Valve, Puel; 900EG Reverse Flow
+                                2     7216 4     Clamp, Puel Hose
+                                3    23313 1     Hose, Fuel; 66 In.
+                                4    12383 1     Tank , Fuel
+                                5    21415 1     Gauge, Gas
+                                6    14897 2     Moulding
+                                7    10629 8     Tie, Cable
+                                8   416430 1     Nut, lock; 1/4-28 Type N Zinc
+                                9    11772 1     Washer , Friction
+                               10    11774 1     Washer, Spring
+                               11   181566 1     Bolt, Hex; 1/4-28 x 3/4
+                               12    18344 1     Ring, Retaining; I. 125 Shaft
+                               13    11773 2     Assembly, Knob and Lever
+                               14    24622 1     Assembly, Instrument Panel 8177
+                               15    15752 1     Control
+                               16    19689 1     Asse�ly, Conduit
+                               17   180177 4     Bolt, Hex; 1/2-13 x 1-1/2
+                               18   446354 2     washer, Flat; 5/16 x 7/8 x .065
+                               19    10862 1     Decal, Air Cleaner Instruction
+                               20   180079 4     Bolt, Hex; 5/16-18 x 1
+                               21   120214 4     Washer, Lock; 5/16 SP
+                               22    21413 1     Shield, Muffler
+                               23    10866 1     Nut, Conduit 1" Pipe
+                               24   144138 1     Elbow, Pipe 1 In. 45 Deg.
+                               25    19347 1     Pipe, Exhaust
+                               26    19599 1     Flywheel, Aux. Model 816
+                               27   120396 1     Washer, Flat; .500 x 1.062 x .095
+                               28    19598 1     Bolt, Special; 7/16-14 x 5
+                               29   120382 2     Washer, Lock; 3/8 SP
+                               30   180124 2     Bolt, Hex; 3/8-16 x 1-1/4
+                               31    18454 1     Engine, 16.5 H.P. Onan CCK
+                               32   454475 1     screw, cap; 3/8-16 x 1-3/4 Hex Socket HD
+                               33    18517 1     Seal, Oil; 1.125 x 1.628 x .250
+                               34   103909 1     Key , Woodruff ; .250 x 1.125 Soft
+                               35    18427 1     Adaptor, Engine (Onan NB CCK Engine)
+                               36     7331       Clip , Speed
+                               37    19690 1     Bracket, Control Cable
+                               38   120375 1     Nut, Hex; 1/4-20
+                               39    18522 1     Bracket
+                               40   180128  3    Bolt, Hex; 3/8-16 x 1-3/4
+                               41    18347 1     O-Ring; 2.500 x 2.750 x .125
+                               42    18346 1     O-Ring; 3.000 x 3.188 x .094
+                               43    18341 1     Bearing, Thrust; 1.127 x 1.740 x .078
+                               44    18342 2     Race, Bearing Thrust; 1.127 x 1.740 x .060
+                               45    18343 1     Gear, Spur and Bevel, Input
+                               46    22422 1     Bracket, Rear Tank
+                               47    22421  1    Bracket, Forward Tank
+                               48    13502  2    Connector
+                               49    24648  2    Fitting, Fuel Pump 900 Elbow
+                               50    24649       Pump, Electric Fuel
+                               51    24644  1    Bracket, Fuel Pump
+                               52   180020  2    Bolt, Hex; 1/4-20 x 3/4
+                               53   456004  2    Nut, lock; 3/8-16 Washer Insert Hex
+                               54   180120  2    Bolt, Hex; 3/8-16 x .750
+                               55   419454  2    Nut, lack ; 1/4-20 Washer Insert
+        24                     56    24645  1    Hose, Fuel Pump Inlet
+```
+
+## Page 28 — Electric System For Model
+
+```text
+ELECTRIC SYSTEM FOR MODEL
+                                       8102
+                                    10
+                                           30
+                                32
+                 28
+                                27                  21
+                                        5
+                        26       26 13
+                                                              8
+                                      3
+                      ITEM NO. PART NO.     DESCRIPTION
+                        1   159920 4     Screw, Mach; 10-24 x 1/2 Pan HD C-Recess
+                        2    11288 1     Panel, Front
+                        3    20916 2     Swi tch, Interlock
+                        4    20660 1     Bracket, Switch
+                        5   180018 3     Bolt, Hex; 1/4-20 x .625
+                        6    11031 1     Cable, Starter
+                        7    24754 1     Harness, Wiring 3 Amp
+                        8    10629 9     Tie, Cable
+                        9   120385 4     Washer, Flat; .188 x .562 x .049
+                       10    21425 1     Wire, Instrument Panel
+                       11   107354 1     Nut, Stamped; 9/16-18
+                       12    24858 1     Fuse, 5 Amp 3 AG5
+                       13   419454 3     Nut, Lock; 1/4-20 Washer Insert
+                       14   120392 2     Washer, Flat; .281 x .625 x .065
+                       15    24448 1     Panel , Instrument Homeowner
+                       16    12375 1     Cable, Battery to Magnetic Switch
+                       17   159947 4     Screw, Mach; 10-24 x 3/4 Pan HD C-Recess
+                       18    11030 4     Clip, Light Mtg.
+                       19    19666 1     Nut, Jam; 9/16-24 Indak 83024
+                       20    18570 1     Key, Ignition Switch
+                       21    19667 1     Washer, Lock; 9/16 Int. Tooth, Indak 85013
+                       22    19223 1     Switch, Ignition Indak J463-A
+                       23    11676 1     Nut, speed; 1/4-20
+                       24    7277  1     Switch, Mag; Delco 1466, Prestolite E017811
+                       25    21416 1     Fuse, Panel
+                       26    12386 2     Hook, Battery
+                       27    18573 1     Tray, Battery
+                       28    7274  1     Battery, 12V
+                       29    11027 1     Bracket, Battery Hold Down
+                       30   180021 1     Bolt, Hex; 1/4-20 x 7/8
+                       31    10413 2     Nut, Wing; 1/4-20 Washer Insert
+                       32    6980  1     Cable, Negative Battery
+                       33    24449 1     Plug, Button (Light Switch)             25
+```
+
+## Page 29 — Electric System For Models
+
+```text
+ELECTRIC SYSTEM FOR MODELS
+                                       8122 AND 8123
+                                               28
+                                                               2
+                                              1 34 27
+                                                    3
+                                                16
+                                             16  27
+                                                         11 2
+                                                 25
+                                                                436
+                        38   3
+                              ITEM NO. PART NO. QTY. DESCRIPTION
+                                1   159920 4     Screw, Mach; 10-24 x 1/2 Pan HD C-Recess
+                                2    11289 1     Panel, Front Light
+                                3   454646 3     Lamp; No. 1073
+                                4    IE30  4     Clip, Light Mtg.
+                                5    11334 1     Assembly , Lamp Reflector
+                                6    11763 1     Nut, Wire
+                                7    19534 1     Wire, Headlight
+                                8    11286 2     Clip, Wire
+                                9    11031 1     Cable, Starter
+                               10    22122 1     Harness, Wiring; 810 & 812
+                               11   120375 2     Nut, Hex; 1/4-20
+                               12   120380 2     Washer, Lock; 1/4 SP
+                               13    18009 1     Regulator, Rectifier
+                               14    21416 1     Fuse, Panel
+                               15    11337 1     Switch, Light
+                               16   419454 2     Nut, lack; 1/4-20 Washer Insert
+                               17   120392 3     Washer, Flat; .281 x .625 x .065
+                               18    24448 1     Panel , Instrument Consumer
+                               19   160541 2     Screw, Machine; 1/4-20 Pan HD
+                               20    14893 1     Fuse, 30 Amp Acc-30
+                               21    18587 1     Nut, Special; Light Switch
+                               22    18570 1     Key, Ignition Switch
+                               23    19666 1     Nut, Jam; 9/16-24 Indak 83024
+                               24    19223 1     Switch, Ignition Indak J463-A
+                               25    20916 2     Switch , Interlock
+                               26   107354 1     Nut, Stamped; 9/16-18
+                               27   180018 2     Bolt, Hex; 1/4-20 x .625
+                               28    21425 1     Wire, Instrument panel
+                               29    20660 1     Bracket, Switch
+                               30   120385 4     Washer, Flat; .188 x .562 x .049
+                               31    12386  2    Hook , Battery
+                               32     7277 1     Switch, Mag; Delco 1466 Prestolite E017811
+                               33    11676 1     Nut, Speed; 1/4-20
+                               34    18573  1    Tray , Battery
+                               35     7274  1    Battery , 12V
+                               36    10629 9     Tie, Cable
+                               37    11027  1    Brachet, Battery Hold Down
+                               38   159947 4     Screw, Mach; 10-24 x 3/4 Pan HD C-Recess
+                               39    10413  2    Nut, Wing; 1/4-20 Washer Insert
+                               40     6980  1    Cable, Negative Battery
+                               41    19667  1    Washer, lock; 9/16 Int Tooth, Indak 85013
+                               42    12375  1    Cable, Battery to Magnetic Switch
+                               43   180021  1    Bolt, Hex; 1/4-20 x 7/8
+        26
+```
+
+## Page 30 — Eletric System For Models
+
+```text
+ELETRIC SYSTEM FOR MODELS
+                              8126 AND 8127
+                                      28
+                                         43
+                                                        85
+                                  40                 22
+                        35               14
+                                     1 34 7
+                                          3
+                                                          18
+                                   16  27
+               38
+                   ITEM NO. PART NO. pry. DESCRIPTION
+                     1    159920 4     Screw, Mach; 10-24 x 1/2 Pan HD C-Recess
+                     2    11289  1    Panel, Front Light
+                     3    454646 3    Lamp; No. 1073
+                     4    11030  4    Clip, Light Mtg.
+                     5    11334  1    Assembly, Lamp Reflector
+                     6    11763  1    Nut , Wire
+                     7    19534  1    Wire , Headlight
+                     8    11286  2    Clip, Wire
+                     9    11031  1    Cable, Starter
+                    10    22122  1    Harness, Wiring; 810 & 812
+                    11    120375 2    Nut, Hex; 1/4-20
+                    12    120380 2    Washer, Lock; 1/4 SP
+                    13    18009  1    Regulator , Rectifier
+                    14    21416  1    Fuse, Panel
+                    15    11337  1    Switch, Light
+                    16    419454 3    Nut, Lock; 1/4-20 Washer Insert
+                    17    120392 4    Washer, Flat; .281 x .625 x .065
+                    18           1    Panel , Instrument w/ Ammeter
+                    19    160541 2    Screw, Machine; 1/4-20 Pan HD
+                    20    21426  2    Wire , Hourmeter
+                    21    18587  1    Nut, Special; Light Switch
+                    22    18570  1    Key, Ignition Switch
+                    23    19666  1    Nut, Jam; 9/16-24 Indak 83024
+                    24    19223  1    Switch, Ignition; Indak 1463-A
+                    25    20916  2    Switch , Interlock
+                    26    107354 1    Nut, Stamped; 9/16-18
+                    27    180018 3    Bolt, Hex; 1/4-20 x .625
+                    28    21425  2    Wire, Instrument Panel
+                    29    20660  1    Bracket, Switch
+                    30    120385 4    washer, Flat; .188 x .562 x .049
+                    31    12386  2    Hook , Battery
+                    32     7277  1    Switch, Mach; Delco 1466, Prestolite E017811
+                    33    11676  1    Nut, Speed; 1/4-20
+                    34    18573  1    Tray , Battery
+                    35     7274  1    Battery , 12V
+                    36    10629  9    Tie, Cable
+                    37    11027  1    Bracket, Battery Hold Down
+                    38    159947 4    Screw, Mach; 10-24 x 3/4 Pan HD C-Recess
+                    39    10413  2    Nut, Wing; 1/4-20 Washer Insert
+                    40     6980  1    Cable, Negative Battery
+                    41    19667  1    Washer, Lock; 9/16 Int. Tooth, Indak 85013
+                    42    12375  1    Cable, Battery to Magnetic Switch
+                    43    180021 1    Bolt, Hex; 1/4-20 x 7/8
+                    44    14893  1    Fuse , 30 Amp Acc-30
+                    45    21414  1    Hourme ter
+                    46    21848  1    Gauge ; Ammeter
+                    47    180020 1    Bolt, Hex; 1/4-20 x 3/4                 27
+```
+
+## Page 31 — Eletric System For Models
+
+```text
+ELETRIC SYSTEM FOR MODELS
+                                8162-T, 8163-T AND 8183-T
+                                  7                         2
+                               35               4
+                                            341 27
+                                                 3
+                                                                  17
+                                           16
+                                                        2
+                      38
+                            ITEM NO. PART NO.      DESCRIPTION
+                              1    159920 4    Screw, Mach; 10-24 x 1/2 Pan HD C-Recess
+                              2    11289  1    Panel, Front Light
+                              3   454646  3    Lamp; NO. 1073
+                              4    11030  4    Clip, Light Mtg.
+                              5    11334  1    Assembly Lamp Reflector
+                              6    11763  1    Nut, Wire
+                              7    19534  1    Wire , Headlight
+                              8    11286  2    Clip, Wire
+                              9    23310  1    Cable, Battery; 816T and 818T
+                             10    23304  1    Harness, Wiring; 816T and 818T
+                             11    120375 2    Nut, Hex; 1/4-20
+                             12    120380 2    Washer, lack; 1/4 SP
+                             13    18009  1    Regulator , Rectifier
+                             14    21416  1    Fuse, Panel
+                             15    11337  1    Switch, Light
+                             16   419454  3    Nut, Lock; 1/4-20 Washer Insert
+                             17    120392 2    Washer, Flat; .281 x .625 x .065
+                             18    24447  1    Panel , Instrument w/ Hourmeter
+                             19    160541 2    Screw, Machine; 1/4-20 Pan HD
+                             20    21414  1    Hourmeter
+                             21    18587  1    Nut, Special; Light Switch
+                             22    18570  1    Key, Ignition Switch
+                             23    19666  1    Nut, Jam; 9/16-24 Indak 83024
+                             24    19223  1    Switch, Ignition Indak J463-A
+                             25    20916  2    Switch, Inter lock
+                             26    107354 1    Nut, Stamped; 9/16-18
+                             27    180018 3    Bolt, Hex; 1/4-20 x .625
+                             28    21425  1    Wire , Instrument Panel
+                             29    20660  1    Bracket , Switch
+                             30    120385 4    Washer, Flat; .188 x .562 x .049
+                             31    12386  2    Hook, Battery
+                             32     7277  1    Switch, Mach; Delco 1466, Prestolite E017811
+                             33    11676  1    Nut, Speed; 1/4-20
+                             34    18573  1    Tray , Battery
+                             35     7274  1    Battery , 12V
+                             36    10629  8    Tie, Cable
+                             37    11027  1    Bracket, Battery Hold Down
+                             38    159947 4    Screw, Mach; 10-24 x 3/4 Pan HD C-Recess
+                             39    10413  2    Nut, Wing; 1/4-20 Washer Insert
+                             40     6980  1    Cable, Negative Battery
+                             41    19667  1    Washer, Lock; 9/16 Int Tooth, Indak 85013
+                             42    12375  1    Cable, Battery to Magnetic Switch
+                             43    180021 1    Bolt, Hex; 1/4-20 x 7/8
+                             44    14893  1    Fuse , 30 Arnp Acc-30
+                             45    21426  2    Wire , Hourmeter
+      28                     46    180020 1    Bolt, Hex; 1/4-20 x 3/4
+```
+
+## Page 32 — Electric System For Models
+
+```text
+ELECTRIC SYSTEM FOR MODELS
+                                 8166 AND 8167
+                                    44
+                    37
+                                                             14
+                              34                 27
+                                                              45
+                                     2
+                                       3                  18
+                                         33                  41
+                               16              10
+                                                           2
+                                                      5 16
+                                   28
+                                                           9--11
+                                               12
+                     ITEM NO. PART NO.      DESCRIPTION
+                       1    159920 4     Screw, Mach; 10-24 x 1/2 pan HD C-Recess
+                       2    11289  1     Panel, Front Light
+                       3    454646 3     Lamp; No. 1073
+                       4    11030  4     Clip, Light Mtg.
+                       5    11334  1     Assernbly, Lamp Reflector
+                       6    11763  1     Nut, Wire
+                       7    19534  1     Wire, Headlight
+                       8    11286  2     Clip , Wire
+                       9    12375  1     Cable, Battery to Magnetic Switch
+                       10   22121  1     Harness, Wiring 816S
+                       11   11763  1     Nut, Wire
+                       12   20577  1     Cable, Starter
+                       13   10629 12     Tie, Cable
+                       14   21416  1     Fuse, Panel
+                       15   11337  1     Switch, Light
+                       16   419454 3     Nut, Lock; 1/4-20 Washer Insert
+                       17   120392 4     Washer, Flat; .281 x .625 x .065
+                       18   24447  1     Panel , Instrument w/Hourmeter
+                       19   23550  1     Wire, 8160 & 8161 Hourmeter
+                       20   20777  1     Wire, Headlights 816S
+                       21   18587  1     Nut, Special; Light Switch
+                       22   18570  1     Key, Ignition Switch
+                       23   19666  1     Nut, Jam; 9/16-24 Indak 83024
+                       24   20564  1     Switch, Ignition Indak D463A
+                       25   20916  2     Switch, Interlock
+                       26   107354 1     Nut, Stamped; 9/16-18
+                       27   19667  1     Washer, Lock; 9/16 Int Tooth, Indak 85013
+                       28   180018 3     Bolt, Hex; 1/4-20 x .625
+                       29   20660  1     Bracket, Switch
+                       30   159947 4     Screw, Mach; 10-24 x 3/4 Pan HD C-Recess
+                       31   12386  2     Hook , Battery
+                       32    7277  1     Switch, Mag.
+                       33   11676  1     Nut, Speed; 1/4-20
+                       34   18573  1     Tray , Battery
+                       35    7274  1     Battery, 12V
+                       36   180021 1     Bolt, Hex; 1/4-20 x 7/8
+                       37   11027  1     Bracket, Battery Hold Down
+                       38   120385 4    washer, Flat; .188 x .562 x .049
+                       39   10413  2    Nut, Wing; 1/4-20 Washer Insert
+                      40     6980  1     Cable, Negative Battery
+                      41    180020 1     Bolt, Hex; 1/4-20 x 3/4
+                      42    21414  1     Hourme ter
+                      43    24756  1    Eyelet
+                      44    21425  2    Wire , Instrument Panel
+                      45    14893  1     Fuse, 30 Amp Acc-30                    29
+```
+
+## Page 33 — Electric System For Model
+
+```text
+ELECTRIC SYSTEM FOR MODEL
+                                           8177
+                                                33
+                                0-17
+                                37
+                                                      43         221
+                                                                       12
+                                                          24
+                                               16        41
+                                          34   16
+                                35  3                    o          18 9
+                                            31
+                                                                    27
+                                                             12
+                                                           11
+                      38   3
+                            2
+                           ITEM NO. PART NO. OTY. DESCRIPTION
+                             1   159920 4     Screw, Mach; 10-24 x 1/2 Pan HD C-Recess
+                             2    11289 1     Panel , Front Light
+                             3   454646 3     Lamp; No. 1073
+                             4    11030 4     Clip, Light Mtg.
+                             5    11334 1     Assembly, Lamp Reflector
+                             6    11763 1     Nut , Wire
+                             7   120385 4     Washer, Flat; .188 x .562 x .049
+                             8    11286 4     CI ip, Wire
+                             9    20889 1     Cable, Battery
+                            10    24755 1     Harness, Wiring T Tractors
+                            11    11763 2     Nut, Wire
+                            12    21426 2     Wire , Hourmeter
+                            13    24649 1     Pump, Electric Puel
+                            14    21416 1     Fuse , Panel
+                            15    11337 1     Switch, Light
+                            16   419454 4     Nut, Lock; 1/4-20 Washer Insert
+                            17   120392 4     washer, Flat; .281 x .625 x .065
+                            18    24446 1     Panel , Instrument w/Anuneter
+                            19   180020 1     Bolt, Hex; 1/4-20 x 3/4
+                            20    24647 1     Wire, Fuel Pump Ground
+                            21    18587 1     Nut, Special; Light Switch
+                            22    18570 1     Key, Ignition Switch
+                            23    18585 1     Nut, Jam; 5/8-32
+                            24    18207 1     Switch, Ignition
+                            25    20916 2     Switch, Interlock
+                            26   107354 1     Nut, Stamped; 9/16-18
+                            27    21425 2     Wire, Instrument Panel
+                            28   180018 2     Bolt, Hex; 1/4-20 x .625
+                            29    20660 1     Bracket, Switch
+                            30    14893 1     Fuse , 30 Amp Acc-30
+                            31    12386 2     Hook , Battery
+                            32    18586 1     Washer, Lock; 5/8 Int Tooth
+                            33   180021 1     Bolt, Hex; 1/4-20 x 7/8
+                            34    18573 1     Tray , Battery
+                            35    7274  1     Battery, 12V
+                            36    10629 8     Tie, Cable
+                            37    11027 1     Bracket, Battery Hold Down
+                            38   159947 4     Screw, Mach; 10-24 x 3/4 Pan HD C-Recess
+                            39    10413 2     Nut, Wing; 1/4-20 Washer Insert
+                            40    6980  1     Cable, Negative Battery
+                            41    24769 1     Wire, Amp Meter
+                            42    21414 1     Hourme ter
+                            43    24655 1     Wire, Puel Pump
+               30           44    21848 1     Gauge ,
+```
+
+## Page 34 — Wiring Diagram For
+
+```text
+WIRING DIAGRAM FOR
+                                          8102
+                                         pos
+                                    12 V BATTEEY
+                                               IGNITION
+                                               SWI TCH
+                                           FWD REV INTERLOCK
+                                   FUSE       SWITCH
+                                                 SOLENOID
+                                            goi  SWITCH
+                               PTO INTERLOCK     STARTER
+                                 SWITCH          MOTOR
+                                            CONNEC TOR
+                                      ENGINE IGNITION COIL
+                                WIRING DIAGRAM FOR
+                                    8122 AND 8123
+                                        HEAD LIGHTS
+                                  WIRE Nur
+                                        LACK
+                          REGULATOR
+                           RECTIFIER    NEO   POS
+                                        12 v BATTERY "OWN
+                                    LIGHT          IGNITION
+                                    SWITCH           TCH
+                                   AND WHITI
+                                                FWD REV INTERLOCK
+                                        FUSE       SWITCH
+                                                     SOLENOID
+                                                      SWITCH
+                                         "OWN
+                                    PTO INTERLOCK "OWN
+                                      SWITCH          STARTER
+                                                      MOTOR
+                                                LACK AND WHITI
+                                          ENGINE IGNITION COIL
+                              OAM LUI
+                                      DARK LUI
+                                                                                    31
+```
+
+## Page 35 — Regulator Red              Red
+
+```text
+8126 AND 8127
+                                               HEAD LIGHTS
+                                         WIRE              AMMETER
+                                         Nur   LACK
+                                                          ACK
+                                 REGULATOR RED              RED
+                                 RECTIFIER    NEG   POS
+                                               12 v BATTERY "OWN
+                                           LIGHT          IGNITION
+                                          SWITCH          SWITCH
+                                        RID AND WHITI
+                                           LAC
+                                                       FWD REV INTERLOCK
+                                               FUSE       SWITCH
+                                     HOUR METER             SOLENOID
+                                                            SWITCH
+                                                now N
+                                          PTO INTERLOCK  OWN
+                                             SWITCH          STARTER
+                                                             MOTOR
+                                                       LACK AND WHITE
+                                                 ENGINE IGNITION COIL
+                                     DAM
+                                               Luc
+                                       WIRING DIAGRAM FOR
+                                    8162-T, 8163-T AND 8183-T
+                                               HEAD LIGHTS
+                                         Nur               AMMETER
+                                               LACK
+                                                            RED
+                                               NEG   POS
+                                               12 v BATTEY LACK
+                                                          IGNITION
+                                             WHIT'        SWI TCH
+                                 LIGHT      ELECTRIC
+                                 SWITCH    FUEL PUMP NUT "Acx
+                                 LACI
+                                             o         FWD REV INTERLOCK
+                                                          SWITCH
+                                  HOUR METER   FUSE
+                                                          ORANGE
+                                           PTO INTERLOCK     STARTER
+                                             SWITCH          MOTOR
+                                                          YILLOW
+                                                  IGNITION
+                                                   COIL
+                                                            FUSE
+                                                               3
+                                                             WIRE NuT
+         32                                           ENGINE
+```
+
+## Page 36 — Light          Ignition
+
+```text
+WIRING DIAGRAM FOR
+                                   8166 AND 8167
+                                       HEAD LIGHTS
+                                 NUT   LACK
+                                      NEO   POS
+                                      12 V BATTERY ORANO
+                                  LIGHT          IGNITION
+                      HOUR METER  SWITCH
+                                LACI
+                                    Lut
+                             NUT              FWD REV INTERLOCK
+                                                 SWITCH
+                                      FUSE    WHITI SOLENOID
+                                                    SWITCH
+                                                     RED
+                                  PTO INTERLOCK     STARTER
+                                    SWITCH          MOTOR
+                                             WIRE NuT
+                                                 RED
+                                  ENG            Fusc
+                                  IGNITION
+                                 TERMINAL
+                                       WHITE
+                               WIRING DIAGRAM FOR
+                                        8177
+                                       HEAD LIGHTS
+                                                   AMMETER
+                                       LACK
+                                            pos   BLAC
+                                      12 v BATTERY
+                                                 IGNITIO&
+                                                    TCH
+                         LIGHT     ELECTRIC
+                        SWITCH    * FUEL PUMP NUT
+                                     o        FWD REV INTERLOCK
+                                                 SWITCH
+                                      FUSE
+                           HOUR
+                           METER        now      ONN"
+                                  PTO INTERLOCK     STARTER
+                                    SWITCH          MOTOR
+                                         IGNITION
+                                          COIL
+                                                    Nuv
+                                             ENGINE                               33
+```
+
+## Page 37 — Wiring Diagram For
+
+```text
+WIRING DIAGRAM FOR
+                 8162-T, 8163-T AND 8183-T
+                                       HEAD LIGHTS
+                                      o      o
+                                                               AMMETER
+                            NUT
+                                        BLACK
+                                                            RED         'LACK
+                                RED                             RED
+                                      NEG         POS
+                                       12 v BATTERY /         BLACK
+                                                             IGNITION
+                                  wmr                       SWI TCH
+            LIGHT               ELECTRIC
+           SWITCH                             NUT
+                               FUEL PUMP         BLACK
+            'LACK                               'LACK
+                                   o
+                      WHITE        o                   FWD REV INTERLOCK
+             o          o                                   SWITCH
+                                       FUSE
+             HOUR METER
+                                         now                NANOE
+                               PTO INTERLOCK
+                                                                  STARTER
+                                   SWITCH
+                                                                   MOTOR
+                                                            YELLOW
+                                            IGNITION
+                                               COIL
+                                                                FUSE
+                                                               o
+                                                                  WIRE
+                                                                  NUT
+                                                     ENGINE
+       32
+```
