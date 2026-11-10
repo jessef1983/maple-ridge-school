@@ -1,64 +1,207 @@
-# Sap arch rebuild — material list for Dean
+# Sap arch rebuild — material list and fab notes for Dean
 
 2026-11-10. Follows the final plan in `2026-11-03-field-notes.md` ("Final plan: zero splits, sloped
 frame", 2026-11-05) plus the 2026-11-10 front decisions logged there.
 
-Arch front: 40" W at top, 34" W at bottom, 31¾" H. Fire door opening 27½" W × 20½" H, bottom at 8½"
-(top of the existing cross brace, which stays). Ash pit 29" wide inside, grates 7" off the floor.
-Sizes marked "field-fit" get final dimensions on site.
+**Conventions:** stations are inches back from the inside of the firebox front. Heights are "below
+rim" (down from the top of the pan rail) unless they say "off the floor". "Field-fit" means take the
+final size on site.
 
-## Steel to order
+**Key dimensions:**
+- Arch front: 40" W at top, 34" W at bottom, 31¾" H. Rim 32½" off the floor.
+- Fire door opening: 27½" W × 20½" H. Its bottom is at 8½" off the floor, the top of the existing
+  cross brace, which stays.
+- Firebox and ash pit: 29" wide inside, 36" deep. Grates 7" off the floor.
+- Pans: finish 1–37, flue 37–97 (7" fins), filter 97–113 (4" fins). Pan 36" wide; fin span 30¾".
+- Existing angles: station 59 (top 15" below rim), station 87.75 (top 11¼" below rim). Shell inside is
+  about 38½" wide at fin height (chimney end), slightly less just past the firebox.
 
-| # | Item | Qty | Use |
+---
+
+## 1. Back-bay floor frame (stations 59 → 113)
+
+**Order:** 2" × ⅜" flat bar, 2 × 20'. Cross members from the 2" × 2" × ¼" angle in item 2.
+
+**What it does:** carries one continuous sloped floor of full firebrick under the flue and filter
+pans. There's no bridge wall. The gap under the fins closes from front to back.
+
+**Layout:**
+- **5 lengthwise bars at 9 1/16" centers**, running front to back, with the outer bars about 1" off
+  each side wall. About 54½" per bar line from 59 to 113.
+- **The slope changes at 87.75 and 97** (the heights below don't fall on one straight line). Either cut
+  each bar line into pieces that butt over the supports (≈29" for 59–87.75, ≈9¼" for 87.75–97, ≈16" for
+  97–113), or cold-bend one bar at those points. Both work. Butt joints are easier to fit to the
+  measured heights.
+- **Bricks lay crosswise:** each 9" brick spans bar to bar with about 1" of bearing on each end. Four
+  bricks per row.
+- **⅜" is decided, not ¼".** The 59–87.75 bay is a 28¾" span, and ¼" would sag about 7/32" under
+  brick. ⅜" sags about 1/16". The perlite fill under the bars is insulation only and carries nothing.
+
+**Heights (top of bar, below rim):**
+
+| Station | Top of bar | Brick top to fin bottom | Support |
 |---|---|---|---|
-| 1 | 2" × ⅜" flat bar, 20' | 2 | Back-bay floor frame: 4–5 lengthwise bars at 9 1/16" centers, 59 → rear (≈56" each on the slope, ≈24' total) |
-| 2 | 2" × 2" × ¼" angle, 20' | 3 | Floor-frame cross members at 59, 87.75, 97 and the rear (4 × ≈36–38", field-fit, ≈13'); grates: 10 bars @ 27½" set V-up (≈23'); fire door frame sides + top, replacing the warped angle (≈7'); spare |
-| 3 | 3/16" A36 plate, 4' × 4' | 1 | Firebox jog and bay to 59 (about 40" × 24", field-fit); door liner heat plate (about 28" × 21", field-fit ½" inside the door lip, slotted holes) |
-| 4 | 1" × 1" × ⅛" angle, 3' | 1 | Louver stiffener |
-| 5 | ¼" × 1½" flat bar, 2' | 1 | Notched quadrant arm to hold the louver open |
-| — | **Dean's stock** | — | Firebox back / ash pit bypass cover plates; damper louver (about 31" × 8", field-fit); 24–26 ga heat shield for the draw-off side if he has it (about 36" × 30", stood 1" off the shell, open top and bottom) |
+| 59 | ≈14½" | ≈5" (7" flue fins) | Bars rest on the existing 59 angle (top at 15"); ⅛" shim |
+| 87.75 | ≈10⅞" | ≈1⅜" | Bars rest directly on the existing 87.75 angle (top at 11¼") |
+| 97 | ≈10¼" | ≈¾" under the flue fins, ≈3¾" under the 4" filter fins | **New cross member** |
+| 113 (rear) | ≈8¾" | ≈2¼" (filter fins) | **New cross member / ledge** at the rear lip |
 
-## Hardware
+- These heights are worked back from the fin depths. **Measure the actual fin bottoms with the pan
+  seated before welding.** Hold at least **½" between brick and fin everywhere.**
+- **New cross members at 97 and the rear:** 2" × 2" × ¼" angle, horizontal leg up, field-fit to the
+  shell's inside width (about 37–38"). Weld clips to the side walls. The bars sit on the horizontal leg.
+- **Tack the bars** to the angles at 59 and 87.75 and to the new cross members. Don't run full welds,
+  so the frame can grow with heat.
+- Paint the bars with high-temp paint before setting.
 
-| # | Item | Qty | Use |
-|---|---|---|---|
-| 6 | Weld-on barrel hinge, heavy duty, 4"–6", ⅝" pin | 2 | Louver, hinged at the top just below the fire door on the existing brace. Check that it clears the door's swing and gasket. |
-| 7 | Door latch, cam or wedge type that pulls the door tight | 1 | Fire door (buy or fabricate) |
-| 8 | Spring-wire stove handle (stays cool) | 2 | Louver and fire door latch |
-| 9 | 304 stainless threaded weld studs, ¼"-20 × 2½" | 12 | Floating liner plate. Old pins get cut off and ground flush. |
-| 10 | 304 stainless ¼"-20 nuts | 24 | Double-nutted so the plate floats, never clamped |
-| 11 | 304 stainless fender washers, ¼" ID × 1¼" OD | 12 | Over the slotted holes |
-| 12 | 309L filler (3/32" stick 309L-16 or 309LSi wire), 1 lb | 1 | Stainless studs to mild steel |
-| 13 | High-temp paint, spray | 1 | Floor-frame bars before setting |
-| 14 | 1" spacers/standoffs for the heat shield | 6 | Short pipe or tube stubs |
+**Sequence:**
+1. Patch holes in the old floor tray, and drill a couple of ¼" weep holes at the low end of each bay.
+2. Set and tack the frame.
+3. Pour the 1:4 Portland–perlite fill (Jesse's materials) up to the underside of the bars and strike it
+   off. It runs about 3¾" deep at 59 and tapers to nothing by 104–113.
+4. Let it dry about a week with the top open.
+5. Dry-lay the brick. Set clay pats on the brick, seat the pan, then lift it and read the clearances.
+   Mortar only after that.
 
-## Gaskets
+## 2. 2" × 2" × ¼" angle (3 × 20')
 
-| # | Item | Qty | Use |
-|---|---|---|---|
-| 15 | Fiberglass rope gasket, ¾" round, graphite-impregnated, 10' | 1 | Fire door (opening perimeter is 96") |
-| 16 | Flat woven fiberglass tape, ⅛" × 1", 10' | 1 | Louver seal |
-| 17 | Flat woven fiberglass tape, ¼" × 1½", 25' | 2 | Pan rail gasket |
-| 18 | High-temp gasket cement, 10 oz tube | 2 | Rope and tape |
+| Use | Cut | Total |
+|---|---|---|
+| Floor-frame cross members, 97 and rear | 2 × ≈38", field-fit | ≈6½' |
+| Grate bars | 10 × 27½" | ≈23' |
+| Fire door frame | 2 sides × ≈22" + top × ≈31½", mitered, field-fit | ≈6½' |
+| Spare / weld clips | — | ≈24' |
 
-## Notes for the build
+- **Grates:** 10 bars of 27½" angle set **V-up** (point up, so ash fills the V and protects the bar), on
+  3½" centers. The ends rest on the firebox side ledges and the middle on the new firebrick center wall
+  (Jesse's brick work). **Brick must not rest on the grate bars.**
+- **Fire door frame:** replaces the warped angle on the sides and top. The existing cross brace is the
+  bottom and stays, though it's slightly bent. Bolt the frame to the front, don't fully weld it, so it
+  can expand. One leg is the face the door's rope gasket seals against, so it must be **flat and in one
+  plane** all the way round, including where it meets the brace. Shim at the brace if needed.
 
-- **Floor frame:** dry-lay the brick on it, set clay pats, seat the pan, then lift it and read the
-  clearances before mortaring. Fin gaps are 5" at 59, ¾" at 97, ramping to ≈2¼" at 113. Keep at least
-  ½" everywhere.
-- **Liner:** a floating 3/16" mild-steel plate over 1" rigid ceramic fiber board. The center stud is
-  tight and the others go through slotted holes. Switch to 310 stainless later on the same studs if it
-  scales too fast. The liner adds about 35 lb, so check the door's hinge pins.
-- **Brace:** stays even though it's slightly bent. The door's rope gasket takes up a small bow.
-- **Corner miter on the pan rail:** grind it flush or fill it before the rail gasket goes on.
-- **Galvanized panels:** these give off zinc fumes when cut or welded, so ventilate.
+## 3. 3/16" A36 plate, 4' × 4'
+
+**a. Firebox jog and bay 37 → 59:** replaces the old plate there, about 40" × 24", field-fit.
+- It gets 1" blanket and full brick on top, up to the 59 angle.
+- **The sides in this bay** get full brick up to 15" below rim, then brick on edge at fin height with
+  about ⅞" blanket behind. Keep the lining off the fins.
+
+**b. Door liner heat plate:** about 28" × 21". Cut it ½" smaller than the inside of the door's
+turned-down lip on all sides, field-fit.
+- **Floating mount:** the center hole is a snug ⁵⁄₁₆". All other holes are ½" round, or slotted ½"
+  long pointing at the center. The plate grows about ⅜" corner to corner when hot.
+- 1" rigid ceramic fiber board goes between the door and the plate, pushed over the studs.
+- Mild steel now. A 310 stainless plate can replace it later on the same studs.
+
+## 4. Louver stiffener — 1" × 1" × ⅛" angle, 3'
+
+Weld it along the bottom edge of the louver (item 6) so the 31" span stays flat.
+
+## 5. Quadrant arm — ¼" × 1½" flat bar, 2'
+
+About 10", pinned to the louver near one end. Cut notches for **closed, ¼, ½ and full open**, and
+hook them over a pin or bolt on the arch front. Put it on the side **away from the fire door latch.**
+
+## 6. Ash damper louver (Dean's stock)
+
+- **One piece across the whole ash pit front**, about 31" × 8", field-fit. Overlap the opening
+  about ½" on each side and at the bottom.
+- **Hinged at the top on the existing cross brace**, just below the fire door, with 2 heavy-duty
+  weld-on barrel hinges (4–6", ⅝" pin), each about 4" in from an end.
+  - **The barrels must clear the fire door's swing and its gasket face.** Hang the hinges on the
+    brace's lower half or underside.
+- It swings up to open and closes by gravity, which is the safe way for it to fail. Fully open, it
+  clears the whole pit front for raking ash. Open area is about 150–170 sq in against the 108 sq in
+  stack, so it will rarely run full open.
+- **Seal:** ⅛" × 1" fiberglass tape (item 14), glued around the opening where the louver lands.
+- **Bottom stop:** the existing slotted sill bar on the pavers can stay as the stop, or come out.
+- **Handle:** a spring-wire handle (item 8) on the bottom edge, to one side.
+
+## 7. Fire door latch
+
+A cam or wedge latch that **pulls the door tight onto the rope gasket**. A gravity hook won't do
+that. Buy one (wood boiler or outdoor furnace style) or fabricate it. Use the second spring-wire
+handle on it.
+
+## 8–12. Liner studs and hardware
+
+- **Cut off the old liner pins** on the door, grind them flush and wire-wheel the inside face.
+- **Weld 12 304 stainless ¼"-20 × 2½" studs,** using 9 in a 3 × 3 grid at about 8–9" centers and
+  keeping the spares. Use **309L filler** (stick 309L-16 3/32" or 309LSi wire). It's the right rod for
+  stainless to mild steel.
+- **Stack on each stud:** 1" board, then the plate, a 1¼" fender washer, a nut run down until it just
+  touches, and a second nut locked against the first. **The plate must not be clamped**, except at
+  the center stud.
+- **Check the door's hinge pins.** The liner plate and board add about 35 lb.
+
+## 13. Heat shield, firebox draw-off side (Dean's stock if he has 24–26 ga)
+
+- About 36" long (the firebox length) by about 30" tall, field-fit.
+- Stand it **1" off the shell** on about 6 short pipe or tube standoffs, **open at the top and
+  bottom** so air flows behind it.
+- This is the side that melted buckets and burned the stool. Jesse will IR-check the shell under a
+  full fire first.
+
+## 14–17. Gaskets
+
+| Item | Qty | Where |
+|---|---|---|
+| ¾" round graphite-impregnated fiberglass rope, 10' | 1 | Fire door, cemented in the door's lip so it bears on the new frame. The opening perimeter is 96". |
+| ⅛" × 1" flat fiberglass tape, 10' | 1 | Louver seal |
+| ¼" × 1½" flat fiberglass tape, 25' | 2 | Pan rail: lay it flat on top of the existing rim angle. There's no new channel. |
+| High-temp gasket cement, 10 oz | 2 | For the rope and both tapes |
+
+**Before the rail gasket goes on:**
+- The **corner miter on the rim is open**, and the inner angle steps up where it meets the top plate.
+  **Grind it flush or fill it**, or it will leak there.
+- Straightedge the rail, especially near the firebox.
+
+## 18. Ash pit back wall / bypass (Dean's stock)
+
+- Two burned slots in the ash pit back wall open to the room under the shell, and a strip above them
+  opens into the gas path. Together they let air bypass the fire.
+- **Close them with 3/16" cover plates**, plus any other holes in the shell bottom. This also keeps
+  mice out of the perlite fill.
+- Jesse's crew then lays a mortared firebrick wall in front, 29" wide × 7" tall, kept clear of the
+  rear grate support.
+
+## Safety
+
+- Some panels are galvanized, which gives off zinc fumes when cut or welded. Ventilate and use a
+  respirator.
+
+---
+
+## Order summary
+
+| # | Item | Qty |
+|---|---|---|
+| 1 | 2" × ⅜" flat bar, 20' | 2 |
+| 2 | 2" × 2" × ¼" angle, 20' | 3 |
+| 3 | 3/16" A36 plate, 4' × 4' | 1 |
+| 4 | 1" × 1" × ⅛" angle, 3' | 1 |
+| 5 | ¼" × 1½" flat bar, 2' | 1 |
+| 6 | Weld-on barrel hinge, heavy duty, 4–6", ⅝" pin | 2 |
+| 7 | Door latch, cam or wedge | 1 |
+| 8 | Spring-wire stove handle | 2 |
+| 9 | 304 SS weld studs, ¼"-20 × 2½" | 12 |
+| 10 | 304 SS ¼"-20 nuts | 24 |
+| 11 | 304 SS fender washers, ¼" × 1¼" | 12 |
+| 12 | 309L filler, 1 lb | 1 |
+| 13 | High-temp spray paint | 1 |
+| 14 | ¾" graphite fiberglass rope, 10' | 1 |
+| 15 | ⅛" × 1" fiberglass tape, 10' | 1 |
+| 16 | ¼" × 1½" fiberglass tape, 25' | 2 |
+| 17 | High-temp gasket cement, 10 oz | 2 |
+| — | **Dean's stock:** louver, bypass cover plates, heat shield and standoffs | — |
 
 ## Not Dean's order
 
 | Item | Status |
 |---|---|
-| High-duty firebrick, 220 | Todd, Whitingham VT ($525), pickup on the school truck run |
-| Portland, perlite, Anti-Crak fiber | Already bought; one bag of each covers the half batch |
-| Ceramic fiber blanket, 1" | Sides 37–113 (≈⅞" compressed) |
+| High-duty firebrick, 220 | Todd, Whitingham VT ($525); pickup on the school truck run |
+| Portland, perlite, Anti-Crak fiber | Already bought |
+| Ceramic fiber blanket, 1" | Sides 37–113, about ⅞" compressed |
 | Rigid ceramic fiber board, 1", 2' × 3' | 1 sheet, door liner |
 | Refractory mortar, 50 lb | 2 |
