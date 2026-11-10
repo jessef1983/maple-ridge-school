@@ -1,0 +1,429 @@
+---
+title: "Owners Manual — 40 inch Mower — Apr 1975"
+oldgravelys_no: "0553"
+series: "40 inch Mower"
+doc_type: "Owners Manual"
+date: "Apr 1975"
+pages: 8
+source_pdf: "../0553 Owners Manual - 40 inch Mower - Apr 1975.pdf"
+text_source: "OCR (Windows.Media.Ocr, 200 dpi)"
+---
+# Owners Manual — 40 inch Mower — Apr 1975
+
+Source: [0553 Owners Manual - 40 inch Mower - Apr 1975.pdf](../0553 Owners Manual - 40 inch Mower - Apr 1975.pdf). Text is machine-extracted; confirm part numbers against the PDF page before ordering.
+
+## Page 1 — Manual                  3 Blades
+
+```text
+&GRAVELY                         OWNERS
+                                                            40" ROTARY MOWER
+                                    MANUAL                  3 BLADES
+                                                            MODEL NUMBER: 20062E1
+                                                            FORM NUMBER: 20976L2 (475)
+                                                     GRAVELY B 12
+  40" ROTARY MOWER WITH 7.6 CONVERTIBLE GRAVELY   40" ROTARY MOWER WITH 81 2 RIDING GRAVELY
+     GENERAL
+                                                 4.  SPECIFICATIONS
+     1.  The 40" Rotary Mower is a center-mount unit Cutting Width: 40 inches
+         designed and built to give many years of    Total Width: 52 inches
+         excellent service. With use of the quick hitch Weight: 148 lbs.
+         and front mount kits, it can also be used with Deck: Heavy steel stamping
+         Convertible Gravelys. The mower is recom-   Drive: Right angle bevel gears, tapered roller
+         mended for homeowner lawn care and will        bearings, aluminum housing, self-adjus-
+         also handle light weed mowing: has rugged      ting spring tensioned V-belt
+         deck, drive, spindles and blades.          Spindle Assemblies: Tapered roller bearings,
+                                                        blade cradles
+     2.  The Owners Manual includes set up, safety, Blades: Steel, hi-strength, hi-lift, 13-3/4"
+         operator and maintenance instructions. Use     length, .204" thick
+         the illustrated parts list for reference to Range of Adjustment: 3-1/8" (cutting height)
+         individual part numbers. Item numbers used     from lowest to highest position.
+         in this manual are in reference to fig 1.  Purpose: Homeowner Lawn Care
+         Contact The Gravely Dealer for further infor-
+         mation.                                    Recommended Tractors:
+                                                        All Single Cylinder Riding Gravelys,
+     3.  To continue its program of quality and design      10 hp and greater
+         improvement, the manufacturer reserves the     All Convertible Gravelys, 7.6 hp and
+         right to change specifications, design or prices   greater
+         without incurring obligation.
+                                                    Convertible Gravelys require:
+                                                        Quick Hitch Kit 11898E1
+                                                        Front Mount Kit 15569E1
+                                                    Rear wheels of riders must be inboard.
+```
+
+## Page 2
+
+```text
+79      so
+                                                            74
+                                         6
+                                                        78
+                                                            69   0--55
+                                                                       63
+                                                                            62
+                             2
+                               39 -43
+                                                              6
+                             37
+                                                                          58
+                                                                    51
+                                                                      39
+                                                               59
+                                                                   168
+  ITEM W. PART NO. DESCRI!TION                 NO. "ART NO. DESCRIPTION
+                Arm, Pivot Keldnent           49    126227    3/8-16 3/4 Rd. ltd. sq. Nk.
+          L 20394 washer, Flat 13/32 x 13/16 x .065 so 126419 Vlolt. 3/8-16 x 2 Rd. lid. sq. Nk.
+    3           Bolt. 3/8-16 x 1-1/2                200591'1 Ring, Retaining NSOOO-200
+    4    1467ap2 Cover. Pulley R. It.         52    200571'1 JIOus ing, Spindle Bearing
+         1467SP2 Cover. pulley L .11.                     Fitting, tube Safety Vent
+          160536 Screv, Mach 1/4-20 x Pan                 Bearing. Race
+    6           Grommet, Plastic              ss    941S092 gut. Leck S/ 8-11 Kasher Insert
+    7 8  20056M Deck. 40 In. Weldment               14668P1 131016 Washer. flat 21/32 x I-sno x Blade .095
+    9    19074P1 Decal. Danger                            Cradle. Blade
+                Shaft. Prop Sq. Bar                       Shaft. Spindle
+         13S18P1 9411027 Joint. J Female Tind 60          Bearing, Cones
+   12           Fitting, Lube 1'4-28
+          180041 1101 t, Ilex 1/4-20 2        61          Seal, Oil 1.375 x 1.987 x .313
+          419454  Loek 1/4-20 Kasher Insert   62          Bracket. Axle Support
+   14 15  180016 Bolt, Ilex 1/4-20 1/2        63          Bracket, IlciRht Adjust.
+   16     120380 Xasher. Lock 1/4 Sr.               180124 Rolt. nex 3/8-16 x
+         10982m Cover. Gear Housing           66    19980P1 20065111 Safety Extension.
+   18    11231P1 Gasket. Gear liousing        67          Sheave. Spindle
+         14636P1 Casting, Gear Box                  446477 lasher, Flat x 1-3/8 x .083
+   19    20016P1 Shaft, Drive                       20743P1 Washer
+   20    14642m Ring, Retaining Reliance, Eaton '328 11313P1 Bolt. Drilled 3/8-16 x 1-3/4
+   21           Spacer. Ring                  70          Sheave. Idler 11/ 16 x 4.62
+   22           Sear. Oil 1-1/4 x 1-63/64 x               Spring, Cornp Type x .78 x 338 Rate
+   23    14640Al Nearing, Assembly x 1.9800 x 1.2450 271S01 120.6DS washer, 15/32 X IS/ lb X .065
+   24    20819P1 Gear. Bevel                  73          Nut, tier 7/16-14
+   25     456007 Nut. Lock 3/4-10 Washer Insert     1131bP1 1792s: Pin, Cotter 1/16 1
+   26     120238  Jan                                     Sheave, Idler x a .62
+         208201'1 Shaft, Gear Pinion                14671Pi Rod, Idler
+   28     43178' Key. Woodruff 3/16 x 5/8 nard No. 61 109925'! Aru, Idler Pivot
+   29           Bearing. Assembly .7500 x l. 781 x i. 4990 79 12"29 Nut, Jar 3/8-16 ilex
+   30    14645PL Seal. Oil x 1-11/16          so    14661 A1 Axle. Pivot Keldnent
+   31    14660m Sheave. 112 x 6. SO                       Lever, Height Adjust.
+   32     451539 But. Jax 3/4 IU Ilex tleavy 81    120123 Pin, Cotter 1/8 x 1-1/4
+   33    19350PL Bolt, Eye                                Knob. Adj. Control
+   34           Kit, Repair Universal Joint Rockwell Std. 83 Spring, I.'xt Type 4 3/8 x .87 4S Rate
+         20S73Pl X it. Repair Universal Joint Neapco 16051 84 Stop. Nylon
+          180173 Bolt. Ilex 1/2-13 I          85    19349M Spacer , .510 x -840 x 2.622
+   36           Washer. Lock 1/2 S? .         86          Bushing, .385 x .750 2.593
+                Support. Gear Ilousang        87          Kheer. Caster
+   38    1S691P1 Pin. Ilair Cotter                        Bolt. Flex 3/8-16 x 3-1/2
+   39     456004 Nut. Lock 3/8-16 Kasher Insert Ilex 89 435507 Nut. Lock 1/2-13 Washer Insert Ilex
+   40           Bolt. 3!8-16 x Rd. ltd.       90              Belt Installation
+         1131711 Pivot, Mower Lift Asm.       91    14672P1 Spacer. Idler
+   42     120238 Nut, Jan 1/2-13                          Spacer, Idler Arn
+   43    19201P1 Rod. Lift                    93          washer, Fiat 17/32 x x .09S
+   44     120592 Washer. Flat 9/32 x x .06S   94    142485       1/8 x Type A
+   45     180193 Bolt, Ilex 1/2-13 x 3-3/4    NS    2081 SAI Drive, Assembly 40" Moyer
+   46    14673Pi Belt. V 1/2 x s,' 16 x
+   47     180129 Bolt. Ilex 3/8-16 1-1/8         fig 1  ILLUSTRATED PARTS LIST
+   48     120388 washer, Flat 7/16 x x .083
+                                             2
+```
+
+## Page 3 — Lubrication
+
+```text
+ASSEMBLY
+            If mower is to be mounted on a Riding
+            Gravely (immediately after assembly) set
+            mower on smooth pavement so the mower
+            can be slid under The Gravely.
+         2.  Raise and support rear of mower about 4
+            inches.
+                                                              4-
+         3. Set axle pivot weldment in axle support
+             brackets, Items 62 and 79.
+         4.  Place a nylon stop in each bracket, curved
+             side against axle. Fasten assembly with car-
+             riage bolts and nuts.
+                                                                      fig 4
+                                                     7.  Bolt pivot arm weldment to gearbox housing
+                                                         support; bolt heads outside, nuts and washers
+                                                        to the inside, fig 4.
+                                                     8.  Apply a light coat of general purpose grease to
+                                                         splined portion of gearbox drive shaft. Slide
+                                                         female end of the drive shaft universal joint
+                                                         onto the gearbox shaft. Be sure that bolt holes
+                                                         align. Fasten the ' 'U" joint to gearbox shaft
+                                                         with bolt and locknut: Items 10, 12, 13 and
+                                                         19 and fig 4.
+                                                     9.  To use mower with 400 series and Convertible
+                                                         Gravelys, modify drive shaft as shown on
+                                                         Form 19477P1 packed with mower (cut 51/2
+                          fig 2                          inches off end of rectangular male shaft).
+         5.  Install a cotter pin in hole through ayle just
+             left of right side axle support. The cotter pin IO. Apply heavy coat of general purpose grease to
+             is not to interfere with the mower deck, fig 2. rectangular male shaft. Slide it into female
+                                                         shaft. Wipe off excess grease. The mower is
+                                                         now ready for initial lubrication.
+                                                      LUBRICATION
+  41                                                  1. There are 7 grease fittings on the mower.
+                LEVER a c JusrMENT BDJusuExr             After initial lubrication each point is to be
+                                                         relubricated every 8 HOURS of operation or
+                                                         more often when used in severe dust and/or
+                                                         grit conditions.
+                                                          Spindle bearing housings
+               AXLE PNCT                                  Idler pivot arm         --1
+                                                          Drive shaft
+                                                          Gauge wheels -
+                                                          Note: Before relubricating, wipe fittings clean
+                            fig 3
+                                                          so as not to force dirt into grease fitting.
+          6.  Slide height adjustment lever in the 2 slots
+              of the axle weldment. Fasten it with 2 cotter
+              pins. Connect spring to height adjustment
+              lever and axle. Screw knob on lever, fig 3.
+                                                3
+```
+
+## Page 4 — Hair Pin        Lift Rod
+
+```text
+2.  Blade spindle bearings are lubricated from                   LIFT
+      under the deck through grease fittings, Items              WELDMENT
+      52 and 53. These are special vented fittings.
+     When bearing housing is full, excess will come JAM NUTS
+     out the vent rather than rupturing spindle
+     seals.
+                                                  UFT PIVOT
+  3. The idler pivot arm is lubricated from the rear
+     of the deck through the grease fitting on the                     TEAR-DROP
+                                                                         HOLES
+     bushing. Add grease until it comes out around
+     the stud, Items 70 and 77.
+                                                  HAIR PIN        LIFT ROD
+  4. The drive shaft is lubricated from the top of
+     the mower through the grease fitting on the
+     female end "U" joint. Add grease until it                  EYE BOLT
+     comes out about the rectangular shaft, Items
+     9, 10 and 11, and fig 4.                                 FRONT
+  5. Gauge wheels are lubricated through grease                 fig 5
+     fittings on the wheel hubs. Add grease until
+     it comes out around the bushing. Items 86
+     and 87.                                   5.  Set height adjustment lever in lowest cutting
+                                                   position (most forward notch). Slide mower
+  6. The gearbox is prelubricated and only needs   under the chassis.
+     visual inspection. If signs of leakage are pre-
+     sent, refill box to its capacity with general 6. Lower equipment lift all the way down.
+     purpose grease. Do not damage gasket, Items   Connect bent portion of lift rod to eye bolt,
+     17 and 18.                                    Items 33 and 43. Secure together with hair pin
+                                                   cotter, Item 38.
+  7. FRONT  MOUNT KIT: There are 5 grease
+     fittings on the assembly. After initial lubrica- 7. Open equipment latches on frame. With
+     tion each point is to be relubricated every 8 equipment lift, raise mower and guide hanger
+     HOURS of operation or more often when usea    assembly into the latches. Lock latches closed
+     in severe dust and/or grit conditions.        with hair pin cotters.
+     Caster wheels --      2                   8.  Lower mower all the way down. Apply a
+     King pin weldments                            light coat of general purpose grease to splined
+     Pivot pin weldment    1                       PTO shaft. Connect drive shaft collar to PTO
+                                                  shaft (power take-off) of transaxle. Be sure
+  MOUNTING                                         collar "clicks" into position on PTO shaft.
+      Riding Gravelys, Center Mounting             A. Twist Type Collar: Rotate collar r.ing in
+                                                      direction of arrow on ring and hold.
+  1.  Slide lift pivot on lift rod with groove pin    Slide collar half way on shaft. Release
+      extended towards bend in lift rod, Items 41,    ring and continue sliding on shaft until
+      43 and 94.                                      collar "clicks" and locks in position.
+  2.  Run one jam nut 3/4 of the way on threaded   B. Slide Type Collar: Slide collar ring
+      portion of lift rod. Keeping it in position, jam towards "U" joint and hold. Slide collar
+      other nut tightly against it, Items 42 and 43.  half way on shaft. Release ring and conti-
+                                                      nue sliding on shaft until collar "clicks"
+  3.  Lower equipment lift all the way down. Turn     and locks in position.
+      lift rod upside down (bent portion up) and
+                                                   Convertible Gravelys, Front Mounting
+      put lift pivot in second hole from the end of
+     the lift weldment. Put it in from the left side,
+     fig 5.                                    9.  Fasten quick hitch kit to Convertible Gravely.
+  4.                                           10. Apply light coat of general purpose grease to
+      Rotate lift rod to right-side-up position (bent
+                                                   PTO shaft and pivot pin of quick hitch kit.
+     part down) and raise equipment lift all the
+     way up.
+                                            4
+```
+
+## Page 5 — 1.  Read The Gravely Owners Manual.
+
+```text
+11. Connect front mount kit to pivot arm of 11. PUT THE PTO in the OUT position when the
+              mower.                                      mower is not in use or is being transported.
+              Slide the pivot pin of the quick hitch into 12. KEEP BYSTANDERS and pets removed from
+              the front mount kit and secure with washer  the work area, and a safe distance away.
+              and "klik" pin.
+                                                       13. DIRECT DISCHARGE so as not to endanger
+           13. Connect the drive shaft to the PTO shaft as in life or property; such as people, pets, struc-
+              paragraph 8.                                tures, cars, etc.
+           14. Lubricate front mount kit as described in 14. AFTER STRIKING a foreign object, stop the
+              LUBRICATION, paragraph 7.                   engine and put the PTO in the OUT position
+                                                          BEFORE inspecting for damage. Any damage
+          SAFETY                                          must be repaired before restarting the equip-
+                                                          ment.
+          1.  READ THE GRAVELY OWNERS MANUAL.
+                                                      ADJUSTMENTS
+              Be familiar with all controls and follow the
+              safety precautions outlined in the manual.
+                                                       I. Cutting Height: Controlled with lever on left
+          2.  DO NOT ALLOW PASSENGERS to accom-           side of mower. On Riders, it is most easily
+              pany the operator at any time.              adjusted when mower is in the transport
+                                                          (raised) position. Move lever forward for a low
+          3.  DO NOT ALLOW CHILDREN to operate the        cut and backward for a high cut.
+              equipment; nor allow adults to operate it
+              without their having knowledge of safe opera- 2. Lift Rod (Riders): To make mower come up
+              ting practices.                             higher when equipment lift is in highest posi-
+                                                          tion, move jam nuts closer to bend in lift rod.
+          4.  INSPECT AND CLEAR work area of rocks,       This adjustment should bring the mower up
+              glass, metal, bones, and any other foreign  closer to the chassis and stilt allow the mower
+              objects. Stay alert for holes and other hidden to "float" when all the way down.
+              hazards.
+                                                       3. Blade Removal
+          5.  USE EXTREME CAUTION when operating          A. Remove mower from The Gravely and
+              on slopes.                                      turn mower upside down.
+                                                          B. Remove nutse washers, and blades, Items
+              A. Operator Riding: qo up and down the          55, 56 and 57. Wedge a piece of wood
+                     face of slopes.                          between blade and deck to keep the
+              B. Operator Walking: qo across the face of      blade from turning. It is not necessary to
+                     slopes.                                  remove blade cradles.
+          6.  REDUCE SPEED on all side slopes and sharp 4. Blade Installation
+              turns.                                      A.  Set blades in cradles, Items 57 and 58.
+                                                              The lift portion of the blades points
+          7.  DO NOT OPERATE equipment except from            toward mower deck.
+              proper operator's position on the seat Of    B. Put on washers and torque nuts to
+              Riders or at handles of Convertibles.           25 ft. lbs. Similar tightness can be
+                                                              reached with any 8" length handle
+          8.  KEEP SAFETY devices, interlocks, and            wrench when used by an average man.
+              shields in place at all times.                  Wedge a piece of wood between blades
+                                                              and deck housing to keep blades from
+          9.  DISENGAGE POWER to mower and stop               turning.
+              engine prior to making any adjustment or
+              clearing the unit.
+              DO NOT WEAR loose fitting clothing or
+              accessories that might get caught in moving
+              parts or on the controls. Keep hands, feet,
+              hair, clothing, etc., away from moving parts.
+                                                 5
+```
+
+## Page 6 — Brication.
+
+```text
+5.  Belt Tension                            6. MULCHING: Plan a mowing pattern so as to
+       A. Remove right side belt cover and loosen discharge cutting on grass that has yet to be
+          jam nut on the end of the rod, Items 73 mowed. The mower will then mow cut and
+          and 76.                                 uncut grass at the same time discharging a finc
+       B. Tighten the other jam nut against spring mulch. Slower ground speed is usually neces-
+          leaving an .010" to .015" air gap between sary for mulching than for normal mowing.
+          coils of sping (approximate thickness of Keep the enqine at full throttle.
+          a match pack).
+      C.  Tighten end of jam nut against adjusting ROUTINE MAINTENANCE
+          jam nut.
+      D.  Replace belt cover.                   1. Perform all lubrications as described in LIJ-
+                                                   BRICATION.
+          BELT           DIAGRAM                2. Check each spindle shaft nut before each
+                                                   operation to assure tightness; see ADJIJST-
+                                                   MEN T, paragraph 4.
+                                               3.  Check all nuts and bolts every 24 HOURS Of
+                                                   operation to assure tightness.
+                                                   Note: Some nuts and bolts can be visually
+                   fig 6                           inspected for tightness but nuts such as the
+  6. Belt Replacement                              spindle nuts should always be checked with
+     A.  Remove mower from The Gravely and         a wrench.
+         take off left and right belt covers.
+     B.  Unbolt gear housing support from deck 4.  Inspect each blade for sharpness before each
+         and remove old belt.                      operation. Resharpen and balance them when
+     C.  Put on new belt as per diagram on         they become dull. When blades are removed
+         mower deck and loosen belt tension,       for sharpening, inspect for surface cracks.
+         fig 6.                                    Discard any blade that has evidence of metal
+     D.  Bolt gear housing support and left side   fatigue and/or cracks. Pay particular attention
+         belt cover back on deck.                  to the metal around the center hole.
+     E.  Adjust belt tension and replace right
+         side belt cover.                      5.  Clear the mower of cuttings and debris. Do
+                                                   not allow build-up of cuttings and debris.
+   OPERATION
+                                               6.  Inspect the gearbox drive for leakage before
+   1.  Read The Gravely Owners Manual. Follow      each operation. If signs of leakage are present,
+       safety and operating instructions to engage refill the gearbox with general purpose grease,
+       and disengage the PTO (power take-off).     Item 18. If there is significant leakage a repair
+                                                   should be made.
+   2.  After PTO is engaged, run engine at full
+       throttle.                               7.  The following information if for identification
+                                                   of universal joints, Item 34 of fig 1, Illustrated
+   3.  Select a ground speed fast enough to get the Parts List.
+      job done, yet slow enough to give a clean cut.
+      Some trials may be necessary to find an opti- Brand of Universal joints are identified by the
+       mum ground speed (for a particular stand of end of the bearing cap.
+      grass) to give a satisfactory cut.
+   4.  In thick, Lush growth recude ground speed   Neapco           = Kit 20573P1
+      (not engine speed) to allow the mower enough            USA
+      (more) time to cut and discharge. Stop and
+      shift to a lower gear to reduce ground speed.
+                                                   Rockwell         = Repair Kit 12134P1
+   5. NORMAL MOWING: Plan a mowing pattern
+      so as to avoid discharging onto grass that has
+      not been cut yet. Mowing grass with cuttings
+      on top of it decreases the efficiency of the
+      mower and is only necessary when mulching
+      is desired. Keep the enqine at full throttle.
+                                            6
+```
+
+## Page 7 — Removal                                         Convertible Gravelys
+
+```text
+REMOVAL                                         CONVERTIBLE GRAVELYS
+          Disconnecting Locking Collars                   5. Disconnect drive shaft from quick hitch PTO
+          TWIST TYPE: Rotate collar ring in direction of  6. Remove "klik" pin and washer from pivot
+         aerow and pull collar off PTO shaft.                pin of quick hitch.
+          SLIDE TYPE: Pull on collar ring until collar    7. Pull The Gravely from the mower.
+          comes off PTO shaft.
+                                                         8.  Put washer and "klik" pin back on pivot pir
+          RIDING GRAVELYS                                    for storage.
+          1. As with mounting the mower on riding
+             Gravelys, removal is most easily accomplished STORAGE
+             on smooth pavement.
+                                                         1.  After removing mower from The Gravely,
+          2. With mower in transport position (fully         reconnect lift rod to mower so it won't
+             raised) adjust cutting height to lowest posi-   misplaced.
+             tion and open equipment latches.
+                                                         2.  Clear mower of all cuttings and debris.
+          3. Lower mower and disconnect lift rod from
+                                                         3.  Perform all lubrications.
+             mower. Disconnect drive shaft from trans-
+             axle.
+                                                         4.  Apply a light coat of oil to preserve finish and
+         4.  Carefully, slide mower from under chassis.      appearance.
+             Remove lift rod and reconnect to mower for
+             storage.
+                                               7
+```
+
+## Page 8 — Or Warranty Of Any Kind, Expressed Or Implied, As To Merchantability,
+
+```text
+WARRANTY
+                 Gravely Tractors and Equipment are warrantied to be free from defective material and workman-
+                 ship for a period of one year from date of purchase except when used for commercial purposes.
+                 Commercial use warranty is for a period of ninety (90) days from date of purchase.
+                 Any defective part manufactured by Gravely will be replaced without charge provided such part
+                 is certified as defective by Gravely or by Gravely's expressly authorized representative.
+                                        IMPORTANT PROVISIONS
+                 The foregoing warranty is in lieu of all others and GRAVELY MAKES NO REPRESENTATION
+                 OR WARRANTY OF ANY KIND, EXPRESSED OR IMPLIED, AS TO MERCHANTABILITY,
+                 FITNESS FOR A PARTICULAR PURPOSE, OR ANY OTHER MATTER. IN NO EVENT
+                 SHALL GRAVELY BE RESPONSIBLE FOR CONSEQUENTIAL DAMAGES INCLUDING
+                 (BUT NOT LIMITED TO) INCONVENIENCE, RENTAL OR REPLACEMENT EQUIPMENT,
+                 LOSS OF PROFITS OR OTHER COMMERCIAL LOSS.
+                 This warranty is not subject to change in modification by field representatives or Gravely dealers.
+                 Certain components carry separate warranties by the manufacturer of such components. These
+                 components are subject to their manufacturer's warranties. Any claim, work or return of parts
+                 must be through an authorized Gravely dealer.
+                 Service costs for transporting a unit to and from the dealer are the responsibilities of the
+                 customer. When such transportation is performed by the dealer, the dealer will charge the cus-
+                tomer the usual rate for such service.
+                 It is the dealer's responsibility to mail the ' 'Warranty Card" to the manufacturer within fourteen
+                 (14) days after date of purchase to ensure prompt handling of any warranty claim.
+                                eGRAVELY
+                                  I Gravely Lane. Clemmons, N.C. 27012
+```

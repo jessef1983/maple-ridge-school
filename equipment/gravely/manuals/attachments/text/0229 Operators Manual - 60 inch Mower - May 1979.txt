@@ -1,0 +1,1387 @@
+# 0229 Operators Manual - 60 inch Mower - May 1979
+# Source: 0229 Operators Manual - 60 inch Mower - May 1979.pdf (16 pages; PDF text layer)
+
+===== Page 1 =====
+mGHA/ELY oPEFlATotr',s
+MANUAL
+PAFIT NUMBEFI(S): 31 229
+NAME: 60 INCH ROTARY MOWER
+A snrerY MESSAGE A
+The product lor which you have requested
+information or replacement parts is not a
+current product. The replacement models
+incorporate product designs, salety features'
+safety instructions or warnings which repre'
+sent the latest "State Ot The Art" develop
+ments. For your safety and those around you
+please contact your nearest Ariens/Gravely
+Dealer lor a demonstration ol the current
+product salety provisions and leatures.
+I
+,l
+,, 
+Ili
+tr
+.l!;{l
+ii
+I
+it
+F
+i;/
+'li
+i
+i;
+ir
+I
+t;
+r
+&
+The 60 lnch Rotary Mower is for use with the Gravely 8090 Seriespommalciql
+tractors that have the iong frame.
+All reference to left side, right side, front and rear are given from the operator's
+position.
+l-t 00r:-r- No r (Rr,*nrl) J rL>q
+To contlnue lta prograrn of quality and darlgn
+lmprovernentr th8 rnrnuf!ctr.lrcrr rs!ervg! thr righE
+to ehinga 
+rpaclfleatlonl, 
+da!'lgnr 
+and priccr
+wlGhout notlce and lncurrlng obligation.
+Form No. 31i30 (s-79)
+205501
+trrinEt,d ln L,!.5.A.
+@
+'.'ii'
+I
+IiI
+t<--\
+i.
+lr
+.,-/ / I
+/li'.)
+
+
+===== Page 2 =====
+t
+t
+1.0
+1.1
+1.2
+1.3
+6.0
+6.1
+6.2
+6.3
+6.4
+6.5
+CONTENTS
+Warnings - For Your Salety
+lnstructions Before Operation
+Preparation For Operation
+Operation
+How to Connect the Mower to the Tractor
+How to Remove the Mower from the Tractor
+How to Adlust the Cutting Helght
+How to Operate the Mower
+How to Do Malntenance
+Checking the Blades
+When to Lubricate the Mower
+When to Lubricate the Gear Box
+How to Adjust the Tension of the Belt
+How to Replace the Belt
+How to Put the Mower ln Storage
+lllustrated Parls and Parts Llst
+2.O
+3.0
+4.0
+5.0
+7.O
+8.0
+rrl 
+:.
+I
+d,
+-r\
+.t
+I
+I
+
+
+===== Page 3 =====
+,.0I*ARNTNG' - FoR YouR 
+'AFETY
+NOTE: This warning symbol A indicates that
+there is danger lo persons or equipment.
+Read these warnings carelully and lollow
+them.
+This section gives warnings for you about operating and doing maintenance on this equipment.
+Using this equipment the wrong way can cause injury to persons and damage to the equipment. Persons
+operating or doing maintenance on this equipment must read this Operator's Manual and follow the
+instructions.
+It is important to understand that this Operator's Manual and other Gravely instruction books do not list
+every possible danger. lt is not possible for Gravely to know and tell of all the dangers in operating and
+doing maintenance on the equipment.
+The purchaser must give these instructions to the persons operating and doing maintenance on this
+equipment. The purchaser must get the operator and person doing maintenance on this equipment to use
+eye and foot protection.
+'I.1 INSTRUCTIONS BEFORE OPERATION
+1. Read the tractor and this Operator's
+Manuals caref ully before operating or doing
+maintenance.
+2.
+Learn the location and the f unction of all the
+tractor and the attachment controls.
+Know how tq use the controls to stop the
+tractor and the mower quickly.
+Never permit children to operate or ride on
+the tractor or the mower. 
+,
+Use caution with gasoline. Gasoline is very
+flammable. Keep gasoline in a clean and
+tight container. Keep gasoline away from
+fire or hot items. Never put gasoline in the
+fuel tank while the engine is running or hot.
+Clean any leakage of gasoline from the
+tractor before starting the engine.
+s 
+1.2 PREPARATTON FOR OPERATION
+. 
+1. Check the area of operation and remove all
+4p 
+material that will be thrown by the mower.
+2. Make sure all shields and guards are in the
+correct position before operating.
+3. Wear strong shoes. Wear clothing that is not
+loose. Wear eye protection.
+1.
+{ {*
+1..
+Before starting the engine, put the direction
+control lever in the "NEUTFIAL" position
+and the "PTO" control in the "OUT"
+position.
+Keep the tractor and the mower in good
+operating condition. Do the maintenance as
+Do not operate the tractor where the a[egof,-] ,,r',.
+operation is too dark for the operator toded, . 1:,,'
+,^ 
+. ,:; ".
+Never operate the tractor or the mower'i{Eti$.
+when there is damage to any part or when
+Replace all parts that are damaged or
+missing before operating.
+OPERATION
+Keep away from moving parts.
+Keep all persons and animals away from the
+area of operation.
+Do not let persons ride on the tractor or the
+mower.
+When operating on slopes, use a slow speed
+and engage the direction control lever
+slowly.
+When operating on slopes, go up and down
+the slope.
+4.
+5.
+6.
+7.
+3.
+4.
+5.
+2.
+3.
+4.
+1.3
+5.
+
+
+===== Page 4 =====
+it*"y, look for and keep away from holes
+and other hazards.
+Use caution when moving backwards. Look
+for persons and hazards in the way.
+After hitting an item, stop the tractor and the
+engine. Check for damage. lf there is
+damage, make repairs before restarting.
+Operate the equipment only when in the
+operator's position.
+Before leaving the tractor, put the PTO
+control in the "OUT" position. Turn the
+ignition switch to the "OFF" position and
+remove the ignition key.
+lf there is a sudden change in the sound or
+vibration of the tractor or the mower, stop
+the tractor and check for damage. lf there is
+damage, make repairs before operating.
+Never start and run the engine inside a
+building except to move the equipment
+outside. Exhaust fumes are dangerous.
+Always follow traffic laws while going on or
+near a road.
+Go slow on surfaces where the tractor can
+slide.
+Before leaving the operator's position to
+make adjustments or to do maintenance, put
+the PTO control lever in the "OUT" position.
+Turn the ignition switch to the "OFF"
+position. Wait until the engine and moving
+parts have stopped.
+HOW TO CONNECT THE MOWER TO THE
+TRACTOR
+Assemble the lift rod as shown in figure
+2.4-1.
+1 - Lift Rod
+2 - Lift Pivot
+3 - Jam Nuts
+Figure 2.0-1
+2. Lower the attachment lift on the tractor.
+' Hold the lift rod so the end that has the bend
+is up. Put the lift pivot in the second hole of
+the attachment lift and rotate the lift rod so
+the end that has the bend is down. See f igure
+8.
+12.
+^'^'l 3.
+10.
+11.
+14.
+15.
+2.0
+1.
+1 - Attachment Lift
+2 - Lift Rod
+Figure 2.0-2
++"
+l-
+b.
+2
+
+
+===== Page 5 =====
+.).
+Put multi-purpose grease on the square
+shaft of the universal joint. Put the square
+shaft into the tube of the universal joint that
+is fastened to the gear box of the mower. See
+figure 2.0-3.
+1 - Tube
+2 - Square Shaft
+Figure 2.0-3
+lnstall the latch pin on each side of the
+tractor as shown in figure 2.O-4.
+1 - Support Plate
+2 - Support Plate Rod
+Figure 2.0-5
+Put the tractor in position with the front
+wheels of the tractor against the back of the
+mower. Put the direction control and the
+gear selector in the "NEUTRAL" position.
+Get assistance and roll the front of the
+tractor over the mower deck.
+Put multi-purpose grease on the PTO shaft
+of the tractor. Pull the locking collar on the
+universal joint towards the universal joint
+and hold it. lf the universal joint has the
+locking collar that twists, twist the locking
+collar in the direction of the arrows and hold
+it. Slide the locking collar half-way on the
+PTO shaft and release the locking collar.
+Push the locking collar on the PTO shaft
+until it locks in position.
+4.
+7.
+q
+Put the support plate rod
+in the support plate. See
+through the holes
+figure 2.0-5.
+3
+./
+1 - Latch Pin
+Figure 2.0-4
+
+
+===== Page 6 =====
+8.,
+Put the attachment lift on the tractor in the
+lowest position. Put the end of the lift rod in
+the eye bolt on the mower. Fasten the lift rod
+in position with the hair pin cotter. See
+figure 2.0-6.
+1 - Lift Rod
+2 - Eye Bolt
+Figure 2.0-6
+Open the equipment latches on the tractor.
+Put the pivot arm in position in the
+equipment latches. Close the equipment
+latches and installthe small hair pin cotters.
+See figure 2.A-7.
+1 - Pivot Arm
+2 - Equipment Latch
+3 - Hair Pin Cotter
+Figure 2.0-7
+10. Use the attachmet lift on the tractor to raise
+the mower.
+11. Put a spacer on the support plate rod. Then
+put the leveling plate on the pivot arm and
+the support plate rod. See figure 2.0-8.
+1 - Plate Support Rod
+2 - Hair Pin Cctter
+3 - Pivot Arm
+4 - Leveling Plate
+5 - Washer
+6 - Hair Pin. Cotter
+Figure 2.0-B
+lnstall a small hair pin cotter in the plate
+support rod. lnstall a washer and a large hair
+pin cotter in the pivot arm.
+lnstall a hair pin cotter in the support plate
+rod next to the levelng plate. Put a washer,
+the spring, and another washer on the rod.
+lnstall another hair pin cotter. See figure
+2.0-9.
+1 - Hair Pin Cotter
+2 - Washers
+3 - Spring
+4 - Latch Pin
+Figure 2.0-9
+,o
+I
+I
+I
+I
+9.
+12.
+13.
+4
+
+
+===== Page 7 =====
+14.
+15.
+Put the other
+pin.
+Repeat steps
+side.
+end of the spring on the
+11 through 14 for the
+Remove the bolt from the gauge wheel axle.
+See figure 4.0-1.
+1 - Gauge Wheel Axle
+2 - Bolt
+3 - Decal
+Figure 4.0-'t
+NOTE: Each hole in the gauge wheel axle
+will raise or lower the cutting height
+1/2" ('1.27 cm). The hole that has the
+number "1", as indicated bY the
+decal on the mower deck, is the
+lowest adiustment. The hole that
+has the number "7" is the highest
+adjustment.
+Raise or lower the gauge wheel axle to the
+cutting height that is needed. Align the
+adjusting holes and install the bolt.
+NOTE: Use the holes in the side ol the
+gauge wheel axle support for the
+adiusting holes that have the
+numbers 1, 3, 5, and 7 as indicated
+by the decal on the mower deck. Use
+the holes in the end of the gauge
+wheel axle support for the adiusting
+holes that have the numbers 2, 4,
+and 6.
+latch
+other
+2.
+3.0 HOW TO REMOVE THE MOWER FROM
+THE TRACTOR
+Use the attachment lift on the tractor to raise
+the mower to the raised Position.
+1.
+i[ 
+wanNlNG: Stop the engine.
+2.
+a
+5.
+6.
+7.
+B.
+Remove the spring from the 'latch pin.
+Remove the hair pin cotters, the spring and
+the washers from the support plate rod.
+Remove the hair pin cotter from the pivot
+arm. Remove the leveling Plate.
+4. Repeat steps 2 and 3 on the other side.
+Lower the mower to the ground.
+Remove the hair pin cotters from the
+equipment latches. Open the equipment
+latches and lower the pivot arm.
+Remove the lift rod f rom the eye bolt on the
+mower.
+Pull the locking collar on the universaljoint
+towards the universal joint and pull the
+universal joint from the "PTO" shaft of the
+tractor. lf the universal joint has the locking
+collar that twists, twist the locking collar in
+the direction of the arrows and pull the
+universal joint from the PTO shaft of the
+tractor.
+Get assistance and roll the front of the
+tractor over the mower deck.
+Remove the lift rod from the lift on the
+tractor. Connect the lift rod to the eye bolt
+on the mower and install the hair pin cotter.
+HOW TO ADJUST THE CUTTING HEIGHT
+Use the attachment lift on the tractor to raise
+the mower. Stop the engine
+3.
+9.
+10.
+4.0
+1.
+a€
+o
+5
+
+
+===== Page 8 =====
+2.
+4.
+I
+" Adjust all four gauge wheels to the same
+position as indicated by the decals on the
+mower deck. The gauge wheels on the front
+of the mower must be .S inch (1.27 cml
+above the ground.
+Remove the spring from the latch pin.
+Remove the hair pin cotters, spring and
+washers from the support plate rod. See
+figure 4-0-2.
+1 - Support Plate Hod
+2 - Leveling Plate
+Figure 4.0-2
+Bemove the leveling plate from the support
+plate rod. lnstall the leveling plate on the
+support rod using the adjusting hole that
+has the same number as the gauge wheels
+as indicated by the decals on the mower
+deck.
+Put the gear selector in the 1 or 2 position
+and the range selector in the ,.LOW"
+position.
+Engage the PTO.
+Move the throttle lever to the "FAST"
+position.
+Put the direction control lever in the forward
+position and mow a distance of ten feet
+(3 m). Stop the tractor, put the PTO in the
+"OFF" position and turn the ignition switch
+to the "OFF" position.
+Check to see if the mower is cutting the
+grass to the needed height. lf the cutting
+height needs adjusting, follow the pro-
+cedure shown in section 4.0.
+After you know how to operate the mower,
+select the speed that is best for your mowing
+condition.
+HOW TO DO MAINTENANCE
+BOLT TOROUE SPECIFICATIONS
+BOLT SIZE
+FOOT POUNDS NEWTON METERS
+(rt.lbt.) 
+(N.m)
+5/16"
+7 /16"
+120
+271
+3.
+4.
+5.
+5.
+!j
+,i
+I
+6.
+7.
+5.0
+I
+b.
+I
+!
+I 
+WanNtNG: Stop the engine betore doing
+maintenance.
+After Each Use;
+Clean the mower.
+lnspect all nuts, bolts and other fasteners to
+make sure they are tight. Replace any
+fasteners that are missing. Tighten the boltS
+to the torque shown in figure 6.0-1.
+1.
+2.
+* 5.0
+lnstall the hair pin cotters, the spring and the
+washers that were removed in step 5. Put the
+end of the spring on the latch pin.
+HOW TO OPERATE THE MOWER
+Read this Operator's Manual and thp Operator's
+3d Manual for the tractor before operating.
+7.
+9.5
+1/4"
+113
+14
+I 
+WnnnlNG: Use a slow tractor speed the
+lirst time you use lhe tractor
+and the mower.
+Start the engine of the tractor. Wait until the
+engine is running smoothly before oper-
+ating.
+1.
+6
+3/4"
+Figure 6.0-1
+
+
+===== Page 9 =====
+6.1
+1.
+CHECKING THE BLADES
+After every eight hours of operation, in-
+spect the blades and replace any blade that
+has damage.
+Check to see that the blades are sharp. lf the
+blades are not sharp, remove the blades and
+grind the edges that have the bevel until they
+are sharp. Grind each edge the same
+amount. Make sure the blades have balance
+before installation. Tighten the spindle nuts
+to a torque ot 12O ft. lbs. (163 N.m).
+WHEN TO LUBRICATE THE MOWER
+After every eight hours of operation, add multi-
+purpose grease to the following grease fittings:
+A. Spindles - 3
+B. Gauge Wheels - 4
+C. ldler Pivot Arms - 2
+D. Drive Shaft -1
+6.3 WHEN TO LUBRICATE THE GEAR BOX
+After every 100 hours of operation, lubricate the
+gear box.
+1. Remove the four bolts that fastens the gear
+box cover to the gear box.
+NOTE: Use caution when removing the
+gear box cover. Do not damage the
+gasket. The gasket must be re-
+placed if there is damage.
+1.
+Remove the gear box cover. Remove the old
+grease from the gear box. Fill the gear box
+with new multi-purpose grease.
+lnstall the gear box cover.
+HOW TO ADJUST THE TENSION OF THE
+BELT
+Remove the right side and the left side belt
+covers.
+Hold the ad.iusting nut and turn the jam nut
+counterclockwise. See figure 6.0-2 for the
+right side. See figure 6.0-3 for the left side.
+1 - Adjusting
+2 - Jam Nut
+3 - Spring
+4 - Bracket
+5 - Adjusting
+Figure 6.0-2
+Nut
+Rod
+1 - Adjusting Nut
+2 - Jam Nut
+3 - Spring
+4 - Bracket
+5 - Adjusting Rod-..,.
+Figure 6.0-3
+Turn the adjusting nut ttockwise untilthere
+is a gap of .0'l0" to .015" (,25 mm to.38 mm)
+between the coils of the spring.
+Hold the adjusting nut and tighten the jam
+nut against the adjusting nut.
+2.
+6.2
+2.
+3.
+6.4
+*
+3.
+4.
+2.
+o
+7
+
+
+===== Page 10 =====
+5.
+6.5
+1.
+2.
+!
+' lnstall the right side and the lelt side belt
+covers.
+HOW TO REPTACE THE BELT
+Remove. the .+nower f rom the tractor as
+shown in section 3.0.
+Flemove the right side and the left side belt
+covers.
+Remove the gear housing support.
+Remove the jam nut; the adjusting nut and
+the spring frci'm the adjusting rods. See
+figure 6.0-2 and figure 6.0-3.
+Push the adjusting rods through the
+brackets.
+Remove the old belts.
+lnstallthe new belts as shown in figure6.0-4
+orlhe 9-e,ll;diaoram on the mower deck'
+Figure 6.0-4
+Put the adjusting rods through the brackets.
+lnstall the spring and the nuts on the
+adjusting rods.
+lnstall the gear housing support.
+NOTE: When installing the gear housing
+support, make sure the belt is
+around the drive pulley.
+10. Adjust the tension of the belts as shown in
+section 6.4.
+11. lnstall the right side and the left side bett
+covers.
+12. Connect the mower to the tractor as shown
+in section 2.0.
+7.0 HOW TO PUT THE MOWER IN STORAGE
+lf the mower will not be used for three months or
+more do the following:
+1. Remove the mower from the tractor.
+2. Clean all the grass and dirt from the mower.
+Clean the grass from underthe mowerdeck.
+To prevent rust, put paint or lubricant on any
+area where the paint has been removed.
+Do the maintenance shown in section 6.0.
+3.
+4.
+6.
+7.
+(r-
+9.
+5.
+J.
+4.
+e^ 8.
+."8
+liz-. 
+,-&--
+
+
+===== Page 11 =====
+!
+8.0, ILLUSTRATED PARTS AND PARTS LTSTS
+V@,
+Item No. Part No. 
+Oty
+MOWER GAGE WHEELS, HOLLERS, AND SUPPORTS
+V'
+\\\
+II
+R
+4i,1I
+1
+2
+3
+4
+5
+6
+7I
+I
+10
+11
+12
+13
+14
+15
+16
+17
+18
+31386 
+2
+423315 10
+1372U 
+4
+120915 4
+126390 12
+31632 
+'l
+45600.1 20
+120394 16
+31633 
+1
+31347 
+?
+180130 4
+24795 
+2
+120123 4
+131016 8
+31390 
+2
+31353 
+1
+11386 
+2
+31350 
+2
+Description
+Gage Wheel 8.250
+Washer Flat .813 x 1.375 x .100
+Pin, Cotlert 1/8 x 1.500
+Bolt 3/8-16 x 1.0@ BD HO SO NK
+Bolt 3/8-16 x .875 RD HO SO NK
+Support Left
+Nut, Lock: 3/&16
+Washer, Flai .,lOO x .812 x .065
+Support Right
+Axle tor 8,250 Gage Wheel
+Bolt, Hex 3/&16 x 2.0O0
+Shatt, Center Boller
+Pin, Cotter 1/8 x 1.250
+Washer, Flat .656 x 1.312 x .095
+Roller, Gage
+Bracket, Roller Front
+Gage Wheel 6.000
+Axle lor 6.000 Gage Wheel
+.vA
+tVt
+o.
+
+
+===== Page 12 =====
+MOWER DRIVE
+6/ 
+z
+' 
+? lo 
+-l
+. -ff-'/-
+,23
+{
+20
+,13
+&,
+,.6
+,rffi\
+@i
+16- 32
+*\
+30,i7
+'-[ie-73
+@-60
+{"
+&ts
+B-67
+10
+I
+)' 
+sE
+15 5--a:fi
+,:y\Yfl-; *1r.
+65
+{
+
+
+===== Page 13 =====
+Item No. Part No. Oty. Description
+1 
+418692
+2 
+131016
+3 
+25124
+4 
+23026
+5 
+21211
+6 
+20743
+7 
+9246
+I 
+9245
+I 
+?1216
+31 356
+10 
+21215
+2'1218
+1 1 
+31359
+12 
+22065
+13 
+4l',1010
+14 
+180128
+15 
+120394
+16 
+21060
+17 
+273351
+18 
+31389
+19 
+456004
+20 
+31368
+21 
+179252
+22 
+31364
+23 
+14406
+24 
+31367
+25 
+21112
+26 
+11779
+27 
+413534
+28 
+24560
+31828
+29 
+120369
+30 
+451539
+31 
+31382
+32 
+431787
+33 
+14645
+34 
+180173
+3s 
+31369
+36 
+31383
+37 
+31373
+38 
+14644
+39 
+19607
+40 
+14636
+41 
+456007
+4? 
+11231
+43 
+10982
+44 
+120380
+45 
+180016
+46 
+19608
+47 
+14&0
+48 
+14646
+49 
+14641
+50 
+31412
+51 
+14642
+52 
+180046
+53 
+419454
+54 
+31388
+55 
+411027
+56 
+180192
+s7 
+31360
+58 
+211 11
+59 
+31363
+60 
+120389
+6t 
+435507
+62 
+180181
+63 
+?2063
+64 
+31358
+65 
+120915
+66 
+124406
+67 
+191759
+68 
+144117
+69 
+31357
+70 
+144067
+71 
+31345
+72 
+31346
+73 
+120384
+5
+5
+3
+3
+b
+6
+6
+6
+a
+1
+2
+,|
+2
+1
+1
+'18
+1
+1
+I
+14
+1
+2
+1
+2
+1
+1
+2
+1
+1
+'I
+4
+1
+1
+1
+1
+3
+Nut. Lock 5/&11
+washer, Flal .656 x 1.312 x .095
+Blade
+Cradte, BIade
+S€al, Steel
+washer, Flat: 975 x 1.970 x .030
+Cone, Roller Bearing
+Cup, Roller Bearing
+Shaft, Lelt and Right Spindles
+Shaft, Center Spindle
+Housing, Left and Right Spindles
+Housing, Center Spindle
+Pulley
+Boll, special
+Fitting, Lube 1/8 NPT
+Boll, Hex 3/8-16 r 1.75
+Washer, Ftat.406 x.8.12 x.065, gLr.4r@
+Sheave. ldler
+Fitting, Lube 65 Deg. NPT
+Universal Shaft, Male
+Nut. Lock;3/&'16
+Spacer
+Pin. Cotter .062 x 1.000
+Weldment. ldler Pivot
+Fitting, Lube: 1/4-28 NPT
+Spacer
+Rod. ldler
+Spring
+Nut. Lock 3/8-16
+Kit, Repair Universal Shaft, Male
+Kit. Repair Universal Shaft. Female
+Nut, Hex:3/8-24 V
+Nut Jam 3/4-10 Hex Heavy u
+Pulley, Gearbox
+Key, Woodrulf 3/16 x 5/8 No. 61
+Seal. Oil
+Bolt, Hex: 1/2-13 x 1.0O0
+Belt, A Section
+Belt. B Section
+Plate, supporl
+Bearing, Taper Rollor .750
+Gear, Bevel
+Housing, Gear
+Nut, Lock;3/4-10
+Gasket, Gear Housing
+Cover, Gear Housing
+Washer, Lock 1/4 Spring
+Bolt. Hex 1/4-20 x .50
+Pinion Gear
+Bearing, Taper Roller 1.000
+Seal, Oil
+Spacer
+Shalt
+Ring, Beralnrng, 1 m0 Shafr
+Bolt Hex 1/4-2O \ 2.250
+Nut, Lock 1/4-20
+Universal Shafl, Female
+Fitting, Lube 1/4-28
+Bolt Hex 1/2-13 x 3.500 r
+Weldment. ldler Pivot
+Rod, ldler
+Spacer
+washer, Flat .500 x 1.250 x .083 r
+Nut, Lock; 1/2-13
+Bolt Hex 'l/2-13 x 2.OOO
+Pulley. Flat Idler
+Oouble Pulley
+Bolt 3/8-'i6 x '1.0O0 RD HD SO NK
+Bolt, 3/8-16 x 1.375 HD HO SO NK
+Elbow Adaptor 90 Oeg. 1/8-27 NPT
+Elbow, Street 1/8-27
+Nipple, Pipe 1/8-27 x 5.50
+Coupling, Pige 118-27
+Support, Spring
+Support, Spring
+Washer, Lock 1/2 Spring
+11
+o6f?7300
+c
+c,
+J
+1
+1
+12
+1
+2
+1
+1
+1
+1
+1
+,'J
+1
+1
+1
+1
+1
+1
+I
+'I
+1
+
+
+===== Page 14 =====
+MOWER HOUSING & FRAME
+rAr
+,,€
+',l, -tb
+(ssl g
+\E'
+"11
+ll\(:
+\____lr-
+e<o
+a\6
+*%v,
+\
+y'+
+,r$
+ffi*
+e"
+O 
+_/
+\6
+\olo
+--r.9 : "aa" 
+o\
+\.qS_- 
+cv- 
+c 
+:
+o'
+oooot-to
+\^oaiovc L 's'3-o-
+9
+io'o'So
+\h
+ff
+u-
+
+
+===== Page 15 =====
+Item No. Part No. Oty. D€qcription
+1
+2
+3
+1
+5
+6
+7
+I
+9
+t0
+11
+'12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+?6
+27
+28
+29
+30
+31
+32
+3:l
+34
+35
+38
+37
+38
+3S
+.to
+4
+28
+'l
+1
+1
+27
+32
+1
+1
+2
+I
+4
+2
+2
+2
+1
+4
+1
+3
+4
+1
+1
+2
+6
+2
+6
+1
+10
+1
+1
+10
+10
+1
+1
+1
+2
+1
+2
+180192
+126390
+31344
+31353
+31343
+120394
+456004
+31330
+31767
+18319
+15691
+1310't6
+31689
+31380
+31381
+31379
+120238
+1 1317
+1 801 73
+31688
+31367
+31373
+19350
+180179
+120396
+10405
+435507
+31342
+11777
+31384
+31 385
+120392
+180536
+31 354
+142485
+31387
+31378
+31374
+423015
+;.
+Bolt Hex 1/2-13 x 3.500
+Bolt 3/&16 x .875 RD HO SO NK
+Plate, Front Cover L.H.
+Brack€t. Roller Front
+Plete, Front Cover R_H.
+Washer, Flat .406 x .812 x .065
+Nut, Lock; ,&16
+Weldment, 60 lnch Deck
+Decals, Hoighl Adi. & Belt Layout
+Oecal, Danger
+Cotter, Hair Pin
+Wash6r, Flat .656 x 1.312 x .G)5
+Spring
+Spacer, Rod
+Plate, Leveling
+Rod, Support Plate
+Nut, Jam 1/2-13 Hex
+Assembly, Mower Litt Pivol
+Bolt, Hex: 1/2-13 x 1.000
+Pin Latch
+Spacer
+Plato; Support
+Bolt, Ey€
+Bolt Hex 1/2-13 x 1.750.
+Washer, Flal .531 x 1.062 x .095 ,
+Pin. Hair
+Nut, Lock; 1/2-13
+Plats, O€ck Support
+Grommet. Pl83tic,
+Covsr, Bell R.H.
+Covgr. 86lt L.H.
+Washsr, Flst .281 x .625 x .065,
+Screw, Mach 1/4-20 x.825 RO HD .
+B8lfle, Front
+Pin, Groov€i .125 x .625
+Rod, Litt
+Bushlng
+Woldment. Plvot Arm
+Wash6r, Flal .813 x 1.375 x .t0O
+See Mower Orivo tor Compononts
+13
+:
+
+
+===== Page 16 =====
+;il
+r l,J
+I
+GRAVELY ATTACHMENT LIMITED WARRANTY
+7.
+This Warranty,cto€s nol cover the following:
+a. Transportation between owner's home or place ot
+business and the dealership ll the dealer provides lhe
+lransportation ol the attachment, he will charge the
+owne( his usual rate lor such service
+b. Normal maintenance services and normal replacement ol
+items such as spark plugs, belts. orl. oil lilters, atr lilters,
+and mower, plow or cultrvator blades.
+GRAVELY MAKES NO OTHER EXPBESSWARRANTIES. ANY
+IMPLIED WABRANTIES. INCLUDING WARBANTIES AS TO
+MEBCHANTABILITY OB FITNESS FOR A PABTICULAR
+PURPOSE. ARE LIMITED IN DURATIOT'I TO THE PEHIOO
+SET OUT IN PABAGRAPH 3 ABOVE, SCME STATES OO
+NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLI€D
+WAHRANTY LASTS. SO THE ABOVE STATEMENT MAY NOT
+APPLY TO YOU.
+GRAVELY SHALL HAVE NO RESPONSIBILITY FOR
+INCIOENTAL OB CONSEOLJENTIAL OAMAGES
+RESULTING FROM THE BREACH OF ANY WARBANTY.
+INCLUDING BUT NOT TIMITED TO, INCONVENIENCE.
+RENTAL OR PURCHASE OF BEPLACEMENT PROOUCTS.
+LOSS OF PROFITS OB COMMERCIAI.. IOSS SOME STATES
+OO NOT ALTOW THE EXCLUSION OR LIMITATION OF
+INCIDENTAL OR CONSEOUENTIAL OAMAGES. SO THE
+ABOVE LIMITAIION OR EXCLUSION MAY NOT APPLY TO
+YOU
+Thrs Warranty grves you speoltc legal rrghts. and you nray
+have other nghts whlch vary lrom state to state.
+A Gravely product registration card ts supplied wtth each
+Gravely product Please complete the carc, and relurn rt lo
+Gravely at the address lrsted on the card. The regis-
+tralion carc, wrll be used by Gravely lcr:
+a Recordtng date o, purchase
+b. Nottlicatton of owners rn complrance wrth the Consumer
+. Product Safety Acl. should any notrf rcation be necessary.
+The return ol regrstratron card is not required ln orrjer to takd
+advantages of thrs Warranty
+Thrs Warranty is not sublecl to change or modirication by
+anyone. rncluding Gravely dealers.and no Gravely dealer is
+authorized lo make any representations or promises on
+Gravely's behall.
+This Limited Warranty is issued by Gravely Division' McGraw-
+Edison Company, and consists ot the tollowing terms:
+1. Only the original purchaser ot new Gravely manulactured
+attachments is covered by this Warranty.
+2. Thrs warranty covers tegak d replacement ol parls
+manulactured by Gravely which are delective in material or
+tvorkmanship. Gravely will pay lor parts and labor only.
+3. The Warranty starts the date ol purchase and lasts lor NINETY
+(90) DAYS lor atlachments used in Roofer applications, and
+TWELVE (12) MONTHS lor products used in all olh6r
+applications.
+4. Some componenls of Gravely atlachments are not covered
+by the Gravely Warranty. These componenls are covered by
+the original manulaclurer's warranty, which is included with
+the pioduct. They are:
+a. Engine - Honda
+b. Tires - Goodyear and Armstrong
+To obtain warranty s'ervice rrn Gravely allachments rncluding
+componenls not manuti,)ctureo by Gravely. use lhts procedure
+"':"a. Notrly the.Gra,rely dealer lrom whom you purchased the
+. 
+sllachment
+,..'.-,.
+b. Jly.o-tr'l ave;ncve(l and i: is nJt converrrenl to notrty lhe
+,;'getliQg'dealer ; h.,l'tv the nearesi Qravely dealer. You
+.ishorrl.J-s,,epl), ttrrs cleaier with a copy ol the bitl o, sale as
+'' iproaf L.r rhe uale of purchase
+.r.:;.,
+t.A f.iaG-a.rui{o,nents to have ihe atlachment delrver€d
+' . '.. .tp tne don,s, 1' 9rs, 1e paragraph 6(a) below)
+' d, lt ygu have any q,.restions concerning the Gravely Lamrted
+Warranty, they should be relerred to:
+Grtvely Oivrsron
+McGraw-Edison Company
+One Gravely Lane
+Clenrmons, llC 27012
+Attn: Manager ol Customer Services
+e. Warranty service on Gravely attachments rnust be
+perlormed by an authorized Gravely dealer or Gravely
+tactory branch.
+6.
+8
+5
+10
+ll
+:i.,
+(
+\
+1)
+SGIHA/ELY
+One Gravely Lane, Clemmons, NC 27012

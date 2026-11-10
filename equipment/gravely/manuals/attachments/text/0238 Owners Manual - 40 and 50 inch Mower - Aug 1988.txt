@@ -1,0 +1,1973 @@
+# 0238 Owners Manual - 40 and 50 inch Mower - Aug 1988
+# Source: 0238 Owners Manual - 40 and 50 inch Mower - Aug 1988.pdf (26 pages; PDF text layer)
+
+===== Page 1 =====
+A snrerY MEssnce A
+The product for which you have requested
+information or replacement parts is not a
+current product. The replacement models
+incorporate product designs, safety features,
+safety instructions or warnings which repre-
+sent the latest "State Of The Art" develop-
+ments. For your safety and those around you
+please contact your nearest Ariens/Gravely
+Dealer for a demonstration of the current
+product safety provisions and features.
+Ownerl0perator & Parts Manual
+MODELS
+005 - 40" Mower
+006 - 50" Mower
+08427800E Rev. B/98
+Supersedes 08427 88,C,O
+Printed in USA
+i 
+V
+40" & 50" Rotary Mower
+
+
+===== Page 2 =====
+EGiHNEHv
+You
+i.
+':,:'seitrvicelife.i:'li,.:1,1,i, ,,r''.';' ,r','': : ,.:1i-,,.'';,.,,r,,
+i.'t:'r:i.,,..:.:',,..,":.,.,.:t.:,,,.1,,a.,,...'.." . ., ,ll,;: 
+t;.,...,. -.' ,., ,';1..:,'-r ' ::' 1,..:,,
+, iatgxyi" y,i' #,'viu,;,ooey att,cgrr,;rt . ,,', ,,
+' opeAing prqctii:es andpbceaules 1oi thliil',I
+' :u'tiit.i,Preverlid idriousiinjiry'ir :6sith,,,, 
+";;,'' 
+., :
+1::' 
+..'..:j:,'r,. 
+r:'. 
+..'...r..'..'.,'. 
+t';.' ''- 
+...:.1'.. 
+1 
+,..:..,.::1...,..._.,:.:-:_;.
+,, Thfg;e reagdls, lafetV.is itrr'peirtanf.', ,:., .. ri . . ,:
+" ' i'..Arcidt ts'cith'disabiietand'iitt..' ',:. ,.
+. :' .. 
+:
+.,;'..'.:.,:'!rlr'.: 
+;. 
+. 
+",1 
+,.'.:.,,. 
+. .'... 
+l.':
+,', .GRA| ,p1gQlly 9ff grs ;one .;of, :the fiiest , 
+, . ,
+:* a lao1ig 9 ; n tni o usrness, c antdgt, v.o ur' :,':
+,,GRA:VE.Y,D9ai191;ry!fi1tiny.9uegi!.qg;,,,,..,-,.
+Youn Sansracrtoru ls luponraNr
+Questions? Please follow these helpful steps:
+1. Always Refer to Your Owner/Operator or
+Engine Manual First.
+a) lts detail will guide you through safe and
+proper operation and maintenance.
+b) lt contains specifications on your model.
+c) lf your questions are not answered in these
+manuals, go to steP number two.
+2. Contact Your GRAVELY Dealer.
+a) Our dealers will be happy to supply any
+service or advice required to keep your unit
+operating at Peak efficiencY.
+b) A factory trained staff is available to support
+your equipment needs. They stock genuine
+GRAVELY Parts and lubricants
+manufactured with the same precision and
+skill as the original.
+c) lf your questions are not resolved by the
+support staff, ask lor the manager or owner.
+d) When contacting your GRAVELY Dealer
+supply your model and serial numbers.
+The engine exhaust f rom this product
+contains chemicals known to the State of
+California to cause cancer, birth defects
+or other reproductive harm.
+v
+
+
+===== Page 3 =====
+TasLe Or CoNrENrs
+Mooeus
+Secrou 1: Owruens
+Model 885005
+Mower, 40" Three Spindle
+Serial No. 000367 and up
+Model 885006
+Mower, 50" Three Spindle
+Serial No. 003998 and up
+40" Mower Deck Assembly ..,................................. 
+1 6
+50" Mower Deck Assembly .................................... 
+1 I
+40" & 50" Mower Drive.......... 
+.............. 20
+RereReruce TaaLe
+NOTE: Hardware descriptions are given in decimals.
+Decimals to Fractions
+.062
+.125
+.187
+.250
+.312
+.375
+.437
+.500
+.562
+.625
+.687
+.750
+.812
+.875
+.937
+1116
+1t8
+3/16
+114
+5/16
+318
+7116
+1/2
+9/16
+518
+11/16
+314
+13/16
+7t8
+15/16
+GRAVELY" RotaryMower Rev 8/98
+@ Copyright - 1998 Ariens Company
+v
+-/
+
+
+===== Page 4 =====
+Safety Precautions
+lmproper use of this equipment can injure people
+and damage the equipment. People using or
+servicing this equipment must read and follow the
+instructions in this manualand the manuals provided
+with your power unit.
+It is important to understand that this manual and
+any other Gravely instruction manuals do not cover
+every possible danger. lt is impossible for Gravely
+to know all possible dangers in operating and
+servicing the equipment,
+The purchaser must give these instructions to the
+people operating and maintaining this equipment.
+These people must use eye and foot protection.
+Training
+Read this manual and the power unit manual
+carefully.
+Learn the location and function o{ all controls.
+Learn how to use the controls to stop the wheels
+and mower quickly in an emergency.
+Understand and follow each danger, warning, caution
+and instructionaldecal installed on this product.
+Never permit children to operate the tractor, Do not
+allow adults to operate it without proper instruction.
+Safe operation of this equipment requires your
+complete and unimpaired attention at alltimes. Do
+not operate unit after or during the consumption of
+drugs or alcohol.
+Keep all people and animals awayfrom the operating
+area.
+Preparation
+Use caution with gasoline. Gasoline is very
+flammable and its vapors are explosive. Keep it in a
+clean, tight and approved (Red) container. Never
+put gasoline in the fuel tank while the engine is
+running or hot. Clean up spilled gasoline before
+starting engine. Do not fill fuel tank indoors. Never
+allow smoking materials, spad<s orflame (match, pilot
+light, etc.) near mower or fuel container. Replace
+fuel tank cap and fuel container cap securely,
+lnspect area to be mowed and remove all material
+which could be thrown by the mower such as stones,
+sticks, wires and other foreign objects.
+lnspect area to be mowed and remove all material
+which could be thrown by mower.
+When hauling the equipment, connect the chassis to
+the transporling vehicle. Never connect from control
+levers, rods, or like items that could be damaged.
+Replace all parts that become damaged or lost.
+Check the operation of the operator presence controls,
+on your power unit before operating the mower.
+Before making adjustments orseruicing, movethe PTO
+to "OFF", turn the ignition switch to "OFF", remove key
+and wait until all moving parts completely stop. Do
+not make cutting height adjustment while engine is
+running.
+Operation
+Be certain that shield, guards and interlock switches
+are in good condition and in proper operating position,
+Before stading the engine, put the PTO control lever
+in the "OFF" position and the gear shift lever in the
+neutral "N" position.
+Wear foot and eye protection. Do not wear loose
+clothing that could get caught in rotating parts.
+Do not use the equipment in the dark without adequate
+lighting.
+Keep away from moving parts. Stay clear of the mower
+discharge chute and keep the deflector in the down
+position whenever the engine is running.
+Keep people and animals away from the operating
+area. Never direct discharge of materials toward
+bystanders.
+Do not let people other than the operator near the
+operating equipment. Never direct discharge of
+material towards bystanders. The operator is
+responsible for the safety of bystanders.
+Do not operate the mower on gravel or on loose
+material such as sand. Stop mower when crossing
+graveldrives, walks or roads. Objects may be picked
+up and thrown by the mower blades causing damage
+or injury.
+\z
+-/
+GBAVELYG Rotary Mower Rev.8/98
+Y-
+
+
+===== Page 5 =====
+Safety Precautions (Continued)
+Use a slow speed and engage the shift lever slowly
+when operating on slopes.
+Look for and keep away from hazards, such as drop-
+offs. Stay alefi for holes, rocks and other hidden
+hazards in the area of operation.
+After hitting an object, disengage the PTO, turn off
+and remove the ignition key and wait for all motion
+to stop. Check for damage, Repair any damage
+before operating.
+Look down and behind when operating in reverse.
+Look for people and hazards.
+Operate only from the operator's position.
+Slopes are a majorfactor related to accidents which
+can result in severe injury. All slopes require extra
+caution. lf you feel uneasy on a slope with your walk
+behind tractor do not mow it. lf you can not back up
+the slope with your ride-on tractor do not mow it.
+Travel across slopes with the walk behind tractor.
+Travel up and down slopes with the ride-on tractor.
+lf there is a sudden change in the sound or vibration
+of the equipment, disengage the PTO, turn off and
+remove the ignition key, wait for all motion to stop
+and check for damage. Repair any damage or
+failure before restarting unit.
+Never run the engine indoors except to move it
+outside. Exhaust fumes are dangerous.
+Go slowly on slick surfaces. When operating the
+walk behind tractor always be sure of your footing,
+keep a firm grip on the handlebars and walk, never
+run.
+Follow traffic laws when operating on or near a road.
+Before leaving the operator's position forany reason,
+put the PTO control in the "OFF" position and turn
+the ignition key to "OFFU and remove. Move the
+direction controlto the forward position (walk-behind
+tractor). Lock the brake lock (ride-on tractor). Wait
+until all moving parts have stopped.
+Do nottouch partswhich might be hotfrom operation.
+Before attempting to maintain, adjust or service allow
+such parts to cool.
+Maintenance and Storage
+Keep the equipment in good condition. Maintain it as
+directed in this manual. Check all hardware at regular
+intervals.
+Use only Gravely accessories, attachment and
+replacement parts.
+Do not overspeed the engine. Do not override the
+govemor.
+Before making any repairs, adjustments, inspections
+or cleaning unit disengage the PTO, turn off and
+remove the ignition key and wait for all motion to stop.
+To reduce fire hazard and overheating, keep
+equipment free of grass, leaves, debris or excessive
+lubricants.
+Worn out mufflers can result in fire or explosion and
+should be replaced immediately.
+Never store equipment with gasoline in tank inside a
+building where fumes may reach an open flame or
+spark. Allow engine to cool before storing in any
+enclosure.
+Refer to Storage Section of owners manual if unit is
+to be stored for extended periods.
+GRAVELYO Rotary Mower Bev.8/98
+\,
+\z
+3
+
+
+===== Page 6 =====
+Operation
+Read this manual and the power Unit manual
+carefully before operating the equipment.
+Transport the equipment to the area to be mowed.
+lnspect the area to be mowed and remove all
+materialwhich could be thrown by the mower.
+Plan the pattern for cutting the grass. Generally an
+area is mowed around the periphery towards the
+center by discharging the grass toward the center
+on the first pass. The remainder of the mowing is
+done discharging the grass outward in the area
+which has been cut.
+See Specification Section for the schedule of heights of
+cut. Set the mower for the height of cut desired.
+See the tractor manual for correct operation of the pTO.
+Start the engine and put the pTO control in the ,,ON"
+position. Move the throtile control to the "FAST', position.
+Select a slow gear. Engage the forward clutch. Control
+the ground speed by selecting the desired gear.
+-.
+GRAVELYo Rotary Mower Rev. U98
+\z
+Y/
+4
+
+
+===== Page 7 =====
+Lubrication and Maintenance
+Lubrication
+Belt Replacement
+Apply Ostenllix Hi-Temp Grease to the lube 
+Removethemowerfromthetractor.
+fittings' order P/N: 00036700 - ten 14 oz' tubes' 
+Remove the bert covers.
+lf using Sten Mix for the first time, all components
+should be thoroughly cleaned prior to lubricating. Loosen the spring tension on the belt.
+Apply grease on:
+Remove the gear housing support.
+- Each spindle (3) - every 25 hours of operation.
+- Each gauge wheel (2) - every 8 hours of operation. Remove the belt.
+- Drive shaft - every 8 hours of operation,
+- Front mount - every I hours of operation 
+Put the new belt in position on the sheaves. See
+---quick hitch pin 
+diagram 1'
+--each caster wheel (2)
+Mount the gear housing support.
+--each caster fork (2)
+IMPORTANT: Grease the spindles until there is 
+Adjust the belt tension.
+grease coming out of the grease relief fitting' 
+rnstail the bert covers.
+Gear Box: Once a year or every 200 hours of
+operation, checkthe lubricant by removing the cover. Mount the mower on the tractor.
+Clean the top of the gear box and carefully remove
+the cover. Replace the gasket if damaged. Keep
+the gear box3l4 full of grease.
+Blade Service
+-,
+Everyten hours of operation orwhen the cut is poor
+visually, check the blades for sharpness.
+Remove the mower from the tractor. See mower
+installatibn in Lubrication and Maintenance Section.
+Turn the mower upside down.
+Block the blades and remove the nuts and flat
+washers from the spindle.
+Sharpen and balance the blade.
+Reverse the removal process to install the blades
+on mower and the mower on the tractor.
+Replace the blades when over 1/2" has been
+removed or the blade cannot be balanced.
+GRAVELYo Rotary Mower Rev.8/98
+5
+
+
+===== Page 8 =====
+Lubrication and Maintenance (Continued)
+1.
+2.
+3.
+Adjusting Nut
+Jam Nut
+Spring
+Figure 1
+DIAGRAM
+:"64
+\oYoz
+TIGHTEN SPRING TO .015" AIR GAP
+SEE OWNERS MANUAL
+Diagram 1
+GRAVELY" Rotary Mower Rev.8/98
+6
+-.
+-=
+
+
+===== Page 9 =====
+=.'
+Height of Cut Adjustment
+Lift up on the height adjustment lever and rotate the
+axle pivot weldment untilthe lever registers with the
+slot corresponding to the desired height of cut. The
+lowest cut position is when the lever is nearest the
+deck.
+Belt Adjustment
+Remove the right belt cover.
+Unlock the adjusting nuts. See figure 1.
+Rotate the inside nut until the air gap in the spring is
+.010" to .015" (.25mm to .38mm).
+Jam the adjusting nuts.
+lnstallthe belt cover.
+Deck Leveling Cam
+Nuts
+Measure Height
+Mower LevelAdjustment
+Park the tractor on a level, paved surface.
+Check and adjust the tractor tire pressure. See the
+tractor operator's manual.
+Move the height of cut lever to the position where
+the mower will be used.
+Loosen the bolts which retain the deck leveling
+cams.
+Loosen the jam nut on the eccentric bolts which
+retain the gauge wheels.
+Rotate the eccentric bolts in the gauge wheels until
+the distance from the rear of the deck to the
+supporting surface is equal on each side of the
+mover. See diagram 2.
+Adjust the deck leveling cams with the cam untilthe
+front edge of the deck to the supporting surface is
+within .1 inch of the rear distance. See diagram 2.
+Readjustment of the eccentric bolt in the gauge
+wheelmay be required.
+Jam the nuts on the eccentric bolts and tighten the
+bolts which retain the deck leveling cams.
+Adjustment
+Height of Cut Lever
+Eccentric Bolt
+Cam
+1.
+2.
+3.
+4.
+5.
+6.
+GRAVELYo Rotary Mower Rev.8/98
+Diagram 2
+-/
+
+
+===== Page 10 =====
+Storage
+Remove the mower from the tractor and clean.
+NOTE: Do not use harsh or abrasive cleaners on
+any painted surface. Do not allow gasoline or oil lo
+remain on any silk screened surface.
+IMPORTANT: NEVER spray unit with water or
+store unit outdoors to aid in prevention of rust or
+corrosion. Water can seep into sealed bearings,
+which are sealed against dirt and debris only,
+causing reduced component life.
+lnspect for damage, wear, loose or missing hardware.
+Repair as needed.
+Sharpen and balance the blades.
+Lubricate.
+Paint or oil any bare metal surfaces to prevent rust.
+Place in a dry area.
+Trouble Shooting
+Uneven cut
+- Mower not level.
+- Uneven tractor tire pressure.
+- Damaged gauge wheel or axle.
+- Damaged pivot arm weldment.
+- Bent blade.
+Uncut grass
+- Dullblade.
+- Damaged blade.
+- Too low engine speed.
+- Mowing tall grass.
+Smoke from mower
+- Spindle/blade locked.
+- Debris wedged against belt.
+- Loose belt.
+Engine slows when mower is engaged
+- Damaged bearing in spindle assembly.
+- Damaged bearings/gears in the gear box.
+Excessive noise
+- Unbalanced blade(s).
+- Damaged universal joint
+- Damaged gear box bearings/gears.
+- ldler bearings.
+- Damaged bearings in spindle assembly.
+i;
+ll
+GRAVELYo Rotary Mower Rev. 8/98
+I
+-
+I
+
+
+===== Page 11 =====
+Specifications
+Width of cut
+Weight
+Height
+Length
+Width: Chute Down
+Chute Up
+40" Mower
+40 in. (1016mm)
+169 lbs. (77 kg)
+15 in. (3Blmm)
+35 in. (889mm)
+50" Mower
+50 in. (1270mm)
+197 lbs. (89 kg)
+15 in. (381mm)
+35 in. (889mm)
+50.5 in. (1283mm) 62.0 in. (1575mm)
+45.8 in. (1165mm) 53.1 in. (1349mm)
+GRAVELYo Rotary Mower Rev 8/98
+\.y
+.-
+.y
+9
+
+
+===== Page 12 =====
+Set-Up lnstructions
+Remove the mower from the shipping container.
+Axle Pivot Wetdment lnstallation
+Put the axle pivot weldment in position in the axle
+support brackets. See figure 2.
+Put a nylon stop in each axle support bracket with
+the curved end against the axle pivot weldment.
+Secure the nylon stops with 3/B - 16 x 2" carriage
+bolts from under the deck and 3/8-16 lock nuts.
+Put a .125 x 1 .25 cotter pin through the hole in the
+right end of the axle pivot weldment.
+Height of Cut Lever lnstallation
+Put the height of cut lever in position on the axle pivot
+weldment. Secure with a 3/B bolt from the front side
+and 3/B lock nut, See figure 3. lnstallthe spring trom
+the axle pivot weldment to the height of cut lever.
+U-Joint Drive Assembly lnstallation
+lf the mower is to be used on a Professional 4 Wheel,
+or 8000 Series long frame tractor, the universaljoint
+drive assembly is positioned in the hole nearest the
+end of the gear box shaft. lf the mower is to be used
+on an 800 Series, 8000 Series shod frame, or a two'
+wheel tractor, the universaljoint drive is positioned in
+the hole nearest the gearbox. See figure 4.
+1.
+2.
+Axle Support Bracket
+Figure 2
+1.
+2.
+Height Adjustment Lever
+Spring
+Figure 3
+GRAVELY" Rotary Mower Rev.8/98
+10
+.(-
+!a
+
+
+===== Page 13 =====
+Set-Up I nstructions (Continued)
+,t , 
+Lo Mount the Mower to the Front 
+Lowerthe attachment tift. Insta[ the tift pivot in the
+V 
+Mower (Two'Wheel Tractor) 
+lift arm as shown in diagram 6. Use the first hote in
+the end of the left arm when mounting on the long
+Remove a pivot arm support from the front mount 
+frame tractor.
+frame. See figure 8.
+Adjust the mower to the lowest height of cut position.
+Put the front mount frame over the mower and 
+Put the end of the lift rod in the mower eye bolt and
+slide the pivot arm shaft into the remaining pivot 
+secure with a hair pin cotter.
+arm supporl. See figure 8.
+Move the first jam nut to an 1/8" from the lift pivot
+Slide the loose pivot arm support on the vacant 
+and lock it in place by jamming with the second nut.
+pivot arm shaft and bolt to the front mount frame.
+Follow Lubrication and Maintenance section for
+Cut the universaljoint assembly shaft to the length installation and removal of the mower on the tractor.
+shown in diagram S.
+There are two 3/B - 16 hex bolts and hex nuts
+The Mower Lift Rod is lnstalled and 
+located on the front of the gear housing support that
+Adjusted the First Time the Mower is 
+can be used to tevet the mower when in the raised
+Mounted on the Four-WheelTractor position.
+Put the lift pivot on the lift rod followed bytwo jam 
+Leve! the Mower the First Time That it is
+nuts. Leave the nuts loose for adjustment. See 
+Mounted to the Tractor. See Lubrication
+diagram 6. 
+and Maintenance Section.'
+See Lubrication and Maintenance section. Secure
+I 
+the mower in the latch plates.
+1
+1. U-Joint Female
+2. Retaining Bolt
+Figure 4
+--!v
+-y
+GRAVELYo Rotary Mower Rev.8i98
+11
+
+
+===== Page 14 =====
+tr
+i,i,
+il
+lrri
+Ii
+I
+I
+I
+I
+li
+lll
+Set-Up lnstructions (Continued)
+Mower lnstallation on the Two-Wheel
+Tractor
+Put a film of grease on the quick hitch pin. See figure
+5.
+Slide the pivot support onto the quick hitch pin and
+retain with a flat washer and klik pin.
+Put a film of grease on the shaft of the universal
+drive assembly. Slide the shaft into the tube of
+universal joint (female) assembly.
+Pull (or rotate) the locking collar toward the U-joint
+and slide onto the tractor PTO shaft. Release the
+locking collar. Pull on the drive to make sure that
+the drive has locked in place.
+To remove the mower, reverse the steps above.
+Mower lnstallation on the Four-Wheel
+Tractor
+For a 40" or 50" center mount mower deck, you
+may have to drill a 17l32" diameter hole in the
+gear housing support. See Diagram 3 for layout of
+the pafi and location of hole. lf you need to drill a
+hole, you will also have to move the eyebolt to this
+hole. Also, the mower lift pivot willgo into the third
+(last) hole in the lift arm. See Diagram 4.
+lnstallthe lift rod on the tractor as shown in Diagram
+4. Use the second hole in the end of the lift arm
+when mounting on a short frame tractor.
+Put a film of grease on the shaft on the universal
+joint (male) assembly. Slide the shaft into the tube of
+the universal joint (female) assembly.
+Put the height adjustment lever in the lowest cut
+position (near deck).
+Position the tractor with the front wheels behind the
+mower.
+Roll the front of the tractor over the mower. See
+figure 7.
+Put a film of grease on the PTO shaft.
+43 2
+l.Quick Hitch Pin
+2.Pivot Support
+3.Flat Washer
+4."Klik'' Pin
+5.U-Joint Female
+6.U-Joint Betaining Bolt
+7.U-Joint Male
+S.Locking Collar
+9.Deck Leveling Cam
+l0.HeightAdjust Levei
+Figure 5
+^ o
+o
+OA
+lf hole A" is not in your 40" or 50" mower gear
+housing support, you will need to drill a 17132,,
+diameter hole here and put the eyebolt through
+the hole,
+Diagram 3
+12
+GRAVELYG Rotary Mower Rev.8/98
+I
+a
+w
+
+
+===== Page 15 =====
+Set-Up lnstructions (Continued)
+I
+l . \t/ 
+Unlock the universaljoint drive assembly locking
+! : 
+collar by rotating or pulling toward the drive
+assembly. Slide the drive assembly on the PTO
+shaft and release the locking collar. Pull on the
+drive assembly to make sure it is locked on the
+PTO shaft.
+Lower the attachment lift.
+Put the end of the lift rod in the eye bolt on the
+mower. Secure with a hair pin cotter.
+Lift the mower with the attachment lift until the
+mower pivot arm is near the latch plates.
+Open the latch plates and swing the pivot arm into
+the slots.
+Close the latch plates and secure with hair pin
+cotters. See figure 6.
+To remove the mower, reverse the installation
+procedure.
+v
+Figure 7
+1. Cotter Pin
+2. 
+Washer
+3. 
+Lift Lever Weldment
+4. 
+Jam Nut
+5. 
+Mower Lift Pivot
+6. 
+Mower LiftArm
+7. 
+Eye Bolt
+L 
+Hair Pin
+Diagram 4
+1. 
+Lift Rod
+2. 
+Hair Pin Cotter
+3. 
+Large Hair Pin Cotter
+Figure 6
+'Y
+v'-., 
+\
+iil
+ifu.ll
+,'-qh
+g
+trifl--"
+$l--' I I
+ri gY,
+EI
+E'
+GRAVELY. Rotary Mower Rev.8/98
+13
+
+
+===== Page 16 =====
+Set-Up lnstructions (Continued)
+1.
+2.
+3.
+Pivot Arm Support
+Front Mount Frame
+Retaining Bolts
+Figure 8
+(FOR TWO-WHEEL TRACTOR ONLY)
+Diagram 5
+a_-.
+t
+14
+GRAVELY" Rotary Mower Rev.8/98
+\,
+ir
+
+
+===== Page 17 =====
+Notes
+}'-
+>
+!,
+GRAVELYG Rotary Mower Rev.8/98
+15
+
+
+===== Page 18 =====
+40" Mowen DEcx AsseMeLv
+Models 885005,006
+Lr
+:ds-..
+)f '\0. 
+i
+t\t.
+\, 
+\
+\ t'.P: fdo \.'+
+I l\ci i" :
+\/i9
+I
+1),u
+al
+-M;
+i-,r ) i
+l-" ," 4s
+21
+\
+ftfril $&{c ro sf at o^t
+E OWXS UNoAL
+.n- $\
+\+g
+1
+\43
+.42
+56
+A?r-B
+li 58 l
+(rc
+59
+q-iIl
+\
+55
+K
+16
+1.
+GFIAVELY. Botary Mower Rev.8/98
+?r
+17..
+1B
+19 -
+llr
+44
+1bt-.1- '''"'
+- .:-':-, -,
+ili
+I'
+
+
+===== Page 19 =====
+40" Mowen Decr AssenanlY
+\-
+>
+Models 885005,006
+Item No
+Part No.
+Qty.
+Description
+1
+2
+3
+4
+5
+6
+7I
+o
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+2B
+29
+30
+31
+32
+33
+34
+35
+36
+37
+3B
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+NS
+038986
+415543
+414074
+1 801 91
+038992
+126485
+038988
+120123
+417098
+120238
+022414
+413447
+022415
+423315
+04062s
+01 9201
+1 80078
+01 5691
+1 801 26
+124829
+456004
+01 9350
+435507
+01 9348
+0341 1 I
+040533
+040532
+041674
+419455
+124824
+040531
+011715
+038769
+038697
+120394
+045664
+038696
+1 80021
+1 2091 5
+419454
+033926
+01 1 260
+011264
+0s350200
+046053
+038990
+034067
+021471
+01 1 265
+021462
+034426
+038985
+046224
+053501 00
+126419
+180077
+0401 93
+0120396
+1 801 93
+014666
+1
+6
+7
+2
+1
+4
+1
+2
+1
+3
+2
+4
+2
+2
+1
+1
+4
+1
+4
+2
+16
+1
+6
+3
+1
+1
+1
+2
+2
+10
+1
+1
+1
+1
+4
+2
+1
+2I
+2
+1
+3
+3
+1
+1
+1
+1
+1
+1
+1
+2
+2
+1
+1
+3I
+2
+4
+4
+1
+Weldment, Deck Leveling Right Hand
+Washer-Flat-Steel .531 x 1.250 x .100
+Nut-Locking .50-13
+Bolt-Hex .50-13 x 3.25 Grade 5
+Weldment, PivotArm
+Bolt-Round Head Square Neck .50-13 x 1 .25
+Weldment, Deck Leveling Left Hand
+Pin-Cotter.12x1.25
+Washer-Flat-Steel .531 x 1.000 x .063
+Nut-Jam .50-13 Grade 2
+Spacer .510 x .750 x 2.02 Steel
+Nut-Locking .312-18
+Supporl, Mower Pivot
+Washer-Flat-Steel .813 x 1.370 x .'100
+Pivot, Mower Lift
+Rod, Lift
+Bolt-Hex .31-18 x .88 Grade 5
+Pin-Cotter .12x2.0
+Bolt-Hex .38-16 x 1.50 Grade 5
+Nut-Jam ,375-16
+Nut-Locking-Nylon .375-16 Grade 2
+Bolt, Eye
+Nut-Locking-Nylon .50-13 Grade 5
+Spacer .510 x .840 x 2.437 Steel
+Spacer .560 x .750 x 2.437 Steel
+Cover, Belt Left Hand
+Cover, Belt Right Hand
+Knob
+Nut-Locking-Nylon .312-18 Grade 2
+Nut-Jam.312-18
+Plate, Supporl
+Decal, Belt lnstallation
+Stripe
+Chule,40" Flip-Up
+Washer-FlatSteel .406 x .812 x .065
+Bracket, Chute 40" Mower
+Bushing-Sleeve .407 x .625 x .750
+Bolt-Hex .25-20 x.875
+Bolt-Round Head Square Neck .38-16 x 1.0
+Nut-Locking-Nylon .250-20 Grade 2
+Decal, Danger Hand
+Stop, Nylon
+Bracket, Axle Support
+Decal, Warning Eye
+Weldment, Axle Pivot
+Lever, Height of Cut
+Grip, Handle
+Spring-Tension .095 x .85 x 4,38
+Bracket, Height Adjustment
+Shim, Mower Height Adjuster Bracket
+Ire/WheelAssembly 6 x 2
+Bolt, Eccentric
+Weldment, 40" Mower Deck
+Decal, Danger Foot
+Bolt-Round Head Square Neck .38-16 x 2.00
+Bolt-Hex .31-18 x.75 Grade 5
+Bolt-Round Head Square Neck.31-18 x 3.5
+Washer-Flat-Steel .531 x 1.062 x ,095
+Bolt-Hex.50-13 x3.75
+Baffle
+\r.
+GRAVELY" Rotary Mower Rev.8/98
+17
+
+
+===== Page 20 =====
+50" Mowen Decx AsseMalv
+Models 885005,006
+,/)..^---
+l.r' 
+\
+V^I 
+A 
+O
+!z
+-/
+-15
+t/ 
+t^
+.216
+123
+4'
+)s.1i
+,37 -.)
+."'4
+t\
++8
+ml@ 
+3PRm rc S5" !t Olt
+sE owrEis uN4
+).' 
+) ..2
+39-:38
+ZI
+^\\92
+46
+39-- T-i
+e
+45r)
+'42
+48
+23
+I
+57
+3t
+ll 60
+(n
+ot
+tif
+39
+t
+a,
+I
+62
+\\a7k*5
+21
+A- l'
+,W
+\19 -><
+A39:1' ,3
+iKt'{
++\
+i:+
+tl
+ry
+39'
+55
+| ,'r
+' l,f
+(21-
+reiffi
+18
+GRAVELYo Botary Mower Rev.8/98
+Y"
+78
+k,i
+7
+1
+1
+5
+52
+"-(w@) /
+---53
+54
+
+
+===== Page 21 =====
+50" Mowen Decr AssennsLv
+\-
+b.
+Models 885005,006
+Item No.
+Part No.
+oty'
+Description
+1
+2
+3
+4
+5
+6
+7II
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+NS
+038986
+415543
+414074
+1 801 91
+038992
+1 26485
+O3B9BB
+120123
+417098
+120238
+022414
+413447
+022415
+423315
+040625
+01 9201
+1 80078
+01 5691
+1 801 26
+124829
+456004
+01 9350
+435507
+01 9348
+042988
+0401 95
+0401 96
+041674
+419455
+124824
+040201
+011715
+038769
+038675
+120394
+045641
+038696
+1 80021
+1 2091 5
+419454
+033926
+01 1 260
+011264
+0s350200
+045711
+038990
+034067
+o21471
+01 1 265
+021462
+034426
+03898s
+o46209
+0s3501 00
+126419
+062127
+1 26358
+0401 93
+1 801 75
+1 20396
+1 801 93
+062041 00
+01 0967
+1
+6
+7
+2
+1
+4
+1
+2
+1
+3
+2
+4
+2
+2
+1
+1
+4
+1
+4
+2
+18
+1I
+3
+1
+1
+1
+2I
+10
+1
+1
+1
+1
+4
+2
+1
+2I
+2
+1
+3
+3
+1
+1
+1
+1
+1
+1
+1
+2
+2
+1
+1
+3
+2I
+2
+2
+4
+4
+6
+1
+Weldment, Deck Leveling Right Hand
+Washer-Flat-Steel .531 x 1.250 x .100
+Nut-Locking .50-13
+Bolt-Hex .50-13 x 3.25 Grade 5
+Weldment, Pivot Arm
+Bolt-Round Head Square Neck .50-13 x 1.25
+Weldment, Deck Leveling Left Hand
+Pin-Cotter .12 x 1 .25
+Washer-Flat-Steel .531 x 1.000 x .063
+Nut-Jam .50-13 Grade 2
+Spacer.510 x .750 x 2.02 Steel
+Nut-Locking .312-18
+Support, Mower Pivot
+Washer-Flat-Steel .813 x 1.370 x .100
+Pivot, Mower Lifi
+Rod, Lift
+Bolt-Hex .31-18 x ,88 Grade 5
+Pin-Cotter .12x2.0
+Bolt-Hex .38-16 x 1.50 Grade 5
+Nut-Jam .375-16
+Nut-Locking-Nylon .375-16 Grade 2
+Bolt, Eye
+Nut-Locking-Nylon .50-13 Grade 5
+Spacer.510 x .840 x 2.437 Steel
+Rod, PTO Control
+Cover, Pulley Left Hand
+Cover, Pulley Right Hand
+Knob
+Nut-Locking-Nylon .312-18 Grade 2
+Nut-Jam .312-18
+Plate, Support
+Decal, Belt lnstallation
+Stripe
+Shield, Safety External50" Mower
+Washer-Flat-Steel .406 x .812 x .065
+Bracket, Chute
+Bushing-Sleeve .4O7 x .625 x .750
+Bolt-Hex .25-20 x .875
+Bolt-Round Head Square Neck .38-16 x 1.0
+Nut-Locking-Nylon .250-20 Grade 2
+Decal, Danger Hand
+Stop, Nylon
+Bracket, Axle Support
+Decal, Warning Eye
+Weldment, Axle Pivot
+Lever, Height of Cut
+Grip, Handle
+Spring-Tension .095 x .85 x 4.38
+Bracket, Height Adjustment
+Shim, Mower Height Adjuster Bracket
+'l-ireMheelAssembly 6 x 2
+Bolt, Eccentric
+Weldment, 50" Mower Deck
+Decal, Danger Foot
+Bolt-Round Head Square Neck .38-16 x 2.00
+Bolt-Round Head Square Neck .375-16 x .75 Grade 1
+Bolt-Round Head Square Neck .31-18 x 1 .12
+Bolt-Round Head Square Neck.31-18 x 3.5
+Bolt-Hex .50-13 x1.25 Grade 5
+Washer-Flat-Steel .531 x 1.062 x .095
+BolhHex .50-13 x 3.75
+Bolt-Round Head Square Neck .31-18 x.75
+Baffle
+Y-
+GRAVELYo Rotary Mower Rev.8/98
+19
+
+
+===== Page 22 =====
+40" & 50" Mowen DnvE
+23
+Models 885005,006
+fi
+@v1+Lt
+@--,u, ,"-1-'u 
+tt{ "-?t t,
+@./ 
+'! 
+E_27 
+39 il i
+@'..fl1ffi
+6P:d""' ',
+@-. 9-+t
+-19 
+t^m^ 7
+";W;;.;KB-:
+ffi"% 
+")u*W*3
+,:iW1'^' ryhT X--:
+,Z
+L? ffi"% 
+48fl'A--*
+?l
+st -.[a*h..,
+1..1:.....j..,, :,
+|_ _. -
+f -i 
+i
+o "ii '
+/ 
+,Cr,
+36 - .':- 
+-1.:'::.
+d 
+....:..'..,,;"
+.. 
+-.1j"
+..i:::,"
+'.J::,,'
+l?-i
+c
+oHloo2l
+rer/ 
+--ae 
+2o-grl 
+- 
+g 
+A
+@./ 
+'! 
+E-27 
+39 ff il- 
+50
+B;ji, @-30 
+"'r 
+u
+@
+@
+/ 
+i<iti
+35 .Y1 -,:;i;,
+ti. 
+..i' 
+-..:"
+-." rL -.,'
+,--.4. ,,"i
+(.:,,r
+e,
+I 
+t 
+e-_52
+B 
+42-@ 
+/,-49 
+?
+llfl 
+t/ 
+'- 
+e
+l- 
+6s 
+G
+t 
+36 - 
+.i 
+'::'i
+N 
+'i") 
+',^.-t
+Y 
+'r 
+i.(@) -ss
+-55
+=
+Y/'
+{i1," ",u"-)
+:QZ
+6P@ 
+uu
+lu! *^-1u'
+lL"ixz- 6
+,1_63
+l*J
+I 
+o- 
+53
+20
+-
+GRAVELYo Flotary Mower Rev.8/98
+
+
+===== Page 23 =====
+40" & 50" Mowen Dnve
+Models 885005,006
+V
+t-
+Item No.
+Part No.
+otv.
+Description
+1
+2
+3
+4
+5
+6
+7II
+10
+11
+12
+13
+14
+15
+16
+17
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+3B
+39
+40
+41
+42
+43
+44
+45
+46
+045954
+019074
+411027
+180044
+01 351 I
+011234
+038947
+014668
+012134
+419454
+014642
+031412
+014641
+01 4646
+014640
+1 8001 6
+1 20380
+045588
+01 0982
+01 4636
+014644
+045587
+456007
+08570300
+034429
+011216
+045632
+120384
+1 801 73
+014645
+431787
+01 4660
+020444
+010174
+034120
+03411 I
+014672
+456004
+021 060
+1 801 30
+1 801 30
+1 20388
+1 20369
+180177
+1 801 76
+451 539
+034431
+120394
+011779
+435507
+AR
+1
+1
+1
+1
+3
+3
+3
+1
+1
+1
+1
+1
+1
+1
+4
+4
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+3
+3
+1',
+1
+1
+1
+2
+1
+1
+1
+14
+2
+2
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+Q. D. Yoke
+Shaft-Prop Square Bar
+Fitting-Lube .25-28 x .256
+Bolt-Hex .25-20 x 2.00 Grade 5
+Joint-U Female End
+Blade-50" Mower (Standard)
+Blade-50" Double Edge (Optional)
+Blade-40" Mower
+Kit-Repair U-Joint
+Nut-Locking-Nylon .250-20 Grade 2
+Ring-Retaining 1.106 x .95
+Shaft
+Bushing Flange 1.00 x 1.25 x 1.25
+Seal 1.250 x 1.983 x .250
+Bearing-Assembly 1.000 x 1.980 x 1.243
+Bolt-Hex .25-20 x.50 Grade 5
+Washer-Lock.250
+Shaft-Pinion Gear
+Cover-Gear Housing
+Casting-Gear Box
+Bearing-Assembly .75 x 1.781 x 1.499
+Gear-Bevel
+Nut-Locking-Nylon .75-10 Grade 2
+Assembly-Gearbox
+V-Belt A-Section (005)
+Belt-V (006)
+Support-Gear Housing
+Washer-Lock .50 Regular
+Bolt-Hex .50-13 x 1 Grade 5
+Seal 1.250x1,691 x.310
+Key-Woodruff .19 x ,63
+Sheave 112x6.50
+Spring-Compression .085 x .80 x 1,00
+Bushing-Flange .762 x 1.0 x ,580 x 1.48
+Arm-ldler Pivot
+Spacer.560 x .750 x 2.437 Sleel
+Bushing .406 x .750 x .188
+Nut-Locking-Nylon .375-16 Grade 2
+Pulley-ldler 4.50 x .380
+Bolt-Hex .38-16 x 2.00 Grade 5 (005)
+Bolt-Hex .38-16 x 2.00 Grade 5 (006)
+Washer-Flat-Steel ,438 x 1.000 x .083 (005)
+Nut-Hex .375-24 Grade 2
+Bolt-Hex .50-13 x 1.50 (006)
+Bolt-Hex .50-13 x 1.375 (005)
+Nut-Hex-Jam .750-10
+Support-Spring
+Washer-Flat-Steel .406 x .812 x.065
+Spring-Compression .125 x.7B x 1 ,00
+Nut-Locking-Nylon ,50-13 Grade 5
+v
+GRAVELY" RotaryMower Rev. 8/98
+21
+
+
+===== Page 24 =====
+40" & 50" Mowen Dnrve
+Models 885005,006
+Item No,
+Part No,
+Qty'
+Description
+SA{ Break
+47
+148
+l+g
+lso
+lsr
+lsz
+lss
+l;r
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+NS
+NS
+NS
+NS
+I
+021111
+021112
+121224
+021214
+126416
+126402
+411010
+124589
+418692
+033845
+08896200
+08894900
+0s61 3000
+08896800
+0381 99
+08894500
+021216
+58802300
+08886500
+08798300
+06435200
+131016
+06300700
+06416600
+0600s400
+031 91400
+036799
+036800
+036801
+1 45643
+1
+1
+li
+li
+lsls
+len
+3
+3
+3
+3
+6
+3
+3
+3
+AR
+AR
+AR
+AR
+Bod, ldler 50 ln. Mower (006)
+Rod, ldler 40 ln. Mower (005)
+Pin-Cotter .09 x 1.0
+Fitting-Lube .125
+Bolt-Round Head Square Neck.38-16 x 1.75 (006)
+Bolt-Round Head Square Neck .38-16 x1.25
+Fitting-Lube 1/8
+Nut-Hex.625-11 Grade 2
+Nut-Locking-Nylon .625-11 Grade 2
+Washer-Flat-Steel .687 x 1.312 x .150
+Sheave (005)
+Sheave (006)
+Seal 1.987 x 1.375 x .313
+Relief Fitting-Grease
+Assembly, Bearing Cup & Cone
+Bearing Housing
+Shaft, Spindle
+Service Kit Spindle Assembly (Contains 1ea. of ltems 54,57,
+59,60,62,63,65,66,67; 2 ea. ol ltems 53,56,58,64)
+Hub
+Weldment, Blade Cradle
+Washer
+Washer-Flat-Steel .656 x 1.312 x .095
+Washer-Locking .625 x .156
+Washer-Flat-Steel 1 .007 x 1.542 x .062
+Screw-Set .25-20x.25
+PIug
+Spring
+Collar
+Ring Snap
+Ball, .375 Guard 2000
+A = 885005 S/N 000367 - 000386
+885006 S/N 003998 - 004320
+B = 885005 S/N 000387 and up
+885006 S/N 004321 and up
+B
+A
+B
+A
+B
+A
+B
+B
+B
+B
+-
+-/
+22
+GRAVELYo Rotary Mower Rev.8/98
+-
+E'!
+t;
+
+
+===== Page 25 =====
+-
+Y
+aGiFlA/EL:Y
+Five Year Limited Warranty
+PR@FESSN@NAL G AND IJ\M@-WHEEL PRODUGTS
+Gravely hereby warrants to the original purchaser that all Professional G and Two-Wheel products shall be free of defects in
+material and workmanship for five years from date of purchase when used exclusively for personal or household use.
+Gravely will provide for the replacement of any part found to be defective. Parts and labor will be free of charge for two
+years from date of purchase. Parts but not labor will be free of charge for three years (36 months) thereafter.
+This warranty is subject to the following exceptions and limitations.
+Purchaser Responsibilities:
+- Maintenance and minor adjustments per Operators
+Manual.
+- Notification of need for warranty service.
+- Transportation of the product to and from the place
+of warranty repair.
+Product Registration:
+- Return of Registration card to validate warranty.
+Rental Use: 90 days parts and labor.
+- Products used for rental purposes.
+Commercial Use:
+- Two years or 1000 hours whichever comes first,
+parts and labor.
+Warranty Service:
+- For warranty service contact any Gravely dealer, For
+the name and location of the Gravely dealer in your
+area and for further warranty information contact
+Gravely.
+Engines, engine accessories.
+- Covered only by engine manufacturers warranty.
+Gravely reserves the right to incorporate any change in design into its products without obligation to make such
+changes on products previously manufactured.
+DISCLAIMER OF FURTHER WARRANTY
+Gravely makes no warranty, express or implied, other than this warranty. The implied warranties of merchantability and fitness for
+particular purpose are hereby disclaimed, Repair or replacement of parts proving to be defective in material or workmanship shall
+be the exclusive remedy for breach of this warranty, Gravely shall not be liable for incidental or consequential damages, including
+but not limited to damages for inconvenience, rental or purchase of replacement equipment, or for loss of profits or other commer-
+cial loss, resulting from a breach of this warranty.
+Some states do not allow limitations on how long an implied warranty lasts, so the above statement may not aPply to you. Some
+states do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may
+not apply to you, This warranty gives you specific legal rights, and you may have other rights which vary from state to state.
+655 West Ryan Street, P.O. Box 157
+Brillion, Wl 54110-1098
+Phone: 920-756-4400 . Fax: 920-756-4477
+$l 
+Batteries - one year pro rated.
+Exclusions: - No Warranty
+- No warranty is extended for normal maintenance,
+services and normal replacement items such as
+Spark Plugs, Oil, Oil Filters, Air Filters, Mufflers,
+Belts, Seats, Scraper Blades, Skids, Mower Deck
+Rollers, Light Bulbs, etc.
+- No warranty is extended on any product that has
+been altered, misused, mis-assembled, improperly
+adjusted, neglected or damaged by accident.
+- No warranty is extended for service completed by
+someone other than an Authorized Gravely Dealer.
+- No warranty is extended on any attachment not
+approved by Gravely nor any parts that are not gen-
+uine Gravely parts.
+- No warranty is extended on engines and engine
+accessories.
+v
+013820 2/98
+
+
+===== Page 26 =====
+aGIFINEL:Y
+655 West Ryan Streel . P.O. Box 157 . Brillion, Wl 541 10-0157 .920-756-2141 . Faxi 920-756-4421
+AskYour Dealer For lnformation On
+These Other Fine GRAVELY Products
+. Professional Two-Wheel Tractors
+. Professional Riding Tractors
+. Pro Commercial Walk-Behind Mowers
+. Promaster Commercial Front-Mount Riding Mowers
+. Pro Zero-Turn-Radius Walk-Behind Mowers
+. Promaster Zero-Turn-Radius Riding Mowers
+. Professiona! Chippers
+. ProfessionalVacuum
+-
+-
+Y
+t.
+"f.

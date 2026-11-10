@@ -1,0 +1,688 @@
+---
+title: "Operators Manual — Rear PTO — Aug 1986"
+oldgravelys_no: "0734"
+series: "Rear PTO"
+doc_type: "Operators Manual"
+date: "Aug 1986"
+pages: 14
+source_pdf: "../0734 Operators Manual - Rear PTO - Aug 1986.pdf"
+text_source: "PDF text layer"
+---
+# Operators Manual — Rear PTO — Aug 1986
+
+Source: [0734 Operators Manual - Rear PTO - Aug 1986.pdf](../0734 Operators Manual - Rear PTO - Aug 1986.pdf). Text is machine-extracted; confirm part numbers against the PDF page before ordering.
+
+## Page 1 — Operators Manual
+
+```text
+AGIRA/ELY
+REAR PTO
+OPERATORS MANUAL
+FORM NO: 42163 (8-86)
+PART NO: 42158
+PRINTED IN USA
+```
+
+## Page 2 — Your Safety Is
+
+```text
+Read this manual carefully
+your rear PTO before using it.
+and learn to operate and service
+To keep
+operated as d
+the warranty,
+i recte<i in this
+NOTE
+the rear
+manual.
+PTO must be maintained anci
+AII- references to "left-side" r "right-side",
+"back" are oiven froni the operatorts position.
+ttf rontt'; 
+antl
+Use tLre serial nurnber to ensure prompt and correct. service
+when orciering parts, requesting service, or making inquiries.
+REAR PTO SSRIAi, IJUI.IBER
+Look for this
+precautions.
+YOUR SAFETY IS
+symbol to
+It 
+means
+INVOLVED.
+point out important
+ATTEI.ITION ! 
+BECOIUE
+safety
+ALERT !
+```
+
+## Page 3
+
+```text
+.d',ft{VUUVlt
+.L
+'9
+Y
+sNo I J)nuJ,st{ I dti-,ll{s
+JSrT SJUVd Ot'lV SJUVd
+cg,l,vu,Lstl'IT r
+g9vuoJ,s 'v
+I3I'IVNgJNIV',{
+'e
+c
+.I
+TVnOt{gu cNV IdOIJVI'IVJSNI
+NOIJVUI{dO A.{VS UOJ SNOIJJNUJSNI
+S.T,Ng,lNOJ
+```
+
+## Page 4
+
+```text
+SECTIO}J 1
+Tnstructions for Safe Operation
+Improper use of this rear PTO can injure people anc.l c'lamage the
+equipment, eeople using or servicing this rear PllO nust read ancl
+f ollow the instructions in this rnanual. 
+'
+It is important to understanci that this manual ancl any other
+Gravely instruction manuals do not cover every possible danger.
+It is intpossible for Gravely to knovr all possible dangers in
+operating and servicing the equipnent.
+The purchaser must give these instructions to the people
+operating and maintaining ttris rear PTO. These people nust use
+eye and foot protection"
+1.1 Preparation:
+Read the Gravely tractor and tiller 
+operatorIs :nanuals.
+Be fanriliar with al-1 conlrols and fol1ow the safety
+precaut ions outl ined in these manuals . 
+I(now trow to STOP
+the tractor and tiller 
+quickly in an emergency.
+Inspect and clear the vrork area (prior to tilling) 
+of
+rock s r glass 7 metal, bones r and any other foreign
+objects that might be picked up and throvrn or tangled in
+the ti11er. 
+Stay alert for holes and other hidden
+hazards.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+Do not wear loose
+might get caught
+Keep hands, feet,
+parts.
+fitting 
+cJ.othing or accessories that
+in r,roving parts or on the controls.
+hair, clothing, etc., away fron moving
+Keep bystanders and pets removed from the work area and
+a safe distance away.
+Do not allow children to operate the equipment, nor
+alIow adults 
+to operate it 
+without their 
+having
+knowledge of safe operating practices.
+Operate the tiller 
+from the operatorrs position on the
+seat of the Gravely.
+Keep safety devices, interlocks, and shields in place at
+all times.
+```
+
+## Page 5
+
+```text
+.uf nlroAo 01 ro?cerl aq1 asnec ^dpru
+1eq1 saTlTreTn6arrT raqlo pue rsaqcllp rsaloq roJ lraTp
+ag '^dlages rno.d efnsur 01 q6noua Aofs spaads 1e TTT,I
+. sopTsTf rq uo pue punor6 q6nor raAo dl,,aOls TITl s,{eaaTv .9
+. roTrTl f arvroT uaql , uoT lou plpA.roJ
+a6e6ua pup paads punor6 lsanof s I rolcefl 
+oql lcatas 
+.g
+.eT11orq1 TTnJ 1e aur6ua
+ung 'uoTlTsod 1:odsue:1 ur pasrer raTTTl daal ,ur6aq oJ .V
+roJ ) alno.l
+P ueTd
+'(uoTlereda:d paqpaas
+.paJeATlfnc aq 01 puno:6 aalasqo .E
+'ToJluoc 6u1raa1s aseofcur of
+sar f ossaccp 1q6r aru pe1sa66ns asn 'uollrsod 1dtlo,, uT oJd
+daax 'raTTTl 6ut66e:p pTone 01 urerrel ur sdTp 6utsso:c
+uaqn TnJafpc ag 'faTfTl 6ur1:odsupl? uaqn uorlnec asn .Z
+.aur6ua 6u11:e1s ofoJaq
+raITTl asTeu .^dcua6laua ue ur dllcrnb roTTTl aql dO,tS
+01 /'loq Aoux . taTTT? ar{1 6ur6e6uasrp pup 6ur6e6ua tr1eJes
+roJ sTpnueu s,:oleredo reTTTl pue lolcp.r? aql peag . T
+:uor1e:adg e.T
+'sTpcap uo palsTT suorlcnrlsuT lltorToJ .tT
+' sTenueu s, role:ado OJd rea.r pue
+,raTTTl ,ro1ce:1 aq? uT pa1carrp se luaudlnba aql daey
+'uoTlTpuoc poo6 ur O,Id .real pue laTTTl aq? urelureN .ef
+.6uT 1q6T I
+elenbape lnoqlrA Irpp ralJe luaudrnba aql asn 1ou oO .ZI
+'ourqceu aq1 6urneal STOTSt[ raTTTl ranoT pue
+uor11sod,,J.{O,, aql ur O,ld aql 1nd pup aur6ua dO,lS s^ernle
+--papualleun uar{A Suruunr luaudrnba aq? aleaT .raAai.I . TT
+'luaudrnba eq1 6ut1:e1ser aroJaq
+pa:reda: aq lsnu a6euep ,{uv 
+'a6euep roJ 6urlcadsul
+5-f6'l-q raTTTl .raAoT pue ruor1lsod,.d"{Ou aql uT OJd aql
+lnd 'eutbua eq+ dOJS ,1ce[qo ubra:oy e 6ur1rr1s ]alJV .07
+trol-dtt au16ua aql do,rs pue raTrTl aql ;lt;:,r#t"3$i::lA 
+.6
+aou sT raTTTl aqr uaq/,r ""r;n""1f,i"r:?l #tt"J."Jrjo"u'i".Xl .8
+```
+
+## Page 6
+
+```text
+7.
+I?hen tilling 
+loose ground (we11 established loamy garden
+soil), 
+increase ground speed to cover more ground in
+less time and stil1 do a good job.
+B. Do not back up with tiller 
+down. Raise ti1ler 
+to
+transport position before backing up or turning sharply.
+9. Do not stop or start suddenly when going up or dovrnhill.
+10. Avoid steep hillside 
+operation which could cause the
+tractor to overturn. 
+Reduce speed when turning so there
+is no danger of the tractor overturning.
+11. A1ways l"ook behind you when backing up.
+3
+```
+
+## Page 7 — Z Noi.Ijss
+
+```text
+'uoT?Tsod
+uNOr aq1 uT 1nd ST TOf luoc O,ld aql AloJaq ||.{JOu sT AuT6ua
+oql arns ag 
+'ssacord uorleTrelsuT aq1 asfaAaf ,aAouol oJ 6.2
+'xoq urPqc aq1 pup aurefJ .rolcerl eq1 01 lalcprq
+aql lcauuoc qcTqA lToq "g/E pue lToq "z/I 
+eql ualqbrJ g.z
+'1Toq aq? uo 1nu
+IcoT P 1nd '1al3erq aq1 q6norql lToq aql apTTs pup lToq aql
+uo raqse/q lpTJ o1'r1 lnd 
+'apTslno aql urofJ auerJ to13ef1 aq4
+q6norqt lsnF ?T apTfs pue lToq "Z/T oq1 uo roqsen leTJ p ?nd L.Z
+'lnu lcoT pue
+lToq e q1T^l lJeqs aq1 01 l}eqs aAr.rp Tes.laArun aq1 urElau g. z
+'1}eqs oATrp TesranTun aql Jo a{o^ aql uT
+atoq aql LIIT^I subrTe lJpqs aql ur aToq aql 1eq1 os lJeqs aq1
+a1elou 'faurelaf 6urrpaq aTxe aq1 uT l}eqs aq1 oluo l}eqs
+aATrp Tesraarun ag+ 6urprn6 atTqA dn xoq uTpqJ ar{1 6urng S. Z
+'uorlrsod ld1u ar{l 01 xoq ureqJ aq1 uo fa{cprq aq4 aAoW V.C,
+. uor qr sod s J.|IO u
+aq1 ur To.rluoc OId aq1 uoTlTsoda: 01 a.rns eg '1srsse TITA
+(llo aur6ua) uorlrsod uNO,, aql ur O;,d oq1 6ur11n6 .ace1d
+ur sl3oT 1T TTlun lJpqs o,Id uorssTrusupfl ar{1 uo qlloJ
+pue 1ceq xoq rea6 aql apTTs pue rpTToc 6ur1co1 oql aseaTag
+'4Jeqs O;d uorssrursuer? aq1 oluo 1T 6urprls aTTqA uollrsod
+ur qT pToq pue xoq uTeqr aq1 uo reTToc 6ut1co1 aql sse:deq t.Z
+'uorlrsod
+,,NOu aq1 ur Torluoc OJd or{1 1nd pue ,,J,EOu eut6uo oq1 urn6, Z. Z
+'asear6 qlTA slJpr{s asaql leoJ '1Jeqs
+O;d aql pue rauTelor 6ulreeq aTxe oql uT lJeqs aql ueaT3 I'2,
+Tenouau pue uorfeTTPfsuI
+Z NOI.IJSS
+```
+
+## Page 8 — Section 3
+
+```text
+SECTION 3
+Iulaintenance
+3. I Apply grease to the shaft bearings in the axle bearing
+retainer after every B hours of use. 
+Apply multi-purpose
+grease to Lhe grease fitting 
+until it comes out qround the
+sha ft .
+3.2 Check tire oil level in the chain box after every 40 hours of
+use. Flold the gear box in a vertical position. 
+Remove the
+lower plug (see Figure l). 
+Fi11 with sAE 30I/J-40 oil until
+it is level with the ho1e. Replace the plug.
+I - Pipe Plug
+2 - Vent Plug
+FIGURE 1
+l
+d
+```
+
+## Page 9
+
+```text
+'xoq uTeqc ael Jo do1 aq1 le 6n1d paluaA aqf Jo
+1no unr lou saop TTo ?eq1 os pauorlrsod aceld .f,rp B ur arols t.t
+'reTfoc 6ur>1co1 aq1 TTO
+' reTToc 6ur 1co1 aq1 1e saul lds lJeqs O,ld aql pue seur 1ds
+aloF fpsraaTun rear aq1 uo asear6 Jo UITTJ e 1nd pup ueaTC Z. V
+'.rolcefl aq1 urofJ ?alcprq o$d
+fBaf pup lJeqs aATfp r{1TA,tlqurasse xoq uTeqc o.ld.rpaf oAouau T.?
+e6Er-o$
+? NOI.IJSS
+t
+I
+I'
+I
+```
+
+## Page 10 — Section 5
+
+```text
+SECTION 5
+Illustrated 
+Parts ancl Parts List
+\
+ft
+nJ. \
+\€
+b-n
+W
+"(') 
+//
+YJ 
+I-
+N-'g;\',
+\\$
+\
+\=-\
+```
+
+## Page 11 — L8 Liev
+
+```text
+'9 'oN ura?I Jo xTs pue vv-l.v '6c-gz
+t9Z-ZZ sraqurnN ulalf sapnTJur 09TZV 'oN ?red 'gV 'oN urall :g,lON
+uTeq3 aATrq ,dlqruessg
+?uo.rd '6u1snop
+Taols pH bS 0S' adTa '6nTd
+palua^ '6nTd
+00.Zx9T-glE xaH ,1Tog
+09'ZxgT-g/E xag ,lTog
+oceu lsnfq;, '6urreag
+lJeqs
+8/e 'TTeg
+qlaal tT qolTd g/9 '1a1co:dg
+lJBI{S
+I9# prPH gZ9'xAgt' J;nrpoog ,XaX
+0g'xgLg'Tx00g't aTpoaN,6utreeg
+raTToU'uTeqJ
+laIsPg
+feog '6u1snog
+6ururelag ,6rTU
+zTE'x 9ZT'2,x009'T TTO 'rees
+lJeqs
+6u1ure1ag ,6rTU
+fauuJ,rauTelog
+6ur:dg
+fpTToJ
+deug '6tTU
+(reo6) aar:g 'lJeqs
+!Z-V/T lcoT '1nN
+00.ZXOZ-V/I xap, ,1fog
+aer6eq 06 aqnT '6uTllTJ
+00. Tx EI-7,/I xe1p- ,1Tog
+lalsp0
+000'TxBAE' fxeOO'I azuolg,6ur:eag
+faurelag aTxV,ztlqruessg
+009'xOgZ' ZxOgZ' I TTPg r6ur:eag
+6uru1e1ag ,6rTU
+aTxV TTO , TBoS
+lJBI{S O0'I 6uru1e1ag '6rTU
+lsnrq[ aTpaaN '6ut:eag
+lsnfq; burreeg ,oceg
+luToC-O :1edag '1TX
+9I-B/E IcoT 'lnN
+O,ld -reag ,1e1ce:g
+tr-z/T rcor '1nN
+€90'x092'Tx009' lpTJ,:aqse6
+lJeqs
+00.ZxtT-Z/T xag ,lTog
+NOIJdIUJSgC
+UVI
+T
+T
+9
+T
+v
+T
+e
+z
+T
+z
+v
+T
+T
+T
+v
+v
+T
+T
+T
+T
+Tt
+T
+7,
+z
+T
+z
+T
+z
+T
+TI
+z
+T
+z
+v
+T
+L
+TIt
+T
+T
+'I'.l0
+09TZV
+6V687
+088 g 0r
+8968r
+OETOST
+'ET08 I
+?968 T
+966 Tt
+ev99vT
+€968 T
+99687
+L8 LIEV
+OE68 I
+1968 T
+89687
+B?687
+0968r
+T968 T
+7,L687
+29687
+966IV
+66 L9E
+00898
+I089E
+TT6B T
+v9v6IV
+??008I
+T,EOTTV
+ETIOBT
+OEOS I
+LL6ET
+TTB 
+'E
+62087
+ZTBS I
+TTOBI
+LB6VI
+9ZZTT
+O'E6T
+099V2
+?0099 ?
+LO LOV
+1099t?
+68 €0Zr
+B 0t0?
+T8 I08 T
+'oN ,luvd
+9V
+vv
+E'zt
+T?
+0?
+6g
+BT
+LE
+9g
+9g
+NE
+€t
+zt.
+TT
+OE
+6Z
+8Z
+LZ
+9Z
+9Z
+v7,
+E7,
+cu
+IZ
+07,
+6T
+8I
+LT.
+9I
+9T
+?I
+EI
+ZT
+TI
+OI
+6
+8
+L
+9
+E
+v
+€
+z
+T
+'oN
+i,{gIr
+```
+
+## Page 12 — Section 6
+
+```text
+6.1
+SECTION 6
+Set-Up Instructions
+Axle Bearing Retainer Assembly (refer to the illustration):
+1. Clean the transmission drain plug and adjacent area.
+2. Drain transmission oil into a clean container.
+3. Raise and block the right drive wheel. Remove the tire-
+wheel assembly.
+4. Remove the nut and flat washer on the axle. 
+Remove the
+wheel hub with a puller.
+5. Remove the axle key and the bolts attaching the rear
+hitch to the axle bearing retainer.
+6. Remove the four boLts holding the axle bearing retainer
+and slide from the axle.
+7. Clean all 
+gasket residue from the end of the axle
+housing.
+8. Wipe the axle clean and apply a film of grease. tr^Iipe a
+film of grease on the axl-e gasket and stick it on the
+end of the axle housing with the four holes aligned.
+9. Apply grease to the seals in the new axle bearing
+retainer. 
+Carefully slide the nevr axle bearing retainer
+assembly into place over the axle and secure with the
+L/2" bolts which vrere removed.
+10. Fasten the rear hitch to the nevr axle bearing retainer
+casting with the two new L/ZxL bolts coated rrith locking
+compound. It may be necessary to loosen the bolts in
+the rear hitch arm that hold the rear hit,ch to align the
+new bolts in the axle bearing retainer.
+11. Put the key in the axler slide the wheel hub on the
+axler followed by a flat washer. Retain with a lock
+nut.
+L2. Replace the tire-wheel assembly. 
+_
+I3. Put oil in the transmission. Use the drained oi1 only
+if it is clean.
+o
+```
+
+## Page 13
+
+```text
+OL
+'xoq uTeqc aq? Jo apTs .rea.r aq? oluT lJpqs aq+ apTIS .t
+'1nu looT pup lToq ZxV/t e qlTA arncas .ubr1e saToq
+aql lpr{l os elod fes.ralrun aq1 oluT lJeqs ar{l apTfS .Z
+'asooT lToq aq1 eAeaT 'Jnu IOoT pue ?Toq g/E e
+qlTr xoq uTpqc aql Jo apTs .rpar aql o? lalcprq aql lTos 
+. r
+: (uorlerlsnTfr aql 01 :eJar) 6fquassv xog uTeq3 Z. g
+'?JBqs aql ?e s:paddB 1T TTlun
+6uT qlT g asea:6 aqA le 6ur : eaq lJ er-is aql of asea:6 dlddV . EI
+.aaoo.r6 aq? ur
+slpas 1T leql eJns eleur pup lJeqs aqf uo 6ur:6ururpla.r
+aq1 lnd 'lJer-{s aql oluo ace.r lsnrqf pue ,6uT.rpaq lsnJq1
+'acer f sn.rql p aopTd '.raurplaf 6ur:eaq aTxp aq? Jo .reef
+aql oluT ?Jpr-{s aql l.rasur '1Jpqs paurlds aq1 oluo acer
+lsnJq1 f aqloup pue 6ur:eaq ?snrql e , acp.r ?snlql E apT TS ' tf
+```
+
+## Page 14 — 7, Gravely Makes No Other Express Or
+
+```text
+SECTION 7
+LIMITED FIVE.YEAR WARRANTY
+3.
+This Limited Five-Year Warranly is issued by Gravely
+lnternational, lnc., only to the original purchaser. lf
+Gravely equipment is leased by Gravely, this Warranly
+shall extend also lo the original lessee as il such
+lessee were the original purchaser.
+Gravely warrants that all new equipment manu-
+laclured by Gravely ("Gravely Products") shall be free
+of defects in malerial and workmanship for the term
+described in paragraph 4, below. Except as hereinafler
+provided, lhis Warranty does nol cover any engine,
+tires or battery lorming a part of the Gravely Product.
+Engine arrd tires are covered by and subject to
+separate wa(anlies of the manufacturers thereof.
+ln the event that any Gravely Product warranted
+hereurrder shall be def ective or tail lo conform with this
+Warranty, Gravely shall, subject 10 the provrsions
+hereof, pay for, or provide labor and materials for, the
+repair or replacemenl of such defective Gravely
+Product.
+This Warranty is for live years (60 months) from
+purchase date for Gravely Products used exclusively
+lor personal, family or household purposes, and two
+years (24 months) for products used for other
+purposes (commercial use), excluding rental firms.
+Gravely products used for rental purposes will bs
+warranted for g0 days. Repair of Gravely Products
+after the second year (24 months lrom date ol
+purchase) shall be subjecl to a $50.00 deductible lor
+each repair. (After two years, Gravely agrees to repair
+or replace delective Gravely Products used ex-
+clusively lor personal, family or household purposes
+only to the extenl that the cost of such warranly
+covered repair or replacemenl exceeds $50.00.)
+Batteries are warranted by Gravely for a period of
+lwelve (12) months only. lf a battery shall fail wilhin
+twelve (12) months of purchase, the replacemenl cosl
+thereof shall be prorated over a lwelve-month term
+based upon the nurnber of months since purchase,
+To obtain Warranly Service on a Gravely Product
+(including any battery or olher component not manu-
+lactuted by Gravely), use this procedure:
+a. Notily the Gravely dealer from whom you pur-
+chased the equipment.
+b. ll you have moved and it is nol convenient to notity
+the selling dealer, notify the nearest Gravely
+dealer. You should supply this dealer with a copy
+of the bill of sale as prool of the date of purchase.
+c. Make arrangements lo have the equipment de-
+livered to the dealer (refer to paragraph 6 a.,
+below).
+d. ll you have any questions concerning the Gravely
+Limited Warranty, they should be referred to:
+Gravely lnternational, lnc.
+One Gravely Lane
+Clemmons, NC 27012
+Attn: Customer Service Department
+e. Warranty service on Gravely Products must be
+performed by an authorized Gravely dealer.
+6. This Warranty does not cover the following:
+a. Transporlation lo the Gravely dealership. (ll the
+Gravely dealer provides transportatjon, he will
+charge for such service.)
+b. t Normal mainlenance services and normal re-
+placement of items such as spark plugs, belts, oil,
+oil filters, air fillers, and mower, plow or cultivator
+blades, gauge wheels, skids and olher wear items.
+c. Any Gravely Product which has been allered or
+modified in any way.
+d. Any repair or replacement occasioneC by cus-
+tomer neglect or lack of proper maintenance (The
+purchaser is responsible lor making sure that
+Gravely Products are operated and servjced as
+drrected in the applicable manual or servtce
+inslruction. Incorrect use or maintenance willvoid
+this Warranty.)
+e. Any repair occasioned by the use ot any
+altachmenl not approved by Gravely. (The use cl
+any such unapproved attachment will void this
+Warranty.)
+7, GRAVELY MAKES NO OTHER EXPRESS OR
+IMPLIED WARRANTIES, OR WARRANTIES AS TO
+THE MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE, ALI- WARRANTIES ARE
+LIMITED IN DURATION TO THE TERMS SET OUT IN
+PARAGBAPH 4, ABOVE. GRAVELY SHALL HAVE NO
+LIABILITY FOR INCIDENTAL OR CONSEOUENIIAL
+DAMAGES RESULTING FROM THE BREACH OF
+ANY WARRANTY, INCLUDING, BUT NOT LIT/ITED
+TO, LIABILITY FOR INCONVENIENCE, BENTAL OR
+PURCHASE OF REPLACEMi:NT EOUIPMENT. OR
+FOR LOSS OF PROFITS OR OTI-IER COI.4[/ERCIAL
+LOSS.
+B. Some states do not allow limrtations on how long an
+implied warranty lasts, so the above statement may not.
+apply to you. Some stales do not allow the exclusion-
+or limitation of incidental or consequential damages,
+so the above limitalion or exclusion may not apply lo
+you.
+L This Warranty gives you specific legal rights, and you
+may have other rights which !,ary lrom state to state.
+10. A Gravely product registration card is supplied with
+each Gravely Product. Please complete the card and
+relurn it to Gravely at the address listed on the card.
+The equipment registration card will be used by
+Gravely for:
+a. Becording date of purchase.
+b. Notification of owners in compliance with the
+Consumer Product Safety Act, should any notifi-
+cation be necessary.
+The return of such card is necessary for your warranty
+to be effective.
+1 l. This Warranty is not subject lo change or modification
+by anyone, including Gravely dealers and no Gravely
+dealer is authorized to make any represenlations or
+promises on Gravely's behalf.
+AGHAVELY
+One Gravely Lane, Clemmons, NC 27012
+5.
+1'1
+```

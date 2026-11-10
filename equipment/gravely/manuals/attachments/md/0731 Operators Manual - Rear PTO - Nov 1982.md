@@ -1,0 +1,345 @@
+---
+title: "Operators Manual — Rear PTO — Nov 1982"
+oldgravelys_no: "0731"
+series: "Rear PTO"
+doc_type: "Operators Manual"
+date: "Nov 1982"
+pages: 8
+source_pdf: "../0731 Operators Manual - Rear PTO - Nov 1982.pdf"
+text_source: "OCR (Windows.Media.Ocr, 200 dpi)"
+---
+# Operators Manual — Rear PTO — Nov 1982
+
+Source: [0731 Operators Manual - Rear PTO - Nov 1982.pdf](../0731 Operators Manual - Rear PTO - Nov 1982.pdf). Text is machine-extracted; confirm part numbers against the PDF page before ordering.
+
+## Page 1
+
+```text
+eGRAVELY                                 OPERATOR'S
+                                                             MANUAL
+          NAME: REAR PTO                           PART NUMBER(S): 34691
+           This Rear PTO is used with the 8000 Series tractors beginning with tractor serial number
+           540273.
+           All reference to right side, left side, front and rear are given from the operator's position.
+         TO continue its program Of quality and design      34830 (11-82)   Printed in U.S.A.
+         improvement, the manufacturer reserves the right
+         to change specifications, designs and prices
+         without notice and incurring obligation.
+```
+
+## Page 2 — Contents
+
+```text
+CONTENTS
+ 1.0. ....                                                    Warnings - For Your Safety
+ 2.0 .                                                         Bolt Torque Specifications
+ 3.0 .
+                                                             . How to Install the Gear Box
+ 4.0 .
+                                                           . How to Remove the Gear Box
+ 5.0 .                                                      How to Operate the Rear PTO
+ 6.0 .                                                           How to Do Maintenance
+ 7.0............                                       How to Put the Rear PTO in Storage
+ 8.0 .                                             Rear PTO Illustrated Parts and Parts List
+```
+
+## Page 3 — 1.0      Warnings - For Your Safety
+
+```text
+1.0      WARNINGS - FOR YOUR SAFETY
+          This section gives warnings for you about operating and doing maintenance on this equipment.
+          Using this equipment the wrong way can cause injury to persons and damage to the equipment. Persons
+          operating or doing maintenance on this equipment must read this Operator's Manual and follow the
+          instructions.
+          It is important to understand that this Operator's Manual and other Gravely instruction books do not list
+          every possible danger. It is not possible for Gravely to know and tell of all the dangers in operating and
+          doing maintenance on the equipment.
+          The purchaser must give these instructions to the persons operating and doing maintenance on this
+          equipment. The purchaser must get the operator and person doing maintenance on this equipment to use
+          eye and foot protection.
+           1.1 INSTRUCTIONS BEFORE OPERATION          5.  Keep the tractor and the attachment in good
+                                                          operating condition. Do the maintenance as
+            1.  Read the tractor and the attachment       shown in the operator's manuals.
+               operator's manual carefully before operating
+               or doing maintenance.                  6.  Never operate the tractor or the attachment
+                                                          when there is damage to any part or when
+           2.   Learn the location and function of all the any part is not in the correct position.
+               tractor and the attachment controls.       Replace all parts that are damaged or
+                                                          missing before operating.
+           3.   Know how to use the controls to stop the
+               tractor and the attachment quickly.    1.3 OPERATION
+           4.   Never permit children to operate or ride on 1. Keep away from moving parts.
+               the tractor or the attachment.
+                                                      2.  Keep all persons and animals away from the
+           5.   Use caution with gasoline. Gasoline is very area of operation.
+               flammable. Keep gasoline in a clean and
+               tight container. Keep gasoline away from fire 3. Do not let persons ride on the tractor or the
+               or hot items. Never put gasoline in the fuel attachment.
+               tank while the engine is running or hot. Clean
+                any leakage of gasoline from the tractor 4. When operating on slopes, use a slow speed
+                before starting the engine.               and engage the direction control lever
+                                                          slowly.
+            1.2 PREPARATION FOR OPERATION
+                                                      5.  Always look for and keep away from holes
+            1.  Make sure all shields and guards are in the and other hazards.
+                correct position before operating.
+                                                      6.  Use caution when moving backwards. Look
+            2.  Wear strong shoes. Wear clothing that is not for persons and hazards in the way.
+                loose. Wear eye protection.
+                                                      7.  After hitting an item, stop the tractor and the
+            3.  Before starting the engine, put the direction engine. Check for damage. If there is
+                control lever in the "NEUTRAL" position and damage, make repairs before restarting.
+                the PTO control lever in the "OUT" position.
+                                                      8.  Operate the equipment only when in the
+            4.  Do not operate the tractor where the area of operator's position.
+                operation is too dark for the operator to see.
+                                                  1
+```
+
+## Page 4 — Bolt Size  Foot Pounds  Newton Meters
+
+```text
+9.  Before leaving the tractor, put the PTO 3.0 HOW TO INSTALL THE GEAR BOX
+       control in the "OUT" position. Lower the
+       attachment to the ground. Turn the ignition Put the end of the drive shaft that has the
+       switch to the "OFF" position and remove the gear box shaft in the gear box. See figure
+       ignition key.                              3.0-1.
+   IO.  If there is a sudden change in the sound or                             1
+       vibration of the tractor or the attachment,
+       stop the tractor and check for damage. If
+                                                                                3
+       there is damage, make repairs before
+       operating.
+   II. Never start and run the engine inside a
+       building except to move the equipment
+                                                                                  2
+       outside. Exhaust fumes are dangerous.
+   12. Go slow on surfaces where the tractor can
+       slide.
+   13. Always follow traffic laws while going on or
+       near a road.
+   14. Before leaving the operator's position to
+       make adjustments or to do maintenance, put
+       the PTO control lever in the "OUT" position.
+       Turn the ignition switch to the "OFF"               1 - Gear Box
+       position. Wait until the engine and moving             Drive Shaft
+       parts have stopped.                                 3 - Gear Box Shaft (not shown)
+   2.0 BOLT TORQUE SPECIFICATIONS                          Figure 3.0-1
+    The specifications for tig htening the bolts used to
+    assemble the Rear PTO are given in the bolt
+    torque specifications, figure 2.0-1. Tighten the 2. Put nylon bushing into tractor frame hole
+    bolts to the torque given, unless shown       from the inside. A chamfer on the bushing
+    differently.                                  will assist installation. See figure 3.0-2.
+             BOLT TORQUE SPECIFICATIONS
+     BOLT SIZE  FOOT POUNDS  NEWTON METERS
+                   (ft. lbs.)    (N.m)
+                     7             9.5
+       5/16"         14            19
+                     25            34
+       7/16"         40            54
+       1/2"          60            82
+       9/16"         83           113
+       5/8"         120           163
+       3/4"         200           271
+                  Figure 2.0-1
+                                             2
+```
+
+## Page 5 — 4                    5.0 How To Operate The Rear Pto
+
+```text
+4.  Remove the rear PTO bracket.
+                              4                    5.0 HOW TO OPERATE THE REAR PTO
+                                                   Read the tractor Operator's Manual and the
+                              5                    attachment Operator's Manual. Follow the
+                                 6
+                                                   instructions as shown in the Operator's Manuals.
+                                                   Know how to operate the tractor and the
+                                                   attachment.
+                                                       Start the tractor engine and wait until the
+                                                       engine is running smoothly before
+            4.
+                                                       operating.
+                        1 - Gear Box               2.  Move the throttle lever on the tractor to the
+                        2 - PTO Shaft                  "FAST" position.
+                        3 - Locking Strap
+                        4 - Rear PTO Bracket       NOTE: Use a slow tractor speed until you know
+                        5 - Clevis Pin                    how to operate the attachment.
+                        6 - Hitch Pin
+                                                   3.  Move the PTO control lever on the tractor to
+                        Figure 3.0-2                   the "IN" position.
+                                                   4.  Operate the tractor and the attachment as
+                                                       shown in the operator's manuals.
+         3.  Put the hook of the rear PTO bracket over the
+             nylon bushing in the tractor frame.
+         4.  Turn the locking collar on the gear box
+             clockwise and hold it in position. Slide the
+             locking collar half way on the PTO shaft of
+             the tractor and release the locking collar
+             Push the locking collar on the PTO shaft until
+             it locks in position on the shaft.
+         5.  Put the end of the drive shaft on the shaft in
+             the axle.
+         6.  Fasten the gear box to the rear PTO bracket
+             with the clevis pin and the hitch pin.
+         4.0 HOW TO REMOVE THE GEAR BOX
+         1.  Remove the hitch pin and the clevis pin that
+             fastens the gear box to the rear PTO bracket.
+             See figure 3.0-2.
+         2.  Remove the drive shaft from the shaft in the
+            axle.
+        3.  Turn the locking collar on the gear box
+            clockwise and remove the gear box from the
+            PTO shaft of the tractor.
+                                               3
+```
+
+## Page 6 — 6.1 How To Lubricate The Axle Bearing
+
+```text
+6.0 HOW TO DO MAINTENANCE
+   6.1 HOW TO LUBRICATE THE AXLE BEARING
+       RETAINER
+    After every 40 hours of operation, clean the
+    grease fitting on the axle bearing retainer. Add
+    multi-purpose grease to the grease fitting until
+    grease comes out around the shaft in the axle                             2
+    bearing retainer. See figure 6.0-1.                           1
+                                                           1 - Pipe Plug
+                                                           2 - Vent Plug
+                                                           Figure 6.0-2
+                                              4.  Hold the gear box in a vertical position with
+                                                  the hole for the pipe plug at the bottom. The
+                                                  level of the lubricant is correct when the level
+                                                  is at the bottom of the hole.
+                                              5.  If the level of the lubricant is Iow, remove the
+                                 3
+                                                  vent plug. Hold the gear box in a vertical
+                                                  position and add SAE IOW-40 engine
+                            2
+                                                  lubricant through the hole for the vent plug
+                 1 - Grease Fitting               until the lubricant starts to drain from the
+                 2 - Axle Bearing Retainer        hole for the pipe plug. Install the pipe plug
+                 3 - Shaft                        and the vent plug in the correct position. See
+                                                  figure 6.0-2.
+                 Figure 6.0-1
+                                              7.0 HOW TO PUT THE REAR PTOINSTORAGE
+                                              When the Rear PTO will not be used for three
+    6.2 HOW TO LUBRICATE THE GEAR BOX         months or more, do the following:
+    After every 200 hours of operation, check the level I. Do the maintenance shown in section 6.2.
+    of the lubricant in the gear box. If there is leakage
+    of lubricant, do maintenance at shorter time 2. Keep all the Rear PTO parts together in a dry
+    intervals.                                    area.
+    1.  Remove the gear box from the tractor as
+        shown in section 4.0.
+    2.  Clean all dirt and debris from the gear box.
+    3.  Check the level of the lubricant in the gear
+        box. Remove the pipe plug by turning the
+        plug counterclockwise. See figure 6.0-2.
+                                             4
+```
+
+## Page 7 — 8.0 Rear Pto Illustrated Parts And Parts List
+
+```text
+8.0 REAR PTO ILLUSTRATED PARTS AND PARTS LIST
+                                                                               42
+                                         33
+                                                                        as
+                                  22
+                                            28
+                                                               15
+                                                                            4
+                                21      23
+                                      29
+        ITEM  PARI'                                ITEM  PART
+                     ary.   DESCRIPTION                   NO.           DESCRIPTI(N
+          1   180044  1   Bolt, Hex 1/4-20 x 2      24   18961   4   Seal, Oil
+          2   419454  1   Nut, Lock 1/4-20          25  180130   6   Bolt, Hex 3/8-16 x 2
+          3   18971   1   Universal Drive Shaft     26  431787   2   Key, modruff 3/16 x 5/8
+          4    18978  1    Shaft                    27   18952   1   Shaft
+          5   14987   1    Ring, Retaining          28  180173   2   Bolt, Hex 1/2-13 x 1
+          6    17959  1   ffrust                    29   18954   4   mrust Pace
+          7   456004  6   Nut, Lock 3/8-16          30   18956   1   Shaft
+          8    18812  1    Ring, Retaining          31   11860   1   Hair Pin Cotter
+          9   18972   1    Shaft                    32   18958   1   Gasket
+         10    18962  2    Ring, Retaining          33   34831   1   Axle Bearing Retainer
+         11   18967   1   Retainer,                                   & Bushings
+         12    18965  1    Spring                   34  103880   1   Plug, Pipe 1/2 in.
+         13   18966   1    Cam                      35   10174   1   Bushing, Nylon
+         14    18949      Housing, Front            36   18977   2   Bearing
+         15   18960   4    Ring, Retaining          37  411602   1   Pin, Clevis 3/8 x 1.875
+         16    18963  1    Retainer, Inner          38   19537   1   Thrust Race
+         17   18948   1   Housing, Rear             39   18031   1   Seal, Oil
+         18    18029  1    Bearing, Ball            40   18968   1   Plug, Vented
+         19   18957   1    Ola in                   41   20573              Kit for Universal
+         20    18964  3    Pin                                        *laft
+         21   18950   4    Bearing, Needle          42   35151   1   Bracket, �ar PIO
+         22   411032  1   Grease Fittinq                 20821   1   Substitute for Tractor
+         23   18953   2    Sprocket                                  Serial No. 540273
+                                               5
+```
+
+## Page 8 — Not Allow Limitations On How Long An Implied
+
+```text
+GRAVELY LIMITED WARRANTY
+    This Limited Warranty is issued by Gravely International, Inc.; 7. GRAVELY MAKES NOOTHER EXPRESS WARRANTIES ANY
+    and consists of the following terms:           IMPLIED WARRANTIES. INCLUDING WARRANTIES AS TO
+                                                   MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+    I  Only the original purchaser Of new Gravely equipment is PURPOSE, ARE LIMITED 'N OURATION TO THE PERIOD
+       covered by this Warranty.                   SET OUT IN PARAGRAPH 3 ABOVE. SOME STATES DO
+                                                   NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED
+    2  This Warranty covers repair or replacement of parts WARRANTY LASTS. SO THE ABOVE STATEMENT MAY NOT
+       manufactured by Gravely which are defective in materiat or AppuY TO YOU.
+       workmanship. Gravely will pay tor parts and labor only.
+                                                8. GRAVELY SHALL HAVE NO RESPONSIBILITY FOR
+    3  The Warranty starts the date of purchase and lasts for TWELVE INCIDENTAL OR CONSEQUENTIAL DAMAGES
+       (12) MONTHS.                                RESULTING FROM THE BREACH OF ANY WARRANTY.
+                                                   INCLUDING. BUT NOT LIMITED TO, INCONVENIENCE.
+    4  Some components of Gravely equipment are not covered by RENTAL OR PURCHASE OF REPLACEMENT EOUIPMENT,
+       the Gravely Warranty. These components are covered by the LOSS OF PROFITS OR COMMERCIAL toss. SOME STATES
+       original manufacturer'S warranty, which is included with the 00 NOT ALLOW THE EXCLUSION OR LIMITATION OF
+       product. They are:                          INCIDENTAL OR CONSEQUENTIAL DAMAGES. SO THE
+                                                   ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO
+        a. Engines                                 YOU.
+        b. Tires                                9. This Warranty gives you specific legal rights. and you may
+                                                   have other rights which vary from state to state.
+     S. To obtain warranty service on Gravely equipment including
+       components not manufactured by Gravely. use this procedure: IO. A Gravely product registration card is supplied with each
+                                                   Gravely product. Please complete the card and return it to
+        a. Notify the Gravely dealer from whom you purchased the Gravely at the address listed on the card. The equipment
+          equipment.                               registration card wilt be used by Gravely for:
+        b It you have moved and it is not convenient to notify the a. Recording date of purchase.
+          selling dealer. notify the nearest Gravely dealer. You
+          should supply this dealer with a copy of the bill ot sale as b. Notification ot owners in compliance with the Consumer
+          proof 01 the date of purchase.              Product Safety Act, should any notification be necessaYY.
+          Make arrangements to have the equipment delivered to The return Of registration card is not required in order to take
+          the dealer (refer to paragraph 6(a) below). advantages Of this Warranty.
+        d. If you have any questions concerning the Gravely Limited 11. This Warranty is not subject to change or modification by
+          Warranty. they should be referred to:    anyone. including Gravely dealers and no Gravely dealer is
+                                                   authorized to make any representations or promises on
+              Gravely International, Inc.          Gravely's behalf.
+              One Gravely Lane
+              Clemmons, NC 27012
+              Attn: Manager of Customer Services         EGRAVELV
+        e. Warranty service on Gravely equipment must be per-
+          formed by an authorized Gravely dealer or Gravely tactory
+          branch.
+     6  This Warranty does not cover the following:
+          Transportation between owner's home or place of
+          business and the dealership. If the dealer provides the
+          transportation of the equipment, he will charge the owner
+          his usual rate for such service.
+          Normal maintenance services and normal replacement of
+          items such as spark plugs. belts, oil. oil filters. air filters,
+          and mower. plow or cultivator blades.
+        c. Alterations or Modifications - All obligations under this
+           warranty shall be terminated if the equipment is altered
+           or modified in any way.
+        d. Customer Neglect or Lack of Proper Maintenance - The
+           purchaser is responsible for making sure that the tractor
+           is operated and serviced as directed in the operator's
+           manual. Incorrect use or maintenance will void the
+           warranty.
+```

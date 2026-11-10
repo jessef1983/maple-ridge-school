@@ -1,0 +1,285 @@
+---
+title: "Owners Manual — 48 inch Snowdozer — May 1975"
+oldgravelys_no: "0654"
+series: "48 inch Snowdozer"
+doc_type: "Owners Manual"
+date: "May 1975"
+pages: 6
+source_pdf: "../0654 Owners Manual - 48 inch Snowdozer - May 1975.pdf"
+text_source: "OCR (Windows.Media.Ocr, 200 dpi)"
+---
+# Owners Manual — 48 inch Snowdozer — May 1975
+
+Source: [0654 Owners Manual - 48 inch Snowdozer - May 1975.pdf](../0654 Owners Manual - 48 inch Snowdozer - May 1975.pdf). Text is machine-extracted; confirm part numbers against the PDF page before ordering.
+
+## Page 1 — Form No. 209751.2 (5-75)
+
+```text
+GRAVELY                         OWNERS              48" SNOWDOZER
+                                                               consists of
+           A DIVISION OF CLARKE-GR�VELY CORPORATION MANUAL      10394E1 Blade
+                                                                10395E1 Hitch
+                                                                FORM NO. 209751.2 (5-75)
+             1   GENERAL
+             1.1 Read this manual carefully and understand 1.4 SPECIFICATIONS
+             how to operate and maintain the equipment before
+             attempting to use it. The 48" Snowdozer has been General purpose
+             designed and built to the traditionally high stan- snow removal, qrading, landscaping, dozing
+                                                          Maintenance intervals
+             dards for which Gravely is famous. With proper
+             operation and maintenance the dozer will perform 8 use hours or after each use
+             for many uses to come. Knowing how to use The Lubrication
+             Gravely Tractor and Snowdozer is the largest part light oil on all pivot points
+             of getting the job done.                     Recommended tractors
+                                                            all Convertible Gravelys
+             1.2 This manual includes parts list, set up, safety, Recommended accessories for blade
+                                                            Counter Weight for 10 hp and greater
+             operator and maintenance instructions. All re-
+             ferences to right, left. front, rear are made from Skids
+             the operator's position at the handles of The Recommended accessories for tractor
+             Gravely. Item numbers used herein are in reference Dual Wheels
+                                                            Tire Chains
+             to fig 1, Illustrated Parts List. Contact The Gravely
+             Dealer for further information.
+             1.3 To continue its program of quality and
+             design improvement, the manufacturer reserves
+             the right to change specifications, design or prices
+             without notice and without incurring obligation.
+```
+
+## Page 2
+
+```text
+5
+                                                        12 -s
+                                                          11     -IO        13
+                                                      9
+                       4
+                                                                   7
+                       2
+                                   0
+            ITEM NO.        PART NO.       DESCRIPTION
+                 1           126358        Bolt, 5/16-18 x 1    Rd Hd sq Nk
+                 2          12503P1        Strip, Wearing
+                 3           138538        Washer, Lock 5/16    Int Tooth
+                 14          120376        Nut, Hex 5/16-18
+                 5          12502P1        Blade, Snow Plow
+                 6           180126        Bolt, Hex 3/8-16 x 1-1/2
+                 7           1385142       Washer, Lock 3/8 Int Tooth
+                 8           120377        Nut, Hex 3/8-16
+                 9          10374A1         Bracket, Swivel
+                10          10375A1         Pin, Adjusting
+                11           6549P1        Axle, Caster
+                12           103409         Pin, Cotter 3/16 x 1-1/2
+                13          12522P1         Casting, Swivel
+                               fig 1 ILLUSTRATED PARTS LIST
+                                            Page 2
+```
+
+## Page 3 — Right Side
+
+```text
+ASSEMBLY                                  3.10 Use recommended accessories (listed on
+                                               cover page) to increase traction, stability and
+                                               steering control.
+                                               3.11 Use caution when operating on slopes; go
+                                               across the face of slopes, not up and down.
+                 HITCH                         3.12 Maintain the dozer in safe operating condi-
+                         BLADE
+                                               tion. Keep the equipment in good maintenance
+                                               and all fasteners secure.
+                      HOLES FOR                3.13 Never operate the equipment in darkness.
+                      OPTIONAL
+                      SKIDS                    Use good artificial light when operating at night.
+                                               3.14 After striking an object, STOP the engine
+                                               before inspecting for damage. Any damage must
+                                               be repaired before continuing use.
+                                               3.15 Direct the discharge so as not to endanger
+                   fig 2
+                                               life or property; such as people, pets, structures,
+                                               cars, etc.
+  2.1 Fasten hitch assembly to blade as in fig 2.
+                                               3.16 Operate the equipment at a slow enough
+                                               ground speed to maintain complete control. Use
+  3   SAFETY PRECAUTIONS                       extra caution when near ditches or roadways.
+  3.1 Read The Gravely Owners Manual. Be familiar
+  with all controls and follow the safety precautions 4 MOUNTING
+  outlined in the manual. Know how to STOP the
+  equipment quickly in an emergency.           4.1 Prepare The Gravely by lowering the tractor
+                                               stand and removing any front or rear mounted
+  3.2 Do not wear loose fitting clothing or acces- equipment. Remove the quick hitch if so equipped.
+  sories that might get caught in moving parts or on
+  the controls. Keep hands, feet, hair, clothing, etc.,
+   away from moving parts.
+   3.3 Keep bystanders and pets removed from the               8 NUTS
+   work area, and a safe distance away.
+                                                     ADJUSTED
+   3.4 Do not allow children to operate the equip-  DOZING TO
+                                                  RIGHT SIDE
+   ment, nor allow adults to operate it without their
+   having knowledge of safe operating practices.
+   3.5 Operate the dozer from the proper operator's  ADJUSTING
+   position at the handles of The Gravely.
+   3.6 Watch for solid, unyielding obstructions that
+   will not be moved by the blade; also, be alert for
+   holes and other hidden hazards.                              fig 3
+   3.7 Keep the PTO in the OUT position.       4.2 Mount blade with hitch as in fig 3 using the
+                                               two nuts on the studs and two bolts below. Tighten
+   3.8 Exercise extra caution to avoid slipping or securely.
+   falling, especially when operating in reverse.
+   3.9 Use footwear which will improve footing on
+   loose or slippery surfaces.
+                                        Page 3
+```
+
+## Page 4 — 6 Maintenance
+
+```text
+5 OPERATION
+                                                   5.7 To change the angle of the blade, STOP the
+                                                   engine and tractor in a stable position. Pull the
+      5.1 Read The Gravely Tractor Owners Manual.
+                                                   adjusting pin and pivot the blade to the desired
+      Know how to safelv operate The Gravely. Know
+                                                   angle; line up the holes and drop-in the pin, fig 3
+      how to STOP quickly in an emergency.         and 4.
+      5.2 Have the snowdozer in ready maintenance:
+                                                   5.8 The same principles of operation that are
+      Perform adjustments before use. Keep all fasteners
+                                                   used for snow removal apply when spreading dirt,
+      secure.                                      gravel, sand, back-filling, etc.
+      5.3 Use caution when transporting. Be careful
+                                                   5.9 use the tractor accessories listed on the cover
+      when crossing dips in terrain to avoid damage. Keep
+      the PTO in the OIJT position. Use suggested  page to increase control and safety of operation by
+                                                   improving traction and steering control.
+      accessories when applicable.
+      5.4 When angled, the Snowdozer "rolls" the snow
+                                                   6 MAINTENANCE
+      rather than just pushing it aside. When moving
+      snow, angle the blade to discharge (feed-off) the
+      rolling snow to one side so it won't pile up in 6.1 Check for wear or damage. Replace worn-out
+      front of the blade. As the blade moves along snow parts as necessary such as the wearstrip.
+      moves up the face and rolls forward until it is fed
+      off to the side.                             6.2 Check all fasteners for tightness. Keep the
+                                                   equipment in safe operating condition.
+      5.5 The blade can be pushed along as fast as
+      safety, power and surface (traction) conditions will 7 REMOVAL AND STORAGE
+       permit. Do not go so fast that sudden jolts, snow or
+      surface irregularities may cause loss of control. 7.1 STOP engine and lower tractor stand.
+      Some trials may be necessary to find an optimum
+       ground-speed for efficiency and safety of operation. 7.2 IJnfasten hitch from The Gravely.
+      5.6 When dozing snow from a gravel drive, keep 7.3 Mount another implement or cover plate to
+      the blade above the gravel by means of the skid The Gravely to keep out foreign matter and pre-
+      accessory. On paved surfaces with many irregula- vent oil loss.
+      rities, adjust the skids to keep the leading edge
+      above the pavement. When adjusted in this manner, 7.4 Inspect dozer for wear or damage. Replace
+      the blade will not "trip" over low obstacles such any worn-out parts such as the wearstrip.
+       as uneven expansion strips or broken, uneven
+       pavement.                                    7.5 Clean and dry snowdozer. Paint, grease or oil
+                                                    exposed metal that might rust. Oil all pivot surfaces.
+                   ADJUSTING
+                           HITCH ADJUSTED FOR
+                          STRAIetT AHEAD DOZINO
+                           fig 4
+                                             Page 4
+```
+
+## Page 5
+
+```text
+13
+                                                    12
+                                                                   10
+                    48
+                                                        5
+          ITEM NO.     PART NO.                  DESCRIPTION
+            1.          120376             Nut, Hex; 5/16-18
+            2.          138538             Washer, Lock; 5/16 Internal Tooth
+            3.         12503P1              Strip, Wearing
+            4.          126358              Bolt, RD. HD. SQ.   NK.; 5/16-18 x 1
+            5.            21464             Blade, Snow Plow
+            6.          435507              Bolt, RD. HD. SQ.         1/2-13 x 1 1/2
+                        120917             Nut, Lock; 1/2-13    Washer Insert
+            8.          456007             Nut, Lock; 3/4-10    Washer Insert
+            9.            21463             Plate, Swivel
+           10.         12522P1              Casting, Swivel
+           11.         10375P1              Pin, Adjusting
+           12.          429886              Bolt, Hex; 3/4-10   x 5 1/4
+           13.            21901            Weight, Blade
+           14.          120897              Bolt, RD. HD. SQ.   NK.; 1/2-13 x 3
+           15.           180137             Bolt, Hex; 3/8-16   x 2 3/4
+                  NOTE : Circle       is Optional in Kit Form
+```
+
+## Page 6 — 8. Gravely Shall Have No Responsi-
+
+```text
+LIMITED WARRANTY
+                   This Limited Warranty is issued by Clarke-Gravely 6. This Warranty does not cover the following:
+                   Corporation, Gravely Division, and consists of the
+                   following terms:                      (a) Transportation between owner's home or
+                                                            place of business and the dealership. If
+                       Only the original purchaser of new Gravely the dealer provides the transportation of
+                       equipment is covered by this Warranty. the equipment, he will charge the owner
+                                                            his usual rate for such service.
+                     2. This Warranty covers repair or replacement of
+                       parts manufactured by Gravely which are de- (b) Normal maintenance services and normal
+                       iective in material or workmanship. Gravely replacement of items such as spark plugs,
+                       will pay for parts and labor only.  belts. oil, oil filters, air filters, and mower
+                                                            blades.
+                     3. The Warranty starts the date of purchase and
+                       lasts for NINETY (90) DAYS for products 7. GRAVELY MAKES NO OTHER EXPRESS
+                       used in commerical applications, and TWELVE WARRANTIES. ANY IMPLIED WARRAN-
+                       (12) MONTHS for products used by the owner TIES, INCLUDING WARRANTIES AS TO
+                       to maintain his personal residence. Commerical MERCHANTABILITY OR FITNESS FOR A
+                       means any use other than to maintain the PARTICULAR PURPOSE. ARE LIMITED IN
+                       grounds around the personal residence of the DURATION TO THE PERIOD SET OUT IN
+                       owner of the product.             PARAGRAPH 3 ABOVE. SOME STATES
+                                                         DO NOT ALLOW LIMITATIONS ON HOW
+                    4. Some components of Gravely equipment are LONG AN IMPLIED WARRANTY LASTS.
+                       not covered by the Gravely Warranty. These SO THE ABOVE STATEMENT MAY NOT
+                       components are covered by the original manu- APPLY TO YOU.
+                       facturer's warranty. they are:
+                                                       8. GRAVELY SHALL HAVE NO RESPONSI-
+                       (a) Engines - Onan and Briggs & Stratton BILITY FOR INCIDENTAL OR CONSE-
+                                                         QUENTIAL DAMAGES RESULTING FROM
+                       (b) Tires  Goodyear, Goodrich & Carlisle THE BREACH OF ANY WARRANTY, IN-
+                                                         CLUDING, BUT NOT LIMITED TO. IN-
+                       (c) 34" Mower Gear Box - Peerless CONVENIENCE. RENTAL OR PURCHASE
+                                                         OF REPLACEMENT EQUIPMENT, LOSS OF
+                     5. To obtain warranty service on Gravely equip- PROFITS OR COMMERCIAL LOSS. SOME
+                       ment including components not manufactured STATES DO NOT ALLOW THE EXCLU-
+                       by Gravely. use this procedure:   SION OR LIMITATION OF INCIDENTAL
+  '1                                                     OR CONSEQUENTIAL DAMAGES, SO THE
+                       (a) Notify the Gravely dealer from whom you ABOVE LIMITATION OR EXCLUSION MAY
+                          purchased the equipment.       NOT APPLY TO YOU.
+                       (b) If you have moved and it is not convenient 9. This Warranty gives you specific legal rights,
+                          to notify the selling dealer, notify the near- and you may have other rights which vary
+                          est Gravely dealer. You should supply this from state to state.
+                          dealer with a copy of the bill of sale as
+                          proof of the date of purchase. A Gravely equipment registration card is
+                                                         supplied with each Gravely tractor or major
+                       (c) Make arrangements to have the equipment attachment. Please complete the card and
+                          delivered to the dealer (refer to paragraph return it to Gravely at the address listed on
+                          6 (a) below).                  the card. The equipment registration card
+                                                         will be used by Gravely for:
+                       (d) If you have any questions concerning the
+                          Gravely Warranty, they should be referred (a) Recording date of purchase.
+                          to:
+                                                         (b) Notification of owners in compliance
+                            Gravely Division                with the Consumer Product Safety Act.
+                            Clarke-Gravely Corporation      should any notification be necessary.
+                            One Gravely Lane
+                            Clemmons, North Carolina 27012 The return of registration card is not required
+                            Attn: Manager of Customer Services in order to take advantage of this Warranty.
+                       (e) Warranty service on Gravely equipment II. This Warranty is not subject to change or
+                          must be performed by an authorized modification by anyone, including Gravely
+                          Gravely dealer or Gravely factory branch. dealers and no Gravely dealer is authorized
+                                                         to make any representations or promises on
+                                                         Gravely's behalf.
+                                       OGRAVELY
+                                               One Gravely Lane
+                                              Clemmons, N. C. 27012
+                                                             PRINTED     USA
+```

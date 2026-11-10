@@ -1,0 +1,587 @@
+---
+title: "Illustrated Parts List — 40 inch Mower — Apr 1972"
+oldgravelys_no: "0210"
+series: "40 inch Mower"
+doc_type: "Illustrated Parts List"
+date: "Apr 1972"
+pages: 4
+source_pdf: "../0210 Illustrated Parts List - 40 inch Mower - Apr 1972.pdf"
+text_source: "PDF text layer"
+---
+# Illustrated Parts List — 40 inch Mower — Apr 1972
+
+Source: [0210 Illustrated Parts List - 40 inch Mower - Apr 1972.pdf](../0210 Illustrated Parts List - 40 inch Mower - Apr 1972.pdf). Text is machine-extracted; confirm part numbers against the PDF page before ordering.
+
+## Page 1 — Illustrated
+
+```text
+ElGRAVELY
+To colinua itt progroh o, quolily ond d.!ign ihprovchcnl, lhG
+ionuloal{ar rararva! tha right to chonga tpccificotio^!, d.-
+rien d pric.r without notic. ond withoul incurring obligolion.
+ILLUSTRATED
+PARTS LIST
+Er
+G'
+40" COMMERCIAL MOWER
+Model Number
+Effective Date
+Form Number
+1s689E1
+Apr. 15, 1972
+19616P1
+c,-X-,
+€I
+OG'
+l
+__/sil
+Ytt
+-C'D TT
+Ll
+@-o
+=otr7
+cO
+otr
+IrL/l
+3e
+' lrt
+6et
+=<
+z- d.
+n u.l
+E6
+7
+ItD
+\,7\b
+=--d 
+\
+,A,
+U,
+%^;
+| .\
+i
+i:
+'l
+il
+I
+!,
+l4i,
+d)
+-l
+t1
+U
+BgH
+iil
+G.
+!t
+```
+
+## Page 2
+
+```text
+PART NO.
+I
+ITEM
+N0.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+L?.
+13
+t4
+15
+16
+L7
+18
+19
+20
+ZL
+22
+23
+25
+26
+27
+?8
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+NS
+181618
+T34L?PL
+L287 LP1.
+L2867PT
+L287 OPT
+12869P1
+12868P1
+L36?2PL
+1314 5P 1
+13144P1
+LsL22PL
+12550P1
+11815P1
+9 41 1010
+435507
+180193
+L80L22
+138542
+L2A23Pt
+12s66P1
+1314 5P L
+13L46P1
+L2862PL
+L20502
+1318 7P 1
+DESCRIPTION
+5/L6-24 x 1-3/ 4 Hex Hd Bolt
+5/8-18 Esna Locknut
+Spring
+Dog Plate
+Friction Washer
+Drive Plate
+Back Plate
+5/16-24 Thin Light Esna
+Bearing Race
+Bearing Cone
+0i1 Seal
+0i1 Seal Retainer
+Shaft Housing
+Lincoln #5000 or Equiv. Grease Fitting
+Locknut t/2-t3 Washer Insert
+L/2-13 x 3-3/4 l{ex Hd Bolt C1058 Ht. Cad.
+3/8-L6 x 1 Hex Hd Bolt
+3/8 Internal Tooth Lock Washer
+Swivel Casting
+Drive Shaft
+Race Roller Bearing
+Cone Ro11er Bearing
+Bevel Gear
+#11 Woodruff Key
+Retaining Ring
+Gear House Shim .020_
+Gear House Shim .005
+Gasket
+Pipe Plug
+42 In. Mower Gear Housing
+Sq. Hd. Pipe Plug Steel
+3/32 x t-L/4 Cotter Pin
+5/8-L8 Hex Thick Slotted Nut
+Bevel Pinion
+Special Hex Bolt
+Gear Shim
+Gear Shim .010
+Cone Rol1er Bearing
+Race Rol1er Bearing
+Dual Lip Oil Seal
+Drive Rotor Shaft
+Mounting Plate Weldrnent
+L/2 Spring Lock Washer
+L/2-L3 Light Semi-Finished Hex Nut
+Drive Sheave
+Special Nut
+Attachment Clutch Assembly
+24 
+14101P1
+12490P1
+12491PL
+L0499P1
+9236PL
+L0387 7
+11912 0
+L25384
+12850P1
+9229P1
+L2852PL
+1 36 46P1
+t3142Pt
+1313 9P 1
+1317lP1
+1 1363P1
+l_ 13 6 6A1
+I20384
+L2037 I
+11364P1
+11565P1
+10 10 2A1
+```
+
+## Page 3
+
+```text
+I
+a!
+t;
+C=-ffr000
+f,,'V=
+N F-
+ul^),
+a dr \\A<\ 
+Y
+v 
+\{3v 
+/
+-I\_/
+t) 
+-
+tiG
+(/' .o
+H.E
+rr€t
+u 
+.|-?
+.@&
+\
+NFt
+d5o\
+-o r.
+.d 
+.zl
+icPo@(@
+' -5oE= 
+*
+,-d,
+/C:t\
+/' \
+/\l'l\
+tt
+70 
+I 
+i
+/ 
+-j 
+N 
+,\ 
+/
+\r*? \,'
+\i 
+v
+\+ 
+{
+vd
+U
+N4;r
+IA
+ore 
+'ffikOm
+-\\j1
+N
+-u
+&
+6
+f
+@01t
+A
+o/ 
+\
+-(et
+p\.1 
+.
+rr)
+0{l(di
+, \l/
+q
+d
+, 
+la
+T {DG
+,\\
+< a.ir
+-
+6
++a
+@00
+i
+@//6
+\t 
+- 
+=5-
+-*6- 
+"
+O
+a
+\BN
+X--/ r
+// 
+E
+9==
+J
+n
+n{ia'n0nr F
+v\tvv 
+II"
+=a
+OT
+t^m L,l
+7a>i
+8e
+XB;o
+=o
+orE
+-v o
+=
+[=EE- 
+= -- =
+@o@il-16
+a= ll,
+ll l*
+lll*
+I
+OC
+,a
+s\\,
+N
+I c=4.
+\
+*-\
+\
+'' -aa-
+\ 
+-BB
+W 
+arr
+oG-
+€
+```
+
+## Page 4
+
+```text
+Complete 40"
+Include Item
+3 69A1
+80126
+231P1
+37 9A1
+382A1
+s6:00 4
+263P1
+20sA1
+zffir
+246PL
+206P1
+204PL
+?07P1
+3100l.
+313P 1
+zO3PL
+2L3PL
+205P1
+?LLPL
+2 10P1
+209P1
+ZTzPL
+02s81
+LLOZT
+20915 -
+5600 4
+384P1
+28658
+20382
+20s9,4
+24OPL
+223P2
+81596
+20214
+20s93
+37 6A1
+549P1
+375P1
+1L027
+80t22
+20897
+?,0384
+2037,8
+2 51A1
+40sP1
+310 17
+585A1
+387P1
+386P1
+80le 5
+55507
+Rotary Mower Spindles
+Numbers 8 through ?L
+DESCRIPTION
+"R. H. # 10 39 8A1
+and Numbers ?,3
+and L.H. #10399A1
+and 24
+ITEM
+N0.
+PART NO
+Deck Weldment
+3/8-16 x 7-1/2 Gr 5 H.H. Bolt Plated
+Idler
+Idler Pivot Arm Weldment
+idler Pivot Arm
+3/8-16 Washer Insert Lock Nut
+Spring
+Spindle Beari.ng Housing Weldment
+Bearing Race
+Bearing Cones
+Garlock Seal
+Seal Ring
+Rotor Pu1ley
+15116 x 2-L/4 x .165 Flat Washer
+7/8-9 Heavy Thin Locknut Hex
+Rotor Shaft
+Square Key
+Dust Shie 1d
+Blade Spacer Co11ar 3/ 4"
+Blade Spacer Co11ar L/2"
+Blade Spacer Co11ar L/4"
+Mower Blade
+5116 x 3/8 Hex Socket Cup Point Set Screw
+Lube Fitting L/4-28
+3/8-L6 RC. Hd. Sq. Nk. Bolt 1 Lg.
+3/8-16 Washer Insert Lock Nut
+Belt Cover
+3/8-16 x 5/8 Hex Hd Bolt
+318 x .I70 x .123 Sp. Lock Washer
+13/32 ID x 13/16 OD x .065 'fhk Washer
+Drive Belt
+skid 
+i
+5/16-24 x 7/S Hex Hd Bolt 
+,{
+5/16 Med. Sp" Type Lock Wryher
+lL/32 x LllI6 x .065 Cad. Plated Washer
+Deck Support Weldment
+Decal Danger
+Bronze Bearing
+Lube Fitting L/ 4-28
+3/8-16 x 1 Hex Hd Bolt
+L/2-13 x 3 Rd. Hd. Sq. Nk. Carr. Bolt Cad
+\/2 Spring Lockwasher
+t / 2 - 1,3 Lt . Semi - Fin i, shed Hex Nut
+Guard Weldment
+Hair Pin Cotter
+13116 x L-75/32 x .L34 Flat Washer
+Caster Fork Weldment
+Bus hing
+Caster Wheel
+112-L3 x 3-31 4 Hex Hd Bolt C1038 Ut Cad.
+Locknut L/2-L3 Washer Insert
+11
+1
+9
+11
+11
+4
+L1
+9
+9
+9
+9
+9
+9
+1
+L7
+9
+9
+9
+9
+9
+9
+9
+1
+94
+1
+4
+11
+94
+1
+1
+9
+ie
+',1
+1
+1
+11
+18
+11
+94
+1
+1
+1
+1
+9
+10
+1
+11
+11
+11"
+1
+4
+f]
+1
+I
+5
+4
+5
+6
+7
+8
+9
+10
+11
+L2
+15
+L4
+15
+16
+,L7
+18
+19
+20
+2t
+22
+z3
+:24
+-& as
+26
+27
+28
+29
+30
+31
+-32
+55
+34
+35
+36
+NS
+' s8
+,39
+:+o
+41
+42
+43
+NS
+.45
+46
+47
+48
+49
+'50
+51
+i
+```

@@ -1,0 +1,19 @@
+# 0653 Operators Manual Addendum - 48 Inch Snowdozer - Jan 1986
+# Source: 0653 Operators Manual Addendum - 48 Inch Snowdozer - Jan 1986.pdf (2 pages; OCR: Windows.Media.Ocr @200dpi)
+
+===== Page 1 =====
+                             eGRAVELV
+                     48 INCH SNOWDOZER
+                       ADDENDUM TO THE
+                      OPERATORS MANUAL
+        FORM NO: 38194 (1-86)            PART NO:  22413                  PRINTED IN USA
+
+===== Page 2 =====
+           Refer to Section 8. Delete Item No. 11, Part No. 10375,
+           Adjustment Pin. Add Part Numbers 38093 and 10405 as shown below.
+                                                                  IBA
+                                                     IIA
+                   ITEM
+                    NO.      PART NO.       QTY.                DESCRIPTION
+                              38093                    Pin,  Adjusting
+                    IBA       10405                    Pin,  Ha ir

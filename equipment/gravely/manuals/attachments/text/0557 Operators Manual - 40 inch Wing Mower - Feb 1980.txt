@@ -1,0 +1,1006 @@
+# 0557 Operators Manual - 40 inch Wing Mower - Feb 1980
+# Source: 0557 Operators Manual - 40 inch Wing Mower - Feb 1980.pdf (31 pages; OCR: Windows.Media.Ocr @200dpi)
+
+===== Page 1 =====
+     OGRAVELV                                 OPERATOR'S
+                                                        MANUAL
+      NAME: 40 INCH ENGINE DRIVEN              PART NUMBER(S): 31855
+              WING MOWER
+       The 40 Inch Engine Driven Wing Mower is for use with the Gravely 8000 Series
+       tractor that is equipped with a 60 Inch Rotary Mower or a 50 Inch Rotary Mower.
+       The wing mower can not be used with a tractor that is equipped with a 40 Inch
+       Rotary Mower-
+       All reference to left side, right side, front and rear are given from the operator's
+       position.
+   "o continue its program Of quality and design Form No. 32068 (2-80) Princed in U.S.A.
+  improvernent, Che rnanufacturer reserves the right
+  to change specifications, designs and prices
+  without notice and incurring obligation.
+
+===== Page 2 =====
+                                       CONTENTS
+               1.0                 Warnings - For Your Safety
+               1.1                 Instructions Before Operation
+               1.2                 Preparation For Operations
+               1.3                 Operation
+               2.0                 How To Prepare The Tractor
+               3.0                 How To Assemble The Drawbar
+               4.0                 How To Install The Drawbar Assembly
+               5.0                 How To Connect The Wing Mower To The Tractor
+               6.0                 How To Disconnect The Wing Mower From The Tractor
+               7.0                 How To Adjust The Cutting Height
+               8.0                 How To Operate The Engine
+               81                  How To Check The Level Of The Lubricant In The Engine
+               8.2                 How To Start And Stop The Engine
+                9.0                How To Operate The Wing Mower
+                10.0               How To Tow The Wing Mower
+                11.0               How To Do Maintenance
+                11.1                How To Check The Air Cleaner Element
+                11.2                How To Check The Cooling System
+                11.3                How To Adjust The Tension Of The Belts
+                11.4                How To Replace The Belts
+                115                 How To Lubricate The Wing Mower
+                11.6                How To Check The Blades
+                                    How To Check The Air Pressure In The Tires
+                11.8                How To Change The Lubricant In The Engine
+                11.9                How. To Clean And Replace The Spark Plug
+                11.10               How To Adjust The Level Of The Mower Deck
+                12.0                How To Put The Wing Mower In Storage
+                13.0                How To Take The Wing Mower Out Of Storage
+                14.0                Illustrated Parts and Parts List
+
+===== Page 3 =====
+            a 1.0 A
+                                  WARNINGS - FOR YOUR SAFETY
+        NOTE: This warning symbol   indicates that
+               there is danger to persons or equipment.
+               Read these warnings carefully and follow
+               them.
+         This section gives warnings for you about operating and doing maintenance on this equipment.
+         Using this equipment the wrong way can cause injury to persons and damage to the equipment. Persons
+         operating or doing maintenance on this equipment must read the Operator's Manual and follow the
+         instructions.
+         It is important to understand that this Operator's Manual and other Gravely instruction books do not list
+         every possible danger. It is not possible for Gravely to know and tell of all the dangers in operating and
+         doing maintenance on the equipment.
+         The purchaser must give these instructions to the persons operating and doing maintenance on this
+         equipment. The purchaser must get the operator and person doing maintenance on this equipment to use
+         eye and foot protection.
+                                   1.1 Instructions Before Operation
+              Read this Operator's Manual and the   4.  Never permit children to operate or ride on
+              Operator's Manual for the tractor carefully the tractor or the wing mower.
+              before operating or doing maintenance.
+                                                    5.  Use caution with gasoline. Gasoline is very
+          2.  Learn the location and the function of all the flammable- Keep gasoline in a clean and
+              controls on the wing mower and the tractor. tight fuel container. Keep gasoline away
+                                                        from fire or hot items. Never put gasoline in
+          3.  Know how to use the controls to stop the  the fuel tank while the engine is running or
+              tractor and the wing mower quickly.       hot. Clean any leakage of gasoline from the
+                                                        wing mower before starting the engine.
+                                      1.2 Preparation For Operation
+          I.  Check the area of operation. Remove all 5. Keep the tractor and the mower in good
+              material that will be thrown by the mower. operating condition. Do the maintenance as
+                                                        shown in the Operator's Manual.
+          2.  Make sure all the shields and the guards are
+              in the correct position before operating. 6. Do not operate the tractor where the area of
+                                                        operation is too dark for the operator to see.
+          3.  Wear strong shoes. Wear clothing that is not
+              loose. Wear protection for your eyes. 7.  Never operate the tractor or the mower
+                                                        when there is damage to any part or when
+          4.  Before starting the engine of the tractor, put any part is not in the correct position.
+              the direction control lever in the        Replace all the parts that are damaged or
+              "NEUTRAL" position and the "P TO" control missing before operating.
+              in the "OUT" position.
+
+===== Page 4 =====
+                                      1.3 Operation
+        Keep away from moving parts.          IO  Before leaving the tractor, put the PTO
+                                                  control in the "OUT" position. Turn the key
+    2.  Keep all persons and animals away from the in the ignition switch to the "OFF" position
+        area of operation.                        and remove the key. Put the throttle lever on
+                                                  the wing mower in the "STOP" position.
+    3.  Do not let persons ride on the tractor or the
+        mower.                                11. If there is a sudden change in the sound or
+                                                  vibration of the tractor or the mower, stop
+    4.  When operating on slopes, use a slow speed the tractor. Stop the engine on the tractor
+        and engage the direction control lever    and the wing mower. Check for damage. If
+        slowly.                                   there is damage, make repairs before
+                                                  operating.
+    5.  When operating on a slope, go up and down
+        the slope.                            12. Never start and run the engine inside a
+                                                  building except to move the equipment
+    6.  Always look for and keep away from holes  outside. Exhaust fumes are dangerous.
+        and other hazards.
+                                              13. Always follow traffic laws while going on or
+    7.  I-Ise caution when moving in the reverse  near a road
+        direction. Look for persons and hazards.
+                                              14. Go slow on surfaces where the tractor can
+    8.  After hitting an item, stop the tractor. Stop slide.
+        the engine on the tractor and the wing
+        mower. Check for damage. If there is  15. Before leaving the operator's position to
+        damage, make repairs before starting the  make adjustments orto do maintenance, put
+        engines.                                  the PTO control lever in the "OUT" position.
+                                                  Turn the key in the ignition switch to the
+    9.  Operate the equipment only when in the     'OFF" position. Put the throttle lever on the
+        operator's position.                      wing mower in the "STOP" position. Wait
+                                                  until the engine and moving parts have
+                                                  stopped.
+
+===== Page 5 =====
+                        2.0 HOW TO PREPARE THE TRACTOR
+               Put the two 3/8" x 1-3/4" bolts in the square
+               holes that are in the footboard on the left
+               side of the tractor. See figure 2.0-1.
+            2.  Put six flat washers on each bolt. Put the
+                support plate on the bolts. Put a 3/8" lock
+                nut on each bolt. Tighten the nuts to the
+                torque of 25 ft. lbs. (34 N.m). See figure
+                2.0-1.                                                   -2
+                                                                  I- Footboard
+                                                                  2- Bolts
+                                                                  3 - Support Plate
+                                                                  Figure 2.0-1
+           3.   Put the threaded section of the hitch pin into
+               the hole that is in the rear hitch plate on the
+                tractor. Install the 5/8" lock nut on the hitch
+                pin. Tighten the nut to the torque of 120 ft.
+                lbs. (163 N.m). See figure 2.0-2.
+                                                                             2
+                                                                  1 - Hitch Plate
+                                                                  2- Hitch Pin
+                                                                  Figure 2.0-2
+
+===== Page 6 =====
+               3.0 HOW TO ASSEMBLE THE DRAWBAR
+   The drawbar must be assembled to fit with the
+   mower that is installed on the tractor. To
+   assemble the drawbar, follow the instructions in
+   this section.
+   1   To assemble the drawbar to fit with the 60"            3
+       mower, align the hole in the end of the rear
+       joint with the hole in the center of the ball
+       joint. See figure 3.0-1.                     2
+   2.  Fasten the rear joint to the ball joint with the
+       1/2" x 1-3/4" bolts and the 1/2" lock nuts as
+       shown in figure 3.0-1. Tighten the bolts to
+       the torque of 60 ft. lbs. (82 N.m).
+                                                          I - Rear Joint
+                                                          2- Ball Joint
+                                                          3 - Bolts
+                                                          Figure 3.0-1
+   3.  To assemble the drawbar to fit with the 50"
+       mower, align the hole in each end of the rear
+       joint with the hole in each end of the ball
+       joint. See figure 3.0-2.                                      3
+                                                                1
+   4   Fasten the rear joint to the ball joint with the
+       1/2" x 1-3/4" bolts and the 1/2" lock nuts as     3
+       shown in figure 3.0-2. Tighten the bolts to
+       the torque of 60 ft. lbs. (82 N.m).        2
+                                                          I - Rear Joint
+                                                          2- Ball Joint
+                                                          3 - Bolts
+                                                          Figure 3.0-2
+
+===== Page 7 =====
+                 4.0 HOW TO INSTALL THE DRAWBAR ASSEMBLY
+            I. Remove the cotter pin from the pivot pin.
+               Remove the pivot pin from the drawbar
+               support. See figure 4.0-1
+            2.  If the wing mower is to be connected to a                    4
+                tractor that has a single cylinder engine, put
+                the drawbar pivot in the drawbar support
+                with the short side of the drawbar pivot
+                toward the front. See figure 4.0-1.
+                                                                                   2
+                If the wing mower is to be connected to a
+                tractor that has a two cylinder engine, put
+                the drawbar pivot in the drawbar support
+                with the short side of the drawbar pivot
+                toward the rear. See figure 4.0-1.
+                                                                  1 - Cotter Pin
+            3.  Align the hole in the drawbar pivot with the      2- Pivot Pin
+                holes in the drawbar support. Put the pivot          Drawbar Support
+                pin through the holes and install the cotter      4 - Drawbar Pivot
+                pin. See figure 4.0-1.                            5 - Short Side
+                                                                  Figure 4.0-1
+
+===== Page 8 =====
+               5.0 HOW TO CONNECT THE WING MOWER
+                                 TO THE TRACTOR
+      1.  Assemble and install the drawbar as shown
+          in section 3.0 and 4.0.
+      2.  Put the wing mower in position on the left
+          side of the tractor. See figure 5.0-1.
+      3.  Put the ball joint of the drawbar assembly on
+          the hitch pin that is fastened to the rear hitch
+          on the tractor. Install the klik pin in the hitch
+          pin. See figure 5.0-1.
+                                                                Drawbar Assembly
+                                                                Hitch Pin
+                                                             3- Klik Pin
+                                                             Figure 5.0-1
+      4.  Put the end of the stabilizer rod in the hole in
+          the support plate that is fastened to the
+           footboard on the tractor. Fasten the rod in
+           position with the klik pin. See figure 5.0-2.
+      NOTE: If the tractor is equipped with a 60 Inch
+             Rotary Mower, use the long stabilizer rod.
+             If the tractor is equipped with a 50 Inch             3
+             Rotary Mower, use the short stabilizer
+             rod.
+       5.  Put the other end of the stabilizer rod in the
+           hole in the rod bracket plate on the wing
+           mower frame. Fasten the rod in position with
+           the klik pin. See figure 5.0-2.                   I - Stabilizer Rod
+                                                            2 - Support Plate
+                                                            3 - Rod Bracket Plate
+                                                             Figure 5.0-2
+
+===== Page 9 =====
+             Loosen the bolts that fasten the rod bracket
+             plate and the control plate to the wing
+             mower frame- See figure 5.0-3.
+         7.  Move the rod bracket plate and the control
+             plate until the wing mower frame is parallel
+             to the tractor. Tighten the bolts to a torque of
+             25 ft. lbs. (34 N.m).
+                                                               1 - Rod Bracket Plate
+                                                               2 - Control Plate
+                                                               3 - Bolts
+                                                               Figure 5.0-3
+
+===== Page 10 =====
+          6.0 HOW TO DISCONNECT THE WING MOWER
+                             FROM THE TRACTOR
+   1   Remove the klik pin that fastens the  2. Remove the klik pin that fastens the drawbar
+       stabilizer rod to the support plate. Remove assembly to the hitch pin. Remove the
+       the rod from the support plate. See figure drawbar assembly from the hitch pin. See
+       5.0-2.                                    figure 5.0-1.
+
+===== Page 11 =====
+         a 7.0 HOW TO ADJUST THE CUTTING HEIGHT
+         The cutting height positions are shown on the
+         decals on the mower deck. Each position will
+         raise or lowerthe cutting height 3/8" (.95 cm). The
+         number "I" is the lowest cutting height position.
+         The number "9" is the highest cutting height
+         position. (1-1/2" to 4-1/2").
+         To adjust the cutting height of the wing mower,
+         follow the instructions in this section.
+         1   Remove the nut from the bolt that fastens
+             the height adjustment bracket to the frame.
+             Remove the bolt. See figure 7.0-1.
+         2. Select the hole in the height adjustment
+            bracket that will give the needed cutting
+                                                                             4
+            height. Align the hole in the height
+            adjustment bracket with the hole in the
+            frame. Put the bolt through the holes and
+            install the nut. Tighten the bolt to the torque
+            of 60 ft. lbs. (82 N.m). See figure 7.0-1.
+                                                               1 - Height Adjustment Bracket
+                                                               2 - Frame
+                                                               3 - Bolt
+                                                               4 - Decal
+                                                               Figure 70-1
+         3.  Remove the klik pin from the height adjust-
+             ment rod. See figure 7.0-2.
+         4. Put the height adjustment rod in the hole in
+            the adjustment bracket that will give the
+            same cutting height position as selected in
+            step 2. Install the klik pin.
+         5. Repeat steps 3 and 4 for the other adjust-
+            ment rod.
+         6. Adjust the gauge wheel that is on the mower
+            deck to 1/2" (1.27 cm) above the ground.
+                                                               1 - Height Adjustment Rod
+                                                               2- K lik Pin
+                                                               3 - Adjustment Bracket
+                                                               Figure 70-2
+
+===== Page 12 =====
+                  8.0   HOW TO OPERATE THE ENGINE
+                            8.1 How To Check The Level Of The
+                                 Lubricant In The Engine
+   Check the level of the lubricant in the engine
+   before starting the engine.
+   I.  Clean the fill plug and the area around the fill
+       plug. Prevent dirt from falling into the fill
+       tube. See figure 8.0-1.
+   2.  To remove the fill plug. use a screwdriver to
+       turn the fill plug counterclockwise. See
+       figure 8.0-1.
+   3.   Remove the fill plug. If the level of the
+        lubricant is below the indicated fell mark on
+       the dipstick, add SAE IOW-40 SE engine
+        lubricant. Put the lubricant into the hole for
+                                                          1 - Fill Plug
+       the fill plug.
+                                                             Fill Tube
+                                                             Drain Plug
+        WARNING: Do not add lubricant when the
+                  level is at the full mark on the
+                                                          Figure 80-1
+                  dipstick.
+   4    When the level of the lubricant is at the ful�
+        mark on the dipstick, install the fill plug
+                           8.2 How To Start And Stop The Engine
+   Use caution when starting the engine. Increasing
+   the revolutions per minute (RPM) of the engine 9)
+   causes the blades on the mower to rotate.
+   Decreasing the RPM of the engine causes the
+   blades to stop rotating. To start the engine, follow
+   the instructions in this section.
+   1   Check the level of the lubricant in the
+       engine. Add lubricant if needed.
+   2.  Fill the fuel tank with regular grade gasoline.
+       Do not use gasohol.
+       WARNING: Gasoline is highly flammable.
+   3. Open the fuel valve on the fuel tank. Turn the      1 - Fuel
+       fuel valve counterclockwise to open the
+       valve. See figure 8.0-2                            Figure 80-2
+
+===== Page 13 =====
+          4   Move the throttle lever to the "CHOKE'
+              position. See figure 8.0-3.
+          5.  Pull the starter handle out with a quick,
+              continuous motion. Hold the starter handle
+                                                                                  2
+              and let the rope rewind slowly. See figure
+              8.0-3.
+          6   When the engine starts, and is running,
+              move the throttle lever to the "SLOW"
+              position.
+          7.  If the engine does not start, repeat step 5. If
+              the engine does not start after trying step 5
+              six times, see the Operator's Manual for the       1 - Throttle Lever
+                                                                 2 - Starter Handle
+          8.  To stop the engine, move the throttle lever to     Figure 80-3
+              the "SLOW" position to decrease the RPM of
+              the engine. Move the throttle lever to the
+              "STOP" position.
+              WARNING: Always close the fuel valve on
+                        the fuel tank when the engine is
+                        not running. To close the fuel
+                        valve, turn the valve clockwise.
+
+===== Page 14 =====
+               9.0 HOW TO OPERATE THE WING MOWER
+     Read this Operator's Manual and the Operator's
+     Manual for the tractor.
+     A   WARNING: Use a slow tractor speed the
+                   first time you use the wing
+                   mower.
+     1.  Start the engine on the wing mower. When
+         the engine starts, move the throttle lever on
+         the wing mower to the "SLOW" position.
+     2.  Start the engine on the tractor. Wait until the
+         engine is running smoothly before oper-
+         ating.
+     3.  Lower the mower on the tractor to the
+         ground.
+     4.  Put the "RANGE" selector on the tractor in
+         the "HI" position.
+     5.  Put the "GEAR" selector on the tractor in the
+         "2" position.
+     6.  Put the PTO control on the tractor in the "IN"
+         position to activate the mower on the
+         tractor.
+     7.  Move the throttle lever on the tractor to the
+         "FAST" position.
+     8.  Move the throttle lever on the wing mower to
+         the "FAST" position. Always operate the
+         wing mower with the throttle lever in the
+         "FAST" position.
+     9.  Put the direction control lever on the tractor
+         in the forward position. Mow a distance of
+         ten feet (3 m). Stop the tractor, put the PTO
+         control in the "OUT" position and turn the
+         key in the ignition switch to the "OFF"
+         position. Move the throttle lever on the wing
+         mower to the "STOP" position.
+         WARNING: Wait until both engines and
+                   mower have stopped.
+     10. Check to see if both the mowers are cutting
+         the grass to the height that is needed.
+
+===== Page 15 =====
+              11  If the cutting height needs to be adjusted,
+                  follow the instructions in section 7.0 for the
+                  wing mower and the instructions in the
+                  Operator's Manual for the mower on the
+                  tractor.
+              12. use the edge locator on the wing mower
+                  deck to see the location of the edge of the
+                  mower deck when trimming around an
+                  object. See figure 9.0-1.
+              13. After you know how to operate the tractor
+                  with the wing mower, select the speed of the
+                  tractor that is best for your mowing
+                  conditions.
+                                                                     1 - Edge Locator
+                                                                     Figure 9.0-1
+
+===== Page 16 =====
+                10.0 HOW TO TOW THE WING MOWER
+   To tow the wing mower, connect the wing mower
+   to the tractor as shown in this section.
+   A
+       WARNING: Stop the engines.
+   I.  Remove the stabilizer rod from the support
+       plate and the rod bracket plate. See figure
+       10.0-1
+                                                              3
+                                                    1
+                                                          1 - Stabilizer Rod
+                                                          2 - Support Plate
+                                                             Rod Bracket Plate
+                                                          Figure 10.0-1
+   2.  Put one end of the stabilizer rod between the
+       fuel tank support brackets. If the long
+       stabilizer rod is used, put the other end of
+       the rod in the hole in the rod bracket plate. If
+       the short stabilizer rod is used, put the other
+       end of the rod in the hole in the height            4
+       adjustment bracket. See figure 10.0-2.
+                                                                          2
+                                                          I - Stabilizer Rod
+                                                          2 - Rod Bracket Plate
+   3.  Remove the klik pin and the clevis pin from        3 - Fuel Tank Support Brackets
+       the caster wheel that is locked in position.
+                                                          4 - Drawbar Assembly
+       Turn the caster fork 900 . Align the hole in the
+       shaft of the caster fork with the holes in the
+                                                          Figure 100-2
+       caster support. Install the clevis pin and the
+       klik pin. Repeat this instruction for the
+       gauge wheel that is on the mower deck.
+   4.  Close the fuel valve on the fuel tank by
+       turning the valve clockwise.
+   NOTE: Do not disconnect the drawbar assembly
+          from the tractor.
+
+===== Page 17 =====
+             5.  Start the tractor engine. Move the tractor
+                 forward. The wing mower will move in
+                 position to be towed behind the tractor. See
+                 figure 10.0-2.
+                 WARNING: Do not start the engine on the
+                           wing mower when the wing
+                           mower is being towed. Operate
+                           the wing mower only when the
+                           mower is in the mowing po-
+                           sition. See section 5.0.
+             6.  To put the wing mower in the mowing
+                 position, repeat step 3 for the caster wheel
+                 and the gauge wheel.
+             7.  Move the wing mower in position and
+                 connect the stabilizer rod as shown in
+                 section 5.0.
+             8.  Open the fuel valve on the fuel tank by
+                 turning the valve counterclockwise.
+                 WARNING: Always close the fuel valve on
+                           the fuel tank when the engine is
+                           not running.
+
+===== Page 18 =====
+                     11.0 HOW TO DO MAINTENANCE
+     A
+         WARNING:  Stop the engine on the wing          BOLT TORQUE SPECIFICATIONS
+                   mower and the tractor engine  BOLT SIZE  FOOT POUNDS  NEWTON METERS
+                   before doing maintenance.                  (ft lbs.)      (N.m)
+                                                                 7            9.5
+     After Each Use:
+                                                  5/16"         14            19
+     I.  Clean the wing mower.
+                                                  3/8'          25            34
+     2.  Inspect all nuts, bolts and other fasteners to 7/16"   40            54
+         make sure they are tight. Replace any                  60            82
+         fasteners that are missing. Tighten the bolts
+                                                  9/16"         83            113
+         to the torque shown in figure 11.0-1, unless
+         given differently.                       5/8          120            163
+                                                               200            271
+                                                             Figure 11.0-1
+                          11.1 How To Check The Air Cleaner Element
+     Each day, check the air cleaner element.
+     1.  Turn the wing nuts on the air cleaner cover
+         counterclockwise. Remove the wing nuts
+         and the cover.
+     2.  Remove the air cleaner element.
+     3.  To clean the air cleaner element, hit the
+         element lightly on a flat surface. See figure
+         1 1.0-2.                                                          WRONG
+     NOTE: If the dirt can not be removed from the air
+           cleaner element or if the element is
+           damaged, the element must be replaced.
+     4   Install the air cleaner element carefully to       Figure 11.0-2
+         prevent dirt from entering the engine.
+     5.  Install the air cleaner cover and the wing
+         nuts.
+
+===== Page 19 =====
+                                  11.2 How To Check The Cooling System
+          Each day, check the cooling system for grass and
+          other material.
+               WARNING: The engine parts are hot.
+               Stop the engine.
+          2.   Clean all the grass and other material from
+              the air intake screen.
+          3.   Clean all the grass and other material from
+              the cooling fins of the engine.
+                                11.3 How To Adjust The Tension Of The Belts
+          Before each operation, check the tension of the
+          belts. To check the tension of the belts, follow the
+          instructions in this section.                                        2
+                                                                       3
+           I. Stop the engine.
+          2.  Turn the adjusting nuts clockwise to tighten
+              the tension of the belts. Turn the adjusting
+               nuts counterclockwise to loosen the tension
+               of the belts. See figure 11.0-3.
+          3.  Turn the adjusting nuts until there is a gap of
+              .005" to .010" 127 to .254 mm) between the
+              coils of the springs. See figure 11.0-3.
+                                                                 1 - Adjusting Nuts
+                                                                 2 - Adjusting Rods
+                                                                 3 - Springs
+                                                                 Figure 110-3
+                                     11.4 How To Replace The Belts
+          Before each operation, check the belts for cracks
+          or damage. The belts must be replaced if there
+          is damage. To replace the belts, follow the in-
+          structions in this section.
+               Remove the right side and the left side belt
+               covers.
+           2.  Turn the adjusting nuts on the adjusting
+
+===== Page 20 =====
+      rods counterclockwise until there is no
+      tension on the belts.
+                                                               o
+  3.  Remove the old belts.
+                                               1               2
+  4.  Install the new belts as shown in figure
+      11.0-4 on the belt diagram on the mower
+      deck.
+  5.  Install the right side and left side belt covers.
+                                                              2                3
+  6.  Adjust the tension of the belts as shown in
+      section 11.3.
+                                                         Figure 11.0-4
+                          11.5 How To Lubricate The Wing Mower
+  After every eight hours of operation, add multi-
+  purpose grease to the following grease fittings:
+  A. Spindles - 3:
+      The grease fittings for the spindles are on the
+      top of the spindles. Lubricate the spindles at
+      the opening at each end of the belt covers
+      and at the opening at the back of the mower
+      belt covers.
+  B. Idler Pivot Arms - 2:
+      See figure 11.0-5 for the location of the
+      grease fittings.
+                                                         Figure 11.0-5
+  C. Caster Forks - 2:
+      See figure 11.0-6 for the location of the
+      grease fittings.
+     Caster - 4:
+      see figure 1 1 .0-6 for the location of the
+      grease fittings.
+                                                         Figure 11.0-6
+
+===== Page 21 =====
+                                      11.6 How To Check The Blades
+           1.  After every eight hours of operation, inspect
+               the blades. Replace any blade that is
+               damaged.
+           2.  Check to see that the blades are sharp. Ifthe
+               blades are not sharp, remove the blades.
+               Grind the edges that have the bevel until
+               they are sharp. Grind each edge the same
+               amount. Make sure the blades have balance
+               before installing the blades. Tighten the
+               spindle nuts to a torque of 120 ft- lbs. (163
+               N.m)
+                               11.7 How To Check The Air Pressure In The Tires
+           After every 25 hours of operation, check the air
+           pressure in the tires on the caster wheels. Adjust
+           the air pressure to 20 psi (14 kg/cm ).
+                                 11.8 How To Change The Lubricant In The
+                                      Engine
+          After every 25 hours of operation, change the
+          lubricant in the engine. To change the lubricant,
+          follow the instructions in this section. Use SAE
+          IOW-40 SE engine lubricant.
+              If the engine is cold, start the engine. Let the
+              engine run for five minutes at a slow RPM
+                                                                          3
+          2.  Stop the engine.
+              WARNING: The muffler and other parts of
+                        the engine are hot.
+          3.  Clean the area around the fill plug, the fill
+              tube and the drain plug. See figure 11.0-7.
+         4.  Put a two quart (2 liter) container under the      1 - Fill Plug
+             drain plug.                                        2 - Fill Tube
+                                                                3 - Drain Plug
+         5.  Turn the fill plug counterclockwise and
+             remove the fill plug.                              Figure 11.0-7
+         6.  Turn the drain plug counterclockwise and
+             remove the drain plug
+         7.  Drain the old lubricant from the engine.
+             Install the drain plug.
+         8.  Put 2.54 U.s. pints (1.21 liters) of SAE IOW-
+
+===== Page 22 =====
+         40 SE engine lubricant into the fill tube.
+         Install the fill plug.
+     9.  Start the engine. Check for a leak at the
+         drain plug. If there is a leak, tighten or
+         replace the drain plug.
+                          11.9 How To Clean And Replace The Spark Plug
+     After every 100 hours of operation, clean the 3. Use a socket wrench to turn the spark plug
+     spark plug. After every 200 hours of operation, counterclockwise. Remove the spark plug.
+     replace the spark plug. To clean or replace the
+     spark plug, follow the instructions in this sectiom 4. Remove the dirt and the carbon from the
+                                                   spark plug.
+     1. Stop the engine.
+                                               5.  Use a gauge to check the gap between the
+         WARNING: The muffler and other parts of   electrods of the spark plug. The correct gap
+                   the engine are hot.             for the spark plug is .025" (.635 mm).
+     2. Remove the wire connector from the spark 6. Install the spark plug. Tighten the spark plug
+         plug. Use caution, do not pull the wire from to a torque of 18 to 22 ft. lbs. (24 to 30 N.m).
+         the connector.
+                                                   Install the wire connector on the spark plug.
+     NOTE: Spark plugs are easily damaged. If the
+           spark plug is damaged, it must be
+           replaced.
+                          11.10 How To Adjust The Level Of The Mower
+                                Deck
+     After every 200 hours of operation, check the level 5. Measure the distance from the top edge of
+     of the mower deck. To check or adjust the level of the mower deck to the floor at the height
+     the mower deck, follow the instructions in this adjustment rods. See figure 7.0-2 for the
+     section.                                      location of the height adjustment rods.
+         Put the wing mower on a flat surface. 6.  If the distance is not the same, loosen the
+                                                   jam nut that is under the bracket.
+     2.  Stop the engine.
+                                               7.  Turn the lock nut on each height
+     3.  Make sure all the height adjustments are in adjustment rod until the measurement
+         the same cutting height position.         from the top edge of the mower deck to the
+                                                   floor is the same as the measurement at
+     4.  Measure the distance from the top edge of the height adjustment bracket. Tighten the
+         the mower deck to the floor at the height jam nut against the sleeve.
+         adjustment bracket. See figure 7.0-1 for
+         the location of the height adjustment 8.  Repeat steps 4 through 7 until all the
+         bracket.                                  measurements are the same.
+
+===== Page 23 =====
+                        12.0 HOW TO PUT THE WING MOWER
+                                           IN STORAGE
+           When the wing mower will not be operated for
+           three months or more, follow the instructions in
+           this section.
+            1.  Disconnect the wing mower from the
+               tractor.
+           2.  Clean all the grass and dirt from the mower.
+               Remove all the grass and dirt from underthe
+                mower deck.
+           3.  To prevent rust, put paint or lubricant on any
+               area where the paint has been removed.
+           4.  Lubricate the wing mower. See section 1 1.5.
+           5.  Change the lubricant in the engine. See
+               section 11.8.
+           6.  Replace the air cleaner element. See section
+               11.1.
+           7.  Clean the cooling system- See section 11.2.
+           8.  Close the fuel valve on the fuel tank.
+               WARNING: Gasoline is highly flammable.
+           9.  Remove the fuel line from the fuel valve.
+           10. Open the fuel valve and drain the gasoline
+               into an approved fuel container.
+           11. Connect the fuel line to the fuel valve.
+           12. Start the engine and let it run until all the fuel
+               is used and the engine stops.
+           13. Remove the wire connector from the spark
+               plug and remove the spark plug.
+           14. Put 20 drops of engine lubricant into the
+               hole for the spark plug
+           15. Install the spark plug. Do not install the wire
+               connector on the spark plug
+           16. Pull the starter handle five times.
+
+===== Page 24 =====
+                13.0 HOW TO TAKE THE WING MOWER
+                               OUT OF STORAGE
+    1. Check the mower blades. See section 11.6.
+    2. Check the spark plug. See section 11.9.
+    3. Check the belts. Adjust or replace the belts if
+       necessary. See section ll.� and 11.4.
+    4. Check the level of the mower deck. See
+       section 11.10.
+    5. Install the wire connector on the spark plug
+    6. Put gasoline in the fuel tank.
+    7. Open the fuel valve on the fuel tank.
+       WARNING: Always close the fuel valve on
+                 the fuel tank when the engine is
+                 not running.
+
+===== Page 25 =====
+             14.0    ILLUSTRATED PARTS AND PARTS LIST
+                                     37
+                                                               047
+                                       35-0 33
+                                                               81
+                                                        22
+                                      30
+                                    29f
+                         25
+
+===== Page 26 =====
+                  MOWER FRAME ASSEMBLY
+                  Item NO. Part NO. Qty. Description
+                     1  445608  3  Bolt, Hex 1/2-13 x 5.50
+                    2    31865  2  Weldment. Caster
+                    3   435507  8  Nut. Lock: 1/2-13 Washer Insert
+                    4    31871  3  Bushing, Axle
+                    5    31870  3  Wheel. Wing Gauge
+                    6   180191     Bolt, Hex 1/2-13 x 3.25
+                     7   31856  I  Weldment. Frame
+                         22098  4  Bearing. Flanged
+                         14406  2  Fitting, Lube; 1/4-28
+                    10  137204  2  Pin. Cotter: .125 x 1 500
+                    11   31920  1  Bracket. Height Adjustment
+                    12   7289   I  Cap, Gas Tank
+                    13   31848  1  Fuel Filter
+                         31884  2  Pad, Gas Tank
+                    15   31867  1  Weldment. Locking Caster
+                    16  456004  6  Nut. Lock; 3/8-16 Washer Insert Hex
+                    17   10629  2
+                    18   31882  1  Plate. Control
+                    19   31924  1  Lever. Throttle
+                    20  190254  2  Nut. Lock 10-24 Hex Nylon Insert
+                    21   31921  2  Rod, Height Adjustment
+                    22   31883  2  Sleeve, Height Rod
+                    23  1 i0238 2  Nut. Jam 1/2-13 Hex
+                    24   22113  1  Pin, Clevis 3/8 x 2.62
+                    25   23468  3  Klik Pin
+                    26  126705  4  Bolt 3/8-16 x 3 RD HD SQ NK
+                    27  31880      Plate, Rod Bracket
+                    28  120390  2  Washer Flat; 9/16 x 1-3/8 x .109
+                    29  137228  2  Pin, Cotter 5/32 x 1 SO
+                    30  31877   1  Pin, Pivot
+                    31  159947  2  Screw Mach. 10-24 x 3/4 Pan HD c-Recess
+                    32   21134     Line, Fuel 50 OD x .25 ID x Bulk Length
+                    33   7216   1  Clamp, Fuel Hose
+                    34   7354      Valve and Strainer
+                    35   10174     Bushing, Nylon .760 x 1.000 x .600 Flange
+                    36  31874   I  Weldment. Rear Joint
+                        31872   1  Weldment. Rear Ball Joint
+                    38  180179  2  Bolt Hex 1/2-13 x 1-3/4
+                    39  31930      Rear Hitch 8000 Series
+                    40   21979     Lynch Pin
+                    41  180128  2  Bolt. Hex 3/8-16 x 1.75
+                    42  120388 12  washer. Flat .436 x 1.000 x .083
+                    43  31926   1  Plate, Support
+                    44  31927   1  Rod, Stabilizer
+                        31928   1  Rod. Stabilizer 60'
+                    45  31885   2  Strap. Wing Tank
+                    46  180081  2  Bolt. Hex 5/16-18 x 1.25
+                    47  419455  2  Nut. Lock 5/16-18 Hex HD Washer Insert
+                    48  272739  I  Nut, Lock 5/8-18 Washer Insert Hex
+                    49  32045      Clamp. Hose
+                    50  31886   1  Tank. Fuel
+                    51  31884   2  Pad, Gas Tank
+
+===== Page 27 =====
+                          28
+                                                              30
+                             33                32
+      31
+                                     27
+                                                   26
+           125
+                24     18
+                                                7
+       20
+                                                             16
+ 19
+              15
+  21                                                               14
+      22
+                                                 5-0
+                                          11
+
+===== Page 28 =====
+                     MOWER FRAME ASSEMBLY
+                     Item No. Part No. Qty Description
+                       1   31350  I  Weldment. Caster Wheel Axle
+                       2  423315  2  washer Flat 13/16 x 1-3/8 x .100 Phos coat
+                       3   11386  1  Wheel. Caster
+                       4  120123  1  Pin. Cotter 1/8 x 1.25
+                       5  456004  6  Nut. Lock; 3/8-16 Washer Insert Hex
+                       6   23468  3  Klik Pin
+                       7   31919  2  Bracket, Adjustment
+                       8   31921  2  Rod, Height Adjustment
+                       9  180122  4  Bolt. Hex 3/8-16 x 1.00
+                      10   22113  1  Pin. Clevis 3/8 x 262
+                      11  417278  2  Bolt. hex 5/16-18 x 4-3/4
+                      12  126353  8  Bolt 5/16-18 x 7/8 RD HD SO NK
+                      13  180155  2  Bolt Hex 7/16-14 x 2-1/4
+                      14   18549  2  Decal. Danger
+                      15   31916  I  Decal. Belt Diagram
+                      16   31889  I  Weldment. Deck
+                      17  189300  2  Bolt Hex 5/16-18 x 5-1/2
+                      18   31920  1  Bracket. Height Adjustment
+                      19  160515  2  Screw, Mach-. 1/4-20 x 1/2 Pan HD C-Recess
+                      20   31932     Spring. Torsion
+                      21   31933     Clamp
+                      22   11777  2  Grommet. Plastic
+                      23   21683  2  Mount. Front Motor
+                      24   24995  2  washer. Flat .45 x 200 x .080
+                      25  419456  2  Nut. Lock: 7/16-14 Washer Insert Hex
+                      26   31897     Plate. Deck Support
+                      27   31911  4  Spacer Engine
+                      28   31917  I  Cover. L.H. Belt
+                      29   31908  1  Plate, Engine
+                      30   31918  1  Cover. F.H. Belt
+                      31  419455  8  Nut. Lock 5/16-18 Hex H.D. Washer Insert
+                      32  413447  6  Nut. Lock 5/16-18 Hex Type-N
+                      33  180083  2  Bolt. Hex 5/16-18 x 1 50
+                      34  120915  2  Bolt 3/8-16 x 1 RD HD SQ NK
+                      35   31892  I  Bracket Idler Rod
+
+===== Page 29 =====
+                        JJI
+                            23
+             23             46
+                              9-23
+                                                                                  13
+                                                                             14
+                            25                                                    15
+                                                       16
+                                                                             13
+                                                     10
+                                                               28
+                                                17                  11
+            43
+                  47-0
+                     0 48
+                                                                    20
+                                   22
+                         47
+                   500
+                                                                    13       15
+           40         0-26                16
+                      0-21
+                                                                     12
+                                                  28
+                                     30                   19
+                45                                                            40
+       34
+           3S
+           36                            0-40
+       37
+                                       4b.e
+                                      42
+                                                                                 33
+              16
+                                    32
+       37                                                                       44
+       36
+            35
+       34                                                                          39
+                39                                                      38
+     38
+                                                 39
+                                      38
+                                                                            e 42
+                                       420                                    41
+
+===== Page 30 =====
+             MOWER DRIVE
+             Item No. Part No. Qty. Description
+                   21215   3  Housing. Bearing
+               2   31908      Plate, Engine
+               3    9213      Key, Square 1/4 x I
+               4   31910   I  Clutch. Rotor Asm.
+               5   102569  2  Screw. Set 1/4-20 x 1/4 Hex Socket cup PT.
+               6   31911   4  Spacer, Engine
+                7  417278  2  Bolt, Hex 5/16-18 x 4-3/4
+                8   31912     V-Belt, Driven
+                9  181666     Bolt Hex 7/16-20 x 1
+               10   31903     Weldment, Idler R.H.
+               11   31914     Rod. Idler R.H.
+               12  1 20377 2  Nut. Hex 3/8-16
+               13   20394  6  Washer. Flat: 406 x .812 x .065
+               14   21381  2  Sleeve, Spring, For. - Rev.
+               15   31915  2  Spring, Idler Compression
+               16  456004 16  Nut, Lock: 3/8-16 Washer Insert Hex
+               17   31906     Pulley. V-ldler
+               18  180126  1  Bolt. Hex 3/8-16 x 1b0
+               19   31913  1  Rod, Idler L.H
+               20  121224  2  Pin. Cotter 3/32 x 1 m
+               21  120383  I  Washer, Lock 7/16 Reg.
+               22   25129     Belt. 40 Inch Mower
+               23  413447  6  Nut. Lock 5/16-18 Hex Type-N
+               24   21216     Shaft, Spindle
+               25  180083  2  Bolt. Hex 5/16-18 x 160
+               26  120389  1  Washer, Flat: .500 x 1 250 X .083
+               27   21060     Sheave. Idler
+               28   14406  2  Fitting, Lube, 1/4-28
+               29  180130  1  Bolt, Hex: 3/8-16 x 2.00
+               30   31900  I  Weldment, Idler L.H.
+               31   25125     Sheave, Spindle
+               32   31899  1  Pulley, Center
+               33   31898     Pulley, L.H.
+               34   21211  2  Seal. Steel
+               35   20743  2  Washer, Flat: 975 x 1.970 x 030
+               36   9246   2  Cone, Roller Bearing
+               37   9245   2  Cup. Roller Bearing
+               38   23026  3  Cradle. Blade
+               39   11234  3  Blade
+               40  411019  3  Fitting, Lube 1/8 Pipe 90 Deg.
+               41  418692  6  Nut Lock: 5/8-11 Washer Insert Hex
+               42   22545  8  Spring. Belleville
+               43  189300  2  Bolt Hex 5/16-18 x 5-1/2
+               44   21306     Spindle Assembly
+                45 126402  12 Bolt 3/8-16 x 1-1/4 RD HD so NK
+                46 120393  4  Washer. Flat .344 x .688 x 065 Zink
+                47  32143  2  Internal Spiral Retaining Ring
+                48  32144  1  Bearing Ball
+                49  32145  1  Housing. Clutch
+                50  32142     External Spiral Retaining Ring
+
+===== Page 31 =====
+                   GRAVELY COMMERCIAL TRACTORS LIMITED WARRANTY
+    This Limited Warranty is issued by Gravely . and consists Of 7. GRAVELY MAKES NO OTHER EXPRESS WARRANTIES ANY
+     the following terms:                             IMPLIED WARRANTIES. INCLUDING WARRANTIES AS TO
+                                                      MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+     1. Only the original purchaser of new Gravely equipment is PURPOSE. ARE LIMITED IN DURATION TO THE PERIOD
+        covered by this Warranty                      SET OUT IN PARAGRAPH 3 ABOVE SOME STATES DO
+                                                      NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED
+     2, This Warranty covers repair or replacement of parts WARRANTY LASTS. SO THE ABOVE STATEMENT MAY NOT
+        manufactured by Gravely which are defective in material or APPLY TO YOU.
+        workmanship. Gravely Will pay for parts and labor only.
+                                                   8. GRAVELY SHALL HAVE NO RESPONSIBILITY FOR
+     3. The Warranty starts the date of purchase and lasts for TWELVE INCIDENTAL OR CONSEQUENTIAL DAMAGES
+        (12) MONTHS.                                  RESULTING FROM THE BREACH OF ANY WARRANTY.
+                                                      INCLUDING, BUT NOT LIMITED TO, INCONVENIENCE.
+     4. Some components ot Gravely equipment are not covered by RENTAL OR PURCHASE OF REPLACEMENT EQUIPMENT.
+        the Gravely Warranty. These components are covered by the LOSS OF PROFITS OR COMMERCIAL LOSS. SOME STATES
+        original manufacturers warranty. which is included with the DO NOT ALLOW THE EXCLUSION OR LIMITATION OF
+        product. They are:                            INCIDENTAL OR CONSEQUENTIAL DAMAGES. SO THE
+                                                      ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO
+        a, Engine -Briggs and Stratton                you
+        b. Tires - Goodyear and Armstrong          9. This Warranty gives you specific legal rights, and you may
+                                                      have Other rights which vary from state to state.
+     5. TO obtain warranty service on Gravely equipment including
+        components not manufactured by Gravely. use this procedure: IO. A Gravely product registration card is supplied with each
+                                                      Gravely product Please complete the card and return it to
+        a. Notify the Gravely dealer from whom you purchased the Gravely at the address listed on the card. The equipment
+          equipment.                                  registration card Will be used by Gravely for:
+        b. If you have moved and it is not convenient to notify the a. Recording date of purchase
+          selling dealer. notify the nearest Gravely dealer. You
+          should supply this dealer With a copy of the bill of sale as b. Notification of owners in compliance with the Consumer
+          proof of the date Of purchase.                 Product Safety Act. should any notification be necessary.
+        c. Make arrangements to have the equipment delivered to The return of registration card is not required in order to take
+          the dealer (refer to paragraph 6(a) below). advantages of this Warranty.
+        d. If you have any questions concerning the Gravely Limited II. This Warranty is not subject to change or modification by
+          Warranty, they should be referred to:       anyone, including Gravely dealers and no Gravely dealer is
+                                                      authorized to make any representations or promises on
+              Gravely                                 Gravely's behalf.
+              One Gravely Lane
+              Clemmons. NC 27012                         OGRAVELV
+              Attn Manager Of Customer Services
+        e. Warranty service on Gravely equipment must be per-
+          formed by an authorized Gravely commercial dealer or
+          Gravely branch.
+     6. This Warranty does not cover the following:
+        a. Transportation between owner's home or place of
+          business and the dealership. It the dealer provides the
+          transportation of the equipment. he will charge the owner
+          his usual rate for such service.
+        b. Normal maintenance services and normal replacement of
+           items such as spark plugs. belts. Oil, oil filters, air filters,
+          and mower blades.

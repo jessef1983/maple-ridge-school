@@ -1,0 +1,45 @@
+---
+title: "Illustrated Parts List — Front Mount Kit — May 1973"
+oldgravelys_no: "0340"
+series: "Front Mount Kit"
+doc_type: "Illustrated Parts List"
+date: "May 1973"
+pages: 2
+source_pdf: "../0340 Illustrated Parts List - Front Mount Kit - May 1973.pdf"
+text_source: "OCR (Windows.Media.Ocr, 200 dpi)"
+---
+# Illustrated Parts List — Front Mount Kit — May 1973
+
+Source: [0340 Illustrated Parts List - Front Mount Kit - May 1973.pdf](../0340 Illustrated Parts List - Front Mount Kit - May 1973.pdf). Text is machine-extracted; confirm part numbers against the PDF page before ordering.
+
+## Page 1 — Front Mount Kit
+
+```text
+FRONT MOUNT KIT
+ GRAVELY                      ILLUSTRATED
+                                                    Model Number
+  To cmtinu it' program of quaGty and design improvement, the        15569E1
+                               PARTS LIST
+  m- the right to specificatiMs, de- orics wihwt Md without ixurrino obligatim. Effective Date 5-15-73
+                                                                       14378P1
+                                                    Form Number
+```
+
+## Page 2
+
+```text
+ITEM
+          NO.           PART NO.           DESCRIPTION
+           1             6535P1            Gauge Wheel
+           2            11950P1            Bushing
+           3             433156            1/2-13 x 4-1/2 Hex Hd cad Plated Bolt
+           4            11948P1            Caster Fork Weldment
+           5             435507            1/2 Locknut
+           6            11947P1            Bushing
+           7            10405P1            Hair Pin Cotter
+           8             456004            3/8-16 Washer Insert Lock Nut
+           9            9411027            1/4-28 Lube Fitting
+          10             180122            3/8-16 x 1 Hex Hd Bolt
+          11            11946P1            Pivot Arm Support
+          12            11939P1            Frame Weldment
+```

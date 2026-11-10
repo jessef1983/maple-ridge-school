@@ -1,8 +1,8 @@
 {
-  "lastWrapUtc": "2026-11-03T20:00:00Z",
-  "mainHeadSha": "4eb6183f329eebf29c3414f3643d01b099acb555",
+  "lastWrapUtc": "2026-11-07T02:00:00Z",
+  "mainHeadSha": "5ee302c9ac1872a21e6731dd646b512311bf52ba",
   "confirmedClean": false,
   "openPRs": [],
   "knownStaleBranches": [],
-  "summary": "2026-11-03: sap house east awning + north porch designed (ARES script, generator, combined cut bill/BOM in sap-house/extension/), and arch field measurements recorded (fin clearance passes; split-brick lining; firebrick ash pit floor and center wall; front section shop rebuild with ash-door damper and a stove-door insert). See docs/session-notes/2026-11-03.md. Shared checkout still has pre-existing uncommitted agent/skill edits and untracked updates/ originals, so not clean."
+  "summary": "Gravely manuals ingested (OCR md + parts index, PDFs in ccfedu SPO gravely-tractor-kb, 385 files) and plow angle-handle fab plan; PR #6 merged (docs/session-notes/2026-11-06.md). Pre-existing uncommitted agent/skill edits from other sessions left in place, so not clean."
 }

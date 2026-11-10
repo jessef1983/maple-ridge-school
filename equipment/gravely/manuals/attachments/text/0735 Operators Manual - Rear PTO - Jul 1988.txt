@@ -1,0 +1,321 @@
+# 0735 Operators Manual - Rear PTO - Jul 1988
+# Source: 0735 Operators Manual - Rear PTO - Jul 1988.pdf (13 pages; OCR: Windows.Media.Ocr @200dpi)
+
+===== Page 1 =====
+                                    REAR PTO
+                     OPERATOR'S MANUAL
+        FORM NO. 45967(7-88)               PART NO. 45965               PRINTED IN USA
+                                                                                  $3.00
+
+===== Page 2 =====
+                                               NOTE
+                Read this manual carefully and learn to operate and service your rear PTO before using it.
+                To keep the warranty, the rear PTO must be maintained and operated as directed in this
+           manual.
+                All references to "left-side", "right-side", "front", and "back" are given from the operator's
+           position.
+                Use the serial numberto ensure prompt and correct service when ordering parts, requesting
+           service, or making inquiries.
+                        REAR PTO SERIAL NUMBER
+                                Look forthis symbol to poi nt out important safety precautions.
+                                It means-ATTENTlON! BECOME ALERT! YOUR SAFETY
+                                IS INVOLVED.
+
+===== Page 3 =====
+                                          CONTENTS
+                            1. INSTRUCTIONS FOR SAFE OPERATION
+                           2. SERVICE INSTRUCTIONS
+                           3. STORAGE
+                           4. ILLUSTRATED PARTS AND PARTS LIST
+                           5. SET-UP INSTRUCTIONS
+                          6. WARRANTY
+
+===== Page 4 =====
+                                         SECTION 1
+                            INSTRUCTIONS FOR SAFE OPERATION
+       Improper use of this rear PTO can injure people and damage the equipment. People using or
+       servicing this rear PTO must read and follow the instructions in this manual.
+       It is important to understand that this manual and any other Gravely instruction manuals do not
+       cover every possible danger. It is impossible for Gravely to know all possible dangers in operating
+       and servicing the equipment.
+       The purchaser must give these instructions to the people operating and maintaining this rear P TO.
+       These people must use eye and foot protection.
+       1.1   Preparation:
+             I.  Read this manual, the tractor operator's manual and tiller operator's manual carefully.
+                 Be familiar with all controls and follow the safety precautions outlined in these
+                 manuals. Know how to STOP the tractor and tiller quickly in an emergency.
+             2.  Inspect and clear the work area (prior to tilling) of rocks, glass, metal, bones, and any
+                 other foreign objects that might be picked up and thrown or tangled in the tiller. Stay
+                 alert for holes and other hidden hazards.
+             3.  Do not wear loose fitting clothing or accessories that might get caught in moving parts
+                 or on the controls. Keep hands, feet, hair, clothing, etc., away from moving parts.
+             4.  Keep safety devices, interlocks, and shields in place at all times.
+             5.  Put the PTO in the "OFF" position when the tiller is not in use or is being transported.
+             6.  Maintain the tiller and rear PTO in good condition. Keep the equipment as directed in
+                 the tractor, tiller, and rear PTO operator's manuals.
+             7.  Follow instructions listed on decals.
+       1.2   Operation:
+             1.  Read the tractor and tiller operator's manuals for safely engaging and disengaging the
+                 tiller. Know how to STOP the tiller quickly in an emergency. Raise tiller before starting
+                 engine.
+             2.  Keep bystanders and pets removed from the work area and a safe distance away.
+             3.  Do not allow children to operate the equipment, nor allow adults to operate it without
+                 their having knowledge of safe operating practices.
+
+===== Page 5 =====
+                4.  Do not use the equipment after dark without adequate lighting.
+                5.  Operate the tiller from the operator's position on the seat of the tractor.
+ot
+                6.  Use caution when transporting tiller. Be careful when crossing dips in terrain to avoid
+ g
+                    dragging tiller. Keep PTO in "OFF" position. Use suggested weight accessories to
+                    increase steering control.
+                7.  After striking a foreign object, STOP the engine, put the PTO in the "OFF" position, and
+                    lower tiller before inspecting for damage. Any damage must be repaired before
+                    restarting the equipment.
+                8.  Disengage power to the tiller and STOP the engine before clearing the unit.
+ ly.
+                9.  Observe ground to be cultivated. Plan a route (for seedbed preparation).
+                10. To begin, keep tiller raised in transport position. Run engine at full throttle.
+ ny
+ ay
+                11. Select the tractor's lowest ground speed and engage forward motion, then lower tiller.
+                12. Always till slowly over rough ground and on hillsides. Till at speeds slow enough to
+ fts
+                    insure your safety. Be alert for holes, ditches, and other irregularities that may cause
+                    the tractor to overturn.
+                13. When tilling loose ground (well established loamy garden soil), increase ground speed
+                    to cover more ground in less time and still do a good job.
+                14. Do not back up with tiller down. Raise tiller to transport position before backing up or
+ din
+                    turning sharply.
+                15. Do not stop or start suddenly when going up or downhill.
+                16. Avoid steep hillside operation which could cause the tractor to overturn. Reduce speed
+                    when turning so there is no danger of the tractor overturning.
+  the
+                17. Always look behind you when backing up.
+ fling
+                18. Never leave the equipment running when unattended- always STOP engine and put
+                    the PTO in the "OFF" position and lower tiller leaving the machine.
+  ay.
+  hout
+                                                2
+
+===== Page 6 =====
+                                           SECTION 2
+                                    SERVICE INSTRUCTIONS
+        2.1   Lubrication:
+               1. Apply grease to the shaft bearings in the axle bearing retainer after every 8 hours of
+                  use. Apply multi-purpose grease to the grease fitting until it comes out around the shaft.
+              2.  Check the oil level in the chain box after every 40 hours of use. Hold the gear box in
+                  a vertical position. Remove the lower plug (see Figure 1 ). Fill with SAE 30W-40 oil until
+                  it is level with the hole. Replace the plug.
+        2.2   Installation and Removal:
+              2.1 Clean the shaft in the axle bearing retainer and the PTO shaft. Coat these shafts with
+                  grease.
+              2.2 Turn the engine "OFF" and put the PTO control in the "ON" position.
+              2.3 Depress the locking collar on the chain box and hold it in position while sliding it onto
+                  the transmission PTO shaft. Release the locking collar and slide the gear box back and
+                  forth on the transmission PTO shaft until it locks in place. Putting the PTO in the "ON"
+                  position (engine off) will assist. Be sure to reposition the PTO control in the "OFF"
+                  position.
+              2.4 Move the bracket on the chain box to the "UP" position.
+              2.5 Swing the chain box up while guiding the universal drive shaft onto the shaft in the axle
+                  bearing retainer. Rotate the shaft so that the hole in the shaft aligns with the hole in
+                  the yoke of the universal drive shaft.
+              2.6 Retain the universal drive shaft to the shaft with a bolt and lock nut.
+              2.7 Put a flat washer on the 1/2" bolt and slide it just through the tractor frame from the
+                  outside. Put two flat washer on the bolt and slide the bolt through the bracket. Put a
+                  lock nut on the bolt.
+                  NOTE: See Section 5.2. Ifthe rear PTO is being installed on a tractor which requires
+                         the rear PTO bracket with a "hook", put the hook of the bracket overthe cross
+                         shaft of the tractor. Tighten the 3/8" bolt which fastens the bracket to the chain
+                         box, then procede to Step 2.9.
+              2.8 Tighten the 1/2" bolt and 3/8" bolt which connect the bracket to the tractor frame and
+                  the chain box.
+              2.9 To remove, reverse the installation process. Be sure the engine is "OFF" before the
+                  PTO control is put in the "ON" position.
+                                               3
+
+===== Page 7 =====
+   rs of
+   haft.
+   ox in
+  II until
+  s with
+ it onto
+ ckand
+the axle
+hole in                                                o
+                                          1 - Pipe Plug
+:rom the                                 2 - Vent Plug
+ft. Put a                                  FIGURE 1
+equires
+le cross
+le chain
+me and
+tore the
+                                            4
+
+===== Page 8 =====
+                                          SECTION 3
+                                           STORAGE
+        3.1  Remove rear PTO chain box assembly with drive shaft and rear PTO bracket from the
+             tractor.
+       3.2   Clean and put a film of grease on the rear universal yoke splines and the PTO shaft splines
+             at the locking collar. Oil the locking collar.
+       3.3   Store in a dry place positioned so that oil does not run out of the vented plug at the top of
+             the chain box.
+                                              5
+
+===== Page 9 =====
+                                             SECTION 4
+                                ILLUSTRATED PARTS AND PARTS LIST
+  the
+ lines
+top of
+
+===== Page 10 =====
+          ITEM                                    ITEM
+           NO.  PART NO. QTY.    DESCRIPTION      NO.  PART NO. QTY.    DESCRIPTION
+                 180181  1   Bolt, Hex 1/2-132.00 30     36800   1  Collar
+           2     40708   1   Shaft                31     36799   1  Sping
+           3     120389  3   Washer, Flat .500x1250x.083 32 41996   Retainer, Inner
+           4     435507  1   Nut, Lock 1/2-13     33     18962   1     Retaining               5
+           5     40707   1   Bracket, Rear PTO    34     18961   4  seal, Oil Isoox2.125x32
+                 20821   1   Bracket, Rear PTO    35     18960   4  Ring, Retaining
+           6             7   Nut Lock 3/8-16      36     18972   1  Shaft
+           7     24560   1   Kit, Repair IJ-Joint 37     18948   1  Housing, Rear
+           8     19340   4   Race, Bearing Thrust 38     18958   1  Gasket
+           9     11225   2   Bearing, Needle Thrust 39   18957   1  Chain, Roller
+           10    14987   I   Ring, Retaining 1.00 Shaft 40 18950 4  Bearing, Needle Isoox1.875xso
+           11            1   Bolt, Hex 3/8-161250 41    431787   2
+           12    124829  1   Nut, Jam 3/8-16 Hex  42     18956   1  Shaft
+           13            1   Plate, Fwd Clutch Anchor 43 18953   2  Sprocket, 5/8 Pitch 14 Teetl
+           14    413447  1   Nut, Lock 5/16-18    44    145643   3  Ball, 3/8
+           15    18977   2   Bearing, Bronze 1.002x1.378x1.00 45 41995 1 Shaft
+           16    18031   2   Seal, Oil Axle       46     18954   4  Bearing, Thrust Race
+           17    18812   I   Ring, Retaining      47    180134   1  Bolt, Hex 3/8-16x2E0
+           18    18029   1   Bearing, Ball 1.250x2.250x.500 48 180130 6 Bolt, Hex 3/8-16x2.00
+           19    180081  1   Bolt, Hex 5/16-18x1.25 49   18968   1  Plug, Vented
+           20    120384  6   Washer, Lock 1/2 Reg. 50   103880   1  Plug, Pipe .50 sq Hd Steel
+           21   411032   1   Fitting, Lube 90 Degree 51  18949   1  Housing, Front
+           22    18030   1   Gasket               52     42160  AR  Assembly, Drive Chain
+           23    180175  2   Bolt, Hex 1/2-131125
+           24    34831   1   Assembly, Axle Retainer NOTE: Circle A' pertains to 800/8000 Series tractors and
+           25    180044  2   Bolt, Hex 1/4-202.00       to Professional G Series tractors with the foot clutch
+           26   419454   2   Nut, Lock 1/4-20           pedal only.
+           27    46086   AR  Yoke
+           28    18971   1   Shaft, Drive (Rear)        Item No. 52, Part No. 42160 includes Item Numbers
+           29    36801   1   Ring, Snap                 29-35, 37-46, 48-51 and six of Item No. 6.
+                                                7
+
+===== Page 11 =====
+                                              SECTION 5
+                                        SET-UP INSTRUCTIONS
+            5.1  Axle Bearing Retainer Assembly (refer to the Illustration):
+                  1. Clean the transmission drain plug and adjacent area.
+                  2. Drain transmission oil into a clean container.
+5x.50
+                  3. Raise and block the right drive wheel. Remove the tire/wheel assembly.
+th                4. Remove the nut and flat washer on the axle. Remove the wheel hub with a puller.
+                 5.  Remove the axle key and the bolts attaching the rear hitch to the axle bearing retainer.
+                 6.  Remove the four bolts holding the axle bearing retainer and slide from the axle.
+                 7.  Clean all gasket residue from the end of the axle housing.
+                 8.  Wipe the axle clean and apply a film of grease. Wipe a film of grease on the axle gasket
+                     and stick it on the end of the axle housing with the four holes aligned.
+ors and
+ t clutch
+                 9.  Apply grease to the seals in the new axle bearing retainer. Carefully slide the new axle
+                     bearing retainer assembly into place overthe axle and secure with the 1 /2" bolts which
+Numbers
+                     were removed.
+                 10. Fasten the rear hitch to the new axle bearing retainercasting with the two new 1/2-13x1
+                     hex bolts coated with locking compound. It may be necessary to loosen the bolts in the
+                     rear hitch arm that hold the rear hitch to align the new bolts in the axle bearing retainer.
+                 11. Put the key in the axle, slide the wheel hub on the axle, followed by a flat washer. Retain
+                     with a lock nut.
+                 12. Replace the tire/wheel assembly.
+                 13. Put oil in the transmission. Use the drained oil only if it is clean.
+                 14. Slide a thrust race, a thrust bearing and another thrust race onto the splined shaft.
+                     Insert the shaft into the rear of the axle bearing retainer. Place a thrust race, thrust
+                     bearing, and thrust race onto the shaft. Put the retaining ring on the shaft and make
+                     sure that it seats in the groove.
+                 15. Apply grease to the shaft bearing at the grease fitting until it appears at the shaft.
+                                                 8
+
+===== Page 12 =====
+          5.2   Chain Box Assembly (refer to the illustration):
+                 1. Bolt the bracket to the rear side of the chain box with a 3/8 bolt and lock nut. Do not
+                    completely tighten.
+                    NOTE: 800/8000 Series tractors and Professional G Series tractors with the foot
+                           clutch pedal use the bracket with the "hook". 8000-G Series and Professional
+                           G Series tractors with the hand operated forward-reverse lever use the other
+                           bracket.
+                2.  Slide the shaft into the universal yoke so that the holes align. Secure with a 1/4x2 bolt
+                    and lock nut.
+                                                                                             5
+                3.  Slide the shaft into the rear side of the chain box.
+                                                 9
+
+===== Page 13 =====
+                                             SECTION 6
+                                   LIMITED FIVE-YEAR WARRANTY
+           I. This Limited Five-Year Warranty is issued by Gravely Intemational. 6. This Warrany ches not cover he following:
+             Inc., only to the original purchaser. If Gravely equipment is leased
+             by Gravely, his Warranty shall extend also to the original lessee as a. Transportation he Gra�ly &alership. (If the Gravely dealer
+             if such lessee were tie original purchaser. provides trmsportation, he will charge for such sentice.)
+           2. Gravely warrants that all new equipment manufactured by Gravely b. Normal mainEnance serG�s and normal replacement of items
+             (Gravely Products") shall be free of defects in material and work- such as spark plugs, belts, oil. oil filters, air filters, and mower,
+             manship for tie described in paragraph 4, below. Except as plow or a..ltivabr blades, gauge wt-s, skids and other wear
+             hereinafter provided, this Warranty does not@'.er any engine. tires items.
+             or battery forming a part of the Gravely Product. Engine and tires
+             are covered by and subject to separate warranties of the manufac- c. Any Gravely Prod-jct which has altered or modified in any
+             turers hereof.                            way.
+           g. In the ei.ent that any Gravely Productwarranted hereunder shall be d. Any repair by customer neglect or
+             defective or fail to conform with this Warranty, Gravely shall, subject lack of proper maintenance. (The pur&laser is responsible for
+             to tie provisions hereof, pay for, or provide labor and materials for. making sure that Gravely Products are operated and seniced
+             the repair or replacement of such defective Gravely Product as direcbd he applicable manual or service insmuc�on.
+                                                       Incorrect use or maintenance will void this Warranty.
+           4. This Wamanty is for five years (60 months) from purchase date for
+             Gravely Products used exclusively for personal, family or house- e. Any repair occasioned by tie use of any attachment not ap-
+             hold purposes, and two years (24 months) for products used for proved by Gravely. (The use of any such unapproved attach-
+ o not       other purposes (commercial use), excluding rental firms. Gravely ment will void his Warrany.)
+             products used for rental purposes will be warranted for 90 days.
+             Repair of Gravely Products after the second year (24 months from 7. GRAVELY MAKES NO OTHER EXPRESSED OR IMPLIED WAR-
+             date Of pur�ase) shall be subject to a $50.00 deductible for each PANTIES, OR WARRANTIES AS TO THE MERCHANTABILITY
+e foot       rep� (After two years, Gravely agrees to repair or replace &fec- OR FITNESS FOR A PARTICULAR PURPOSE. ALL WARRAN-
+             tive Gravely Products used exclusively for personal, family or TIES ARE LIMITED IN DURATION TO THE TERMS SET OUT IN
+ sional      household purposes only to the extent that the cost of such warranty PARAGRAPH 4. ABOVE. GRAVELY SHALL HAVE NO LIABILIT
+ other       covered repair or replacement exceeds $50.00.) FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES RESULT-
+                                                     ING FROM THE BREACH OF ANY WARRANTY, INCLUDING,
+             Batteries are warranted by Gravely for a period of twelve (12) BUT NOT LIMITED TO, LIABILITY FOR INCONVENIENCE,
+             months only. If a battery shall fail within twelve (12) months of RENTAL OR PURCHASE OF REPLACEMENT EQUIPMENT, OR
+             purchase, tie replacement cost thereof shall be prorated over a FOR LOSS OF PROFITS OR OTHER COMMERCIAL LOSS.
+x2 bolt      twelve-month term based upon the number of months since pur-
+             chase.                                8. Some states do not allow limitations on how long an implied war-
+                                                     rany lasts, so above statement may not apply to you. Some
+           5. To obtain Warranty Service on a Gravely Product (including any states do not allow tte exclusion or limitation of incidental or
+             battery or other component not manufactured by Gravely), use this consequential damages, so fre above limitation or exclusion may
+             procedure:                              not apply to you.
+             a. Notify the Gravely dealer from whom you purchased the equip- 9. This Warranty gives you specific legal rights, and you may have
+               ment.                                 o�1er rights which vary from state to state.
+             b. If you have moved and it is not convenient to notify the selling IO. A Gravely product registration card is supplied with each Gravely
+               dealer, notify the nearest Gravely dealer. You should supply Product. Please complete nrd and retum it to Gravely at the
+               his dealer with a copy of the bill of sale as proof of the date of address listed on he card. The equipment registration card will be
+               pur&lase.                             used by Gravely for:
+             c. Make arrangements to have the equipment delivered to the a. Recordng date of purchase.
+               dealer (refer to paragraph 6 a. , below).
+                                                     b. Notification of owners in Ompliance with the Consumer Prod-
+             d. If you have any questions concerning the Gravely Limited uct Safety Act, should any notificabon be necessam
+               Warranty, they should be referred to:
+                                                     The retum of card is necessary for your warranty to be
+                  Gravely International, Inc.        effective.
+                  One Gravely Lane
+                  Clemmons, NC 27012               I I. This Warranty is not subject to change or modification by anyone,
+                  Attn: Customer Service Department  including Gravely dealers and no Gravely dealer is authorized to
+                                                     make any representabons or promises on Gravely's behalf.
+             e. Warranty Service on Gravely Products must be performed by e e �AVELY.
+               an authorized Gravely dealer.
+                                                          One Gravely Lane, Clemmons, NC 27012
+                                                 10

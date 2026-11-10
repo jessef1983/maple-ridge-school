@@ -1,0 +1,48 @@
+---
+title: "Illustrated Parts List — Front Drive Kit — Dec 1974"
+oldgravelys_no: "0701"
+series: "Front Drive Kit"
+doc_type: "Illustrated Parts List"
+date: "Dec 1974"
+pages: 1
+source_pdf: "../0701 Illustrated Parts List - Front Drive Kit - Dec 1974.pdf"
+text_source: "OCR (Windows.Media.Ocr, 200 dpi)"
+---
+# Illustrated Parts List — Front Drive Kit — Dec 1974
+
+Source: [0701 Illustrated Parts List - Front Drive Kit - Dec 1974.pdf](../0701 Illustrated Parts List - Front Drive Kit - Dec 1974.pdf). Text is machine-extracted; confirm part numbers against the PDF page before ordering.
+
+## Page 1 — Illustrated
+
+```text
+GRAVELY,                                              FRONT DRIVE KIT
+                                            ILLUSTRATED
+                                              PARTS LIST
+                                                                Model Number      19C75E1
+                                                                 Effective Date   12-15-7
+                                                                 Form Number      2C731+P1
+                                                                        4
+                                             9
+                                                                                      2
+                            8
+                                                                  6
+                      7
+             ITEM
+             NO.           PART NO.          DESCRIPTION
+              1             11697A1          Front Attachment    Brkt Weldmt RH
+              2             11698A1          Front Attachment    Brkt Weldmt LH
+              3             18654P1          Front P.T.O. Shaft
+              4             18653P1          Front P.T.O. Prop Shaft
+              5             19074P1          Prop Shaft Sq Bar
+              6             11396A1          Push Rod Guide Weldment
+              7             15835A1          Double U Joint Assy
+              8             19072P1          Ball Bearing
+              9             19073P1          Retaining Ring
+             10              180173           1/2-13 x 1 Hex Hd Bolt
+             11              120378           1/2-13 Lt Semi Finished Hex Nut
+             12             10405P1          Hair Pin Cotter
+             13              131017           13/16 x 1-15/32 x .134 Flat Washer
+             NS             12134P1          Repair Kit For Universal Joint
+                                             Rockwell Std
+             NS             20573P1          Repair Kit For Universal Joint Neapco
+```
