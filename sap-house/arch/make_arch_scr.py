@@ -173,7 +173,7 @@ callouts([
     ((FLUE[0] + FLUE[1]) / 2, RIM + PAN_DEPTH / 2, "FLUE PAN"),
     ((FINISH[0] + FINISH[1]) / 2, RIM + PAN_DEPTH / 2, "FINISH PAN"),
     (X0 - BAR_T / 2, ANGLES[X0] + EXT_59 / 2, f"EXIST. BRACE 59 (TOP 15 BELOW RIM) + {eighth(EXT_59)}\" FLAT = TOP OF RAMP"),
-    (FINISH_BRACE_X, RIM - 1.5, f"EXIST. BRACE UNDER FINISH PAN (STA {f(FINISH_BRACE_X)}? NOT MEASURED)"),
+    (FINISH_BRACE_X, RIM - 1.5, f"EXIST. BRACE UNDER FINISH PAN AT STA {f(FINISH_BRACE_X)} - LOCATION NOT MEASURED"),
     (-0.5, DOOR_BOT - BRACE_H / 2, "EXIST. FRONT CROSS BRACE - STAYS"),
     (52, PLATE[0][1] + (52 - PLATE[0][0]) * PM, f"NEW 3/16 RAMP PLATE ~{f(round(degrees(atan(PM))))} DEG, LINED 3.5\""),
     (41, RAMP[0][1] + (41 - RAMP[0][0]) * EM, f"EXIST. RAMP ~{f(round(degrees(atan(EM))))} DEG"),
