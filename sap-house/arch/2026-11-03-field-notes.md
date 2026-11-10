@@ -224,3 +224,19 @@ per brick than splits. "This is our one chance to improve the boiler." More fabr
 - About 1,700 lb. Confirm 9 × 4½ × 2½ straights (the lot also has tapered #1 arch brick). Get a written
   receipt for school records.
 - Replaces the $500 splits budget above.
+
+## Front decisions (2026-11-09 / 11-10)
+
+- **Measurements:** fire door opening 27½" W × 20½" H; top of opening 29" off the floor, bottom at 8½"
+  (top of the cross brace). Full arch front 40" W at top, 34" W at bottom, 31¾" H.
+- **Cross brace stays** (Jesse with Dean, 11-10), though slightly bent. This reverses the 11-03 call
+  to cut it out. It's the bottom of the door frame and carries the louver hinge.
+- **Window scrapped (11-09):** no glass or stove-door insert.
+- **Door liner:** cut off the old pins. Floating 3/16" mild-steel plate (310 later if needed) over 1"
+  rigid board on slotted 304 studs. The alternative, 1½" insulating castable on V anchors, wasn't chosen.
+- **Ash damper (Dean, 11-10):** one continuous louver across the ash pit front, hinged at the top on a
+  barrel hinge just below the fire door. Replaces the two sliding gates. Holds at set openings on a
+  notched quadrant arm. Overlap lip or tape gasket to close tight, stiffened bottom edge, cool handle.
+- **Rail gasket:** lay flat tape on the existing rim; no new channel. Grind or fill the open corner miter.
+- **Dean's stock:** firebox back / bypass covers and the louver.
+- **Order list:** `material-list-2026-11-10.md`.
