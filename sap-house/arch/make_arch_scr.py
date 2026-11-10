@@ -86,8 +86,9 @@ def pline(pts, closed=False): cmd("_PLINE", *[pt(*p) for p in pts], "_C" if clos
 def box(x1, y1, x2, y2): pline([(x1, y1), (x2, y1), (x2, y2), (x1, y2)], True)
 def text(x, y, h, s): cmd("_TEXT", pt(x, y), h, 0, s)
 def dim(a, b, at): cmd("_DIMLINEAR", pt(*a), pt(*b), pt(*at))
-def angle_l(x, ztop, leg=ANGLE_LEG):            # angle seen end-on, legs down and back
-    pline([(x, ztop - leg), (x, ztop), (x + leg, ztop)])
+def angle_l(x, ztop, leg=ANGLE_LEG, t=0.25):    # angle seen end-on, legs down and back, with thickness
+    pline([(x, ztop - leg), (x, ztop), (x + leg, ztop), (x + leg, ztop - t),
+           (x + t, ztop - t), (x + t, ztop - leg)], True)
 
 TITLE_H, NOTE_H, NOTE_GAP = 2.5, 1.25, 2.6
 f = lambda v: f"{v:.2f}".rstrip("0").rstrip(".")
@@ -222,6 +223,8 @@ OX, OY = 250.0, 0.0
 hw = SHELL_W / 2
 layer("ARCH-EXIST", 8)
 pline([(-hw, old_floor(XS)), (hw, old_floor(XS))])
+layer("ARCH-EXIST-BRACE", 6)
+box(-hw, ANGLES[87.75] - ANGLE_LEG, hw, ANGLES[87.75])                    # 87.75 brace, beyond, full width
 layer("ARCH-FRONT", 7)
 pline([(-hw, 0), (-hw, RIM), (-hw - 2.5, RIM)])                            # shell + rim (schematic)
 pline([(hw, 0), (hw, RIM), (hw + 2.5, RIM)])
@@ -255,11 +258,12 @@ callouts([
     (x0 + BAR_OC / 2, bt + BRICK / 2, "FULL BRICK LAID CROSSWISE"),
     (x0 + BAR_OC, bt - BAR_T / 2, f"{N_BARS} BARS 2x3/8 @ {f(BAR_OC)} OC"),
     (0, old_floor(XS), "OLD FLOOR; PERLITE FILL BELOW BARS"),
+    (-hw + 3, ANGLES[87.75] - ANGLE_LEG / 2, "EXIST. BRACE 87.75 BEYOND, WALL TO WALL"),
 ], col_x=hw + 8, side="R", top=RIM + PAN_DEPTH)
 dim((-hw, 2), (hw, 2), (0, -4))
 dim((x0, bt), (x0 + BAR_OC, bt), (x0 + BAR_OC / 2, bt - 3))
 
-cmd("_UNDO", "_E", "_ZOOM", "_Fit")            # ARES has no ZOOM Extents; Fit is the equivalent
+cmd("_UNDO", "_E")                              # no ZOOM: ARES rejects Extents and Fit from a script
 
 dest = Path(__file__).with_name("school-arch.scr")
 dest.write_text("\n".join(out) + "\n", encoding="ascii")
