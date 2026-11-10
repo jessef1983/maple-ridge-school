@@ -32,6 +32,7 @@ REAR_X = 115.0
 old_floor = lambda x: RAMP[1][1] + (x - RAMP[1][0]) * FLOOR_RISE
 ANGLES = {59.0: RIM - 15.0, 87.75: RIM - 11.25}  # existing cross angles: station -> top z
 ANGLE_LEG = 2.0                                  # assumed size, for drawing only
+FINISH_BRACE_X = 37.0                            # rim-level brace under the finish pan; station NOT measured
 SHELL_W = 38.5                                   # inside, at fin height (chimney end)
 
 # Pans and fins
@@ -116,9 +117,11 @@ OX, OY = 0.0, 0.0
 layer("ARCH-EXIST", 8)
 pline([(0, 0), (FIREBOX_D, 0), (FIREBOX_D, GRATE_Z), RAMP[0], RAMP[1],
        (REAR_X, old_floor(REAR_X))])                                      # old floor + ramp
+line((0, RIM), (RIM_L, RIM))                                              # rim line
+layer("ARCH-EXIST-BRACE", 6)                                              # existing cross braces
 for x, zt in ANGLES.items():
     angle_l(x, zt)
-line((0, RIM), (RIM_L, RIM))                                              # rim line
+angle_l(FINISH_BRACE_X, RIM - 0.5)                                        # under the finish pan, location assumed
 layer("ARCH-PAN", 5)
 box(FINISH[0], RIM, FILTER[1], RIM + PAN_DEPTH)
 for (x0, x1), d in ((FLUE, FLUE_FIN), (FILTER, FILTER_FIN)):
@@ -163,13 +166,15 @@ text(0, RIM + PAN_DEPTH + 8.5, NOTE_H, f"FIN DEPTHS ASSUMED {f(FLUE_FIN)}\" FLUE
 callouts(gaps + [
     ((FILTER[0] + FILTER[1]) / 2, RIM + PAN_DEPTH / 2, "FILTER PAN"),
     (X_END - 4, bar_top(X_END - 4), "BARS LAND ON OLD FLOOR - SHIM"),
-    (87.75 + 1, ANGLES[87.75], "87.75 ANGLE AS IS - BARS ON TOP"),
+    (87.75 + 1, ANGLES[87.75], "EXIST. BRACE 87.75 (TOP 11.25 BELOW RIM) - BARS ON TOP, AS IS"),
     (100, bar_top(100) - BAR_T / 2, f"2x3/8 FLAT, {N_BARS} @ {f(BAR_OC)} OC, ~{f(round(X_END - X0 + 1))}\" ONE PIECE"),
 ], col_x=125, side="R", top=RIM + PAN_DEPTH)
 callouts([
     ((FLUE[0] + FLUE[1]) / 2, RIM + PAN_DEPTH / 2, "FLUE PAN"),
     ((FINISH[0] + FINISH[1]) / 2, RIM + PAN_DEPTH / 2, "FINISH PAN"),
-    (X0 - BAR_T / 2, ANGLES[X0] + EXT_59 / 2, f"59 ANGLE + {eighth(EXT_59)}\" FLAT EXTENSION = TOP OF RAMP"),
+    (X0 - BAR_T / 2, ANGLES[X0] + EXT_59 / 2, f"EXIST. BRACE 59 (TOP 15 BELOW RIM) + {eighth(EXT_59)}\" FLAT = TOP OF RAMP"),
+    (FINISH_BRACE_X, RIM - 1.5, f"EXIST. BRACE UNDER FINISH PAN (STA {f(FINISH_BRACE_X)}? NOT MEASURED)"),
+    (-0.5, DOOR_BOT - BRACE_H / 2, "EXIST. FRONT CROSS BRACE - STAYS"),
     (52, PLATE[0][1] + (52 - PLATE[0][0]) * PM, f"NEW 3/16 RAMP PLATE ~{f(round(degrees(atan(PM))))} DEG, LINED 3.5\""),
     (41, RAMP[0][1] + (41 - RAMP[0][0]) * EM, f"EXIST. RAMP ~{f(round(degrees(atan(EM))))} DEG"),
     (GRATE_X0 + GRATE_OC * 4, GRATE_Z - 0.7, "GRATES 2x2x1/4, POINT DOWN, FILL WITH ASH"),
