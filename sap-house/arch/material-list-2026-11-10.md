@@ -20,8 +20,8 @@ final size on site.
 
 ## 1. Back-bay floor frame (stations ≈55 → 113)
 
-**Order:** 2" × ⅜" flat bar, 2 × 20'. 1" square tube, 14 ga, 4' (riser at 59). Cross member from the
-2" × 2" × ¼" angle in item 2.
+**Order:** 2" × ⅜" flat bar, 2 × 20'. That covers the 5 bars (≈290") and the 59 extension (≈38"), with
+spare. Cross member from the 2" × 2" × ¼" angle in item 2.
 
 **The profile:**
 - The ramp behind the firebox continues at about 45° up to about station 55. That's item 3a.
@@ -41,7 +41,7 @@ final size on site.
 | Station | Top of bar, below rim | Brick top to fin bottom | Support |
 |---|---|---|---|
 | ≈55 (top of ramp) | ≈14" | ≈4½" (7" flue fins) | **New cross member**, 2 × 2 × ¼ angle, horizontal leg up, clipped to the side walls |
-| 59 | ≈13⅝" | ≈4" | **Existing angle (top at 15") + 1" square tube riser** tacked on top of it, full width |
+| 59 | ≈13⅝" | ≈4" | **Existing angle (top at 15"), extended up ≈1"** with a full-width piece of the 2 × ⅜ flat welded to its vertical leg |
 | 87.75 | ≈10⅞" | ≈1⅜" | **Existing angle as is.** Bars sit directly on its top (11¼"). No cutting. |
 | 97 | ≈10" | **≈½"** at the end of the flue fins, ≈3½" under the 4" filter fins | None (25¼" span from 87.75 to the rear) |
 | 113 (rear) | ≈8½" | ≈2" (filter fins) | **Old floor.** The slope lands right on it; shim to bear. |
@@ -54,7 +54,7 @@ final size on site.
   - Fins longer: the ½" at 97 is gone. Then lower the bars at 87.75 by hanging them on clips welded to
     the face of the angle instead of sitting on top. That drops the line about ½".
   - **Hold at least ½" between brick and fin everywhere.**
-- **Tack the bars** to the cross member, the riser and the 87.75 angle. Don't run full welds, so the
+- **Tack the bars** to the cross member, the 59 extension and the 87.75 angle. Don't run full welds, so the
   frame can grow with heat.
 - Paint the bars with high-temp paint before setting.
 
@@ -187,7 +187,6 @@ handle on it.
 |---|---|---|
 | 1 | 2" × ⅜" flat bar, 20' | 2 |
 | 2 | 2" × 2" × ¼" angle, 20' | 3 |
-| 2a | 1" square tube, 14 ga, 4' | 1 |
 | 3 | 3/16" A36 plate, 4' × 4' | 1 |
 | 4 | 1" × 1" × ⅛" angle, 3' | 1 |
 | 5 | ¼" × 1½" flat bar, 2' | 1 |
