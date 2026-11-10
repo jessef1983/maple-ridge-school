@@ -259,7 +259,7 @@ callouts([
 dim((-hw, 2), (hw, 2), (0, -4))
 dim((x0, bt), (x0 + BAR_OC, bt), (x0 + BAR_OC / 2, bt - 3))
 
-cmd("_UNDO", "_E", "_ZOOM", "_E")
+cmd("_UNDO", "_E", "_ZOOM", "_Fit")            # ARES has no ZOOM Extents; Fit is the equivalent
 
 dest = Path(__file__).with_name("school-arch.scr")
 dest.write_text("\n".join(out) + "\n", encoding="ascii")
