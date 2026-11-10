@@ -10,20 +10,23 @@ Geometry from docs/session-notes/2026-10-30.md and sap-house/arch/2026-11-03-fie
 (final plan 2026-11-05, front decisions 2026-11-09/10), plus material-list-2026-11-10.md.
 Fin depths (7" flue, 4" filter, below the rim) are ASSUMED until measured with the pan seated.
 
+Notes sit in columns beside each view with leader lines, never on the geometry.
 Re-running the script first erases everything on ARCH-* layers, so it replaces an
 earlier run instead of stacking on top of it.
 
 Edit the parameters below and re-run: python make_arch_scr.py
 """
+from math import atan, degrees
 from pathlib import Path
 
 # --- Existing arch (inches) -----------------------------------------------
 RIM = 32.5                    # top of pan rail off the floor
 RIM_L = 113.75                # inside rim length
 FIREBOX_D = 36.0
-FIREBOX_W = 29.0
 GRATE_Z = 7.0
-RAMP = ((36.5, 0.0), (45.5, RIM - 21.0))        # existing steep ramp behind the firebox
+# Back of the firebox is vertical to grate height, then the existing ramp rises
+# 4.5" over 9" (about 27 deg) to 21" below the rim at 45.5 (10-30 notes).
+RAMP = ((36.5, GRATE_Z), (45.5, RIM - 21.0))
 FLOOR_RISE = 2.125 / 12                          # existing floor slope behind the ramp
 REAR_X = 115.0
 old_floor = lambda x: RAMP[1][1] + (x - RAMP[1][0]) * FLOOR_RISE
@@ -45,34 +48,37 @@ DOOR_W, DOOR_H, DOOR_BOT = 27.5, 20.5, 8.5
 BRACE_H = 2.0                                    # assumed, for drawing only
 LOUVER_W, LOUVER_H = 31.0, 8.0
 
+# Grates: 2x2x1/4 angle, point down, V open up so it fills with ash
+GRATE_N, GRATE_OC, GRATE_X0, GRATE_LEG = 10, 3.5, 2.5, 2.0
+
 # --- New work ------------------------------------------------------------
 BRICK, BLANKET = 2.5, 1.0
+LINING = BLANKET + BRICK
 BAR_T, BAR_W, BAR_OC, N_BARS = 0.375, 2.0, 9.0625, 5
 MIN_GAP = 0.5
 # Floor line: bars sit on top of the existing 87.75 angle, slope set by the 1/2" minimum
-# gap under the flue fins at 97. Brick top z as a function of station.
+# gap under the flue fins at 97.
 X1, X2 = 87.75, 97.0
 BT1 = ANGLES[X1] + BAR_T + BRICK                 # brick top at 87.75
 BT2 = RIM - FLUE_FIN - MIN_GAP                   # brick top at 97
 SLOPE = (BT2 - BT1) / (X2 - X1)
 brick_top = lambda x: BT1 + (x - X1) * SLOPE
 bar_top = lambda x: brick_top(x) - BRICK
-# 45 deg ramp: continue the existing ramp plate at 45 deg from its top; the finished
-# brick face sits 3.5" (blanket + brick) off the plate.
-LINING = BLANKET + BRICK
-RAMP_OFF = LINING * 2 ** 0.5                     # vertical offset of the finished face at 45 deg
-ramp_face = lambda x: RAMP[1][1] + (x - RAMP[1][0]) + RAMP_OFF
-# where the 45 deg finished face meets the floor line
-RX = (BT1 - X1 * SLOPE - RAMP[1][1] + RAMP[1][0] - RAMP_OFF) / (1 - SLOPE)
-RZ = brick_top(RX)
-X_END = 113.0
-EXT_59 = bar_top(59.0) - BAR_T - ANGLES[59.0]    # flat-bar extension above the 59 angle
+X0, X_END = 59.0, 113.0                          # bars run from the 59 angle to the rear
+EXT_59 = bar_top(X0) - BAR_T - ANGLES[X0]        # flat-bar extension above the 59 angle
+# New ramp plate: from the top of the existing ramp to the top of the 59 angle.
+# Its lined face (3.5" off the plate) meets the floor brick at 59.
+PLATE = (RAMP[1], (X0, ANGLES[X0]))
+PM = (PLATE[1][1] - PLATE[0][1]) / (PLATE[1][0] - PLATE[0][0])
+FACE_OFF = LINING * (1 + PM ** 2) ** 0.5
+EM = (RAMP[1][1] - RAMP[0][1]) / (RAMP[1][0] - RAMP[0][0])
+EX_OFF = LINING * (1 + EM ** 2) ** 0.5
 
 out = []
 def cmd(*parts): out.extend(str(p) for p in parts)
 OX, OY = 0.0, 0.0                                # view origin offset
 def pt(x, y): return f"{x + OX:.2f},{y + OY:.2f}"
-def layer(name, color, ltype=None):              # ltype kept for intent; existing work is gray
+def layer(name, color):
     cmd("_-LAYER", "_M", name, "_C", color, "", "")
 def line(a, b): cmd("_LINE", pt(*a), pt(*b), "")
 def pline(pts, closed=False): cmd("_PLINE", *[pt(*p) for p in pts], "_C" if closed else "")
@@ -82,8 +88,24 @@ def dim(a, b, at): cmd("_DIMLINEAR", pt(*a), pt(*b), pt(*at))
 def angle_l(x, ztop, leg=ANGLE_LEG):            # angle seen end-on, legs down and back
     pline([(x, ztop - leg), (x, ztop), (x + leg, ztop)])
 
-TITLE_H, NOTE_H = 3.0, 1.5
+TITLE_H, NOTE_H, NOTE_GAP = 2.5, 1.25, 2.6
 f = lambda v: f"{v:.2f}".rstrip("0").rstrip(".")
+eighth = lambda v: f(round(v * 8) / 8)
+
+def callouts(notes, col_x, side, top):
+    """Stack notes in a column at col_x with a leader to each target.
+    notes: [(tx, tz, text)], placed in target-height order so leaders don't cross.
+    side "R": text starts at col_x; "L": text ends at col_x."""
+    layer("ARCH-NOTE", 2)
+    z = top
+    for tx, tz, s in sorted(notes, key=lambda n: -n[1]):
+        z = min(z, tz)
+        w = len(s) * NOTE_H * 0.9
+        x0 = col_x if side == "R" else col_x - w
+        text(x0, z, NOTE_H, s)
+        end = (col_x - 1, z + NOTE_H / 2) if side == "R" else (col_x + 1, z + NOTE_H / 2)
+        line((tx, tz), end)
+        z -= NOTE_GAP
 
 cmd("_UNDO", "_BE", "_OSMODE", 0)
 cmd("""(if (setq ss (ssget "_X" '((8 . "ARCH-*")))) (command "_.ERASE" ss ""))""")
@@ -91,8 +113,9 @@ cmd("_DIMSCALE", 4, "_DIMLUNIT", 4, "_DIMDEC", 3, "_DIMTIH", 0, "_DIMTOH", 0)
 
 # ===== SECTION A: long section ================================================
 OX, OY = 0.0, 0.0
-layer("ARCH-EXIST", 8, "DASHED")
-pline([(0, 0), RAMP[0], RAMP[1], (REAR_X, old_floor(REAR_X))])          # old floor
+layer("ARCH-EXIST", 8)
+pline([(0, 0), (FIREBOX_D, 0), (FIREBOX_D, GRATE_Z), RAMP[0], RAMP[1],
+       (REAR_X, old_floor(REAR_X))])                                      # old floor + ramp
 for x, zt in ANGLES.items():
     angle_l(x, zt)
 line((0, RIM), (RIM_L, RIM))                                              # rim line
@@ -109,77 +132,90 @@ line((0, DOOR_BOT + DOOR_H), (0, RIM))
 line((-1.5, DOOR_BOT), (-1.5, DOOR_BOT + DOOR_H))                         # fire door (closed)
 line((-0.75, DOOR_BOT - BRACE_H), (-0.75, 0.5))                           # louver (closed)
 layer("ARCH-GRATE", 1)
-for k in range(10):
-    x = 2 + 3.5 * k
-    pline([(x - 1, GRATE_Z - 1.4), (x, GRATE_Z), (x + 1, GRATE_Z - 1.4)])  # V-up angle
+for k in range(GRATE_N):
+    x = GRATE_X0 + GRATE_OC * k
+    pline([(x - 1, GRATE_Z), (x, GRATE_Z - 1.4), (x + 1, GRATE_Z)])       # point down, V up
 layer("ARCH-NEW-STEEL", 30)
-pline([RAMP[1], (RX - 1.5, RAMP[1][1] + RX - 1.5 - RAMP[1][0])])          # 45 deg ramp plate
-angle_l(RX - ANGLE_LEG, bar_top(RX) - BAR_T)                              # cross member at top of ramp
-box(59.0 - BAR_T, ANGLES[59.0], 59.0, ANGLES[59.0] + EXT_59)              # 59 extension
-pline([(RX - ANGLE_LEG, bar_top(RX - ANGLE_LEG)), (X_END, bar_top(X_END))])   # bar top
-pline([(RX - ANGLE_LEG, bar_top(RX - ANGLE_LEG) - BAR_T), (X_END, bar_top(X_END) - BAR_T)])
+pline(list(PLATE))                                                        # new ramp plate
+box(X0 - BAR_T, ANGLES[X0], X0, ANGLES[X0] + EXT_59)                      # 59 extension
+pline([(X0, bar_top(X0)), (X_END, bar_top(X_END))])                       # bars, top
+pline([(X0, bar_top(X0) - BAR_T), (X_END, bar_top(X_END) - BAR_T)])       # bars, bottom
 layer("ARCH-BRICK", 1)
-pline([(RX - ANGLE_LEG, brick_top(RX - ANGLE_LEG)), (X_END, brick_top(X_END))])
-line((RX - ANGLE_LEG, brick_top(RX - ANGLE_LEG)), (RX - ANGLE_LEG, bar_top(RX - ANGLE_LEG)))
+pline([(X0, brick_top(X0)), (X_END, brick_top(X_END))])                   # floor brick top
 line((X_END, brick_top(X_END)), (X_END, bar_top(X_END)))
-pline([(RAMP[1][0], ramp_face(RAMP[1][0])), (RX, RZ)])                    # 45 deg brick face
-pline([(RAMP[0][0] - LINING, 0), (RAMP[1][0] - LINING * 0.6, ramp_face(RAMP[1][0]))])  # lined old ramp
-layer("ARCH-FILL", 9, "DASHED")
-line((RX, bar_top(RX) - BAR_T - 0.1), (X_END - 6, old_floor(X_END - 6)))  # perlite fill (schematic)
+pline([(FIREBOX_D - LINING, 0), (FIREBOX_D - LINING, GRATE_Z + EX_OFF - LINING * EM),
+       (RAMP[1][0], RAMP[1][1] + EX_OFF),
+       (X0, PLATE[1][1] + FACE_OFF)])                                     # lined firebox back + ramp face
+layer("ARCH-FILL", 9)
+line((X0 + 1, bar_top(X0 + 1) - BAR_T - 0.1), (X_END - 6, old_floor(X_END - 6)))  # perlite fill (schematic)
+# gap marks
 layer("ARCH-NOTE", 2)
-text(0, RIM + PAN_DEPTH + 10, TITLE_H, "SECTION A - LONG SECTION ON CENTERLINE (LOOKING AT RIGHT SIDE)")
-text(0, RIM + PAN_DEPTH + 6, NOTE_H,
-     f"FIN DEPTHS ASSUMED {f(FLUE_FIN)}\" FLUE / {f(FILTER_FIN)}\" FILTER BELOW RIM - MEASURE WITH PAN SEATED")
-for x in (RX, 59.0, 87.75, 97.0, X_END):
-    gap = RIM - (FLUE_FIN if x < 97 else FILTER_FIN) - brick_top(x)
-    line((x, brick_top(x)), (x, brick_top(x) + gap))
-    text(x + 0.5, brick_top(x) + gap / 2 - 0.75, NOTE_H, f"{f(round(gap * 8) / 8)}\" GAP")
-    text(x - 2, -4, NOTE_H, f"STA {f(round(x * 4) / 4)}")
-text(97.5, brick_top(97) + 4.5, NOTE_H, f"{f(RIM - FILTER_FIN - brick_top(97))}\" UNDER FILTER FINS")
-text(RX + 2, bar_top(RX) - 6, NOTE_H, f"2x3/8 FLAT BARS, {N_BARS} @ {f(BAR_OC)} OC, ONE PIECE ~{f(round(X_END - RX + ANGLE_LEG))}\"")
-text(60, ANGLES[59.0] - 4, NOTE_H, f"59 ANGLE + {f(round(EXT_59 * 8) / 8)}\" FLAT EXTENSION")
-text(88.5, ANGLES[87.75] - 4, NOTE_H, "87.75 ANGLE AS IS - BARS ON TOP")
-text(RX - 14, RZ + 3, NOTE_H, f"45 DEG RAMP TO STA {f(round(RX))}")
-text(2, GRATE_Z + 2, NOTE_H, "GRATES 10 x 2x2x1/4 V-UP @ 3.5")
-text(-14, DOOR_BOT + DOOR_H / 2, NOTE_H, "FIRE DOOR")
-text(-14, 3, NOTE_H, "LOUVER")
-text(40, RIM + PAN_DEPTH / 2, NOTE_H, "FLUE PAN")
-text(5, RIM + PAN_DEPTH / 2, NOTE_H, "FINISH PAN")
-text(98, RIM + PAN_DEPTH / 2, NOTE_H, "FILTER")
-dim((0, RIM), (0, 0), (-20, RIM / 2))
-dim((0, DOOR_BOT), (0, DOOR_BOT + DOOR_H), (-8, DOOR_BOT + DOOR_H / 2))
-dim((0, -8), (FIREBOX_D, -8), (FIREBOX_D / 2, -10))
+gaps = []
+for x in (X0, 87.75, 97.0, X_END):
+    fin = FLUE_FIN if x < 97 else FILTER_FIN
+    g = RIM - fin - brick_top(x)
+    line((x, brick_top(x)), (x, RIM - fin))
+    gaps.append((x, brick_top(x) + g / 2, f"STA {f(x)}: {eighth(g)}\" BRICK TO FIN"))
+g97 = RIM - FILTER_FIN - brick_top(97.0)
+gaps.append((97.5, brick_top(97.0) + g97 - 0.5, f"STA 97: {eighth(g97)}\" UNDER FILTER FINS"))
+text(0, RIM + PAN_DEPTH + 12, TITLE_H, "SECTION A - LONG SECTION")
+text(0, RIM + PAN_DEPTH + 8.5, NOTE_H, f"FIN DEPTHS ASSUMED {f(FLUE_FIN)}\" FLUE / {f(FILTER_FIN)}\" FILTER BELOW RIM - MEASURE WITH PAN SEATED")
+callouts(gaps + [
+    ((FILTER[0] + FILTER[1]) / 2, RIM + PAN_DEPTH / 2, "FILTER PAN"),
+    (X_END - 4, bar_top(X_END - 4), "BARS LAND ON OLD FLOOR - SHIM"),
+    (87.75 + 1, ANGLES[87.75], "87.75 ANGLE AS IS - BARS ON TOP"),
+    (100, bar_top(100) - BAR_T / 2, f"2x3/8 FLAT, {N_BARS} @ {f(BAR_OC)} OC, ~{f(round(X_END - X0 + 1))}\" ONE PIECE"),
+], col_x=125, side="R", top=RIM + PAN_DEPTH)
+callouts([
+    ((FLUE[0] + FLUE[1]) / 2, RIM + PAN_DEPTH / 2, "FLUE PAN"),
+    ((FINISH[0] + FINISH[1]) / 2, RIM + PAN_DEPTH / 2, "FINISH PAN"),
+    (X0 - BAR_T / 2, ANGLES[X0] + EXT_59 / 2, f"59 ANGLE + {eighth(EXT_59)}\" FLAT EXTENSION = TOP OF RAMP"),
+    (52, PLATE[0][1] + (52 - PLATE[0][0]) * PM, f"NEW 3/16 RAMP PLATE ~{f(round(degrees(atan(PM))))} DEG, LINED 3.5\""),
+    (41, RAMP[0][1] + (41 - RAMP[0][0]) * EM, f"EXIST. RAMP ~{f(round(degrees(atan(EM))))} DEG"),
+    (GRATE_X0 + GRATE_OC * 4, GRATE_Z - 0.7, "GRATES 2x2x1/4, POINT DOWN, FILL WITH ASH"),
+    (FIREBOX_D, GRATE_Z / 2, "FIREBOX BACK VERTICAL TO GRATE HT"),
+], col_x=-28, side="L", top=RIM + PAN_DEPTH)
+dim((0, RIM), (0, 0), (-6, RIM / 2))
+dim((0, -6), (FIREBOX_D, -6), (FIREBOX_D / 2, -8))
+dim((FIREBOX_D, -6), (X0, -6), ((FIREBOX_D + X0) / 2, -8))
+dim((X0, -6), (87.75, -6), ((X0 + 87.75) / 2, -8))
+dim((87.75, -6), (X_END, -6), ((87.75 + X_END) / 2, -8))
 
 # ===== FRONT ELEVATION =========================================================
-OX, OY = -90.0, 0.0
-cx = 0.0
+OX, OY = -160.0, 0.0
 layer("ARCH-FRONT", 7)
-pline([(cx - FRONT_W_BOT / 2, 0), (cx + FRONT_W_BOT / 2, 0),
-       (cx + FRONT_W_TOP / 2, FRONT_H), (cx - FRONT_W_TOP / 2, FRONT_H)], True)
-box(cx - DOOR_W / 2, DOOR_BOT, cx + DOOR_W / 2, DOOR_BOT + DOOR_H)        # door opening
-box(cx - FRONT_W_BOT / 2, DOOR_BOT - BRACE_H, cx + FRONT_W_BOT / 2, DOOR_BOT)  # cross brace
+pline([(-FRONT_W_BOT / 2, 0), (FRONT_W_BOT / 2, 0),
+       (FRONT_W_TOP / 2, FRONT_H), (-FRONT_W_TOP / 2, FRONT_H)], True)
+box(-DOOR_W / 2, DOOR_BOT, DOOR_W / 2, DOOR_BOT + DOOR_H)                 # door opening
+box(-FRONT_W_BOT / 2, DOOR_BOT - BRACE_H, FRONT_W_BOT / 2, DOOR_BOT)      # cross brace
 layer("ARCH-NEW-STEEL", 30)
-box(cx - LOUVER_W / 2, DOOR_BOT - BRACE_H - LOUVER_H + 1.5, cx + LOUVER_W / 2, DOOR_BOT - BRACE_H + 1.5)
-for hx in (cx - LOUVER_W / 2 + 4, cx + LOUVER_W / 2 - 8):
-    box(hx, DOOR_BOT - BRACE_H, hx + 4, DOOR_BOT - BRACE_H + 1)            # barrel hinges
-pline([(cx + LOUVER_W / 2 - 1, 1.5), (cx + LOUVER_W / 2 + 3, 8)])         # quadrant arm (schematic)
+lv_top = DOOR_BOT - BRACE_H
+box(-LOUVER_W / 2, lv_top - LOUVER_H, LOUVER_W / 2, lv_top)               # louver (overlaps pit front)
+for hx in (-LOUVER_W / 2 + 4, LOUVER_W / 2 - 8):
+    box(hx, lv_top - 0.5, hx + 4, lv_top + 0.5)                           # barrel hinges
+pline([(LOUVER_W / 2 - 2, lv_top - LOUVER_H + 1), (LOUVER_W / 2 + 2, lv_top - 1)])  # quadrant arm
 layer("ARCH-NOTE", 2)
-text(cx - FRONT_W_TOP / 2, FRONT_H + 10, TITLE_H, "FRONT ELEVATION")
-text(cx - 10, DOOR_BOT + DOOR_H / 2, NOTE_H, f"FIRE DOOR OPENING {f(DOOR_W)} x {f(DOOR_H)}")
-text(cx - 14, DOOR_BOT - 1.5, NOTE_H, "EXIST. CROSS BRACE (STAYS)")
-text(cx - 14, 2.5, NOTE_H, f"LOUVER ~{f(LOUVER_W)} x {f(LOUVER_H)}, BARREL HINGES AT TOP")
-text(cx + LOUVER_W / 2 + 4, 6, NOTE_H, "QUADRANT ARM")
-dim((cx - FRONT_W_TOP / 2, FRONT_H), (cx + FRONT_W_TOP / 2, FRONT_H), (cx, FRONT_H + 5))
-dim((cx - FRONT_W_BOT / 2, 0), (cx + FRONT_W_BOT / 2, 0), (cx, -5))
-dim((cx - DOOR_W / 2, DOOR_BOT + DOOR_H), (cx + DOOR_W / 2, DOOR_BOT + DOOR_H), (cx, DOOR_BOT + DOOR_H + 2.5))
-dim((cx + FRONT_W_BOT / 2, 0), (cx + FRONT_W_TOP / 2, FRONT_H), (cx + FRONT_W_TOP / 2 + 6, FRONT_H / 2))
-dim((cx - DOOR_W / 2, 0), (cx - DOOR_W / 2, DOOR_BOT), (cx - DOOR_W / 2 - 4, DOOR_BOT / 2))
+text(-FRONT_W_TOP / 2, FRONT_H + 12, TITLE_H, "FRONT ELEVATION")
+callouts([
+    (0, DOOR_BOT + DOOR_H - 2, f"FIRE DOOR OPENING {f(DOOR_W)} x {f(DOOR_H)}"),
+    (-FRONT_W_BOT / 2 + 1, DOOR_BOT - BRACE_H / 2, "EXIST. CROSS BRACE - STAYS"),
+    (-LOUVER_W / 2 + 6, lv_top, "BARREL HINGES (2)"),
+    (-LOUVER_W / 2 + 2, lv_top - LOUVER_H / 2, f"LOUVER ~{f(LOUVER_W)} x {f(LOUVER_H)}, FIELD-FIT"),
+], col_x=-FRONT_W_TOP / 2 - 6, side="L", top=FRONT_H)
+callouts([
+    (LOUVER_W / 2 + 1, lv_top - LOUVER_H / 2, "QUADRANT ARM, AWAY FROM DOOR LATCH"),
+], col_x=FRONT_W_TOP / 2 + 6, side="R", top=FRONT_H)
+dim((-FRONT_W_TOP / 2, FRONT_H), (FRONT_W_TOP / 2, FRONT_H), (0, FRONT_H + 5))
+dim((-FRONT_W_BOT / 2, 0), (FRONT_W_BOT / 2, 0), (0, -6))
+dim((-DOOR_W / 2, DOOR_BOT + DOOR_H), (DOOR_W / 2, DOOR_BOT + DOOR_H), (0, DOOR_BOT + DOOR_H + 2.5))
+dim((FRONT_W_TOP / 2, 0), (FRONT_W_TOP / 2, FRONT_H), (FRONT_W_TOP / 2 + 3, FRONT_H / 2))
+dim((DOOR_W / 2, 0), (DOOR_W / 2, DOOR_BOT), (DOOR_W / 2 + 6, DOOR_BOT / 2))
 
 # ===== SECTION B: cross section through the back bays =========================
 XS = 70.0
-OX, OY = 150.0, 0.0
+OX, OY = 250.0, 0.0
 hw = SHELL_W / 2
-layer("ARCH-EXIST", 8, "DASHED")
+layer("ARCH-EXIST", 8)
 pline([(-hw, old_floor(XS)), (hw, old_floor(XS))])
 layer("ARCH-FRONT", 7)
 pline([(-hw, 0), (-hw, RIM), (-hw - 2.5, RIM)])                            # shell + rim (schematic)
@@ -202,16 +238,21 @@ for k in range(N_BARS - 1):
 side_top = RIM - FLUE_FIN - 0.5
 side_in = (SHELL_W - FIN_SPAN - 1) / 2                                     # lining allowance per side
 for s in (-1, 1):
-    xo = s * hw
     xi = s * (hw - side_in)
-    box(min(xo, xi), bt + BRICK, max(xo, xi), side_top)                   # blanket + brick on edge
+    box(min(s * hw, xi), bt + BRICK, max(s * hw, xi), side_top)           # blanket + brick on edge
     box(min(xi, xi + s * BRICK), bt + BRICK, max(xi, xi + s * BRICK), side_top)
 layer("ARCH-NOTE", 2)
-text(-hw, RIM + PAN_DEPTH + 10, TITLE_H, f"SECTION B - BACK BAYS AT STA {f(XS)}, LOOKING TO CHIMNEY")
-text(-hw, bt - 5, NOTE_H, f"{N_BARS} BARS 2x3/8 @ {f(BAR_OC)} OC, BRICK CROSSWISE")
-text(-hw, RIM + PAN_DEPTH + 6, NOTE_H, f"SIDES: BRICK ON EDGE + ~7/8 BLANKET ({f(side_in)}\"/SIDE AT {f(SHELL_W)} SHELL)")
-dim((-hw, 2), (hw, 2), (0, -3))
-dim((x0, bt), (x0 + BAR_OC, bt), (x0 + BAR_OC / 2, bt - 2.5))
+text(-hw, RIM + PAN_DEPTH + 12, TITLE_H, f"SECTION B - BACK BAYS AT STA {f(XS)}")
+text(-hw, RIM + PAN_DEPTH + 8.5, NOTE_H, "LOOKING TOWARD THE CHIMNEY")
+callouts([
+    (0, RIM - FLUE_FIN / 2, "FLUE PAN FINS"),
+    (hw - side_in / 2, (bt + side_top) / 2, f"BRICK ON EDGE + ~7/8 BLANKET, {eighth(side_in)}\"/SIDE"),
+    (x0 + BAR_OC / 2, bt + BRICK / 2, "FULL BRICK LAID CROSSWISE"),
+    (x0 + BAR_OC, bt - BAR_T / 2, f"{N_BARS} BARS 2x3/8 @ {f(BAR_OC)} OC"),
+    (0, old_floor(XS), "OLD FLOOR; PERLITE FILL BELOW BARS"),
+], col_x=hw + 8, side="R", top=RIM + PAN_DEPTH)
+dim((-hw, 2), (hw, 2), (0, -4))
+dim((x0, bt), (x0 + BAR_OC, bt), (x0 + BAR_OC / 2, bt - 3))
 
 cmd("_UNDO", "_E", "_ZOOM", "_E")
 
@@ -219,7 +260,7 @@ dest = Path(__file__).with_name("school-arch.scr")
 dest.write_text("\n".join(out) + "\n", encoding="ascii")
 print(dest)
 print(f"floor line: brick top {BT1:.2f} at 87.75, {BT2:.2f} at 97, slope {SLOPE * 12:.2f}\"/ft")
-print(f"ramp top: sta {RX:.2f}, brick top z {RZ:.2f} ({RIM - RZ:.2f} below rim)")
-print(f"59 extension {EXT_59:.2f}\", bar length {X_END - RX + ANGLE_LEG:.1f}\"")
-for x in (RX, 59, 87.75, 97, 113):
+print(f"ramp plate {degrees(atan(PM)):.1f} deg; lined face at 59 {PLATE[1][1] + FACE_OFF:.2f} vs floor brick {brick_top(X0):.2f}")
+print(f"59 extension {EXT_59:.2f}\", bar length {X_END - X0:.1f}\"")
+for x in (X0, 87.75, 97, 113):
     print(f"sta {x:6.2f}: bar top {RIM - bar_top(x):.2f} below rim, old floor {RIM - old_floor(x):.2f} below rim")

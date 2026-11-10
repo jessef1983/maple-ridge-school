@@ -18,19 +18,21 @@ final size on site.
 
 ---
 
-## 1. Back-bay floor frame (stations ≈50 → 113)
+## 1. Back-bay floor frame (stations 59 → 113)
 
-**Order:** 2" × ⅜" flat bar, 2 × 20'. That covers the 5 bars (≈325") and the 59 extension (≈38"), with
-spare. Cross member from the 2" × 2" × ¼" angle in item 2.
+**Order:** 2" × ⅜" flat bar, 2 × 20'. That covers the 5 bars (≈270") and the 59 extension (≈38"), with
+spare. No new cross members: the bars sit on the two existing angles and the old floor.
 
 **The profile:**
-- The ramp behind the firebox continues at about 45° up to about station 50. That's item 3a.
-- From there, one straight slope runs all the way to the back. There's no bridge wall and no bend.
+- The back of the firebox is vertical up to grate height (7"). The existing ramp then rises 4½" over
+  9" (about 27°) to station 45½. A new plate carries it on at about 24° up to the top of the 59 angle
+  (item 3a).
+- From 59, one straight slope runs all the way to the back. There's no bridge wall and no bend.
 - The gap under the fins closes from front to back, then opens again under the shorter filter fins.
 
 **Layout:**
 - **5 lengthwise bars at 9 1/16" centers**, with the outer bars about 1" off each side wall.
-- **Each bar is one straight piece, about 65" from ≈48 to 113.** A 20' stick gives 3.
+- **Each bar is one straight piece, about 54" from 59 to 113.** A 20' stick gives 4.
 - **Bricks lay crosswise:** each 9" brick spans bar to bar with about 1" of bearing on each end. Four
   bricks per row.
 - **⅜" is decided, not ¼".** The longest span is 28¾" (59 to 87.75). ¼" would sag about 7/32" under
@@ -40,8 +42,7 @@ spare. Cross member from the 2" × 2" × ¼" angle in item 2.
 
 | Station | Top of bar, below rim | Brick top to fin bottom | Support |
 |---|---|---|---|
-| ≈50 (top of ramp) | ≈14½" | ≈5" (7" flue fins) | **New cross member**, 2 × 2 × ¼ angle, horizontal leg up, clipped to the side walls |
-| 59 | ≈13⅝" | ≈4" | **Existing angle (top at 15"), extended up ≈1"** with a full-width piece of the 2 × ⅜ flat welded to its vertical leg |
+| 59 (top of ramp) | ≈13⅝" | ≈4" (7" flue fins) | **Existing angle (top at 15"), extended up ≈1"** with a full-width piece of the 2 × ⅜ flat welded to its vertical leg |
 | 87.75 | ≈10⅞" | ≈1⅜" | **Existing angle as is.** Bars sit directly on its top (11¼"). No cutting. |
 | 97 | ≈10" | **≈½"** at the end of the flue fins, ≈3½" under the 4" filter fins | None (25¼" span from 87.75 to the rear) |
 | 113 (rear) | ≈8½" | ≈2" (filter fins) | **Old floor.** The slope lands right on it; shim to bear. |
@@ -54,7 +55,7 @@ spare. Cross member from the 2" × 2" × ¼" angle in item 2.
   - Fins longer: the ½" at 97 is gone. Then lower the bars at 87.75 by hanging them on clips welded to
     the face of the angle instead of sitting on top. That drops the line about ½".
   - **Hold at least ½" between brick and fin everywhere.**
-- **Tack the bars** to the cross member, the 59 extension and the 87.75 angle. Don't run full welds, so the
+- **Tack the bars** to the 59 extension and the 87.75 angle. Don't run full welds, so the
   frame can grow with heat.
 - Paint the bars with high-temp paint before setting.
 
@@ -67,16 +68,15 @@ spare. Cross member from the 2" × 2" × ¼" angle in item 2.
 5. Dry-lay the brick. Set clay pats on the brick, seat the pan, then lift it and read the clearances.
    Mortar only after that.
 
-## 2. 2" × 2" × ¼" angle (3 × 20')
+## 2. 2" × 2" × ¼" angle (2 × 20')
 
 | Use | Cut | Total |
 |---|---|---|
-| Floor-frame cross member at ≈50 (top of ramp) | 1 × ≈38", field-fit | ≈3¼' |
 | Grate bars | 10 × 27½" | ≈23' |
 | Fire door frame | 2 sides × ≈22" + top × ≈31½", mitered, field-fit | ≈6½' |
-| Spare / weld clips | — | ≈27' |
+| Spare / weld clips | — | ≈10' |
 
-- **Grates:** 10 bars of 27½" angle set **V-up** (point up, so ash fills the V and protects the bar), on
+- **Grates:** 10 bars of 27½" angle set **point down, V open up**, so ash fills the V and insulates the bar, on
   3½" centers. The ends rest on the firebox side ledges and the middle on the new firebrick center wall
   (Jesse's brick work). **Brick must not rest on the grate bars.**
 - **Fire door frame:** replaces the warped angle on the sides and top. The existing cross brace is the
@@ -86,12 +86,13 @@ spare. Cross member from the 2" × 2" × ¼" angle in item 2.
 
 ## 3. 3/16" A36 plate, 4' × 4'
 
-**a. Ramp and bay 37 → 50:** replaces the old plate there, field-fit.
-- **Continue the existing steep ramp behind the firebox at about 45°** up to the new cross member at
-  ≈50. The existing ramp reaches 21" below the rim at station 45½.
-- **Set the plate 3½" below the finished surface** to leave room for 1" blanket and 2½" brick. The
-  finished brick face of the ramp has to meet the top of the floor brick at the cross member.
-- **Brick on the 45° face:** mortar it and start it from a toe at the bottom so it can't slide.
+**a. Ramp, 45½ → 59:** new plate, about 15" along the slope × the shell width, field-fit.
+- **Run it from the top of the existing ramp** (station 45½, 21" below the rim) **to the top of the 59
+  angle** (15" below the rim). That's 6" of rise over 13½", about 24°, a little flatter than the
+  existing 27° ramp.
+- **Lined with 1" blanket and 2½" brick (3½")**, its finished face meets the top of the floor brick at
+  59 within about 1/16". The existing ramp and the vertical back of the firebox get the same lining.
+- **Brick on the ramp:** mortar it and start it from a toe at the bottom so it can't slide.
 - **The sides in this bay** get full brick up to 15" below rim, then brick on edge at fin height with
   about ⅞" blanket behind. Keep the lining off the fins.
 
@@ -186,7 +187,7 @@ handle on it.
 | # | Item | Qty |
 |---|---|---|
 | 1 | 2" × ⅜" flat bar, 20' | 2 |
-| 2 | 2" × 2" × ¼" angle, 20' | 3 |
+| 2 | 2" × 2" × ¼" angle, 20' | 2 |
 | 3 | 3/16" A36 plate, 4' × 4' | 1 |
 | 4 | 1" × 1" × ⅛" angle, 3' | 1 |
 | 5 | ¼" × 1½" flat bar, 2' | 1 |
