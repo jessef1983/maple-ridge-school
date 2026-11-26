@@ -83,8 +83,8 @@ via `@admin-ado` after explicit extra approval
 
 - Never overwrite uncommitted local work — pause and offer stash/commit/skip.
 - Never force-push or auto-merge PRs.
-- Rely on `config/ado.local.json` for the ADO PAT if available; otherwise
-  prompt the user or ask `@admin-ado`.
+- ADO checks use the user's own PAT via `infra/Get-AdoPat.ps1`. If none is configured,
+  skip the ADO steps, say why, and continue with the local scan.
 
 ## Outputs
 

@@ -242,11 +242,10 @@ Safety and guardrails
   match origin rather than preserve an orphaned local commit, after human
   confirmation. Still always confirm before discarding anything local; this
   is a default answer to have ready, not a license to skip asking.
-- Rely on `config/ado.local.json` for ADO PAT if available (see also: it can
-  be sourced from Key Vault `kv-ado-cp-prd` / secret `ado-pat` per
-  `docs/session-notes/2026-08-22-ado-pat-keyvault.md` if the local file is
-  missing or expired); otherwise the skill will prompt the user or ask the
-  `admin-ado` agent for guidance.
+- The ADO checks use the user's own PAT via `infra/Get-AdoPat.ps1` (from
+  `AZURE_DEVOPS_EXT_PAT` or their own Key Vault secret). If none is configured, skip
+  the ADO steps, say why, and carry on with the local scan. Never fall back to another
+  person's token, and don't create `config/ado.local.json` (retired 2026-11-23).
 
 Outputs
 

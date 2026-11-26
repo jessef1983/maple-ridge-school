@@ -1,0 +1,13 @@
+{
+  "_comment": "Copy to config/operator.local.json (git-ignored) and put YOUR accounts in it. Agents and scripts read it via infra/Get-OperatorAccount.ps1 and infra/Get-AdoPat.ps1. Never commit the filled-in copy.",
+  "accounts": {
+    "cpops": "you@cpops.cciauth.com",
+    "ccimail": "you@ccimail.com",
+    "ccfedu": "you_ccimail.com#ext#@ccfedu.onmicrosoft.com"
+  },
+  "_adoComment": "Optional. Your OWN ADO PAT, kept in YOUR Key Vault. Or skip this and set AZURE_DEVOPS_EXT_PAT. No PAT configured = no PAT-based features.",
+  "ado": {
+    "keyVault": "your-keyvault-name",
+    "secretName": "your-ado-pat-secret"
+  }
+}

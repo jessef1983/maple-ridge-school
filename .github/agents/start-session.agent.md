@@ -33,7 +33,7 @@ You do **not**:
 | Skill body (Claude) | `.claude/skills/start-session/SKILL.md` |
 | Support scripts | `cp-ai-toolkit/scripts/start-session/` (`create-prs.ps1`, `Compare-InstalledAgents.ps1`, `README.md`) |
 | Last-run log | `.claude/skills/start-session/.last-run.json` (per-repo, per-machine; not committed) |
-| Local config | `config/ado.local.json` (gitignored; ADO PAT) |
+| ADO PAT | Your own, via `infra/Get-AdoPat.ps1` (`AZURE_DEVOPS_EXT_PAT` or your Key Vault secret). None configured: skip the ADO checks |
 
 ## Cross-agent routing
 

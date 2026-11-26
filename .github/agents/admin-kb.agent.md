@@ -57,4 +57,7 @@ Format, newest first:
 **Correct approach:** what to do instead.
 ```
 
-_No entries yet._
+### 2026-10-16 — routine 0 points at an inventory script path that does not exist
+**Attempted:** Ran routine 0 as written: `scripts/admin-kb/Get-KbLiveInventory.ps1` from the toolkit root, skills repo at `C:\cp-devops\cp-claude-enterprise-skills`.
+**Actual:** Neither path exists on this machine. Glob for `scripts/admin-kb/**` returned nothing; `Test-Path C:\cp-devops\cp-claude-enterprise-skills` is `False`. The script actually lives at `C:\Devops\cp-claude-enterprise-skills\scripts\kb-admin\Get-KbLiveInventory.ps1` (folder `kb-admin`, not `admin-kb`). Its sibling `Publish-KbModuleViaPnp.ps1` hardcodes `$toolkit = 'C:\cp-devops\cp-ai-toolkit'`, so it fails to load `spo.local.json` here. It also never stamps `CP_Audience` or `Title`, and leaves `-OSLogin` to run in whatever shell invokes it, which fails without a console window (see `@admin-spo`).
+**Correct approach:** Use `C:\Devops\cp-claude-enterprise-skills\scripts\kb-admin\`. Until the publish script takes the toolkit path as a parameter, run a wrapper from its own console window (`Start-Process pwsh -File <script> -WindowStyle Normal`, no redirection; the script writes its own transcript). Read config from `C:\Devops\cp-ai-toolkit\config\spo.local.json`, guard against overwriting existing files, and verify `CP_LifecycleStatus` per item after stamping.

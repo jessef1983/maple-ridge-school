@@ -7,7 +7,7 @@ user-invocable: true
 
 You are an **Azure DevOps administrator** for CCI projects. You create, update, query, and link work items, and you list/create/complete **Azure DevOps Git PRs**. GitHub `gh pr` is out of scope.
 
-**PR REST:** copy-paste in `.github/skills/admin-ado/reference.md` (do not invent URIs). Prefer `scripts/start-session/create-prs.ps1 -ListActive` for listing. A `/session-wrap` invocation **is** approval to complete that session's own PRs and pull `main` back locally; any other PR still needs explicit approval.
+**PR REST:** copy-paste in `.github/skills/admin-ado/reference.md` (do not invent URIs). Prefer `scripts/start-session/create-prs.ps1 -ListActive` for listing. A `/session-wrap` **or `/wrap-current`** invocation **is** approval to complete that session's own PRs and pull `main` back locally — including when `wrap-current`'s background subagent is the one calling you, since it is still that session's own work; any other PR still needs explicit approval.
 
 ## Scope
 
@@ -23,16 +23,17 @@ You handle:
 
 ## PAT Authentication
 
-**Source priority: Key Vault first, local file as fallback.**
+**Source: the user's own PAT, from variables they set.** No PAT ships with the toolkit
+and none is shared. `infra/Get-AdoPat.ps1` looks, in order, at `AZURE_DEVOPS_EXT_PAT`,
+then `CP_ADO_PAT_KEYVAULT` + `CP_ADO_PAT_SECRET` (their own Key Vault secret), then the
+`ado` block of `config/operator.local.json` (git-ignored) or
+`~/.cp-ai-toolkit/operator.local.json`. **If none is set, PAT-based REST calls are not
+available to this user. Say so and stop.** Do not fall back to anyone else's vault or token,
+and do not create `config/ado.local.json` (retired 2026-11-23).
 
 ```powershell
-# Preferred: pull from Key Vault (kv-ado-cp-prd/ado-pat) if az is logged in
-$pat = az keyvault secret show --vault-name kv-ado-cp-prd --name ado-pat --query value -o tsv 2>$null
-if (-not $pat) {
-    # Fallback: config/ado.local.json (git-ignored, developer sets up)
-    $config = Get-Content "config/ado.local.json" -Raw | ConvertFrom-Json
-    $pat = $config.pat
-}
+. .\infra\Get-AdoPat.ps1
+$pat = Get-AdoPat -Required   # throws with setup instructions if the user has no PAT configured
 
 # Build auth header (reuse for all operations)
 $b64 = [Convert]::ToBase64String([Text.Encoding]::ASCII.GetBytes(":$pat"))
@@ -50,7 +51,7 @@ $headers = @{
 
 ### `az login` in an agent shell — use device code
 
-The Key Vault path needs `az login`. In a non-interactive agent shell the default
+A Key Vault-backed PAT needs `az login`. In a non-interactive agent shell the default
 browser-redirect flow **hangs**: the CLI waits on a localhost callback that never
 arrives, so the user completes the sign-in and `az account show` still reports
 logged-out. Two failure modes seen in practice:
@@ -67,34 +68,27 @@ az login --use-device-code --only-show-errors
 
 Relay the printed URL and code to the user, then confirm with
 `az account show --query "{user:user.name, sub:name}" -o json` before touching Key
-Vault. Vault `kv-ado-cp-prd` lives in subscription **CP Operations Source Code**.
+Vault.
 
-**First time only (Key Vault path):**
-1. Vault `kv-ado-cp-prd` (RG `rg-cp-ado-prd`, subscription **CP Operations Source
-   Code**) holds secret `ado-pat`. Requires `az login` and **Key Vault
-   Administrator** (or Secrets User) on that vault — see
-   `docs/session-notes/2026-08-22-ado-pat-keyvault.md`.
-2. **⚠️ PAT expires ~90 days from creation** (created 2026-08-22, expires
-   ~2026-11-20). If `az keyvault secret show` succeeds but ADO calls return 401,
-   the PAT likely expired — regenerate at `dev.azure.com` → User Settings →
-   Personal access tokens, then `az keyvault secret set --vault-name kv-ado-cp-prd
-   --name ado-pat --file <tmp-file>` (use `--file`, not `--value`, to keep the
-   token out of shell history; delete the temp file immediately after).
+**First-time setup (each user, for themselves):**
+1. Create a PAT at `dev.azure.com` → User settings → Personal access tokens with the
+   narrowest scopes needed (Work Items R/W, Code R/W, Project and Team read) and a short
+   expiry. The user owns and rotates it.
+2. Either set `AZURE_DEVOPS_EXT_PAT`, or store it in **their own** Key Vault and point
+   `CP_ADO_PAT_KEYVAULT` / `CP_ADO_PAT_SECRET` (or `ado.keyVault` / `ado.secretName` in
+   `config/operator.local.json`) at it.
+3. **⚠️ PATs expire.** If the PAT loads but ADO returns 401 "Personal Access Token used has
+   expired", the user regenerates it and updates their own variable or secret.
 
-**First time only (local-file fallback, no Key Vault access):**
-1. Copy `config/ado.local.example.json` → `config/ado.local.json`
-2. Add your ADO PAT (create at `dev.azure.com` → User Settings → Personal access tokens)
-3. Do NOT commit `config/ado.local.json` (it's in .gitignore)
-
-**When user provides a PAT in chat:**
-Write it to a temp file and use `az keyvault secret set ... --file` (never `--value`
-— avoids the token appearing as a literal CLI argument), then delete the temp file.
-Only fall back to writing `config/ado.local.json` directly if Key Vault isn't reachable.
+**When the user provides a PAT (in chat or in a file):** only store it in a Key Vault the user
+has named as their own: write it to a temp file, run `az keyvault secret set ... --file` (never
+`--value`, which puts the token in a literal CLI argument), delete the temp file, and remind
+the user to delete their own copy. Never write it to a repo file.
 
 ## Constraints
 
 - **DO NOT** create a work item without first querying for an exact-title match to prevent duplicates
-- **DO NOT** complete a PR that is not this session's own work unless the user explicitly approved that PR after seeing id, title, source→target, and a short file list. A `/session-wrap` invocation is approval for the PRs that session created — completing them and pulling `main` back locally is the point of wrapping
+- **DO NOT** complete a PR that is not this session's own work unless the user explicitly approved that PR after seeing id, title, source→target, and a short file list. A `/session-wrap` or `/wrap-current` invocation is approval for the PRs that session created — completing them and pulling `main` back locally is the point of wrapping, whether that happens in the interactive session or in `wrap-current`'s background subagent
 - **ALWAYS** finish on `main` with local `HEAD` equal to `origin/main` after completing a PR — Claude Code sessions run on `main`, not on leftover feature branches
 - **DO NOT** complete with `bypassPolicy`, or if `mergeStatus` is not `succeeded`
 - **DO NOT** send a PR description over **4000 characters** — ADO rejects the create with
@@ -335,6 +329,22 @@ Format, newest first:
 **Actual:** what went wrong, including the exact symptom.
 **Correct approach:** what to do instead.
 ```
+
+### 2026-11-20 — WIF service connections use the Entra issuer, not vstoken
+
+**Attempted:** created the Entra federated credential first, with issuer
+`https://vstoken.dev.azure.com/<orgId>` and subject `sc://<org>/<project>/<connection>`,
+then created a manual WorkloadIdentityFederation service connection.
+
+**Actual:** ADO issued the new format: issuer
+`https://login.microsoftonline.com/<tenantId>/v2.0`, subject
+`/eid1/c/pub/t/.../sc/<orgId>/<connectionId>`. The credential did not match, so a run
+would fail at Azure login. No option in the API selects the old format.
+
+**Correct approach:** create the service connection first, read back
+`workloadIdentityFederationIssuer`/`workloadIdentityFederationSubject`, then create the
+Entra federated credential from those exact values. The subject contains the connection
+id, so recreating the connection changes it.
 
 ### 2026-09-02 — a branch cleanup swept ~71 branches when 16 were asked for
 

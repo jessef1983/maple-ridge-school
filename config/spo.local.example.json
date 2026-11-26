@@ -5,6 +5,6 @@
   "defaultSitePrefix": "/sites/",
   "contentTypeHubUrl": "https://cpmfgoperations.sharepoint.com/sites/ContentTypeHub",
   "companyKnowledgeBaseUrl": "https://cpmfgoperations.sharepoint.com/sites/CompanyKnowledgeBase",
-  "siteOwnerUpn": "jessefrase@cpops.cciauth.com",
-  "pnpClientId": ""
+  "siteOwnerUpn": "you@cpops.cciauth.com",
+  "pnpClientId": "e0698bf7-db89-4b15-8fc6-27eb2e84c417"
 }

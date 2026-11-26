@@ -16,7 +16,8 @@
 
 .EXAMPLE
   pwsh -NoProfile -File scripts\spo\management\New-SkillFeedbackList.ps1 `
-    -AdminPrincipals @('jessefrase@cpops.cciauth.com')
+    -AdminPrincipals @('admin@cpops.cciauth.com')
+  # Without -AdminPrincipals, siteOwnerUpn from config/spo.local.json is used.
 #>
 [CmdletBinding(SupportsShouldProcess = $true, ConfirmImpact = 'Medium')]
 param(

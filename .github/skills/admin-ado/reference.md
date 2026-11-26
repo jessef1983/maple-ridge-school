@@ -1,10 +1,12 @@
 # admin-ado REST reference (Azure DevOps Git PRs + PAT)
 
-PAT pattern matches `.github/agents/admin-ado.agent.md`: load `config/ado.local.json` (gitignored), Basic `:$pat`. Do not commit the PAT.
+The PAT pattern matches `.github/agents/admin-ado.agent.md`: the token is the **user's own**,
+found by `infra/Get-AdoPat.ps1` from variables they set, with Basic `:$pat` auth. No PAT
+configured means no PAT-based calls. Never print the token or write it to a file.
 
 ```powershell
-$config = Get-Content "config/ado.local.json" -Raw | ConvertFrom-Json
-$pat = $config.pat
+. .\infra\Get-AdoPat.ps1
+$pat = Get-AdoPat -Required
 $b64 = [Convert]::ToBase64String([Text.Encoding]::ASCII.GetBytes(":$pat"))
 $headersJson = @{
     Authorization = "Basic $b64"
@@ -106,7 +108,7 @@ duplicate-prevention rule in the agent file applies to PRs, not just work items.
 
 ## Complete PR (wrap completes its own; others need approval)
 
-A `/session-wrap` invocation **is** approval to complete the PRs that session created — wrapping means the work lands and the repo ends on `main`. Any other PR still needs the user to explicitly say to complete/merge it (or a listed set), after seeing id, title, source→target, and a short file list.
+A `/session-wrap` **or `/wrap-current`** invocation **is** approval to complete the PRs that session created — wrapping means the work lands and the repo ends on `main`. (`wrap-current`'s own PR-completion step runs in a background subagent, not the interactive session, but it is still that session's own work and carries the same approval.) Any other PR still needs the user to explicitly say to complete/merge it (or a listed set), after seeing id, title, source→target, and a short file list.
 
 Regardless of approval, refuse when `mergeStatus` is not `succeeded` or `status` is not `active`, and never set `bypassPolicy`.
 
