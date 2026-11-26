@@ -1,10 +1,8 @@
 {
-  "lastWrapUtc": "2026-11-17T11:21:42Z",
-  "mainHeadSha": "ab8a7ced9a5e3f70cb77df785cb10b95c174507e",
-  "confirmedClean": false,
+  "lastWrapUtc": "2026-11-26T03:00:00Z",
+  "mainHeadSha": "533deec",
+  "confirmedClean": true,
   "openPRs": [],
-  "knownStaleBranches": [
-    "session-2026-11-16-sap-house-layout (merged as PR #8; local branch kept because its worktree is checked out)"
-  ],
-  "summary": "Sap house post-layout plan and north elevation (both phases). Pre-existing uncommitted agent/skill edits from other sessions left in place, so not clean."
+  "knownStaleBranches": [],
+  "summary": "Cleanup: committed the uncommitted cp-ai-toolkit tooling sync (44/45 identical to toolkit 7a36ed3) and the 11-11 sap arch check sheet via PR #9 (533deec); .gitignore BOM fixed, updates/ ignored; removed both merged worktrees and all stale branches -- only main remains."
 }
