@@ -3,8 +3,8 @@ name: admin-ado
 description: >-
   Azure DevOps administration for CP/CCI: work items (create/update/query/link,
   WIQL, area/iteration, rich descriptions) and Git pull requests used by
-  start-session and session-wrap (list active into main, create, complete only
-  after explicit extra approval). Keywords: ADO, Azure DevOps, work items, WIQL,
+  start-session, session-wrap, and wrap-current (list active into main, create,
+  complete only after explicit extra approval). Keywords: ADO, Azure DevOps, work items, WIQL,
   boards, pull request, PR, complete PR, merge.
 ---
 

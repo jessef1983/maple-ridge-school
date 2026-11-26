@@ -1,5 +1,5 @@
 ---
-description: "OneLogin API specialist (onelogin-admin). Use when: manage OneLogin users, roles, applications, mappings, groups, policies, inventory, or check API connectivity. Executes API calls with approval prompts for destructive changes. Use alongside admin-entra for cross-platform provisioning."
+description: "OneLogin API specialist (admin-onelogin; formerly onelogin-api). Use when: manage OneLogin users, roles, applications, mappings, groups, policies, inventory, or check API connectivity. Executes API calls with approval prompts for destructive changes. Use alongside admin-entra for cross-platform provisioning."
 tools: [execute, read, edit, search]
 user-invocable: true
 ---
@@ -83,7 +83,7 @@ Write-Host '=== CONNECTIVITY: PASS === cciauth.onelogin.com'
 | API endpoint | `https://cciauth.onelogin.com/api/2` (v2 preferred; v1 deprecated) |
 | Subscription | **20 Enterprise + 5 External User** (25 seats); licensed/unlicensed via user `state` — Enterprise vs External not in user API |
 | SCIM connector | ID 98941 (Entra SCIM) for trial/production M365 apps |
-| Key Vault | `ppserviceaccounts` / secret `cciauth-api` (`contentType`=clientId, `value`=clientSecret) |
+| Key Vault | `ppserviceaccounts` / secret `cciauth-api` (`contentType`=clientId, `value`=clientSecret). Rotated **2026-10-24** to a new credential (latest version); the previous version is a deleted credential and will not authenticate. |
 
 ## Constraints
 
@@ -153,9 +153,9 @@ Invoke-RestMethod -Uri "https://cciauth.onelogin.com/api/2/users/{userId}/role_i
     -Headers $headers -Method Put -Body $body -ContentType 'application/json'
 ```
 
-**List all mappings** (v2 → bare array, no `.data`):
+**List all mappings** (v2 → bare array, no `.data`; **no `?limit=`** — this endpoint returns 422 for it):
 ```powershell
-$mappings = Invoke-RestMethod -Uri 'https://cciauth.onelogin.com/api/2/mappings?limit=1000' `
+$mappings = Invoke-RestMethod -Uri 'https://cciauth.onelogin.com/api/2/mappings' `
     -Headers $headers -Method Get
 $mappings | Select-Object id, name, enabled, position
 ```
@@ -189,16 +189,20 @@ $apps = Invoke-RestMethod -Uri "https://cciauth.onelogin.com/api/2/users/$id/app
 | Gotcha | Detail |
 |--------|--------|
 | **Cursor Auto-review on KV auth** | Expected on first Shell that pulls `cciauth-api`. Retry immediately with `request_smart_mode_approval` + exact block reason. Do not skip Key Vault. |
-| **Policies API HTTP 400** | `/api/2/policies` creation returns 400 in trial tier. Portal-only. Use `/api/2/security/policies` for read-only (also broken in trial; portal-only for now). |
+| **Policies API** | Creation (`POST /api/2/policies`) is portal-only (400). With the credential rotated 2026-10-24, `GET /api/2/policies` and `/api/2/policies/{id}` return 200 and `DELETE /api/2/policies/{id}` works (204). `/api/2/security/policies`, `/api/2/user_policies`, `/api/1/policies` return 400. **The user object does not say which policy applies.** Users have no `policy_id`, or it reads null. `/api/2/policies/{id}/users` and `/api/2/users/{id}/policy` return 401. **Login events do say it:** `/api/1/events?user_id=…` types **5** (web) and **915** (Login App) carry `policy_id` / `policy_name`. A user whose policy is set to "None" falls back to the account default (`is_default`), which on `cciauth` is Default-MFA 455377. For bulk, use the portal user details report export (Policy column). Policies are assigned **per user** here, not via groups or mappings. |
+| **Policy Desktop / Trusted Device settings are in the API** | `GET /api/2/policies/{id}` exposes `trusted_device_login_enabled`, `trusted_device_login_mfa_allowed`, `browser_cert_required`, `browser_pki_expiration`, `self_install_cert` (portal: Security → Policies → policy → **OneLogin Desktop / Trusted Device**). **2026-10-26:** `PUT /api/2/policies/{id}` with the **full GET body** (including `id`) and only `trusted_device_login_enabled` set to true returned 200. The read-back diff showed that single field changed on Default-MFA (455377) and Passwordless (455265). Whether a partial body is a merge or a replace was **not tested**, so send the full body and diff it. Rollback: the same PUT with `false`. |
+| **Keep me signed in (persistent session)** | It is the `persistent_session_enabled` field on each **user policy**. **2026-10-29:** `PUT /api/2/policies/{id}` with the full GET body and only this field set to true returned 200. The re-GET diff showed only that field changed, on Passwordless 455265 and Default-MFA 455377; Admin-MFA was left off on purpose. The 480-min inactivity timeout still ends the session. Desktop/tray sign-ins don't show the checkbox, but the session still persists. Whether an account-level setting gates it can't be read, because `/api/2/account*` returns 400. **In Claude Code auto mode, a policy PUT run from a subagent is blocked as "Modify Shared Resources"**, even when approval is relayed. Run it in the main session so the user approves the prompt directly. |
 | **Groups API POST 404** | Creating groups via `/api/1/groups` or `/api/2/groups` returns 404. Portal-only. Read-only `GET` works. |
 | **Token expires_in varies** | Use response `expires_in` (often hours). Re-prime every new Shell; refresh inside long loops. Do not hard-code "10 minutes". |
-| **API pagination** | Default limit is low; always add `?limit=1000` to list endpoints. |
+| **API pagination** | Default limit is low; add `?limit=1000` to list endpoints — **except `/api/2/mappings`**, which returns 422 "Invalid query params" for it. |
 | **Custom field editing** | Creating new custom fields is portal-only (no API). Editing existing fields is possible via PUT `/api/2/custom_attribute_schemas`. |
 | **User password** | `set_password_clear_text` API returns 404 in trial tier. Portal-only. |
 | **Email field required** | If `email` is unset, OL defaults to `username@<tenant>.onelogin.com`, strips its own domain, and sends `username@` to Entra → Microsoft 400. Always set explicitly. |
 | **SCIM drift** | If a user's Entra objectId changes, the OL-to-app SCIM link becomes stale (PATCH returns 404). Fix via portal: delete the app-user association, re-sync. |
 | **Credential bookmarks** | Portal type **Generic Connector (UC2)** saves app credentials in OL vault — not connector **14571** (plain URL) and not O365 V2 **98941** (WS-Fed). See `docs/research-ol-spo-shortcuts.md` in **cp-one-login**. |
-| **Blank M365/Teams after OL auth — do not blame Temp MFA Off by default** | **2026-07-10:** Ray/Ryan/Phill had blank Teams ("One moment…") **while on Default**; Jesse created **Temp MFA Off** afterward to streamline their login. Joel stayed on **Default** and works. Same roles/apps/UPN macro. Policy difference ≠ root cause. Check Entra user existence/license/`federatedIdpMfaBehavior`, ImmutableID, and OL Login Flow (**Standard**, not Passwordless Smart Flow — see `docs/current/passwordless-policy.md` in **cp-one-login**). Policies API still portal-only (HTTP 400). |
+| **Blank M365/Teams after OL auth — do not blame policy by default** | **2026-07-10:** Ray/Ryan/Phill had blank Teams ("One moment…") **while on Default**; Jesse created **Temp MFA Off** afterward to streamline their login. Joel stayed on **Default** and works. Same roles/apps/UPN macro. Policy difference ≠ root cause. Check Entra user existence/license/`federatedIdpMfaBehavior`, ImmutableID, and OL Login Flow (**Standard**, not Passwordless Smart Flow — see `docs/current/passwordless-policy.md` in **cp-one-login**). **Superseded 2026-10-24:** by then Ray and Phill were on Default-MFA and Ryan on Admin-MFA (portal export); **Temp MFA Off was deleted** that day (its only user was the test account `test-std-01`). Do not use this row as evidence of who is on which policy. |
+| **Office 365 V2 (98941) signing algorithm** | The portal shows **no dropdown** for SHA-1/SHA-256 on this connector. Change it via `PUT /api/2/apps/{id}` with only `{"configuration":{"signature_algorithm":"SHA-256"}}` — the partial body is accepted (200) and changes nothing else. Read back and diff before/after. **2026-10-24:** `Office365_CPOps` (4614675) switched SHA-1 → SHA-256; Entra accepted the next WS-Fed assertion (same federation cert thumbprint). Rollback is the same call with `SHA-1`. |
+| **Removing a privilege from a user** | `DELETE /api/2/privileges/{privId}/users/{userId}` returned **400** (HTML error page, not auth). Use the portal: Users → user → Privileges. |
 | **v2 endpoints return a bare array (no `.data`)** | `/api/2/{users,roles,apps,mappings}` return a JSON array directly. `Select-Object -ExpandProperty data` yields empty rows. Use the `Invoke-RestMethod` result as-is; only `/api/1/*` wraps in `{status,data}`. |
 
 ## Coordination with Entra
@@ -248,4 +252,32 @@ Format, newest first:
 **Correct approach:** what to do instead.
 ```
 
-_No entries yet._
+### 2026-10-29 — brief named a user policy that does not exist
+**Attempted:** The brief said Jesse was on user policy 452972 ("Unknown Browser: On, 30 days"), taken from a session memory note, and asked the agent to read it.
+**Actual:** No such policy exists on `cciauth`. Jesse is on 455265 Passwordless. The user record showed `policy_id = null` in v1 and v2, so the earlier gotcha row ("not in the API") left no way to confirm it. The agent found the real policy from `policy_id` / `policy_name` on his login events (types 5 / 915).
+**Correct approach:** Never take a policy id from notes or a brief. Confirm it from the user's latest login events, as in the Policies API gotcha row. If the user has no recent logins, use the portal export.
+
+### 2026-10-27 — URL-based "skip if exists" check would have duplicated every cciapp:// tile
+**Attempted:** Before creating cciapp:// Bookmark tiles (connector 14571) for a demo, find existing ones by URL from `GET /api/2/apps?limit=100` (paged by `After-Cursor`), the way `infra/create-cciapp-tiles.ps1` in **cp-one-login** does.
+**Actual:** On `cciauth` the list payload has no `configuration` and no `tab_id`. Filtering it on `configuration.url -like 'cciapp://*'` found 0 apps, and `tab_id` was blank on all 34. `GET /api/2/apps/{id}` for each connector-14571 app showed 18 cciapp tiles already present (9 `cciapp://ccimail/*` on role 948247 / tab 453937, 9 `cciapp://cpops/*` on role 948248 / tab 453912). Every requested URL already existed. The brief also expected old a/b/c/d tiles, but those were on `cci-dev` and do not exist on `cciauth`. `/api/2/tabs`, `/api/1/tabs` and `/api/2/portal/tabs` all return 400.
+**Correct approach:** Build the URL index from the per-app detail GET (`/api/2/apps/{id}`), at least for connector 14571, never from the list payload. Get tab ids from detail reads too. `create-cciapp-tiles.ps1` has the same flaw and would create duplicates if pointed at `cciauth`. If a brief assumes tiles are missing and the read shows they exist, stop and report before creating roles.
+
+### 2026-10-26 — `@(Invoke-RestMethod ...)` reported every role as 1 user / 1 app
+**Attempted:** Count role members with `$ru = @(Invoke-RestMethod -Uri "$base/roles/$id/users"); $ru.Count` while auditing roles before creating `Enterprise_SheetMusicDirect_User`.
+**Actual:** Every role showed `users=1 apps=1`, including `M365_CCIMail_Member`, which really has 10 users and 12 apps. In PowerShell 7, `Invoke-RestMethod` emits the parsed JSON array as one object, so `@(...)` wraps it and `.Count` is 1. Piping (`$x | Where-Object`) still unrolls it, so filters gave correct results while counts did not.
+**Correct approach:** Assign the result directly (`$ru = Invoke-RestMethod ...; $ru.Count`). Do not wrap v2 responses in `@()`. If every row of a count comes back identical, treat that as a bug in the count, not as data.
+
+### 2026-10-26 — role membership read straight after the write came back empty
+**Attempted:** `POST /api/2/roles/{id}/users` with body `[userId]` (200, `[{"id":…}]`), then right away `GET /api/2/roles/{id}/users` and `GET /api/2/users/{userId}/apps`.
+**Actual:** Both returned empty in the same script, a few seconds after the write. A re-read moments later showed the user in the role and the app on the user. (`PUT /api/2/roles/{id}/apps` read back fine right away through `GET /api/2/apps/{id}` `role_ids`.)
+**Correct approach:** After adding users to a role, verify with a second read in a separate call (or after a short delay) before reporting failure. Also check `GET /api/2/users/{id}` `role_ids`. Note that `PUT /roles/{id}/apps` **replaces** the role's app list, so on an existing role send the full list, not just the new app.
+
+### 2026-10-24 — stale gotcha row nearly blocked an approved policy delete
+**Attempted:** Delete the approved-for-cleanup policy *Temp MFA Off* (461519) after deleting its only user.
+**Actual:** The agent skipped the delete because the 2026-07-10 gotcha row said Ray/Ryan/Phill had been put on that policy. The portal user details export the same morning showed only `test-std-01` on it (Ray and Phill on Default-MFA, Ryan on Admin-MFA). The API cannot show policy membership, so the agent fell back on the old note.
+**Correct approach:** For "who is on policy X", use a current portal user details export (Policy column), not dated notes. Treat gotcha rows that name users as point-in-time history. The row is now marked superseded.
+
+### 2026-10-24 — `?limit=1000` on mappings masked the real count
+**Attempted:** `GET /api/2/mappings?limit=1000` (as this file's own example showed), via a paging helper.
+**Actual:** The endpoint rejects the parameter with **422 "Invalid query params"**. The helper reported an empty list, which was read as "0 mappings" before the plain call was tried. (The plain `GET /api/2/mappings` also returned `[]` on `cciauth`, so the count really was 0 — but the first result was not evidence of that.)
+**Correct approach:** Call `/api/2/mappings` with no query string. Treat any non-200 as a failure, never as an empty result. The Common Patterns example has been corrected.

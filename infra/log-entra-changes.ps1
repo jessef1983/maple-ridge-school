@@ -4,6 +4,7 @@
 
 .DESCRIPTION
     Dot-source into Entra admin scripts. Logs to logs/entra-changes-YYYY-MM-DD.log.
+    Also loadable with Import-Module; Export-ModuleMember runs only in that case.
 
 .EXAMPLE
     . "$PSScriptRoot\log-entra-changes.ps1"
@@ -112,4 +113,8 @@ function Show-EntraAuditLogs {
     $logs | Sort-Object -Descending | Format-List
 }
 
-Export-ModuleMember -Function @('Log-EntraChange', 'Log-ApprovalRequired', 'Get-EntraAuditLog', 'Show-EntraAuditLogs')
+# Export-ModuleMember throws when this file is dot-sourced (the documented usage),
+# so only call it when loaded as a module (Import-Module).
+if ($ExecutionContext.SessionState.Module) {
+    Export-ModuleMember -Function @('Log-EntraChange', 'Log-ApprovalRequired', 'Get-EntraAuditLog', 'Show-EntraAuditLogs')
+}

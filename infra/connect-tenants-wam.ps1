@@ -143,12 +143,13 @@ function Connect-Tenant {
     Write-Host "  Az PS context cached for $Label." -ForegroundColor Green
 }
 
+. "$PSScriptRoot\Get-OperatorAccount.ps1"
 Write-Host "Priming CP Ops Graph context. For ccimail/ccigen, re-run with that tenant's ExpectedAccount." -ForegroundColor Cyan
-Connect-Tenant -TenantId $tenantCpOps -Label 'CP Operations' -ExpectedAccount 'jessefrase@cpops.cciauth.com'
+Connect-Tenant -TenantId $tenantCpOps -Label 'CP Operations' -ExpectedAccount (Get-OperatorAccount -Tenant cpops)
 
 # ccigen is a resource tenant under the ccimail Identity Hub — sign in with the ccimail home
 # account (guest/B2B access), not a ccigen.onmicrosoft.com UPN.
-# Connect-Tenant -TenantId $tenantCcigen -Label 'CCI General' -ExpectedAccount 'jessefrase@ccimail.cciauth.com'
+# Connect-Tenant -TenantId $tenantCcigen -Label 'CCI General' -ExpectedAccount (Get-OperatorAccount -Tenant ccimail)
 
 Write-Host ""
 Write-Host "From any script:" -ForegroundColor Cyan

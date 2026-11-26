@@ -8,17 +8,24 @@
     or you need a different account. With PIM GA (~1h), do NOT clear context before
     every script run.
 
+    -ExpectedAccount defaults to your cpops account from config/operator.local.json
+    (see infra/Get-OperatorAccount.ps1).
+
 .EXAMPLE
-    pwsh -NoProfile .\infra\cpops-prime-wam.ps1 -ExpectedAccount 'jessefrase@cpops.cciauth.com'
+    pwsh -NoProfile .\infra\cpops-prime-wam.ps1
+    pwsh -NoProfile .\infra\cpops-prime-wam.ps1 -ExpectedAccount 'someone.else@cpops.cciauth.com'
 #>
 [CmdletBinding()]
 param(
     [string]$CPOpsTenantId = '2e1c62fc-1595-4d12-85d1-8577714f8d1d',
-    [Parameter(Mandatory)]
     [string]$ExpectedAccount,
     [switch]$ForceReconnect
 )
 $ErrorActionPreference = 'Stop'
+if (-not $ExpectedAccount) {
+    . "$PSScriptRoot\Get-OperatorAccount.ps1"
+    $ExpectedAccount = Get-OperatorAccount -Tenant cpops
+}
 . "$PSScriptRoot\connect-tenants-wam.ps1"
 Connect-TenantGraphOnly -TenantId $CPOpsTenantId -ExpectedAccount $ExpectedAccount -ForceReconnect:$ForceReconnect
 $null = Get-TenantGraphToken -TenantId $CPOpsTenantId -ExpectedAccount $ExpectedAccount

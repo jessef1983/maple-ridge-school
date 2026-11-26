@@ -63,6 +63,7 @@ Or re-run with `-InstallAnalyzer` on the checker script.
 - **ALWAYS** fix **all parser errors** before reporting complete
 - **ALWAYS** fix **PSScriptAnalyzer Error** findings before reporting complete
 - **PREFER** `-Path` on specific changed files over whole-repo scans when the user names a script
+- **ALWAYS** set `$ProgressPreference = 'SilentlyContinue'` before `Invoke-WebRequest` / `Invoke-RestMethod -OutFile` in any script or snippet that downloads a file — the Windows PowerShell 5.1 progress bar slows large downloads roughly 10x
 
 ## When others should invoke you
 
@@ -124,4 +125,17 @@ Format, newest first:
 **Correct approach:** what to do instead.
 ```
 
-_No entries yet._
+### 2026-10-27 — download snippet without `$ProgressPreference`; winget broken on a fresh admin profile
+
+**Attempted:** Gave an elevated Windows PowerShell 5.1 snippet that downloaded the ~220 MB .NET 9 SDK installer with
+`Invoke-WebRequest ... -OutFile $exe`. Before that, `winget install --id Microsoft.DotNet.SDK.9` from a never-used
+local admin profile.
+
+**Actual:** The download crawled (minutes for ~207 MB) because the progress bar was on. winget failed with
+`0x8a15000f : Data required by the source is missing`, and still failed after `winget source reset --force` and
+`winget source update`. Separately, a silent winget install from a non-elevated session returned MSI `1603`.
+
+**Correct approach:** Start every download snippet with `$ProgressPreference = 'SilentlyContinue'`. If winget fails
+on a fresh admin profile, skip it: download the vendor's installer URL directly and run it with
+`Start-Process <exe> -ArgumentList '/install','/quiet','/norestart' -Wait -PassThru` (exit `0` or `3010` = success).
+System-wide installs need an elevated session; silent installs cannot prompt for elevation.

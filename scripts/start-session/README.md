@@ -7,8 +7,8 @@ or `.cursor/rules/start-session.mdc` depending on your tool).
 
 - `create-prs.ps1` — discover remote branches that are ahead of `origin/main`
   and create PRs in Azure DevOps for human review. `-ListActive` lists
-  active PRs targeting `main` (no create, no merge). Uses a PAT from
-  `config/ado.local.json`. `-DryRun` previews create actions.
+  active PRs targeting `main` (no create, no merge). Uses your own ADO PAT via
+  `infra/Get-AdoPat.ps1`. `-DryRun` previews create actions.
 - `Compare-InstalledAgents.ps1` — read-only drift check: compares this repo's
   installed shared agents/skills against the canonical copies in
   `cp-ai-toolkit` (auto-detected as a sibling folder or `C:\devops\cp-ai-toolkit`).
@@ -34,8 +34,8 @@ pwsh -NoProfile -File .\scripts\start-session\Compare-InstalledAgents.ps1
 Safety
 
 - `create-prs.ps1` will not push branches, will not merge PRs, and will not
-  overwrite uncommitted local changes. It requires a PAT in
-  `config/ado.local.json` for PR creation; otherwise it will skip creation
-  and print instructions.
+  overwrite uncommitted local changes. It needs your own ADO
+  PAT (`AZURE_DEVOPS_EXT_PAT`, or your Key Vault secret via `CP_ADO_PAT_KEYVAULT` +
+  `CP_ADO_PAT_SECRET` / `config/operator.local.json`). Without one it stops and says why.
 - `Compare-InstalledAgents.ps1` is read-only — it only reports drift, it never
   copies or modifies files.

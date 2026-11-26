@@ -6,6 +6,7 @@
 .DESCRIPTION
   Read-only drift check. Compares (by SHA256) every file under:
     .github/agents/*.agent.md
+    .claude/agents/*.md
     .github/skills/**
     .claude/skills/**
     .cursor/rules/*.mdc
@@ -53,6 +54,14 @@ function Resolve-ToolkitRoot {
     return $null
 }
 
+# start-session's Layer 1 cache is per-machine by design: it records when this
+# machine last ran a scan. It lives under .claude/skills/start-session/ purely
+# because that is the skill's own folder, so a wholesale enumeration sweeps it
+# up with the SKILL.md files. It must never be seeded or diffed - it is
+# gitignored in every seeded repo, so drift reported against it can never be
+# resolved by an install, and the nightly sweep would chase it forever.
+$script:PerMachineCacheFile = '.last-run.json'
+
 function Get-SharedFilePairs {
     param([string]$ToolkitRoot)
 
@@ -65,12 +74,23 @@ function Get-SharedFilePairs {
         }
     }
 
+    # .claude/agents/<name>.md adapters — one per .github/agents/<name>.agent.md,
+    # pointing at it rather than duplicating it. See Install-CPAIAgents.ps1.
+    $claudeAgentsDir = Join-Path $ToolkitRoot '.claude/agents'
+    if (Test-Path $claudeAgentsDir) {
+        Get-ChildItem -Path $claudeAgentsDir -Filter '*.md' -File | ForEach-Object {
+            $pairs.Add($_.FullName.Substring($ToolkitRoot.Length).TrimStart('\', '/'))
+        }
+    }
+
     foreach ($root in @('.github/skills', '.claude/skills')) {
         $dir = Join-Path $ToolkitRoot $root
         if (Test-Path $dir) {
-            Get-ChildItem -Path $dir -File -Recurse | ForEach-Object {
-                $pairs.Add($_.FullName.Substring($ToolkitRoot.Length).TrimStart('\', '/'))
-            }
+            Get-ChildItem -Path $dir -File -Recurse |
+                Where-Object { $_.Name -ne $script:PerMachineCacheFile } |
+                ForEach-Object {
+                    $pairs.Add($_.FullName.Substring($ToolkitRoot.Length).TrimStart('\', '/'))
+                }
         }
     }
 
@@ -107,13 +127,14 @@ function Select-ProfileFiles {
     if ($Profile -eq 'full') { return $Files }
 
     $coreAgents = @('powershell-validate.agent.md')
-    $coreClaudeSkills = @('start-session', 'session-wrap')
+    $coreClaudeSkills = @('start-session', 'session-wrap', 'wrap-current')
 
     $kept = [System.Collections.Generic.List[string]]::new()
     foreach ($rel in $Files) {
         $norm = $rel -replace '\\', '/'
         $keep = switch -Regex ($norm) {
             '^\.github/agents/(.+)$'      { $coreAgents -contains $Matches[1] }
+            '^\.claude/agents/([^/]+)\.md$' { $coreAgents -contains ($Matches[1] + '.agent.md') }
             '^\.claude/skills/([^/]+)/'   { $coreClaudeSkills -contains $Matches[1] }
             '^\.claude/claims/'           { $true }
             default                       { $false }   # .github/skills, .cursor/rules
@@ -135,8 +156,50 @@ if ($resolvedProjectRoot -eq $resolvedToolkitRoot) {
     exit 0
 }
 
+function Select-SelectionFiles {
+    <#
+      Narrow the file list to a repo's saved selection (.github/cp-ai-toolkit.json, written
+      by Install-CPAIAgents.ps1 -Agents/-Skills). Keep the rules in step with that script:
+      an agent brings its .claude adapter, its same-named .github/skills folder and Cursor
+      rule; a skill brings its .github/skills and/or .claude/skills folder and Cursor rule;
+      claims ship when a session skill is selected.
+    #>
+    param(
+        [System.Collections.Generic.List[string]]$Files,
+        [string[]]$AgentSlugs,
+        [string[]]$SkillNames
+    )
+    $names = @($AgentSlugs) + @($SkillNames)
+    $claims = [bool](@($SkillNames) | Where-Object { @('start-session', 'session-wrap', 'wrap-current') -contains $_ })
+    $kept = [System.Collections.Generic.List[string]]::new()
+    foreach ($rel in $Files) {
+        $norm = $rel -replace '\\', '/'
+        $keep = switch -Regex ($norm) {
+            '^\.github/agents/(.+)\.agent\.md$' { $AgentSlugs -contains $Matches[1] }
+            '^\.claude/agents/([^/]+)\.md$'     { $AgentSlugs -contains $Matches[1] }
+            '^\.github/skills/([^/]+)/'         { $names -contains $Matches[1] }
+            '^\.claude/skills/([^/]+)/'         { $SkillNames -contains $Matches[1] }
+            '^\.cursor/rules/([^/]+)\.mdc$'     { $names -contains $Matches[1] }
+            '^\.claude/claims/'                 { $claims }
+            default                             { $false }
+        }
+        if ($keep) { $kept.Add($rel) }
+    }
+    return $kept
+}
+
 $relFiles = Get-SharedFilePairs -ToolkitRoot $resolvedToolkitRoot
-$relFiles = Select-ProfileFiles -Files $relFiles -Profile $Profile
+$selectionPath = Join-Path $resolvedProjectRoot '.github/cp-ai-toolkit.json'
+if (Test-Path $selectionPath) {
+    $saved = Get-Content $selectionPath -Raw | ConvertFrom-Json
+    $slugs = @($saved.agents | Where-Object { $_ } | ForEach-Object { $_ -replace '\.agent\.md$', '' })
+    $relFiles = Select-SelectionFiles -Files $relFiles -AgentSlugs $slugs -SkillNames @($saved.skills | Where-Object { $_ })
+    $mode = 'selection'   # the saved selection overrides -Profile, as in the installer
+}
+else {
+    $relFiles = Select-ProfileFiles -Files $relFiles -Profile $Profile
+    $mode = $Profile
+}
 $drift = [System.Collections.Generic.List[object]]::new()
 
 foreach ($rel in $relFiles) {
@@ -156,12 +219,14 @@ foreach ($rel in $relFiles) {
 }
 
 if ($drift.Count -eq 0) {
-    Write-Host "All installed shared agents/skills match cp-ai-toolkit [profile: $Profile] ($resolvedToolkitRoot)." -ForegroundColor Green
+    Write-Host "All installed shared agents/skills match cp-ai-toolkit [$mode] ($resolvedToolkitRoot)." -ForegroundColor Green
     exit 0
 }
 
-Write-Host "Drift detected vs cp-ai-toolkit [profile: $Profile] ($resolvedToolkitRoot):" -ForegroundColor Yellow
+Write-Host "Drift detected vs cp-ai-toolkit [$mode] ($resolvedToolkitRoot):" -ForegroundColor Yellow
 $drift | Format-Table -AutoSize
 Write-Host ""
-Write-Host "Re-run to update: pwsh -NoProfile -File `"$resolvedToolkitRoot\tools\Install-CPAIAgents.ps1`" -ProjectRoot `"$resolvedProjectRoot`" -Profile $Profile -Force" -ForegroundColor Cyan
+$profileArg = if ($mode -eq 'selection') { '' } else { " -Profile $Profile" }
+Write-Host "Re-run to update: pwsh -NoProfile -File `"$resolvedToolkitRoot\tools\Install-CPAIAgents.ps1`" -ProjectRoot `"$resolvedProjectRoot`"$profileArg" -ForegroundColor Cyan
+Write-Host "Files with uncommitted local changes are kept unless you add -Force." -ForegroundColor Cyan
 exit 2

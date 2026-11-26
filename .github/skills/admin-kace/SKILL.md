@@ -22,7 +22,7 @@ Use this skill for **Quest KACE Systems Management Appliance (SMA)** work tied t
 |---------|--------|
 | Admin UI | `https://kbox.ccistack.com/adminui/summary.php` |
 | API base | `https://kbox.ccistack.com` |
-| Home repo | `C:\cp-devops\cp-identity-ops` |
+| Home repo | `C:\Devops\cp-identity-ops` |
 | Local config | `config/kace.local.json` (gitignored; **no passwords**) |
 | Connect helper | `scripts/kace/Connect-Kace.ps1` |
 | Login window | `scripts/kace/Login-KaceInteractive.ps1` |
@@ -43,7 +43,7 @@ Use this skill for **Quest KACE Systems Management Appliance (SMA)** work tied t
 | Need | Route |
 |------|--------|
 | Entra users / CA / federation | `admin-entra` |
-| OneLogin users / SCIM / apps | `onelogin-api` |
+| OneLogin users / SCIM / apps | `admin-onelogin` |
 | SharePoint / PnP | `admin-spo` |
 | ADO work items | `admin-ado` |
 | Identity *detection* / health reports | `cp-identity-health` (not this skill) |
@@ -87,9 +87,9 @@ Role **Limit to labels** = **CCI Identity Ops Pilot (4122)**. Even if Scripting/
 ```powershell
 Start-Process pwsh -ArgumentList @(
   '-NoProfile','-ExecutionPolicy','Bypass',
-  '-File','C:\cp-devops\cp-identity-ops\scripts\kace\Login-KaceInteractive.ps1'
+  '-File','C:\Devops\cp-identity-ops\scripts\kace\Login-KaceInteractive.ps1'
 )
-. 'C:\cp-devops\cp-identity-ops\scripts\kace\Connect-Kace.ps1'
+. 'C:\Devops\cp-identity-ops\scripts\kace\Connect-Kace.ps1'
 Restore-KaceSessionState
 Invoke-KaceApi -Method Get -Path '/api/inventory/machines' -Query @{ paging = 'limit 5' }
 ```

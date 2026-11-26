@@ -5,8 +5,10 @@ Create ADO Pull Requests for remote branches that are ahead of `main`.
 .DESCRIPTION
 This helper fetches remotes, discovers remote branches that contain commits
 not yet in `refs/remotes/origin/main`, and creates Pull Requests in Azure
-DevOps from the remote branch into `main` for human review. It uses a PAT
-read from `config/ado.local.json` in the repository root.
+DevOps from the remote branch into `main` for human review. It uses YOUR OWN
+ADO PAT, found by infra/Get-AdoPat.ps1 from variables you set
+(AZURE_DEVOPS_EXT_PAT, or your own Key Vault secret via CP_ADO_PAT_KEYVAULT +
+CP_ADO_PAT_SECRET or config/operator.local.json). No PAT configured: nothing is done.
 
 .NOTES
 Safe defaults: does not push any local branches and does not merge PRs.
@@ -26,15 +28,13 @@ param(
     [string] $AdoProject
 )
 
-function Get-PatFromConfig {
-    param([string]$RepoRoot)
-    $cfg = Join-Path $RepoRoot 'config\ado.local.json'
-    if (-Not (Test-Path $cfg)) { return $null }
-    try {
-        $j = Get-Content $cfg -Raw | ConvertFrom-Json
-        return $j.pat
-    } catch { return $null }
+# Your own PAT, from variables you set (see infra/Get-AdoPat.ps1). Read once per run.
+$adoPatHelper = Join-Path (Split-Path -Parent (Split-Path -Parent $PSScriptRoot)) 'infra/Get-AdoPat.ps1'
+if (-not (Test-Path $adoPatHelper)) {
+    Write-Host "Missing $adoPatHelper. Re-run tools/Install-CPAIAgents.ps1 for start-session. Nothing done." -ForegroundColor Yellow
+    return
 }
+. $adoPatHelper
 
 function Get-RemoteBranches {
     param([string]$RepoPath)
@@ -58,7 +58,9 @@ function RepoInfoFromRemoteUrl([string]$url) {
         return @{
             org     = $Matches[1]
             project = $Matches[2]
-            repo    = $Matches[3].TrimEnd('.git')
+            # -replace, not TrimEnd('.git'): TrimEnd strips any trailing '.', 'g', 'i', 't'
+            # characters, which turned 'cp-ai-toolkit' into 'cp-ai-toolk'.
+            repo    = $Matches[3] -replace '\.git$', ''
         }
     }
     return $null
@@ -99,7 +101,7 @@ function Get-ActivePullRequests {
 
 function Get-RepositoryId {
     param($org, $project, $repoName, $pat)
-    $uri = "https://dev.azure.com/$org/$project/_apis/git/repositories/$repoName?api-version=7.1"
+    $uri = "https://dev.azure.com/$org/$project/_apis/git/repositories/${repoName}?api-version=7.1"
     $b64 = [Convert]::ToBase64String([Text.Encoding]::ASCII.GetBytes(":$pat"))
     try {
         $resp = Invoke-RestMethod -Method Get -Uri $uri -Headers @{ Authorization = "Basic $b64" }
@@ -139,16 +141,16 @@ if ($RepoPaths.Count -eq 0) {
     $RepoPaths = @('C:\devops\cp-ai-toolkit','C:\devops\cp-jesse-sandbox','C:\devops\cci-spo-music-knowledge-base','C:\devops\cp-spo-company-knowledge-base')
 }
 
+try { $pat = Get-AdoPat -Required } catch {
+    Write-Host "$($_.Exception.Message) Nothing done." -ForegroundColor Yellow
+    return
+}
+
 foreach ($path in $RepoPaths) {
     if (-Not (Test-Path $path)) { Write-Host "Skipping missing path: $path"; continue }
     if (-Not (Test-Path (Join-Path $path '.git'))) { Write-Host "Not a git repo: $path"; continue }
 
     Write-Host "Inspecting $path" -ForegroundColor Cyan
-    $pat = Get-PatFromConfig -RepoRoot $path
-    if (-not $pat) {
-        Write-Host "No PAT found in $path\config\ado.local.json; skipping ADO operations for this repo" -ForegroundColor Yellow
-        continue
-    }
 
     Push-Location $path
     try {
