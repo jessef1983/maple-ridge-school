@@ -1,8 +1,8 @@
 {
-  "lastWrapUtc": "2026-11-26T03:00:00Z",
-  "mainHeadSha": "533deec",
+  "lastWrapUtc": "2026-11-28T13:39:15Z",
+  "mainHeadSha": "0d64e7a",
   "confirmedClean": true,
   "openPRs": [],
   "knownStaleBranches": [],
-  "summary": "Cleanup: committed the uncommitted cp-ai-toolkit tooling sync (44/45 identical to toolkit 7a36ed3) and the 11-11 sap arch check sheet via PR #9 (533deec); .gitignore BOM fixed, updates/ ignored; removed both merged worktrees and all stale branches -- only main remains."
+  "summary": "Sap house Phase 1 awning footers: bought 38x60lb Sakrete + 8x10' #4 rebar; two-stage pour plan; engineer questions (ABA vs ABU base, 1/2in anchors, cold joint) and BOM fixes (anchor bolts) still open -- see docs/session-notes/2026-11-28.md."
 }
